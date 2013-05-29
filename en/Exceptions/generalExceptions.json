@@ -78,5 +78,15 @@
 	"Exception76": "Duplicate key error",
 	"Exception77": "Bad initial password",
 	"Exception78": "You can not update an object without a version number.",
-	"Exception79": "You can not destroy an object without a version number."
+	"Exception79": "You can not destroy an object without a version number.",
+	"Exception80": "No Image Given",
+	"Exception81": "Unimplemented resize mode",
+	"Exception82": "Override Object not an instance of service Classe Name",
+	"Exception83": "Invalid sort array.",
+	"Exception84": "%1$s should be an integer",
+	"Exceptiob85": "Invalid field list array",
+	"Exception86": "This type of data in not allowed",
+	"Exception87": "id field is not authorized",
+	"Exception88": "%1$s only accept string parameter",
+	"Exception89": "Invalid excluded fields list array"
 }
