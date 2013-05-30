@@ -88,5 +88,6 @@
 	"Exception86": "This type of data in not allowed",
 	"Exception87": "id field is not authorized",
 	"Exception88": "%1$s only accept string parameter",
-	"Exception89": "Invalid excluded fields list array"
+	"Exception89": "Invalid excluded fields list array",
+	"Exception90": "Class %1$s does not exists."
 }
