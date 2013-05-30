@@ -49,7 +49,7 @@
 	"Exception47": "This page is the default single page or father of the default single page",
 	"Exception48": "You can not assign page to this workspace",
 	"Exception49": "Current page is not defined.",
-	"Exception50": "Rule \"%1$s\" not implemented.",
+	"Exception50": "Rule %1$s not implemented.",
 	"Exception51": "You can not destroy navigation vocabulary",
 	"Exception52": "You can not create a navigation vocabulary",
 	"Exception53": "You can not update navigation vocabulary",
@@ -63,7 +63,7 @@
 	"Exception61": "You can not destroy global workspace",
 	"Exception62": "You can not create global workspace",
 	"Exception63": "You can not update global workspace",
-	"Exception64": "%1sd type already exists";
+	"Exception64": "%1sd type already exists",
 	"Exception65": "Option argument should be set to content or dam",
 	"Exception66": "No smtp set in configuration",
 	"Exception67": "Can not instanciate iterator for role dir",
