@@ -11,9 +11,6 @@
 	"authorCol":{
 		"text":"Auteur"
 	},
-	"hideAllWindowsBtn":{
-		"tooltip":"Afficher le bureau"
-	},
 	"iconsBtn":{
 		"text":"Ic\u00f4nes"
 	},
@@ -32,14 +29,14 @@
 	"wallpapaerPickerBtn":{
 		"text":"Choisir en tant que nouveau fond d'\u00e9cran"
 	},
-	"themePickerBtn":{
-		"text":"Appliquer ce th\u00e8me"
-	},
 	"hcmodeFieldset":{
 		"title":"Mode contraste \u00e9lev\u00e9"
 	},
 	"hcmodeActivateBtn":{
 		"text":"Activer"
+	},
+	"themePickerBtn":{
+		"text":"Appliquer ce th\u00e8me"
 	},
 	"addGroupWindow":{
 		"title":"Ajouter un groupe"
@@ -49,6 +46,21 @@
 	},
 	"createGroupAsAsonBtn":{
 		"text":"Cr\u00e9er en tant que fils du groupe s\u00e9l\u00e9ctionn\u00e9"
+	},
+	"nameColumn":{
+		"text":"Nom"
+	},
+	"exportElementsWindow":{
+		"title":"Exporter un \u00e9l\u00e9ment"
+	},
+	"mandatoryNameField":{
+		"fieldLabel":"Nom * "
+	},
+	"elementDescriptionField":{
+		"fieldLabel":"Description "
+	},
+	"exportElementBtn":{
+		"text":"Exporter cet \u00e9l\u00e9ment "
 	},
 	"reusableElementsWindow":{
 		"title":"El\u00e9ments r\u00e9utilisables"
@@ -67,18 +79,6 @@
 	},
 	"renameBtn":{
 		"text":"Renommer"
-	},
-	"exportElementsWindow":{
-		"title":"Exporter un \u00e9l\u00e9ment"
-	},
-	"mandatoryNameField":{
-		"fieldLabel":"Nom * "
-	},
-	"elementDescriptionField":{
-		"fieldLabel":"Description "
-	},
-	"exportElementBtn":{
-		"text":"Exporter cet \u00e9l\u00e9ment "
 	},
 	"changePasswordWindow":{
 		"title":"Changement  de mot de passe"
@@ -122,13 +122,6 @@
 	"newDamTypeSubmitBtn":{
 		"text":"Cr\u00e9er un nouveau type de m\u00e9dia"
 	},
-	"qbs4":{
-		"title":"Choix des tris sur les champs"
-	},
-	"qbs4sortBtn":{
-		"fieldLabel":"Ajouter un tri sur "
-	},
-	"qbs4auxbtn":[],
 	"addMTFieldWindow":{
 		"title":"Ajouter un champ"
 	},
@@ -142,6 +135,25 @@
 		"fieldLabel":"Ajouter une r\u00e9gle sur "
 	},
 	"qbs3auxbtn":[],
+	"qbFinalRecStagePanel":{
+		"title":"R\u00e9capitulatif et enregistrement"
+	},
+	"qbRecapFieldset":{
+		"title":"<b>R\u00e9capitulatif<\/b>"
+	},
+	"queryNameField":{
+		"fieldLabel":"Nom de la requ\u00eate"
+	},
+	"saveQBQueryBtn":{
+		"text":"<b>Enregistrer cette requ\u00eate<\/b>"
+	},
+	"qbs4":{
+		"title":"Choix des tris sur les champs"
+	},
+	"qbs4sortBtn":{
+		"fieldLabel":"Ajouter un tri sur "
+	},
+	"qbs4auxbtn":[],
 	"gfsUploadFileBtn":{
 		"tooltip":"Uploader un fichier"
 	},
@@ -176,15 +188,6 @@
 	"wizardNextBtn":{
 		"text":"Suivant"
 	},
-	"queryWindow":{
-		"title":"Requ\u00eates"
-	},
-	"editBtn":{
-		"text":"Editer"
-	},
-	"nameColumn":{
-		"text":"Nom"
-	},
 	"queryTypeChooseWindow":{
 		"title":"Choisissez un type de requ\u00eate"
 	},
@@ -197,6 +200,12 @@
 	"chooseAdvancedQueryBtn":{
 		"text":"Requ\u00eate avanc\u00e9e"
 	},
+	"queryWindow":{
+		"title":"Requ\u00eates"
+	},
+	"editBtn":{
+		"text":"Editer"
+	},
 	"chooseDamTypeWindow":{
 		"title":"Choissez un type de m\u00e9dia"
 	},
@@ -206,12 +215,6 @@
 	"chooseDamTypeSubmitBtn":{
 		"text":"Cr\u00e9er un nouveau m\u00e9dia de ce type"
 	},
-	"newWorkspaceWindow":{
-		"title":"Nouvel espace de travail"
-	},
-	"createNewWorkspaceBtn":{
-		"text":"Cr\u00e9er un nouvel espace de travail"
-	},
 	"workspaceWindow":{
 		"title":"Espaces de travail"
 	},
@@ -220,6 +223,12 @@
 	},
 	"propsPanel":{
 		"title":"Propri\u00e9t\u00e9s"
+	},
+	"newWorkspaceWindow":{
+		"title":"Nouvel espace de travail"
+	},
+	"createNewWorkspaceBtn":{
+		"text":"Cr\u00e9er un nouvel espace de travail"
 	},
 	"workspaceField":{
 		"fieldLabel":"Espaces de travail"
@@ -236,12 +245,6 @@
 	"maskSaveChoice2Btn":{
 		"text":"Enregistrer sous un nouveau masque"
 	},
-	"chooseBtn":{
-		"text":"Choisir"
-	},
-	"modifyBtn":{
-		"text":"Modifier"
-	},
 	"mediaQueryAssistant":{
 		"title":"Assistant de requ\u00eatage sur m\u00e9dias"
 	},
@@ -257,6 +260,12 @@
 	"mqls":{
 		"title":"Enregistrement"
 	},
+	"chooseBtn":{
+		"text":"Choisir"
+	},
+	"modifyBtn":{
+		"text":"Modifier"
+	},
 	"lcFieldAdress":{
 		"fieldLabel":"Adresse"
 	},
@@ -269,17 +278,17 @@
 	"lcFieldLongitude":{
 		"fieldLabel":"Longitude"
 	},
-	"sessionExpiringWindow":{
-		"title":"Votre session va bientot expirer"
-	},
-	"sessionRenewWindow":{
-		"text":"Renouveler ma session"
-	},
 	"sessionExpiredWindow":{
 		"title":"Votre session a expir\u00e9"
 	},
 	"reconnectBtn":{
 		"text":"Se connecter \u00e0 nouveau"
+	},
+	"sessionExpiringWindow":{
+		"title":"Votre session va bientot expirer"
+	},
+	"sessionRenewWindow":{
+		"text":"Renouveler ma session"
 	},
 	"pagesLaunchBtn":{
 		"text":"Pages"
@@ -359,6 +368,9 @@
 	"gfsHelpBtn":{
 		"tooltip":"Fichier principal du m\u00e9dia. Obligatoire."
 	},
+	"picUploadWindow":{
+		"title":"Uploader une image"
+	},
 	"newUserWindow":{
 		"title":"Nouvel utilisateur"
 	},
@@ -367,9 +379,6 @@
 	},
 	"userAccountField":{
 		"fieldLabel":"Compte utilisateur "
-	},
-	"picUploadWindow":{
-		"title":"Uploader une image"
 	},
 	"newFormWindow":{
 		"title":"Nouveau questionnaire"
@@ -386,10 +395,10 @@
 	"formFieldConfiguratorBtn":{
 		"tooltip":"Param\u00e8tres"
 	},
-	"formFieldConditionBtn":{
+	"formFieldConditionsBtn":{
 		"tooltip":"Condition d'affichage"
 	},
-	"formFieldConditionsBtn":{
+	"formFieldConditionBtn":{
 		"tooltip":"Condition d'affichage"
 	},
 	"fieldPanel":{
@@ -751,18 +760,6 @@
 	"zoomLevelSlider":{
 		"fieldLabel":"Niveau de zoom"
 	},
-	"desktopCustomizeWindow":{
-		"title":"Personnalisation du bureau"
-	},
-	"wallpaperGrid":{
-		"title":"Fond d'\u00e9cran"
-	},
-	"themeGrid":{
-		"title":"Th\u00e8mes"
-	},
-	"accessibilityPanel":{
-		"title":"Accessibilit\u00e9"
-	},
 	"pageWindow":{
 		"title":"Pages"
 	},
@@ -799,6 +796,21 @@
 	"descriptionField":{
 		"fieldLabel":"Description "
 	},
+	"desktopCustomizeWindow":{
+		"title":"Personnalisation du bureau"
+	},
+	"wallpaperGrid":{
+		"title":"Fond d'\u00e9cran"
+	},
+	"themeGrid":{
+		"title":"Th\u00e8mes"
+	},
+	"accessibilityPanel":{
+		"title":"Accessibilit\u00e9"
+	},
+	"addUsersToGroupWindow":{
+		"text":"Ajouter ces utilisateurs au groupe s\u00e9l\u00e9ctionn\u00e9"
+	},
 	"groupsWindow":{
 		"title":"Groupes"
 	},
@@ -834,9 +846,6 @@
 	},
 	"defaultWorkspaceField":{
 		"fieldLabel":"Espace de travail par d\u00e9faut"
-	},
-	"addUsersToGroupWindow":{
-		"text":"Ajouter ces utilisateurs au groupe s\u00e9l\u00e9ctionn\u00e9"
 	},
 	"usersWindow":{
 		"title":"Utilisateurs"
@@ -1260,6 +1269,10 @@
 	"dependantTypesTab":{
 		"text":"Contenus Imbriqu\u00e9s"
 	},
+	"contentTitleField":{
+		"fieldLabel":"Titre *",
+		"RTip":"Titre du contenu. Obligatoire."
+	},
 	"summaryField":{
 		"fieldLabel":"R\u00e9sum\u00e9 ",
 		"RTip":"R\u00e9sum\u00e9 facultatif du contenu."
@@ -1291,6 +1304,33 @@
 	"termsCol":{
 		"text":"Termes"
 	},
+	"newVocabWindow":{
+		"title":"Nouveau vocabulaire"
+	},
+	"createNewVocabBtn":{
+		"text":"Cr\u00e9er un nouveau vocabulaire"
+	},
+	"newCTWindow":{
+		"title":"Nouveau type de contenu"
+	},
+	"isDepField":{
+		"fieldLabel":"Imbriqu\u00e9 "
+	},
+	"createNTCBtn":{
+		"text":"Cr\u00e9er un nouveau type de contenu"
+	},
+	"addCTFieldWindow":{
+		"title":"Ajouter un champ"
+	},
+	"multiTCAddFieldCol":{
+		"title":"Ajout multiple"
+	},
+	"optionsGrid":{
+		"title":"Options"
+	},
+	"depCTTab":{
+		"title":"Types de contenus imbriqu\u00e9s"
+	},
 	"newMaskWindow":{
 		"title":"Nouveau Masque"
 	},
@@ -1317,33 +1357,6 @@
 	},
 	"blockConfigAdvancedPanel":{
 		"title":"Avanc\u00e9"
-	},
-	"newCTWindow":{
-		"title":"Nouveau type de contenu"
-	},
-	"isDepField":{
-		"fieldLabel":"Imbriqu\u00e9 "
-	},
-	"createNTCBtn":{
-		"text":"Cr\u00e9er un nouveau type de contenu"
-	},
-	"addCTFieldWindow":{
-		"title":"Ajouter un champ"
-	},
-	"multiTCAddFieldCol":{
-		"title":"Ajout multiple"
-	},
-	"depCTTab":{
-		"title":"Types de contenus imbriqu\u00e9s"
-	},
-	"optionsGrid":{
-		"title":"Options"
-	},
-	"newVocabWindow":{
-		"title":"Nouveau vocabulaire"
-	},
-	"createNewVocabBtn":{
-		"text":"Cr\u00e9er un nouveau vocabulaire"
 	},
 	"contentTypesWindow":{
 		"title":"Types de contenus"
@@ -1458,5 +1471,8 @@
 	},
 	"mediasWindow":{
 		"title":"M\u00e9diath\u00e8que"
+	},
+	"hideAllWindowsBtn":{
+		"tooltip":"Afficher le bureau"
 	}
 }
