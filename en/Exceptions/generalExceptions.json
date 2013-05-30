@@ -89,5 +89,6 @@
 	"Exception87": "id field is not authorized",
 	"Exception88": "%1$s only accept string parameter",
 	"Exception89": "Invalid excluded fields list array",
-	"Exception90": "Class %1$s does not exists."
+	"Exception90": "Class %1$s does not exists.",
+	"Exception91": "Upgrade method for class %1$s does not exists."
 }
