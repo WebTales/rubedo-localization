@@ -1,13 +1,13 @@
 {
-	"Search.Facets.Label.MediaType": "Type de document",
-	"Search.Facets.Label.ContentType": "Type de contenu",
-	"Search.Facets.Label.Author": "Auteur",
-	"Search.Facets.Label.ModificationDate": "Date de modification",
-	"Search.Facets.Label.Navigation": "Navigation",
-	"Search.Facets.Label.Date.Day": "Moins de 24H",
-	"Search.Facets.Label.Date.Week": "Moins d'une semaine",
-	"Search.Facets.Label.Date.Month": "Moins d'un mois",
-	"Search.Facets.Label.Date.Year": "Moins d'un an",
-	"TaxonomyTerms.PagePicker.CurrentPage": "Page courante",
-	"TaxonomyTerms.PagePicker.AllSites": "Tous les sites"
+	"Search.Facets.Label.MediaType":"Type de média",
+	"Search.Facets.Label.ContentType":"Type de contenu",
+	"Search.Facets.Label.Author":"Auteur",
+	"Search.Facets.Label.ModificationDate":"Date de modification",
+	"Search.Facets.Label.Navigation":"Navigation",
+	"Search.Facets.Label.Date.Day":"Moins de 24H",
+	"Search.Facets.Label.Date.Week":"Moins d'une semaine",
+	"Search.Facets.Label.Date.Month":"Moins d'un mois",
+	"Search.Facets.Label.Date.Year":"Moins d'un an",
+	"TaxonomyTerms.PagePicker.CurrentPage":"Page courante",
+	"TaxonomyTerms.PagePicker.AllSites":"Tous les sites"
 }
