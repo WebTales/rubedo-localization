@@ -1,0 +1,10 @@
+{
+	"FO.Administration.Toolbar.Button.EditPage":"Éditer la page",
+	"FO.Administration.Toolbar.Button.User.Logout":"Déconnexion",
+	"FO.Administration.Toolbar.Button.Cancel":"Annuler",
+	"FO.Administration.Toolbar.Button.SaveChanges":"Enregistrer les modifications",
+	"FO.Administration.Toolbar.Status.Consultation":"Consultation",
+	"FO.Administration.Toolbar.Status.Edition":"Édition",
+	"FO.Administration.Toolbar.Title.Administration":"Administration",
+	"FO.Administration.Toolbar.Button.SaveChanges.Tooltip":"Appuyez sur CTRL + S pour sauvegarder"
+}
