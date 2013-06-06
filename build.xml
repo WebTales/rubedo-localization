@@ -1,0 +1,38 @@
+<project name="rubedo-localization" default="main" basedir=".">
+	<target name="main" description="Update translation from Crowdin" depends="prepare-build,pull,fetch-crowdin,unzip,commit,push">
+		
+	</target>
+	
+	<target name="pull" description="Pull Repo">
+		<gitpull repository="." all="true" />
+	</target>
+	
+	<target name="fetch-crowdin" description="Fetch Crowdin Data">
+		<httpget url="http://crowdin.net/download/project/rubedo.zip" dir="${project.basedir}/build"/>
+		
+	</target>
+	
+	<target name="unzip">
+		<exec executable="unzip" passthru="true" dir="${project.basedir}">
+			<arg value="-o" />
+			<arg path="${project.basedir}/build/rubedo.zip" />
+		</exec>
+	</target>
+	
+	<target name="commit">
+		<exec command='git commit -a -m "automatic commit from crowdin"' passthru="true" dir="${project.basedir}">
+		</exec>
+	</target>
+	
+	<target name="push" description="Push to Repo">
+		<exec command='git push origin master' passthru="true" dir="${project.basedir}">
+		</exec>
+	</target>
+		
+	<target name="clean-build" description="Cleanup build artifacts">
+		<delete dir="${project.basedir}/build"/>
+	</target>
+	<target name="prepare-build" depends="clean-build" description="Prepare for build">
+		<mkdir dir="${project.basedir}/build"/>
+	</target>
+</project>
