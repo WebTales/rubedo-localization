@@ -4,7 +4,8 @@
 	</target>
 	
 	<target name="pull" description="Pull Repo">
-		<gitpull repository="." all="true" />
+		<exec command='git pull' passthru="true" dir="${project.basedir}">
+		</exec>
 	</target>
 	
 	<target name="fetch-crowdin" description="Fetch Crowdin Data">
