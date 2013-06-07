@@ -177,5 +177,7 @@
 	"#ext-gen1363#":"AddThis",
 	"#ext-gen1364#":"Facebook Like",
 	"#ext-gen1366#":"Authentification",
-	"#ext-gen1367#":"<p>Le bloc 'Authentification' permet à un utilisateur de s’authentifier depuis le Front-Office.<\/p>"
+	"#ext-gen1367#":"<p>Le bloc 'Authentification' permet à un utilisateur de s’authentifier depuis le Front-Office.<\/p>",
+	"#ext-gen1368#":"Comportement",
+	"#ext-gen1369#":"Zoom après sélection d'un lieu",
 }
