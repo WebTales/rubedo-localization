@@ -163,5 +163,13 @@
 	"databaseIsUpToDateText":"La base de données est à jour",
 	"databaseNeedsUpdateText":"Une mise à jour de la base de données est nécessaire",
 	"databaseUpdateWarning":"Cette action va mettre à jour la base de données de Rubedo. Il est recommandé que sauvegarder vos données avant de commencer. Souhaitez-vous continuer ?",
-	"databaseUpdatedToText":"La base de données a été mise à jour vers la version"
+	"databaseUpdatedToText":"La base de données a été mise à jour vers la version",
+	"folderViewText":"Vue arborescente",
+	"switchToFolderViewText":"Passer en vue arborescente",
+	"searchViewText":"Vue recherche",
+	"switchToSearchViewText":"Passer en vue recherche",
+	"notFiledText":"Non classé",
+	"mediaTypeText":"Type de média",
+	"filesUploadedText":"fichiers téléchargés",
+	"allText":"Tous"
 }
