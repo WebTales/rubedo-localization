@@ -171,5 +171,6 @@
     "notFiledText": "Not filed",
     "mediaTypeText": "Media type",
     "filesUploadedText": "files uploaded",
-    "allText": "All"
+    "allText": "All",
+    "contentTypeText":"Content type"
 }
