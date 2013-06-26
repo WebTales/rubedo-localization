@@ -93,5 +93,7 @@
 	"Exception91": "Upgrade method for class %1$s does not exists.",
 	"Exception92": "You can not unset a term without its id",
 	"Exception93": "Term id not found in database",
-	"Exception94": "You must specify a good type of URL : default or canonical"
+	"Exception94": "You must specify a good type of URL : default or canonical",
+	"Exception95": "The server cannot find the charset of the current file.",
+	"Exception96": "Missing parameter %1$s"
 }
