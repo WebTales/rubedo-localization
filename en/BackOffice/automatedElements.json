@@ -172,5 +172,6 @@
     "mediaTypeText": "Media type",
     "filesUploadedText": "files uploaded",
     "allText": "All",
-    "contentTypeText":"Content type"
+    "contentTypeText":"Content type",
+    "encodingText":"Encoding"
 }
