@@ -1,6 +1,7 @@
 {
 	"FO.Administration.Toolbar.Button.EditPage": "Edit page",
 	"FO.Administration.Toolbar.Button.User.Logout": "Log out",
+	"FO.Administration.Toolbar.Button.User.Backoffice": "Backoffice",
 	"FO.Administration.Toolbar.Button.Cancel": "Cancel",
 	"FO.Administration.Toolbar.Button.SaveChanges": "Save changes",
 	"FO.Administration.Toolbar.Status.Consultation": "Consultation",
