@@ -95,5 +95,6 @@
 	"Exception93": "Term id not found in database",
 	"Exception94": "You must specify a good type of URL : default or canonical",
 	"Exception95": "The server cannot find the charset of the current file.",
-	"Exception96": "Missing parameter %1$s"
+	"Exception96": "Missing parameter %1$s",
+	"Exception97": "Collection name is not set"
 }
