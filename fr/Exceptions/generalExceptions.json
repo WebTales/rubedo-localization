@@ -87,5 +87,13 @@
 	"Exception86":"Ce type de données n'est pas autorisé",
 	"Exception87":"Le champ id n'est pas autorisée",
 	"Exception88":"%1$s accepte uniquement des chaines de caractères comme parametre",
-	"Exception89":"Tableau de liste des champs exclus non valide"
+	"Exception89":"Tableau de liste des champs exclus non valide",
+	"Exception90":"La classe %1$s n'existe pas.",
+	"Exception91":"Il n'existe pas de méthode de mise à jour pour la classe %1$s.",
+	"Exception92":"Vous ne pouvez pas désactiver un terme sans préciser son id",
+	"Exception93":"L'id du terme est introuvable dans la base de données",
+	"Exception94":"Vous devez fournir un type d'URL correcte: default ou canonical",
+	"Exception95":"Le serveur ne peut pas trouver le jeu de caractères du fichier actuel.",
+	"Exception96":"Le paramètre %1$s est manquant",
+	"Exception97":"Le nom de la collection n'est pas défini"
 }
