@@ -13,6 +13,8 @@
 	"TaxonomyTerms.PagePicker.AllSites": "All sites",
 	"Contents.PublishedBy": "Published by",
 	"Contents.On": "on",
+	"Contents.Of": "of",
+	"Contents.The": "the",
 	"Search.ThereAre": "There are",
 	"Search.ThereIs": "There is",
 	"Search.Results": "results",
@@ -22,5 +24,6 @@
 	"Search.Label.NoResults": "No results",
 	"Search.Label.OrderByRelevance": "Order by relevance",
 	"Search.Label.OrderByDate": "Order by date",
-	"Search.Label.OrderByAuthor": "Order by author"
+	"Search.Label.OrderByAuthor": "Order by author",
+	"Search.Label.Page": "Page"
 }
