@@ -95,5 +95,7 @@
 	"Exception94":"Vous devez fournir un type d'URL correcte: default ou canonical",
 	"Exception95":"Le serveur ne peut pas trouver le jeu de caractères du fichier actuel.",
 	"Exception96":"Le paramètre %1$s est manquant",
-	"Exception97":"Le nom de la collection n'est pas défini"
+	"Exception97":"Le nom de la collection n'est pas défini",
+	"Exception98":"La cType du champ doit être le même dans tous les types de contenu sélectionnées",
+	"Exception99":"Le serveur est incapable de déterminer le cType du champ"
 }
