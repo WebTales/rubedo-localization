@@ -186,5 +186,8 @@
 	"#ext-gen1373#":"Overrides",
 	"#ext-gen1374#":"Display mode",
 	"#ext-gen1375#":"Default",
-	"#ext-gen1376#":"Checkboxes"
+	"#ext-gen1376#":"Checkboxes",
+	"#ext-gen1377#":"Language menu",
+	"#ext-gen1378#":"<p>The 'Language menu' block allows a user to select a viewing lanuage for this site in the Front-Office.<\/p>",
+	"#ext-gen1379#":"Combobox"
 }
