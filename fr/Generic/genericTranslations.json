@@ -25,5 +25,6 @@
 	"Search.Label.OrderByRelevance":"Trier par pertinence",
 	"Search.Label.OrderByDate":"Trier par date",
 	"Search.Label.OrderByAuthor":"Trier par auteur",
-	"Search.Label.Page":"Page"
+	"Search.Label.Page":"Page",
+	"Label.Cancel":"Annuler"
 }

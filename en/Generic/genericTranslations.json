@@ -25,5 +25,10 @@
 	"Search.Label.OrderByRelevance": "Order by relevance",
 	"Search.Label.OrderByDate": "Order by date",
 	"Search.Label.OrderByAuthor": "Order by author",
-	"Search.Label.Page": "Page"
+	"Search.Label.Page": "Page",
+	"Label.Cancel": "Cancel",
+	"Label.Email": "Email",
+	"Labee.Subscribe": "Subscribe",
+	"Label.Send": "Send",
+	"Label.Download": "Download"
 }

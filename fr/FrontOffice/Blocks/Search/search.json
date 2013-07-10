@@ -1,4 +1,7 @@
 {
 	"Blocks.Search.Label.AllInOnePage":"Tout sur une page",
-	"Blocks.Search.Label.ByPage":"par page"
+	"Blocks.Search.Label.ByPage":"par page",
+	"Blocks.Search.Label.KeyWords": "Mots-clés",
+	"Blocks.Search.Label.SeeAllResults": "Afficher tous les résultats",
+	"Blocks.Search.Label.SearchCriteria": "Search criteria"
 }
