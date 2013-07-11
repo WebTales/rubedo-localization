@@ -97,5 +97,6 @@
 	"Exception96":"Le paramètre %1$s est manquant",
 	"Exception97":"Le nom de la collection n'est pas défini",
 	"Exception98":"La cType du champ doit être le même dans tous les types de contenu sélectionnées",
-	"Exception99":"Le serveur est incapable de déterminer le cType du champ"
+	"Exception99":"Le serveur est incapable de déterminer le cType du champ",
+	"Exception100":"Les langues ne peuvent être supprimées"
 }
