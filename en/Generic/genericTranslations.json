@@ -28,7 +28,8 @@
 	"Search.Label.Page": "Page",
 	"Label.Cancel": "Cancel",
 	"Label.Email": "Email",
-	"Labee.Subscribe": "Subscribe",
+	"Label.Subscribe": "Subscribe",
 	"Label.Send": "Send",
-	"Label.Download": "Download"
+	"Label.Download": "Download",
+	"Label.Refresh": "Refresh"
 }
