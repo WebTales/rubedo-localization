@@ -113,7 +113,7 @@
 	"#ext-gen1239#":"Facettes",
 	"#ext-gen1240#":"Médias par page",
 	"#ext-gen1242#":"Média Externe",
-	"#ext-gen1243#":"<p>Le bloc 'Média Externe' s’appuie sur l’API oEmbed (http:\/\/oembed.com\/) et permet d’afficher un média externe provenant des sources suivantes :<\/p><ul><li>YouTube  (vidéos)<\/li><li>Flickr (partage photos)<\/li><li>Vimeo (vidéos)<\/li><li>Poll Everywhere (enquêtes & sondages)<\/li><li>My Opera (blogs et photos)<\/li><li>SmugMug (partage de photos)<\/li><li>SlideShare (partage de presentations)<\/li><li>WordPress.com  (blogs)<\/li><li>chirbit.com (partage de fichiers audio)<\/li><li>CircuitLab (outil de dessin de schéma électrique)<\/li><li>Quizz.biz (outil de sondage)<\/li><\/ul>",
+	"#ext-gen1243#":"<p>Le bloc 'Média Externe' s’appuie sur l’API oEmbed (http:\/\/oembed.com\/) et permet d’afficher un média externe provenant des sources suivantes :<\/p><ul><li>YouTube  (vidéos)<\/li> <li>Dailymotion (videos)<\/li> <li>Flickr (partage photos)<\/li><li>Vimeo (vidéos)<\/li><li>Poll Everywhere (enquêtes & sondages)<\/li><li>My Opera (blogs et photos)<\/li><li>SmugMug (partage de photos)<\/li><li>SlideShare (partage de presentations)<\/li><li>WordPress.com  (blogs)<\/li><li>chirbit.com (partage de fichiers audio)<\/li><li>CircuitLab (outil de dessin de schéma électrique)<\/li><li>Quizz.biz (outil de sondage)<\/li><\/ul>",
 	"#ext-gen1246#":"URL",
 	"#ext-gen1247#":"Largeur max",
 	"#ext-gen1248#":"Hauteur max",

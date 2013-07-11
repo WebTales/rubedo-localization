@@ -113,7 +113,7 @@
 	"#ext-gen1239#":"Facets",
 	"#ext-gen1240#":"Medias per page",
 	"#ext-gen1242#":"External media",
-	"#ext-gen1243#":"<p>The 'External Media' block relies on the oEmbed (http:\/\/oembed.com\/) API and allows to display external media from the following sources:<\/p><ul><li>YouTube (videos)<\/li>, <li>Flickr (photo sharing)<\/li>, <li>Vimeo (videos)<\/li> <li>Poll Everywhere (investigations amp; surveys)<\/li> <li>My Opera (blogs and photos)<\/li> <li>SmugMug (photo sharing)<\/li> <li>SlideShare (sharing presentations)<\/li> <li>WordPress.com (blogging)<\/li> <li>chirbit.com (sharing of audio files)<\/li> <li>CircuitLab (electrical diagram tool)<\/li> <li>Funtrivia.com (survey tool)<\/li><\/ul>",
+	"#ext-gen1243#":"<p>The 'External Media' block relies on the oEmbed (http:\/\/oembed.com\/) API and allows to display external media from the following sources:<\/p><ul><li>YouTube (videos)<\/li> <li>Dailymotion (videos)<\/li> <li>Flickr (photo sharing)<\/li> <li>Vimeo (videos)<\/li> <li>Poll Everywhere (investigations amp; surveys)<\/li> <li>My Opera (blogs and photos)<\/li> <li>SmugMug (photo sharing)<\/li> <li>SlideShare (sharing presentations)<\/li> <li>WordPress.com (blogging)<\/li> <li>chirbit.com (sharing of audio files)<\/li> <li>CircuitLab (electrical diagram tool)<\/li> <li>Funtrivia.com (survey tool)<\/li><\/ul>",
 	"#ext-gen1246#":"URL",
 	"#ext-gen1247#":"Max width",
 	"#ext-gen1248#":"Max height",
