@@ -171,5 +171,7 @@
 	"notFiledText":"Non classé",
 	"mediaTypeText":"Type de média",
 	"filesUploadedText":"fichiers téléchargés",
-	"allText":"Tous"
+	"allText":"Tous",
+	"contentTypeText":"Type de contenu",
+	"encodingText":"Encodage"
 }
