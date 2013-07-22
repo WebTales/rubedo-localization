@@ -191,5 +191,22 @@
 	"#ext-gen1378#":"<p>The 'Language menu' block allows a user to select a viewing lanuage for this site in the Front-Office.<\/p>",
 	"#ext-gen1379#":"Combobox",
 	"#ext-gen1380#":"Display current language",
-	"#ext-gen1381#":"Auto-complete"
+	"#ext-gen1381#":"Auto-complete",
+	"#ext-gen1382#":"Twitter",
+	"#ext-gen1383#":"User name",
+	"#ext-gen1384#":"Mode",
+	"#ext-gen1385#":"Favorites",
+	"#ext-gen1386#":"Tweets",
+	"#ext-gen1387#":"Tweet limit",
+	"#ext-gen1388#":"Theme",
+	"#ext-gen1389#":"Normal",
+	"#ext-gen1390#":"Dark",
+	"#ext-gen1391#":"Width",
+	"#ext-gen1392#":"Height",
+	"#ext-gen1393#":"Options",
+	"#ext-gen1394#":"No header",
+	"#ext-gen1395#":"No footer",
+	"#ext-gen1396#":"No border",
+	"#ext-gen1397#":"No scrollbar",
+	"#ext-gen1398#":"Transparent background"
 }
