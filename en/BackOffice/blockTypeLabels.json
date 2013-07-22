@@ -190,5 +190,6 @@
 	"#ext-gen1377#":"Language menu",
 	"#ext-gen1378#":"<p>The 'Language menu' block allows a user to select a viewing lanuage for this site in the Front-Office.<\/p>",
 	"#ext-gen1379#":"Combobox",
-	"#ext-gen1380#":"Display current language"
+	"#ext-gen1380#":"Display current language",
+	"#ext-gen1381#":"Auto-complete"
 }
