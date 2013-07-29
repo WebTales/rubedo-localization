@@ -25,5 +25,13 @@
 	"Groups.reviewer":"Valideurs",
 	"Groups.contributors":"Contributeurs",
 	"Themes.red":"Rouge",
-	"Themes.blue":"Bleu"
+	"Themes.blue":"Bleu",
+	"NewSite.homepage.title":"Accueil",
+	"NewSite.single.title":"Détail",
+	"NewSite.search.title":"Recherche",
+	"NewSite.homepage.url":"accueil",
+	"NewSite.search.url":"recherche",
+	"NewSite.single.url":"detail",
+	"NewSite.single.singleBlocTitle":"afficher le contenu",
+	"NewSite.search.searchBlocTitle":"résultats de recherche"
 }

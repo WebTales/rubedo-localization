@@ -26,5 +26,13 @@
 	"Groups.reviewer":"Reviewers",
 	"Groups.contributors":"Contributors",
 	"Themes.red":"Red",
-	"Themes.blue":"Blue"
+	"Themes.blue":"Blue",
+	"NewSite.homepage.title":"Homepage",
+	"NewSite.single.title":"Single",
+	"NewSite.search.title":"Search",
+	"NewSite.homepage.url":"homepage",
+	"NewSite.search.url":"search",
+	"NewSite.single.url":"single",
+	"NewSite.single.singleBlocTitle":"display content",
+	"NewSite.search.searchBlocTitle":"search results"
 }
