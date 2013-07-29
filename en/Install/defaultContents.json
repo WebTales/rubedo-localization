@@ -1,0 +1,17 @@
+{
+	"Workspace.admin":"Admin",
+	"Article.type":"Article",
+	"Article.image":"Image",
+	"Article.body":"Body",
+	"Article.date":"Date",
+	"Event.type":"Event",
+	"Event.image":"Image",
+	"Event.body":"Body",
+	"Event.date":"Date",
+	"Event.position":"Location",
+	"Event.type":"Event",
+	"News.image":"Image",
+	"News.body":"Body",
+	"News.date":"Date",
+	"News.type":"News"	
+}
