@@ -13,5 +13,14 @@
 	"News.image":"Image",
 	"News.body":"Body",
 	"News.date":"Date",
-	"News.type":"News"	
+	"News.type":"News",
+	"Audio.type":"Audio",
+	"Audio.alt":"Alternative text",
+	"Audio.alt.tooltip":"Substitution text when media can't be displayed",
+	"Image.type":"Image",
+	"Image.alt":"Alternative text",
+	"Image.alt.tooltip":"Substitution text when media can't be displayed",
+	"Video.type":"Video",
+	"Video.alt":"Alternative text",
+	"Video.alt.tooltip":"Substitution text when media can't be displayed"		
 }
