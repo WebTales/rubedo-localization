@@ -22,5 +22,9 @@
 	"Image.alt.tooltip":"Substitution text when media can't be displayed",
 	"Video.type":"Video",
 	"Video.alt":"Alternative text",
-	"Video.alt.tooltip":"Substitution text when media can't be displayed"		
+	"Video.alt.tooltip":"Substitution text when media can't be displayed",
+	"Groups.reviewer":"Reviewers",
+	"Groups.contributors":"Contributors",
+	"Themes.red":"Red",
+	"Themes.blue":"Blue"
 }
