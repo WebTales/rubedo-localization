@@ -209,5 +209,8 @@
 	"#ext-gen1396#":"No border",
 	"#ext-gen1397#":"No scrollbar",
 	"#ext-gen1398#":"Transparent background",
-	"#ext-gen1399#":"Widget ID"
+	"#ext-gen1399#":"Widget ID",
+	"#ext-gen1400#":"Image map",
+	"#ext-gen1401#":"<p>The 'Image map' block allows a user to create an image map using an image from the DAM<\/p>",
+	"#ext-gen1402#":"Map"
 }
