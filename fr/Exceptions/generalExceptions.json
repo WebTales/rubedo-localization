@@ -12,7 +12,7 @@
 	"Exception11":"Cette action nécessite un id de formulaire comme argument.",
 	"Exception12":"Cette action a besoin d'un id de page comme argument.",
 	"Exception13":"L'id de page ne correspond à aucune page.",
-	"Exception14":"Aucun protocole n'est pas défini pour le site courant.",
+	"Exception14":"Aucun protocole n'est défini pour le site courant.",
 	"Exception15":"Vous ne pouvez pas accéder à cette page.",
 	"Exception16":"Besoin d'un critère pour afficher le contenu de Flickr.",
 	"Exception17":"Impossible de mettre à jour la réponse.",
