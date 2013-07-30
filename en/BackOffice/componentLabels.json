@@ -29,12 +29,6 @@
     "wallpapaerPickerBtn": {
         "text": "Choose as new wallpaper"
     },
-    "hcmodeFieldset": {
-        "title": "High contrast mode"
-    },
-    "hcmodeActivateBtn": {
-        "text": "Activate"
-    },
     "desktopCustomizeWindow": {
         "title": "Customizing the desktop"
     },
@@ -53,6 +47,12 @@
     "themePickerBtn": {
         "text": "Apply this theme"
     },
+    "hcmodeFieldset": {
+        "title": "High contrast mode"
+    },
+    "hcmodeActivateBtn": {
+        "text": "Activate"
+    },
     "addGroupWindow": {
         "title": "Add a group"
     },
@@ -64,15 +64,6 @@
     },
     "nameColumn": {
         "text": "Name"
-    },
-    "reusableElementsWindow": {
-        "title": "Reusable elements"
-    },
-    "deleteBtn": {
-        "text": "Delete"
-    },
-    "addBtn": {
-        "text": "Add"
     },
     "exportElementsWindow": {
         "title": "Export an element"
@@ -86,11 +77,14 @@
     "exportElementBtn": {
         "text": "Export this element "
     },
-    "removeBtn": {
+    "reusableElementsWindow": {
+        "title": "Reusable elements"
+    },
+    "deleteBtn": {
         "text": "Delete"
     },
-    "renameBtn": {
-        "text": "Rename"
+    "addBtn": {
+        "text": "Add"
     },
     "changePasswordWindow": {
         "title": "Change password"
@@ -103,6 +97,12 @@
     },
     "applyBtn": {
         "text": "Apply"
+    },
+    "removeBtn": {
+        "text": "Delete"
+    },
+    "renameBtn": {
+        "text": "Rename"
     },
     "termField": {
         "fieldLabel": "Term "
@@ -134,6 +134,19 @@
     "newDamTypeSubmitBtn": {
         "text": "Create a new type of media"
     },
+    "qbs3": {
+        "title": "Choice of the criteria on fields"
+    },
+    "qbs3ruleadder": {
+        "fieldLabel": "Add a rule on "
+    },
+    "qbs3auxbtn": [],
+    "addMTFieldWindow": {
+        "title": "Add a field"
+    },
+    "typeCol": {
+        "text": "Type"
+    },
     "qbFinalRecStagePanel": {
         "title": "Summary and saving"
     },
@@ -146,12 +159,6 @@
     "saveQBQueryBtn": {
         "text": "<b>Save this query</b>"
     },
-    "addMTFieldWindow": {
-        "title": "Add a field"
-    },
-    "typeCol": {
-        "text": "Type"
-    },
     "qbs4": {
         "title": "Choice of sorting on fields"
     },
@@ -159,13 +166,6 @@
         "fieldLabel": "Add a sort on "
     },
     "qbs4auxbtn": [],
-    "qbs3": {
-        "title": "Choice of the criteria on fields"
-    },
-    "qbs3ruleadder": {
-        "fieldLabel": "Add a rule on "
-    },
-    "qbs3auxbtn": [],
     "gfsUploadFileBtn": {
         "tooltip": "Upload a file"
     },
@@ -194,11 +194,11 @@
     "cancelBtn": {
         "text": "Cancel"
     },
-    "queryWindow": {
-        "title": "Queries"
+    "wizardPrevBtn": {
+        "text": "Previous"
     },
-    "editBtn": {
-        "text": "Edit"
+    "wizardNextBtn": {
+        "text": "Next"
     },
     "queryTypeChooseWindow": {
         "title": "Choose a query type"
@@ -212,6 +212,18 @@
     "chooseAdvancedQueryBtn": {
         "text": "Advanced query"
     },
+    "queryWindow": {
+        "title": "Queries"
+    },
+    "editBtn": {
+        "text": "Edit"
+    },
+    "newWorkspaceWindow": {
+        "title": "New workspace"
+    },
+    "createNewWorkspaceBtn": {
+        "text": "Create a new workspace"
+    },
     "chooseDamTypeWindow": {
         "title": "Choose a media type"
     },
@@ -221,32 +233,26 @@
     "chooseDamTypeSubmitBtn": {
         "text": "Create a new media of this type"
     },
-    "wizardPrevBtn": {
-        "text": "Previous"
-    },
-    "wizardNextBtn": {
-        "text": "Next"
-    },
-    "newWorkspaceWindow": {
-        "title": "New workspace"
-    },
-    "createNewWorkspaceBtn": {
-        "text": "Create a new workspace"
+    "newTermWindow": {
+        "title": "New term"
     },
     "workspaceField": {
         "fieldLabel": "Workspaces"
     },
-    "newTermWindow": {
-        "title": "New term"
+    "maskSaveChoiceWindow": {
+        "title": "This mask is used by pages"
     },
-    "workspaceWindow": {
-        "title": "Workspaces"
+    "maskSaveChoice1Btn": {
+        "text": "Save and reflect the changes on all pages"
     },
-    "saveBtn": {
-        "text": "Save"
+    "maskSaveChoice2Btn": {
+        "text": "Save as a new mask"
     },
-    "propsPanel": {
-        "title": "Properties"
+    "chooseBtn": {
+        "text": "Choose"
+    },
+    "modifyBtn": {
+        "text": "Edit"
     },
     "mediaQueryAssistant": {
         "title": "Querying on media Wizard"
@@ -263,20 +269,8 @@
     "mqls": {
         "title": "Save"
     },
-    "chooseBtn": {
-        "text": "Choose"
-    },
-    "modifyBtn": {
-        "text": "Edit"
-    },
-    "maskSaveChoiceWindow": {
-        "title": "This mask is used by pages"
-    },
-    "maskSaveChoice1Btn": {
-        "text": "Save and reflect the changes on all pages"
-    },
-    "maskSaveChoice2Btn": {
-        "text": "Save as a new mask"
+    "saveBtn": {
+        "text": "Save"
     },
     "lcFieldAdress": {
         "fieldLabel": "Address"
@@ -290,17 +284,32 @@
     "lcFieldLongitude": {
         "fieldLabel": "Longitude"
     },
+    "sessionExpiringWindow": {
+        "title": "Your session will soon expire"
+    },
+    "sessionRenewWindow": {
+        "text": "Renew my session"
+    },
     "sessionExpiredWindow": {
         "title": "Your session has expired"
     },
     "reconnectBtn": {
         "text": "Connect again"
     },
-    "sessionExpiringWindow": {
-        "title": "Your session will soon expire"
+    "gfsUploadBtn": {
+        "tooltip": "Upload a file"
     },
-    "sessionRenewWindow": {
-        "text": "Renew my session"
+    "gfsRemoveFileBtn": {
+        "tooltip": "Delete the file"
+    },
+    "gfsDownloadBtn": {
+        "tooltip": "Download the file"
+    },
+    "gfsHelpBtn": {
+        "tooltip": "Main media file. Mandatory."
+    },
+    "gfsEditBtn": {
+        "tooltip": "Edit the file"
     },
     "pagesLaunchBtn": {
         "text": "Pages"
@@ -368,20 +377,8 @@
     "mailingListsLaunchBtn": {
         "text": "Mailing lists"
     },
-    "gfsUploadBtn": {
-        "tooltip": "Upload a file"
-    },
-    "gfsRemoveFileBtn": {
-        "tooltip": "Delete the file"
-    },
-    "gfsDownloadBtn": {
-        "tooltip": "Download the file"
-    },
-    "gfsHelpBtn": {
-        "tooltip": "Main media file. Mandatory."
-    },
-    "gfsEditBtn": {
-        "tooltip": "Edit the file"
+    "languagesLaunchBtn": {
+        "text": "Languages"
     },
     "newUserWindow": {
         "title": "New user"
@@ -392,8 +389,8 @@
     "userAccountField": {
         "fieldLabel": "User account "
     },
-    "formAddElementWindow": {
-        "title": "Add Item"
+    "picUploadWindow": {
+        "title": "Upload an image"
     },
     "newFormWindow": {
         "title": "New form"
@@ -404,100 +401,20 @@
     "newFormCreateBtn": {
         "text": "Create this form"
     },
+    "formAddElementWindow": {
+        "title": "Add Item"
+    },
     "formFieldConfiguratorBtn": {
         "tooltip": "Settings"
+    },
+    "formFieldConditionBtn": {
+        "tooltip": "Display condition"
     },
     "formFieldConditionsBtn": {
         "tooltip": "Display condition"
     },
-    "picUploadWindow": {
-        "title": "Upload an image"
-    },
     "fieldPanel": {
         "title": "Fields"
-    },
-    "formsWindow": {
-        "title": "Surveys"
-    },
-    "editGroup": {
-        "title": "Edit"
-    },
-    "addPageBtn": {
-        "text": "New page",
-        "tooltip": " Add a page in a form (stage management)"
-    },
-    "newElemBtn": {
-        "text": "New item"
-    },
-    "moveBtn": {
-        "text": "Move"
-    },
-    "clipboardGroup ": {
-        "title": "Clipboard"
-    },
-    "duplicateBtn": {
-        "text": "Copy"
-    },
-    "shortcutBtn": {
-        "text": "Add to Favorites"
-    },
-    "saveGroup": {
-        "title": "Save"
-    },
-    "titleColumn": {
-        "text": "Title"
-    },
-    "propsTab": {
-        "text": "Properties"
-    },
-    "editTab": {
-        "text": "Edit"
-    },
-    "rightsTab": {
-        "text": "Rights"
-    },
-    "exploitationField": {
-        "text": "Operation",
-        "tooltip": "The operation of the surveys allows to export results in csv format"
-    },
-    "formTitleField": {
-        "fieldLabel": "Survey title"
-    },
-    "descriptionField": {
-        "fieldLabel": "Description "
-    },
-    "uniqueAnswerField": {
-        "fieldLabel": "Uniqueness of the answer"
-    },
-    "formsUniquenessBtn": {
-        "tooltip": "The uniqueness is designed to restrict submission of a survey"
-    },
-    "openingDateField": {
-        "fieldLabel": "Start date "
-    },
-    "closingDateField": {
-        "fieldLabel": "End date"
-    },
-    "endMessageField": {
-        "fieldLabel": "End message"
-    },
-    "statsFieldSet": {
-        "title": "Statistics"
-    },
-    "totalResultFields": {
-        "fieldLabel": "Number of people having started the survey"
-    },
-    "validResultField": {
-        "fieldLabel": "Number of people having completed the survey"
-    },
-    "resultsFieldSet": {
-        "title": "Results"
-    },
-    "exportCSVBtn": {
-        "text": "Export to CSV"
-    },
-    "formFieldConditionBtn": {
-        "tooltip": "Display condition"
     },
     "rteConfigWindow": {
         "title": "Rich text editor"
@@ -571,6 +488,24 @@
     "confirmDeleteNo": {
         "text": "No"
     },
+    "addBlockWindow": {
+        "title": "Add a block"
+    },
+    "addBlockTypeColumn": {
+        "text": "Type"
+    },
+    "newPageWindow": {
+        "title": "New Page"
+    },
+    "newPageTitleField": {
+        "fieldLabel": "Title "
+    },
+    "newPageMaskChoiceField": {
+        "fieldLabel": "Page mask "
+    },
+    "newPageSubmitBtn": {
+        "text": "Create as a descendant of the selected page"
+    },
     "previewWindow": {
         "title": "Preview"
     },
@@ -607,30 +542,6 @@
     "refreshBtn": {
         "text": "<b>Refresh</b>"
     },
-    "formPageConfigurator": {
-        "title": "Page editor"
-    },
-    "formPageLabelField": {
-        "fieldLabel": "Label"
-    },
-    "addBlockWindow": {
-        "title": "Add a block"
-    },
-    "addBlockTypeColumn": {
-        "text": "Type"
-    },
-    "newPageWindow": {
-        "title": "New Page"
-    },
-    "newPageTitleField": {
-        "fieldLabel": "Title "
-    },
-    "newPageMaskChoiceField": {
-        "fieldLabel": "Page mask "
-    },
-    "newPageSubmitBtn": {
-        "text": "Create as a descendant of the selected page"
-    },
     "multiChoiceQuestionEditor": {
         "title": "Closed question Editor"
     },
@@ -657,6 +568,12 @@
     },
     "closedQuestionRemoveOptionBtn": {
         "tooltip": "Remove this option"
+    },
+    "formPageConfigurator": {
+        "title": "Page editor"
+    },
+    "formPageLabelField": {
+        "fieldLabel": "Label"
     },
     "importMainWindow": {
         "title": "Import"
@@ -702,6 +619,9 @@
     "importS2SearchableCol": {
         "text": "Searchable"
     },
+    "importS2LocalizableCol": {
+        "text": "Localizable"
+    },
     "importS2MandatoryCol": {
         "text": "Mandatory"
     },
@@ -738,12 +658,6 @@
     "importBtn": {
         "text": "Import"
     },
-    "newMLWindow": {
-        "title": "New mailing list"
-    },
-    "newMLCreateBtn": {
-        "text": "Create a new mailing list"
-    },
     "mailingListsWindow": {
         "title": "Mailing lists"
     },
@@ -771,6 +685,12 @@
     "returnPathAdressField": {
         "fieldLabel": "Return path address"
     },
+    "newMLWindow": {
+        "title": "New mailing list"
+    },
+    "newMLCreateBtn": {
+        "text": "Create a new mailing list"
+    },
     "optionsConfiguratorBtn": {
         "text": "Configure options"
     },
@@ -788,9 +708,6 @@
     },
     "oeditor1removeBtn": {
         "tooltip": "Remove this option"
-    },
-    "imagePreviewWindow": {
-        "title": "Full size preview"
     },
     "systemInfoDisplayWindow": {
         "title": "System information"
@@ -813,6 +730,12 @@
     "frontComponentsPropertyGrid": {
         "title": "Front components"
     },
+    "imagePreviewWindow": {
+        "title": "Full size preview"
+    },
+    "chooseDamTypeMassSubmitBtn": {
+        "text": "Upload media of this type"
+    },
     "damMassUploadWindow": {
         "title": "Digital assets mass upload"
     },
@@ -834,14 +757,11 @@
     "doneUploadingBtn": {
         "text": "Done uploading"
     },
-    "inheritWorkspaceField": {
-        "fieldLabel": "Inherits workspace"
-    },
     "pixlrEditorWindow": {
         "title": "Image editor"
     },
-    "chooseDamTypeMassSubmitBtn": {
-        "text": "Upload media of this type"
+    "inheritWorkspaceField": {
+        "fieldLabel": "Inherits workspace"
     },
     "facetOverridesWindow": {
         "title": "Facet overrides"
@@ -852,11 +772,92 @@
     "OperatorColumn": {
         "text": "Operator"
     },
+    "workingLanguageWindow": {
+        "title": "Change current working language"
+    },
+    "TALanguageField": {
+        "fieldLabel": "Language"
+    },
+    "setAsWLBtn": {
+        "text": "Set as current working language"
+    },
+    "languagesInterface4": {
+        "title": "Languages"
+    },
+    "FlagCol": {
+        "text": "Flag"
+    },
+    "LangNameCol": {
+        "text": "Name"
+    },
+    "OwnNameCol": {
+        "text": "Own name"
+    },
+    "translationAdderWindow": {
+        "title": "Add new translation"
+    },
+    "translateInThisLanguageBtn": {
+        "text": "Translate in this language"
+    },
+    "urlField": {
+        "fieldLabel": "URL"
+    },
+    "referencingFieldSEt": {
+        "title": "SEO"
+    },
+    "titleField": {
+        "fieldLabel": "Title *"
+    },
+    "descriptionField": {
+        "fieldLabel": "Description "
+    },
+    "helpTextField": {
+        "fieldLabel": "Help text "
+    },
+    "currentLanguageDSLField": {
+        "fieldLabel": "Current language"
+    },
+    "addTranslationBtn": {
+        "text": "Add translation"
+    },
+    "removeTranslationBtn": {
+        "text": "Remove translation"
+    },
+    "siteFieldSet": {
+        "title": "Site"
+    },
+    "siteDefaultTitleField": {
+        "fieldLabel": "Default title"
+    },
+    "defaultDescriptionField": {
+        "fieldLabel": "Default description"
+    },
+    "defaultAuthorField": {
+        "fieldLabel": "Default author"
+    },
+    "contentTitleField": {
+        "fieldLabel": "Title *",
+        "RTip": "Content title. Mandatory."
+    },
+    "summaryField": {
+        "fieldLabel": "Summary ",
+        "RTip": "Optional summary of the content."
+    },
+    "damTitleField": {
+        "fieldLabel": "Title *",
+        "RTip": "Title of the media. Mandatory."
+    },
+    "imageMapperWindow": {
+        "title": "Image map editor"
+    },
     "pageMaskWindow": {
         "title": "Page masks"
     },
     "newBtn": {
         "text": "New"
+    },
+    "editGroup": {
+        "title": "Edit"
     },
     "newRowBtn": {
         "text": "New Row"
@@ -870,11 +871,26 @@
     "exportBtn": {
         "text": "Export"
     },
+    "moveBtn": {
+        "text": "Move"
+    },
     "clipboardGroup": {
         "title": "Clipboard"
     },
+    "duplicateBtn": {
+        "text": "Copy"
+    },
     "shotcutBtn": {
         "text": "Add to Favorites"
+    },
+    "saveGroup": {
+        "title": "Save"
+    },
+    "titleColumn": {
+        "text": "Title"
+    },
+    "propsPanel": {
+        "title": "Properties"
     },
     "selectElementPanel": {
         "title": "Select an item"
@@ -885,56 +901,26 @@
     "pageWindow": {
         "title": "Pages"
     },
+    "shortcutBtn": {
+        "text": "Add to Favorites"
+    },
+    "languageCoumn": {
+        "text": "Languages"
+    },
+    "editTab": {
+        "text": "Edit"
+    },
     "overviewTab": {
         "text": "Preview"
+    },
+    "propsTab": {
+        "text": "Properties"
     },
     "displayedContentTab": {
         "text": "Displayed Contents"
     },
-    "urlField": {
-        "fieldLabel": "URL"
-    },
     "excludeFromMenuField": {
         "fieldLabel": "Non-navigational"
-    },
-    "referencingFieldSEt": {
-        "title": "SEO"
-    },
-    "titleField": {
-        "fieldLabel": "Title *"
-    },
-    "groupsWindow": {
-        "title": "Groups"
-    },
-    "userTab": {
-        "text": "Users"
-    },
-    "adminTab": {
-        "text": "Administration"
-    },
-    "mailColumn": {
-        "text": "Email"
-    },
-    "phoneColumn": {
-        "text": "Phone"
-    },
-    "addressColumn": {
-        "text": "Address"
-    },
-    "postColumn": {
-        "text": "Job title"
-    },
-    "departmentColumn": {
-        "text": "Department"
-    },
-    "readWorkSpaceField": {
-        "fieldLabel": "Read workspaces "
-    },
-    "writeWorkspaceField": {
-        "fieldLabel": "Contribute workspaces"
-    },
-    "defaultWorkspaceField": {
-        "fieldLabel": "Default workspace"
     },
     "addUsersToGroupWindow": {
         "text": "Add these users to the selected group"
@@ -1014,6 +1000,30 @@
     "userPasswordChangeBtn": {
         "text": "Change the password for this user"
     },
+    "settingWindow": {
+        "title": "Settings"
+    },
+    "loginField": {
+        "fieldLabel": "Login "
+    },
+    "functionField": {
+        "fieldLabel": "Function "
+    },
+    "changePassFieldSet": {
+        "title": "Change password"
+    },
+    "oldPasswordField": {
+        "fieldLabel": "Current password "
+    },
+    "newPasswordConfirmField": {
+        "fieldLabel": "Confirm new password "
+    },
+    "changePasswordBtn": {
+        "text": "Change Password"
+    },
+    "desktopBtn": {
+        "text": "Desktop"
+    },
     "stateColumn": {
         "text": "Status"
     },
@@ -1044,30 +1054,6 @@
     "typeColumn": {
         "text": "Type"
     },
-    "settingWindow": {
-        "title": "Settings"
-    },
-    "loginField": {
-        "fieldLabel": "Login "
-    },
-    "functionField": {
-        "fieldLabel": "Function "
-    },
-    "changePassFieldSet": {
-        "title": "Change password"
-    },
-    "oldPasswordField": {
-        "fieldLabel": "Current password "
-    },
-    "newPasswordConfirmField": {
-        "fieldLabel": "Confirm new password "
-    },
-    "changePasswordBtn": {
-        "text": "Change Password"
-    },
-    "desktopBtn": {
-        "text": "Desktop"
-    },
     "searchResultsWindow": {
         "title": "Search Results"
     },
@@ -1092,9 +1078,6 @@
     "domainNameColumn": {
         "text": "Domain name"
     },
-    "siteFieldSet": {
-        "title": "Site"
-    },
     "domainNameField": {
         "fieldLabel": "Domain name *"
     },
@@ -1107,14 +1090,8 @@
     "protocolField": {
         "fieldLabel": "Protocol *"
     },
-    "siteDefaultTitleField": {
-        "fieldLabel": "Default title"
-    },
-    "defaultDescriptionField": {
-        "fieldLabel": "Default description"
-    },
-    "defaultAuthorField": {
-        "fieldLabel": "Default author"
+    "defaultLanguageField": {
+        "fieldLabel": "Default language *"
     },
     "messageryFieldSet": {
         "title": "Messaging"
@@ -1161,6 +1138,24 @@
     "disqusKeyField": {
         "fieldLabel": "Disqus"
     },
+    "queryBuilder": {
+        "title": "Query Wizard "
+    },
+    "queryBuilderStage1": {
+        "title": "Choice of types of content"
+    },
+    "qbs1selAllBtn": {
+        "tooltip": "Select all"
+    },
+    "qbStage2": {
+        "title": "Choice of taxonomy terms"
+    },
+    "prevBtn": {
+        "text": "Previous"
+    },
+    "nextBtn": {
+        "text": "Next"
+    },
     "damPickerWindow": {
         "title": "DAM choice"
     },
@@ -1194,24 +1189,6 @@
     "indexAllBtn": {
         "text": "<b>Index everything</b>"
     },
-    "queryBuilder": {
-        "title": "Query Wizard "
-    },
-    "queryBuilderStage1": {
-        "title": "Choice of types of content"
-    },
-    "qbs1selAllBtn": {
-        "tooltip": "Select all"
-    },
-    "qbStage2": {
-        "title": "Choice of taxonomy terms"
-    },
-    "prevBtn": {
-        "text": "Previous"
-    },
-    "nextBtn": {
-        "text": "Next"
-    },
     "onlineCol": {
         "text": "Online"
     },
@@ -1232,10 +1209,6 @@
     },
     "newDamWindow": {
         "title": "New media"
-    },
-    "damTitleField": {
-        "fieldLabel": "Title *",
-        "RTip": "Title of the media. Mandatory."
     },
     "damOrginalFileField": {
         "fieldLabel": "Original file *",
@@ -1290,6 +1263,62 @@
     "saveManualQueryBtn": {
         "text": "Save query"
     },
+    "workspaceWindow": {
+        "title": "Workspaces"
+    },
+    "formsWindow": {
+        "title": "Surveys"
+    },
+    "addPageBtn": {
+        "text": "New page",
+        "tooltip": " Add a page in a form (stage management)"
+    },
+    "newElemBtn": {
+        "text": "New item"
+    },
+    "clipboardGroup ": {
+        "title": "Clipboard"
+    },
+    "rightsTab": {
+        "text": "Rights"
+    },
+    "exploitationField": {
+        "text": "Operation",
+        "tooltip": "The operation of the surveys allows to export results in csv format"
+    },
+    "formTitleField": {
+        "fieldLabel": "Survey title"
+    },
+    "uniqueAnswerField": {
+        "fieldLabel": "Uniqueness of the answer"
+    },
+    "formsUniquenessBtn": {
+        "tooltip": "The uniqueness is designed to restrict submission of a survey"
+    },
+    "openingDateField": {
+        "fieldLabel": "Start date "
+    },
+    "closingDateField": {
+        "fieldLabel": "End date"
+    },
+    "endMessageField": {
+        "fieldLabel": "End message"
+    },
+    "statsFieldSet": {
+        "title": "Statistics"
+    },
+    "totalResultFields": {
+        "fieldLabel": "Number of people having started the survey"
+    },
+    "validResultField": {
+        "fieldLabel": "Number of people having completed the survey"
+    },
+    "resultsFieldSet": {
+        "title": "Results"
+    },
+    "exportCSVBtn": {
+        "text": "Export to CSV"
+    },
     "newContentWindow": {
         "title": "New content"
     },
@@ -1307,14 +1336,6 @@
     },
     "dependantTypesTab": {
         "text": "Nested content"
-    },
-    "contentTitleField": {
-        "fieldLabel": "Title *",
-        "RTip": "Content title. Mandatory."
-    },
-    "summaryField": {
-        "fieldLabel": "Summary ",
-        "RTip": "Optional summary of the content."
     },
     "publishFieldset": {
         "title": "Publication"
@@ -1340,6 +1361,36 @@
     "createAsDraftBtn": {
         "text": "Draft"
     },
+    "termsCol": {
+        "text": "Terms"
+    },
+    "newVocabWindow": {
+        "title": "New vocabulary"
+    },
+    "createNewVocabBtn": {
+        "text": "Create a new vocabulary"
+    },
+    "newCTWindow": {
+        "title": "New content type"
+    },
+    "isDepField": {
+        "fieldLabel": "Nested "
+    },
+    "createNTCBtn": {
+        "text": "Create a new content type"
+    },
+    "addCTFieldWindow": {
+        "title": "Add a field"
+    },
+    "multiTCAddFieldCol": {
+        "title": "Multiple adding"
+    },
+    "optionsGrid": {
+        "title": "Options"
+    },
+    "depCTTab": {
+        "title": "Nested content types"
+    },
     "newMaskWindow": {
         "title": "New mask"
     },
@@ -1348,9 +1399,6 @@
     },
     "createNewMaskBtn": {
         "text": "Create a new mask"
-    },
-    "termsCol": {
-        "text": "Terms"
     },
     "maskDupliacteWindow": {
         "title": "Mask duplication"
@@ -1364,38 +1412,11 @@
     "mdSubmitBtn": {
         "text": "Duplicate this mask"
     },
-    "newVocabWindow": {
-        "title": "New vocabulary"
-    },
-    "createNewVocabBtn": {
-        "text": "Create a new vocabulary"
-    },
     "blockConfigSimplePanel": {
         "title": "Simple"
     },
     "blockConfigAdvancedPanel": {
         "title": "Advanced"
-    },
-    "newCTWindow": {
-        "title": "New content type"
-    },
-    "isDepField": {
-        "fieldLabel": "Nested "
-    },
-    "createNTCBtn": {
-        "text": "Create a new content type"
-    },
-    "optionsGrid": {
-        "title": "Options"
-    },
-    "addCTFieldWindow": {
-        "title": "Add a field"
-    },
-    "multiTCAddFieldCol": {
-        "title": "Multiple adding"
-    },
-    "depCTTab": {
-        "title": "Nested content types"
     },
     "contentTypesWindow": {
         "title": "Content types"
@@ -1486,8 +1507,8 @@
     "editTermsGroup": {
         "title": "Term editing"
     },
-    "helpTextField": {
-        "fieldLabel": "Help text "
+    "facetOperatorField": {
+        "fieldLabel": "Facet operator"
     },
     "expandableField": {
         "fieldLabel": "Extendable "
@@ -1511,17 +1532,62 @@
     "mediasWindow": {
         "title": "DAM"
     },
+    "addDirectoryBtn": {
+        "text": "Add"
+    },
+    "removeDirectoryBtn": {
+        "text": "Remove"
+    },
+    "directorySettingsBtn": {
+        "text": "Settings"
+    },
     "massDamUploadBtn": {
         "text": "Mass upload"
     },
     "filePlanTreePanel": {
         "title": "File plan"
     },
+    "damFolderCol": {
+        "text": "Folder"
+    },
     "typeColumn2": {
         "text": "Type"
     },
     "applyFiltersBtn": {
         "text": "Apply filters"
+    },
+    "groupsWindow": {
+        "title": "Groups"
+    },
+    "userTab": {
+        "text": "Users"
+    },
+    "adminTab": {
+        "text": "Administration"
+    },
+    "mailColumn": {
+        "text": "Email"
+    },
+    "phoneColumn": {
+        "text": "Phone"
+    },
+    "addressColumn": {
+        "text": "Address"
+    },
+    "postColumn": {
+        "text": "Job title"
+    },
+    "departmentColumn": {
+        "text": "Department"
+    },
+    "readWorkSpaceField": {
+        "fieldLabel": "Read workspaces "
+    },
+    "writeWorkspaceField": {
+        "fieldLabel": "Contribute workspaces"
+    },
+    "defaultWorkspaceField": {
+        "fieldLabel": "Default workspace"
     },
     "hideAllWindowsBtn": {
         "tooltip": "Show desktop"
