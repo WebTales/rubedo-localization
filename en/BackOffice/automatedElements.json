@@ -173,5 +173,22 @@
     "filesUploadedText": "files uploaded",
     "allText": "All",
     "contentTypeText":"Content type",
-    "encodingText":"Encoding"
+    "encodingText":"Encoding",
+    "siteLanguageChoiceError":"The default site language must be one of the site languages",
+    "delconBaseText":"Are you sure you want to delete",
+    "thisMaskText":"this page mask",
+    "thisPageText": "this page",
+    "thisContentTypeText":"this content type",
+    "thisMediaTypeText":"this media type",
+    "thisSurveyText":"this survey",
+    "thisFolderText":"this folder",
+    "thisMediaText":"this digital asset",
+    "thisVocabularyText":"this vocabulary",
+    "atLeastOneLocError":"At least one language must be active",
+    "alreadyTranslatedError":"This item has already been translated in all active languages",
+    "missingLocError":"This version is not eligible for localized revert",
+    "imageRequiredError":"An image must be selected",
+    "localizationErrorText":"Localization error",
+    "noCurrentWorkingLanguageError":"No working language selected",
+    "currentWorkingLanguageText":"Current working language"
 }

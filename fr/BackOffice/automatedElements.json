@@ -173,5 +173,22 @@
 	"filesUploadedText":"fichiers téléchargés",
 	"allText":"Tous",
 	"contentTypeText":"Type de contenu",
-	"encodingText":"Encodage"
+	"encodingText":"Encodage",
+	"siteLanguageChoiceError":"La langue du site par défaut doit être choisie parmi les langues du site",
+	"delconBaseText":"Êtes-vous sûr de que vouloir supprimer",
+	"thisMaskText":"ce masque de page",
+	"thisPageText":"cette page",
+	"thisContentTypeText":"ce type de contenu",
+	"thisMediaTypeText":"ce type de média",
+	"thisSurveyText":"ce questionaire",
+	"thisFolderText":"ce dossier",
+	"thisMediaText":"ce média",
+	"thisVocabularyText":"ce vocabulaire",
+	"atLeastOneLocError":"Au moins une langue doit être activée",
+	"alreadyTranslatedError":"Cet élément a déjà été traduit dans toutes les langues actives",
+	"missingLocError":"Cette version n'est pas éligible en raison de la localisation",
+	"imageRequiredError":"Une image doit être sélectionnée",
+	"localizationErrorText":"Erreur de localisation",
+	"noCurrentWorkingLanguageError":"Aucune langue de travail sélectionnée",
+	"currentWorkingLanguageText":"Langue de travail actuelle"
 }
