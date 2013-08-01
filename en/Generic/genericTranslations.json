@@ -31,5 +31,7 @@
 	"Label.Subscribe": "Subscribe",
 	"Label.Send": "Send",
 	"Label.Download": "Download",
-	"Label.Refresh": "Refresh"
+	"Label.Refresh": "Refresh",
+	"Block.error": "Error!",
+	"Block.errorNoDisplay": "No data to display."
 }
