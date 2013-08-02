@@ -32,6 +32,6 @@
 	"Label.Send":"Envoyer",
 	"Label.Download":"Télécharger",
 	"Label.Refresh":"Rafraîchir",
-	"Block.error": "Erreur !",
-	"Block.errorNoDisplay": "Aucune données à afficher."
+	"Block.error":"Erreur !",
+	"Block.errorNoDisplay":"Aucune données à afficher."
 }
