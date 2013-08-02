@@ -11,6 +11,7 @@
 	"Search.Facets.Label.Date":"Date",
 	"TaxonomyTerms.PagePicker.CurrentPage":"Page courante",
 	"TaxonomyTerms.PagePicker.AllSites":"Tous les sites",
+	"Taxonomy.Navigation":"Navigation",
 	"Contents.PublishedBy":"Publié par",
 	"Contents.On":"sur",
 	"Contents.Of":"sur",
@@ -32,6 +33,6 @@
 	"Label.Send":"Envoyer",
 	"Label.Download":"Télécharger",
 	"Label.Refresh":"Rafraîchir",
-	"Block.error": "Erreur !",
-	"Block.errorNoDisplay": "Aucune données à afficher."
+	"Block.error":"Erreur !",
+	"Block.errorNoDisplay":"Aucune données à afficher."
 }
