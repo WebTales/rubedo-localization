@@ -192,6 +192,6 @@
 	"noCurrentWorkingLanguageError":"Aucune langue de travail sélectionnée",
 	"currentWorkingLanguageText":"Langue de travail actuelle",
 	"languagesText":"Langues",
-	"locStrategyText":"Localization strategy",
+	"locStrategyText":"Stratégie de localisation",
 	"useBrowserLanguageText":"Utiliser la langue du navigateur"
 }
