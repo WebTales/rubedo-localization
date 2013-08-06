@@ -34,5 +34,6 @@
 	"Label.Download":"Télécharger",
 	"Label.Refresh":"Rafraîchir",
 	"Block.error":"Erreur !",
+	"Block.noimageerror":"Impossible de charger les images",
 	"Block.errorNoDisplay":"Aucune données à afficher."
 }

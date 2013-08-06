@@ -1,10 +1,14 @@
 {
 	"FO.Administration.Toolbar.Button.EditPage":"Éditer la page",
 	"FO.Administration.Toolbar.Button.User.Logout":"Déconnexion",
+	"FO.Administration.Toolbar.Button.User.Backoffice":"Backoffice",
 	"FO.Administration.Toolbar.Button.Cancel":"Annuler",
+	"FO.Administration.Toolbar.Button.Validate":"Valider",
 	"FO.Administration.Toolbar.Button.SaveChanges":"Enregistrer les modifications",
 	"FO.Administration.Toolbar.Status.Consultation":"Consultation",
 	"FO.Administration.Toolbar.Status.Edition":"Édition",
 	"FO.Administration.Toolbar.Title.Administration":"Administration",
-	"FO.Administration.Toolbar.Button.SaveChanges.Tooltip":"Appuyez sur CTRL + S pour sauvegarder"
+	"FO.Administration.Toolbar.Button.SaveChanges.Tooltip":"Appuyez sur CTRL + S pour sauvegarder",
+	"FO.Administration.Toolbar.foEditSuccess":"Le contenu a été sauvegardé.",
+	"FO.Administration.Toolbar.foSelectCtype":"Sélectionnez le type de contenu à ajouter"
 }
