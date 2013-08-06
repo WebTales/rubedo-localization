@@ -213,6 +213,6 @@
 	"#ext-gen1400#":"Image map",
 	"#ext-gen1401#":"<p>Le bloc 'Image map' permet de créer une image map en utilisant une image dans la médiathèque<\/p>",
 	"#ext-gen1402#":"Map",
-	"#ext-gen1403#":"<p>Le bloc 'Twitter' permet d’afficher une liste des tweets ou des tweets favoris d'un compte Twitter. Le bloc permet : </p><ul><li>de définir le nombre de tweet à afficher</li><li>de paramétrer les dimensions du bloc</li><li>de définir les options de présentation</li></ul>",
+	"#ext-gen1403#":"<p>Le bloc 'Twitter' permet d’afficher une liste des tweets ou des tweets favoris d'un compte Twitter. Le bloc permet : <\/p><ul><li>de définir le nombre de tweet à afficher<\/li><li>de paramétrer les dimensions du bloc<\/li><li>de définir les options de présentation<\/li><\/ul>",
 	"#ext-gen1404#":"Nécessite la création d'un nouveau widget dans le compte Twitter afin de définir un 'id de widget'"
 }
