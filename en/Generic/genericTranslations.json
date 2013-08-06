@@ -34,5 +34,6 @@
 	"Label.Download": "Download",
 	"Label.Refresh": "Refresh",
 	"Block.error": "Error!",
+	"Block.noimageerror": "Can't access images",
 	"Block.errorNoDisplay": "No data to display."
 }
