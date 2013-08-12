@@ -195,5 +195,7 @@
     "locStrategyText":"Localizastion strategy",
     "useBrowserLanguageText":"Use browser language",
     "onlyOneText":"Only one",
-    "withFallbackText":"With fallback"
+    "withFallbackText":"With fallback",
+    "editText":"Edit",
+    "alreadyAnsweredText":"Already answered"
 }

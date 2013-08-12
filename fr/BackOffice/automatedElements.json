@@ -195,5 +195,7 @@
 	"locStrategyText":"Stratégie de localisation",
 	"useBrowserLanguageText":"Utiliser la langue du navigateur",
 	"onlyOneText":"Une seule langue",
-    "withFallbackText":"Avec repli sur la langue par défaut"
+    "withFallbackText":"Avec repli sur la langue par défaut",
+    "editText":"Modifier",
+    "alreadyAnsweredText":"Déjà répondu"
 }
