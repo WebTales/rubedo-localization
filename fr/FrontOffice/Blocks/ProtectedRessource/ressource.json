@@ -1,5 +1,10 @@
 {
 	"Blocks.ProtectedRessource.Mail.Hello":"Bonjour,",
 	"Blocks.ProtectedRessource.Mail.Body":"Suite à votre demande, nous sommes heureux de vous envoyer votre lien de téléchargement. Celui-ci sera actif 48 heures.",
-	"Blocks.ProtectedRessource.Mail.Regards":"Cordialement"
+	"Blocks.ProtectedRessource.Mail.Regards":"Cordialement",
+	"Blocks.ProtectedRessource.Mail.signature":"Le site",
+	"Blocks.ProtectedRessource.Message.Download":"Cliquez pour votre téléchargement",
+	"Blocks.ProtectedRessource.Message.EmailSent":"Un email avec votre lien de téléchargement vous a été envoyé",
+	"Blocks.ProtectedRessource.Message.EmailFail":"Impossible de vous envoyer un email avec votre lien de téléchargement",
+	"Blocks.ProtectedRessource.Mail.Subject":"Téléchargement de fichier"
 }
