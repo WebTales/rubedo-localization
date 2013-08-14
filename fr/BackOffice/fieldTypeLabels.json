@@ -61,5 +61,5 @@
 	"#ext-gen1247#":"<p>Le champ 'Texte riche' permet de saisir un texte riche, à l'aide d'un éditeur wysiwyg. Le composant utilisé par défaut est CKEditor, avec trois configurations par défaut : basic, standard ou complet.<\/p>",
 	"#ext-gen1252#":"Mode",
 	"#ext-gen1260#":"Zone de texte",
-	"#ext-gen1261#":"<p>Le champ 'Zone de texte' permet de saisir un texte long, sans formatage avancé.Il intègre plusieurs règles de validation : alphabétique ou alphanumérique.<\/p>"
+	"#ext-gen1261#":"<p>Le champ 'Zone de texte' permet de saisir un texte long, sans formatage avancé. Il intègre plusieurs règles de validation : alphabétique ou alphanumérique.<\/p>"
 }
