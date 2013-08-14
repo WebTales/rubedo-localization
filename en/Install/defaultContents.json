@@ -34,5 +34,8 @@
 	"NewSite.search.url":"search",
 	"NewSite.single.url":"single",
 	"NewSite.single.singleBlocTitle":"display content",
-	"NewSite.search.searchBlocTitle":"search results"
+	"NewSite.search.searchBlocTitle":"search results",
+	"NewSite.1col.title":"1 column",
+	"NewSite.2col.title":"2 columns",
+	"NewSite.3col.title":"3 columns"
 }
