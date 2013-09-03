@@ -197,5 +197,10 @@
 	"onlyOneText":"Une seule langue",
 	"withFallbackText":"Avec repli sur la langue par défaut",
 	"editText":"Modifier",
-	"alreadyAnsweredText":"Déjà répondu"
+	"alreadyAnsweredText":"Déjà répondu",
+	"MediaFieldNeedsTypeError":"Les champs média nécessitent un type de média",
+	"damTypeHasBeenEmptiedText":"Le type de média a été vidé",
+	"themePreviewText":"Aperçu du thème",
+	"fieldText":"Champ",
+	"dbclickToAssignText":"Double-cliquez sur les champs disponibles pour assigner à cette colonne"
 }
