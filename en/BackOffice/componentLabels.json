@@ -29,21 +29,6 @@
     "wallpapaerPickerBtn": {
         "text": "Choose as new wallpaper"
     },
-    "desktopCustomizeWindow": {
-        "title": "Customizing the desktop"
-    },
-    "wallpaperGrid": {
-        "title": "Wallpaper"
-    },
-    "nameCol": {
-        "text": "Name"
-    },
-    "themeGrid": {
-        "title": "Themes"
-    },
-    "accessibilityPanel": {
-        "title": "Accessibility"
-    },
     "themePickerBtn": {
         "text": "Apply this theme"
     },
@@ -80,11 +65,20 @@
     "reusableElementsWindow": {
         "title": "Reusable elements"
     },
+    "nameCol": {
+        "text": "Name"
+    },
     "deleteBtn": {
         "text": "Delete"
     },
     "addBtn": {
         "text": "Add"
+    },
+    "removeBtn": {
+        "text": "Delete"
+    },
+    "renameBtn": {
+        "text": "Rename"
     },
     "changePasswordWindow": {
         "title": "Change password"
@@ -97,12 +91,6 @@
     },
     "applyBtn": {
         "text": "Apply"
-    },
-    "removeBtn": {
-        "text": "Delete"
-    },
-    "renameBtn": {
-        "text": "Rename"
     },
     "termField": {
         "fieldLabel": "Term "
@@ -134,19 +122,6 @@
     "newDamTypeSubmitBtn": {
         "text": "Create a new type of media"
     },
-    "qbs3": {
-        "title": "Choice of the criteria on fields"
-    },
-    "qbs3ruleadder": {
-        "fieldLabel": "Add a rule on "
-    },
-    "qbs3auxbtn": [],
-    "addMTFieldWindow": {
-        "title": "Add a field"
-    },
-    "typeCol": {
-        "text": "Type"
-    },
     "qbFinalRecStagePanel": {
         "title": "Summary and saving"
     },
@@ -159,6 +134,12 @@
     "saveQBQueryBtn": {
         "text": "<b>Save this query</b>"
     },
+    "addMTFieldWindow": {
+        "title": "Add a field"
+    },
+    "typeCol": {
+        "text": "Type"
+    },
     "qbs4": {
         "title": "Choice of sorting on fields"
     },
@@ -166,6 +147,13 @@
         "fieldLabel": "Add a sort on "
     },
     "qbs4auxbtn": [],
+    "qbs3": {
+        "title": "Choice of the criteria on fields"
+    },
+    "qbs3ruleadder": {
+        "fieldLabel": "Add a rule on "
+    },
+    "qbs3auxbtn": [],
     "gfsUploadFileBtn": {
         "tooltip": "Upload a file"
     },
@@ -218,12 +206,6 @@
     "editBtn": {
         "text": "Edit"
     },
-    "newWorkspaceWindow": {
-        "title": "New workspace"
-    },
-    "createNewWorkspaceBtn": {
-        "text": "Create a new workspace"
-    },
     "chooseDamTypeWindow": {
         "title": "Choose a media type"
     },
@@ -232,9 +214,6 @@
     },
     "chooseDamTypeSubmitBtn": {
         "text": "Create a new media of this type"
-    },
-    "newTermWindow": {
-        "title": "New term"
     },
     "workspaceField": {
         "fieldLabel": "Workspaces"
@@ -247,6 +226,15 @@
     },
     "maskSaveChoice2Btn": {
         "text": "Save as a new mask"
+    },
+    "newWorkspaceWindow": {
+        "title": "New workspace"
+    },
+    "createNewWorkspaceBtn": {
+        "text": "Create a new workspace"
+    },
+    "newTermWindow": {
+        "title": "New term"
     },
     "chooseBtn": {
         "text": "Choose"
@@ -272,6 +260,12 @@
     "saveBtn": {
         "text": "Save"
     },
+    "sessionExpiringWindow": {
+        "title": "Your session will soon expire"
+    },
+    "sessionRenewWindow": {
+        "text": "Renew my session"
+    },
     "lcFieldAdress": {
         "fieldLabel": "Address"
     },
@@ -284,32 +278,11 @@
     "lcFieldLongitude": {
         "fieldLabel": "Longitude"
     },
-    "sessionExpiringWindow": {
-        "title": "Your session will soon expire"
-    },
-    "sessionRenewWindow": {
-        "text": "Renew my session"
-    },
     "sessionExpiredWindow": {
         "title": "Your session has expired"
     },
     "reconnectBtn": {
         "text": "Connect again"
-    },
-    "gfsUploadBtn": {
-        "tooltip": "Upload a file"
-    },
-    "gfsRemoveFileBtn": {
-        "tooltip": "Delete the file"
-    },
-    "gfsDownloadBtn": {
-        "tooltip": "Download the file"
-    },
-    "gfsHelpBtn": {
-        "tooltip": "Main media file. Mandatory."
-    },
-    "gfsEditBtn": {
-        "tooltip": "Edit the file"
     },
     "pagesLaunchBtn": {
         "text": "Pages"
@@ -350,6 +323,9 @@
     "formsLaunchBtn": {
         "text": "Surveys"
     },
+    "customThemesLaunchBtn": {
+        "text": "Custom Themes"
+    },
     "queriesLaunchBtn": {
         "text": "Queries"
     },
@@ -380,6 +356,21 @@
     "languagesLaunchBtn": {
         "text": "Languages"
     },
+    "gfsUploadBtn": {
+        "tooltip": "Upload a file"
+    },
+    "gfsRemoveFileBtn": {
+        "tooltip": "Delete the file"
+    },
+    "gfsDownloadBtn": {
+        "tooltip": "Download the file"
+    },
+    "gfsHelpBtn": {
+        "tooltip": "Main media file. Mandatory."
+    },
+    "gfsEditBtn": {
+        "tooltip": "Edit the file"
+    },
     "newUserWindow": {
         "title": "New user"
     },
@@ -407,14 +398,14 @@
     "formFieldConfiguratorBtn": {
         "tooltip": "Settings"
     },
-    "formFieldConditionBtn": {
-        "tooltip": "Display condition"
-    },
     "formFieldConditionsBtn": {
         "tooltip": "Display condition"
     },
     "fieldPanel": {
         "title": "Fields"
+    },
+    "formFieldConditionBtn": {
+        "tooltip": "Display condition"
     },
     "rteConfigWindow": {
         "title": "Rich text editor"
@@ -569,12 +560,6 @@
     "closedQuestionRemoveOptionBtn": {
         "tooltip": "Remove this option"
     },
-    "formPageConfigurator": {
-        "title": "Page editor"
-    },
-    "formPageLabelField": {
-        "fieldLabel": "Label"
-    },
     "importMainWindow": {
         "title": "Import"
     },
@@ -598,8 +583,14 @@
     "importImportAsFieldCol": {
         "text": "Import as a field"
     },
+    "importAsFieldTransCol": {
+        "text": "Import as field translation"
+    },
     "importImportAsTaxoCol": {
         "text": "Import as taxonomy"
+    },
+    "ImportAsTaxoTransCol": {
+        "text": "Import as taxonomy translation"
     },
     "importStage2": {
         "title": "Setup of the fields"
@@ -637,6 +628,24 @@
     "importS3MandatoryCol": {
         "text": "Mandatory"
     },
+    "translationSettingsPanel": {
+        "title": "Translation settings"
+    },
+    "FieldTransSetPanel": {
+        "title": "Field translations"
+    },
+    "transFieldCol": {
+        "text": "Translated field"
+    },
+    "transLanguageCol": {
+        "text": "Translation language"
+    },
+    "TaxoTransSetPanel": {
+        "title": "Taxonomy translations"
+    },
+    "transVocabCol": {
+        "text": "Translated vocabulary"
+    },
     "importFinalStage": {
         "title": "Finalization and import"
     },
@@ -657,6 +666,12 @@
     },
     "importBtn": {
         "text": "Import"
+    },
+    "formPageConfigurator": {
+        "title": "Page editor"
+    },
+    "formPageLabelField": {
+        "fieldLabel": "Label"
     },
     "mailingListsWindow": {
         "title": "Mailing lists"
@@ -736,6 +751,9 @@
     "chooseDamTypeMassSubmitBtn": {
         "text": "Upload media of this type"
     },
+    "pixlrEditorWindow": {
+        "title": "Image editor"
+    },
     "damMassUploadWindow": {
         "title": "Digital assets mass upload"
     },
@@ -757,9 +775,6 @@
     "doneUploadingBtn": {
         "text": "Done uploading"
     },
-    "pixlrEditorWindow": {
-        "title": "Image editor"
-    },
     "inheritWorkspaceField": {
         "fieldLabel": "Inherits workspace"
     },
@@ -771,15 +786,6 @@
     },
     "OperatorColumn": {
         "text": "Operator"
-    },
-    "workingLanguageWindow": {
-        "title": "Change current working language"
-    },
-    "TALanguageField": {
-        "fieldLabel": "Language"
-    },
-    "setAsWLBtn": {
-        "text": "Set as current working language"
     },
     "languagesInterface4": {
         "title": "Languages"
@@ -793,11 +799,14 @@
     "OwnNameCol": {
         "text": "Own name"
     },
-    "translationAdderWindow": {
-        "title": "Add new translation"
+    "workingLanguageWindow": {
+        "title": "Change current working language"
     },
-    "translateInThisLanguageBtn": {
-        "text": "Translate in this language"
+    "TALanguageField": {
+        "fieldLabel": "Language"
+    },
+    "setAsWLBtn": {
+        "text": "Set as current working language"
     },
     "urlField": {
         "fieldLabel": "URL"
@@ -811,8 +820,11 @@
     "descriptionField": {
         "fieldLabel": "Description "
     },
-    "helpTextField": {
-        "fieldLabel": "Help text "
+    "translationAdderWindow": {
+        "title": "Add new translation"
+    },
+    "translateInThisLanguageBtn": {
+        "text": "Translate in this language"
     },
     "currentLanguageDSLField": {
         "fieldLabel": "Current language"
@@ -843,12 +855,96 @@
         "fieldLabel": "Summary ",
         "RTip": "Optional summary of the content."
     },
+    "helpTextField": {
+        "fieldLabel": "Help text "
+    },
     "damTitleField": {
         "fieldLabel": "Title *",
         "RTip": "Title of the media. Mandatory."
     },
     "imageMapperWindow": {
         "title": "Image map editor"
+    },
+    "newCustomThemeWindow": {
+        "title": "New custom theme"
+    },
+    "createNewCustomThemeBtn": {
+        "text": "Create new custom theme"
+    },
+    "customThemesWindow": {
+        "title": "Custom Themes"
+    },
+    "themeSimulateBtn": {
+        "text": "Simulate"
+    },
+    "themesMainPanel": {
+        "title": "Themes"
+    },
+    "lessVarsPanel": {
+        "title": "Less Varaibles"
+    },
+    "garysFieldset": {
+        "title": "Grays"
+    },
+    "randomizeColorsBtn": {
+        "text": "Randomize base colors"
+    },
+    "randomizeColorsBOBtn": {
+        "text": "Randomize based on"
+    },
+    "accentColorsFieldset": {
+        "title": "Accent colors"
+    },
+    "linksFieldset": {
+        "title": "Links"
+    },
+    "tablesFieldset": {
+        "title": "Tables"
+    },
+    "buttonsFieldset": {
+        "title": "Buttons"
+    },
+    "formsFieldset": {
+        "title": "Forms"
+    },
+    "dropdownsFieldset": {
+        "title": "Dropdowns"
+    },
+    "wellsFieldset": {
+        "title": "Wells"
+    },
+    "navbarsFieldset": {
+        "title": "Navbar"
+    },
+    "invertedNavbarsFieldset": {
+        "title": "Inverted navbar"
+    },
+    "paginationFieldset": {
+        "title": "Pagination"
+    },
+    "statesAlertsFieldset": {
+        "title": "Form states and alerts"
+    },
+    "tooltipsFieldset": {
+        "title": "Tooltips and popovers"
+    },
+    "typographyFieldset": {
+        "title": "Typography"
+    },
+    "newLayoutWindow": {
+        "title": "New layout"
+    },
+    "createNewLayoutBtn": {
+        "text": "Create new layout"
+    },
+    "assignTCFieldWindow": {
+        "title": "Assign field"
+    },
+    "assignFieldField": {
+        "fieldLabel": "Field"
+    },
+    "assignFieldSubmitBtn": {
+        "text": "Assign this field to selected column"
     },
     "pageMaskWindow": {
         "title": "Page masks"
@@ -921,6 +1017,18 @@
     },
     "excludeFromMenuField": {
         "fieldLabel": "Non-navigational"
+    },
+    "desktopCustomizeWindow": {
+        "title": "Customizing the desktop"
+    },
+    "wallpaperGrid": {
+        "title": "Wallpaper"
+    },
+    "themeGrid": {
+        "title": "Themes"
+    },
+    "accessibilityPanel": {
+        "title": "Accessibility"
     },
     "addUsersToGroupWindow": {
         "text": "Add these users to the selected group"
@@ -1370,27 +1478,6 @@
     "createNewVocabBtn": {
         "text": "Create a new vocabulary"
     },
-    "newCTWindow": {
-        "title": "New content type"
-    },
-    "isDepField": {
-        "fieldLabel": "Nested "
-    },
-    "createNTCBtn": {
-        "text": "Create a new content type"
-    },
-    "addCTFieldWindow": {
-        "title": "Add a field"
-    },
-    "multiTCAddFieldCol": {
-        "title": "Multiple adding"
-    },
-    "optionsGrid": {
-        "title": "Options"
-    },
-    "depCTTab": {
-        "title": "Nested content types"
-    },
     "newMaskWindow": {
         "title": "New mask"
     },
@@ -1417,6 +1504,27 @@
     },
     "blockConfigAdvancedPanel": {
         "title": "Advanced"
+    },
+    "newCTWindow": {
+        "title": "New content type"
+    },
+    "isDepField": {
+        "fieldLabel": "Nested "
+    },
+    "createNTCBtn": {
+        "text": "Create a new content type"
+    },
+    "addCTFieldWindow": {
+        "title": "Add a field"
+    },
+    "multiTCAddFieldCol": {
+        "title": "Multiple adding"
+    },
+    "optionsGrid": {
+        "title": "Options"
+    },
+    "depCTTab": {
+        "title": "Nested content types"
     },
     "contentTypesWindow": {
         "title": "Content types"
@@ -1470,8 +1578,42 @@
     "disqusField": {
         "fieldLabel": "Disqus"
     },
+    "layoutsPanel": {
+        "title": "Layouts"
+    },
+    "layoutsGrid": {
+        "title": "Layouts"
+    },
+    "availableFieldsGrid": {
+        "title": "Available fields"
+    },
+    "labelColumn": {
+        "text": "Labels"
+    },
+    "addRowToLBtn": {
+        "text": "New row"
+    },
+    "addColToLBtn": {
+        "text": "New Column"
+    },
+    "assignFieldToColBtn": {
+        "text": "Assign field"
+    },
+    "moveLBtn": {
+        "text": "Move"
+    },
+    "saveLayoutBtn": {
+        "text": "Save layout"
+    },
+    "layoutPropertiesPanel": {
+        "title": "Properties"
+    },
     "DamTypesMainWindow": {
         "title": "Media types"
+    },
+    "emptyDamBtn": {
+        "text": "Empty assets",
+        "tooltip": "Delete all contents of this type"
     },
     "auxBtn13": {
         "tooltip": "Title of the media. Mandatory."
@@ -1485,9 +1627,6 @@
     },
     "MTtaxoGridUse": {
         "title": "Vocabularies that can be used as classification scheme "
-    },
-    "labelColumn": {
-        "text": "Labels"
     },
     "rightsFieldSet": {
         "title": "Rights"
