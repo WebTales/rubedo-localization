@@ -215,5 +215,7 @@
 	"#ext-gen1402#":"Map",
 	"#ext-gen1403#":"<p>The 'Twitter' block displays a list of tweets from a Twitter account. The block allows to : </p><ul><li>define the number of tweets to display</li><li>configure block dimensions</li><li>define display options</li></ul>",
 	"#ext-gen1404#":"Requires the creation of a new widget in the Twitter account in order to define a 'widget id'",
-	"#ext-gen1405#":"Image field"
+	"#ext-gen1405#":"Image field",
+	"#ext-gen1406#":"Title only",
+	"#ext-gen1407#":"Summary height"
 }
