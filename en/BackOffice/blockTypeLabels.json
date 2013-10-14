@@ -217,5 +217,6 @@
 	"#ext-gen1404#":"Requires the creation of a new widget in the Twitter account in order to define a 'widget id'",
 	"#ext-gen1405#":"Image field",
 	"#ext-gen1406#":"Title only",
-	"#ext-gen1407#":"Summary height"
+	"#ext-gen1407#":"Summary height",
+	"#ext-gen1408#":"<p>The 'Advanced search form' block displays a search form limitated to one or several content types. The form displays the available vocabularies for choosen content types as combo boxes.</p>"
 }
