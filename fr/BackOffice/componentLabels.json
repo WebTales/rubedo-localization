@@ -584,7 +584,7 @@
     "text":"Recherchable"
   },
   "importS2LocalizableCol":{
-    "text":"Localisable"
+    "text":"Traductible"
   },
   "importS2MandatoryCol":{
     "text":"Obligatoire"
