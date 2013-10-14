@@ -50,18 +50,6 @@
     "nameColumn": {
         "text": "Name"
     },
-    "exportElementsWindow": {
-        "title": "Export an element"
-    },
-    "mandatoryNameField": {
-        "fieldLabel": "Name * "
-    },
-    "elementDescriptionField": {
-        "fieldLabel": "Description "
-    },
-    "exportElementBtn": {
-        "text": "Export this element "
-    },
     "reusableElementsWindow": {
         "title": "Reusable elements"
     },
@@ -73,6 +61,18 @@
     },
     "addBtn": {
         "text": "Add"
+    },
+    "exportElementsWindow": {
+        "title": "Export an element"
+    },
+    "mandatoryNameField": {
+        "fieldLabel": "Name * "
+    },
+    "elementDescriptionField": {
+        "fieldLabel": "Description "
+    },
+    "exportElementBtn": {
+        "text": "Export this element "
     },
     "removeBtn": {
         "text": "Delete"
@@ -122,6 +122,40 @@
     "newDamTypeSubmitBtn": {
         "text": "Create a new type of media"
     },
+    "addMTFieldWindow": {
+        "title": "Add a field"
+    },
+    "typeCol": {
+        "text": "Type"
+    },
+    "qbs3": {
+        "title": "Choice of the criteria on fields"
+    },
+    "qbs3ruleadder": {
+        "fieldLabel": "Add a rule on "
+    },
+    "qbs3auxbtn": [],
+    "titleCol": {
+        "text": "Title"
+    },
+    "onlineCol": {
+        "text": "Online"
+    },
+    "chooseThisContentBtn": {
+        "text": "<b>Choose this content</b>"
+    },
+    "u1TitleColumn": {
+        "text": "Title"
+    },
+    "u1TypeColumn": {
+        "text": "Type"
+    },
+    "u1StatusColumn": {
+        "text": "State"
+    },
+    "u1OnlineColumn": {
+        "text": "Online"
+    },
     "qbFinalRecStagePanel": {
         "title": "Summary and saving"
     },
@@ -134,12 +168,6 @@
     "saveQBQueryBtn": {
         "text": "<b>Save this query</b>"
     },
-    "addMTFieldWindow": {
-        "title": "Add a field"
-    },
-    "typeCol": {
-        "text": "Type"
-    },
     "qbs4": {
         "title": "Choice of sorting on fields"
     },
@@ -147,13 +175,6 @@
         "fieldLabel": "Add a sort on "
     },
     "qbs4auxbtn": [],
-    "qbs3": {
-        "title": "Choice of the criteria on fields"
-    },
-    "qbs3ruleadder": {
-        "fieldLabel": "Add a rule on "
-    },
-    "qbs3auxbtn": [],
     "gfsUploadFileBtn": {
         "tooltip": "Upload a file"
     },
@@ -188,6 +209,12 @@
     "wizardNextBtn": {
         "text": "Next"
     },
+    "queryWindow": {
+        "title": "Queries"
+    },
+    "editBtn": {
+        "text": "Edit"
+    },
     "queryTypeChooseWindow": {
         "title": "Choose a query type"
     },
@@ -200,12 +227,6 @@
     "chooseAdvancedQueryBtn": {
         "text": "Advanced query"
     },
-    "queryWindow": {
-        "title": "Queries"
-    },
-    "editBtn": {
-        "text": "Edit"
-    },
     "chooseDamTypeWindow": {
         "title": "Choose a media type"
     },
@@ -214,6 +235,24 @@
     },
     "chooseDamTypeSubmitBtn": {
         "text": "Create a new media of this type"
+    },
+    "manualQueryWindow": {
+        "title": "Manual query"
+    },
+    "addQBtn": {
+        "text": "Add"
+    },
+    "removeQbtn": {
+        "text": "Remove"
+    },
+    "saveManualQueryBtn": {
+        "text": "Save query"
+    },
+    "newWorkspaceWindow": {
+        "title": "New workspace"
+    },
+    "createNewWorkspaceBtn": {
+        "text": "Create a new workspace"
     },
     "workspaceField": {
         "fieldLabel": "Workspaces"
@@ -227,20 +266,8 @@
     "maskSaveChoice2Btn": {
         "text": "Save as a new mask"
     },
-    "newWorkspaceWindow": {
-        "title": "New workspace"
-    },
-    "createNewWorkspaceBtn": {
-        "text": "Create a new workspace"
-    },
     "newTermWindow": {
         "title": "New term"
-    },
-    "chooseBtn": {
-        "text": "Choose"
-    },
-    "modifyBtn": {
-        "text": "Edit"
     },
     "mediaQueryAssistant": {
         "title": "Querying on media Wizard"
@@ -260,11 +287,11 @@
     "saveBtn": {
         "text": "Save"
     },
-    "sessionExpiringWindow": {
-        "title": "Your session will soon expire"
+    "chooseBtn": {
+        "text": "Choose"
     },
-    "sessionRenewWindow": {
-        "text": "Renew my session"
+    "modifyBtn": {
+        "text": "Edit"
     },
     "lcFieldAdress": {
         "fieldLabel": "Address"
@@ -277,6 +304,12 @@
     },
     "lcFieldLongitude": {
         "fieldLabel": "Longitude"
+    },
+    "sessionExpiringWindow": {
+        "title": "Your session will soon expire"
+    },
+    "sessionRenewWindow": {
+        "text": "Renew my session"
     },
     "sessionExpiredWindow": {
         "title": "Your session has expired"
@@ -320,11 +353,11 @@
     "damTypesLaunchBtn": {
         "text": "Media types"
     },
-    "formsLaunchBtn": {
-        "text": "Surveys"
-    },
     "customThemesLaunchBtn": {
         "text": "Custom Themes"
+    },
+    "formsLaunchBtn": {
+        "text": "Surveys"
     },
     "queriesLaunchBtn": {
         "text": "Queries"
@@ -356,6 +389,9 @@
     "languagesLaunchBtn": {
         "text": "Languages"
     },
+    "applicationLogsLaunchBtn": {
+        "text": "Application logs"
+    },
     "gfsUploadBtn": {
         "tooltip": "Upload a file"
     },
@@ -371,6 +407,9 @@
     "gfsEditBtn": {
         "tooltip": "Edit the file"
     },
+    "picUploadWindow": {
+        "title": "Upload an image"
+    },
     "newUserWindow": {
         "title": "New user"
     },
@@ -380,86 +419,11 @@
     "userAccountField": {
         "fieldLabel": "User account "
     },
-    "picUploadWindow": {
-        "title": "Upload an image"
-    },
-    "newFormWindow": {
-        "title": "New form"
-    },
-    "newFormTitleField": {
-        "fieldLabel": "Title"
-    },
-    "newFormCreateBtn": {
-        "text": "Create this form"
-    },
-    "formAddElementWindow": {
-        "title": "Add Item"
-    },
-    "formFieldConfiguratorBtn": {
-        "tooltip": "Settings"
-    },
-    "formFieldConditionsBtn": {
-        "tooltip": "Display condition"
-    },
     "fieldPanel": {
         "title": "Fields"
     },
-    "formFieldConditionBtn": {
-        "tooltip": "Display condition"
-    },
     "rteConfigWindow": {
         "title": "Rich text editor"
-    },
-    "formOpenQuestionConfigurator": {
-        "title": "Open question Editor"
-    },
-    "questionLabelField": {
-        "fieldLabel": "Title of the question"
-    },
-    "questionCodeField": {
-        "fieldLabel": "Code of the question"
-    },
-    "questionHelpTextField": {
-        "fieldLabel": "Tooltip"
-    },
-    "questionMandatoryField": {
-        "fieldLabel": "Mandatory"
-    },
-    "questionFieldTypeRadioGroup": {
-        "fieldLabel": "Field type"
-    },
-    "questionTextRadio": {
-        "boxLabel": "Text"
-    },
-    "questionTextareaRadio": {
-        "boxLabel": "Comment"
-    },
-    "questionNumberRadio": {
-        "boxLabel": "Number"
-    },
-    "questionDateRadio": {
-        "boxLabel": "Date"
-    },
-    "questionTimeRadio": {
-        "boxLabel": "Time"
-    },
-    "minLengthField": {
-        "fieldLabel": "Min length"
-    },
-    "maxLengthField": {
-        "fieldLabel": "Max length"
-    },
-    "validationField": {
-        "fieldLabel": "Validation"
-    },
-    "minValueField": {
-        "fieldLabel": "Min value"
-    },
-    "maxValueField": {
-        "fieldLabel": "Max value"
-    },
-    "allowDecimalsField": {
-        "fieldLabel": "Decimals"
     },
     "emFieldURL": {
         "fieldLabel": "URL"
@@ -470,6 +434,12 @@
     "emFieldMAxHeight": {
         "fieldLabel": "Max height"
     },
+    "addBlockWindow": {
+        "title": "Add a block"
+    },
+    "addBlockTypeColumn": {
+        "text": "Type"
+    },
     "confirmDeleteWindow": {
         "title": "Deletion confirmation"
     },
@@ -478,24 +448,6 @@
     },
     "confirmDeleteNo": {
         "text": "No"
-    },
-    "addBlockWindow": {
-        "title": "Add a block"
-    },
-    "addBlockTypeColumn": {
-        "text": "Type"
-    },
-    "newPageWindow": {
-        "title": "New Page"
-    },
-    "newPageTitleField": {
-        "fieldLabel": "Title "
-    },
-    "newPageMaskChoiceField": {
-        "fieldLabel": "Page mask "
-    },
-    "newPageSubmitBtn": {
-        "text": "Create as a descendant of the selected page"
     },
     "previewWindow": {
         "title": "Preview"
@@ -530,35 +482,50 @@
     "dateField": {
         "fieldLabel": "Date"
     },
+    "pagePreviewLanguageField": {
+        "fieldLabel": "Language"
+    },
     "refreshBtn": {
         "text": "<b>Refresh</b>"
     },
-    "multiChoiceQuestionEditor": {
-        "title": "Closed question Editor"
+    "newPageWindow": {
+        "title": "New Page"
     },
-    "mandatoryCheckbox": {
-        "fieldLabel": "Mandatory"
+    "newPageTitleField": {
+        "fieldLabel": "Title "
     },
-    "colNumberField": {
-        "fieldLabel": "Number of columns"
+    "newPageMaskChoiceField": {
+        "fieldLabel": "Page mask "
     },
-    "answerTypeCheckboxGroup": {
-        "fieldLabel": "Answer"
+    "newPageSubmitBtn": {
+        "text": "Create as a descendant of the selected page"
     },
-    "sipleChoiceRadio": {
-        "boxLabel": "simple choice"
+    "mailingListsWindow": {
+        "title": "Mailing lists"
     },
-    "multiChoiceRadio": {
-        "boxLabel": "multi-choice"
+    "propertiesForm": {
+        "title": "Properties"
     },
-    "optionsCol": {
-        "text": "Options"
+    "expeditorFieldset": {
+        "title": "Sender"
     },
-    "closedQuestionAddOptionBtn": {
-        "tooltip": "Add an option"
+    "expeditorAdressField": {
+        "fieldLabel": "Sender's address"
     },
-    "closedQuestionRemoveOptionBtn": {
-        "tooltip": "Remove this option"
+    "expeditorNameField": {
+        "fieldLabel": "Sender's name"
+    },
+    "responseFieldset": {
+        "title": "Reply"
+    },
+    "replyToAdressField": {
+        "fieldLabel": "Reply address"
+    },
+    "replyToNameField": {
+        "fieldLabel": "Reply name"
+    },
+    "returnPathAdressField": {
+        "fieldLabel": "Return path address"
     },
     "importMainWindow": {
         "title": "Import"
@@ -667,39 +634,6 @@
     "importBtn": {
         "text": "Import"
     },
-    "formPageConfigurator": {
-        "title": "Page editor"
-    },
-    "formPageLabelField": {
-        "fieldLabel": "Label"
-    },
-    "mailingListsWindow": {
-        "title": "Mailing lists"
-    },
-    "propertiesForm": {
-        "title": "Properties"
-    },
-    "expeditorFieldset": {
-        "title": "Sender"
-    },
-    "expeditorAdressField": {
-        "fieldLabel": "Sender's address"
-    },
-    "expeditorNameField": {
-        "fieldLabel": "Sender's name"
-    },
-    "responseFieldset": {
-        "title": "Reply"
-    },
-    "replyToAdressField": {
-        "fieldLabel": "Reply address"
-    },
-    "replyToNameField": {
-        "fieldLabel": "Reply name"
-    },
-    "returnPathAdressField": {
-        "fieldLabel": "Return path address"
-    },
     "newMLWindow": {
         "title": "New mailing list"
     },
@@ -708,6 +642,9 @@
     },
     "optionsConfiguratorBtn": {
         "text": "Configure options"
+    },
+    "imagePreviewWindow": {
+        "title": "Full size preview"
     },
     "optionsEditor1Window": {
         "title": "Option editor"
@@ -745,14 +682,11 @@
     "frontComponentsPropertyGrid": {
         "title": "Front components"
     },
-    "imagePreviewWindow": {
-        "title": "Full size preview"
+    "extensionsPropDisplayPanel": {
+        "title": "Rubedo Extensions"
     },
     "chooseDamTypeMassSubmitBtn": {
         "text": "Upload media of this type"
-    },
-    "pixlrEditorWindow": {
-        "title": "Image editor"
     },
     "damMassUploadWindow": {
         "title": "Digital assets mass upload"
@@ -778,6 +712,9 @@
     "inheritWorkspaceField": {
         "fieldLabel": "Inherits workspace"
     },
+    "pixlrEditorWindow": {
+        "title": "Image editor"
+    },
     "facetOverridesWindow": {
         "title": "Facet overrides"
     },
@@ -786,18 +723,6 @@
     },
     "OperatorColumn": {
         "text": "Operator"
-    },
-    "languagesInterface4": {
-        "title": "Languages"
-    },
-    "FlagCol": {
-        "text": "Flag"
-    },
-    "LangNameCol": {
-        "text": "Name"
-    },
-    "OwnNameCol": {
-        "text": "Own name"
     },
     "workingLanguageWindow": {
         "title": "Change current working language"
@@ -826,6 +751,29 @@
     "translateInThisLanguageBtn": {
         "text": "Translate in this language"
     },
+    "languagesInterface4": {
+        "title": "Languages"
+    },
+    "FlagCol": {
+        "text": "Flag"
+    },
+    "LangNameCol": {
+        "text": "Name"
+    },
+    "OwnNameCol": {
+        "text": "Own name"
+    },
+    "helpTextField": {
+        "fieldLabel": "Help text "
+    },
+    "contentTitleField": {
+        "fieldLabel": "Title *",
+        "RTip": "Content title. Mandatory."
+    },
+    "summaryField": {
+        "fieldLabel": "Summary ",
+        "RTip": "Optional summary of the content."
+    },
     "currentLanguageDSLField": {
         "fieldLabel": "Current language"
     },
@@ -847,17 +795,6 @@
     "defaultAuthorField": {
         "fieldLabel": "Default author"
     },
-    "contentTitleField": {
-        "fieldLabel": "Title *",
-        "RTip": "Content title. Mandatory."
-    },
-    "summaryField": {
-        "fieldLabel": "Summary ",
-        "RTip": "Optional summary of the content."
-    },
-    "helpTextField": {
-        "fieldLabel": "Help text "
-    },
     "damTitleField": {
         "fieldLabel": "Title *",
         "RTip": "Title of the media. Mandatory."
@@ -871,68 +808,11 @@
     "createNewCustomThemeBtn": {
         "text": "Create new custom theme"
     },
-    "customThemesWindow": {
-        "title": "Custom Themes"
-    },
-    "themeSimulateBtn": {
-        "text": "Simulate"
-    },
-    "themesMainPanel": {
-        "title": "Themes"
-    },
-    "lessVarsPanel": {
-        "title": "Less Variables"
-    },
-    "garysFieldset": {
-        "title": "Grays"
-    },
-    "randomizeColorsBtn": {
-        "text": "Randomize base colors"
-    },
-    "randomizeColorsBOBtn": {
-        "text": "Randomize based on"
-    },
-    "accentColorsFieldset": {
-        "title": "Accent colors"
-    },
-    "linksFieldset": {
-        "title": "Links"
-    },
-    "tablesFieldset": {
-        "title": "Tables"
-    },
-    "buttonsFieldset": {
-        "title": "Buttons"
-    },
-    "formsFieldset": {
-        "title": "Forms"
-    },
-    "dropdownsFieldset": {
-        "title": "Dropdowns"
-    },
-    "wellsFieldset": {
-        "title": "Wells"
-    },
-    "navbarsFieldset": {
-        "title": "Navbar"
-    },
-    "invertedNavbarsFieldset": {
-        "title": "Inverted navbar"
-    },
-    "paginationFieldset": {
-        "title": "Pagination"
-    },
-    "statesAlertsFieldset": {
-        "title": "Form states and alerts"
-    },
-    "tooltipsFieldset": {
-        "title": "Tooltips and popovers"
-    },
-    "typographyFieldset": {
-        "title": "Typography"
-    },
     "newLayoutWindow": {
         "title": "New layout"
+    },
+    "nmSiteField": {
+        "fieldLabel": "Site "
     },
     "createNewLayoutBtn": {
         "text": "Create new layout"
@@ -945,6 +825,21 @@
     },
     "assignFieldSubmitBtn": {
         "text": "Assign this field to selected column"
+    },
+    "simpleModeFavoritesBtn": {
+        "text": "Favorites"
+    },
+    "newLayoutWindowCopy": {
+        "title": "Copy layout"
+    },
+    "nameFieldCopy": {
+        "fieldLabel": "New name"
+    },
+    "nmSiteFieldCopy": {
+        "fieldLabel": "To site"
+    },
+    "createNewLayoutBtnCopy": {
+        "text": "Copy this layout"
     },
     "pageMaskWindow": {
         "title": "Page masks"
@@ -1017,6 +912,9 @@
     },
     "excludeFromMenuField": {
         "fieldLabel": "Non-navigational"
+    },
+    "robotFieldset": {
+        "title": "Robot"
     },
     "desktopCustomizeWindow": {
         "title": "Customizing the desktop"
@@ -1135,8 +1033,14 @@
     "stateColumn": {
         "text": "Status"
     },
+    "lastUpdateContentCol": {
+        "text": "Last update"
+    },
     "onlineColumn": {
         "text": "Online"
+    },
+    "contentsClearFilterBtn": {
+        "text": "Clear filters"
     },
     "contentWindow": {
         "title": "Contents"
@@ -1162,24 +1066,6 @@
     "typeColumn": {
         "text": "Type"
     },
-    "searchResultsWindow": {
-        "title": "Search Results"
-    },
-    "saveQueryBtn": {
-        "text": "Save query"
-    },
-    "filtersPanel": {
-        "title": "Filters"
-    },
-    "titleCol": {
-        "text": "Title"
-    },
-    "lastUpdateCol": {
-        "text": "Date of last modification"
-    },
-    "pertinenceCol": {
-        "text": "Relevance"
-    },
     "sitesWindow": {
         "title": "Sites"
     },
@@ -1188,6 +1074,9 @@
     },
     "domainNameField": {
         "fieldLabel": "Domain name *"
+    },
+    "staticDomainField": {
+        "fieldLabel": "Static domain"
     },
     "aliasField": {
         "fieldLabel": "Alias "
@@ -1246,6 +1135,30 @@
     "disqusKeyField": {
         "fieldLabel": "Disqus"
     },
+    "recaptchaFieldset": {
+        "title": "Recaptcha"
+    },
+    "recaptchaPublicKeyField": {
+        "fieldLabel": "Public key"
+    },
+    "recaptchaPrivateKeyField": {
+        "fieldLabel": "Private key"
+    },
+    "searchResultsWindow": {
+        "title": "Search Results"
+    },
+    "saveQueryBtn": {
+        "text": "Save query"
+    },
+    "filtersPanel": {
+        "title": "Filters"
+    },
+    "lastUpdateCol": {
+        "text": "Date of last modification"
+    },
+    "pertinenceCol": {
+        "text": "Relevance"
+    },
     "queryBuilder": {
         "title": "Query Wizard "
     },
@@ -1297,24 +1210,6 @@
     "indexAllBtn": {
         "text": "<b>Index everything</b>"
     },
-    "onlineCol": {
-        "text": "Online"
-    },
-    "chooseThisContentBtn": {
-        "text": "<b>Choose this content</b>"
-    },
-    "u1TitleColumn": {
-        "text": "Title"
-    },
-    "u1TypeColumn": {
-        "text": "Type"
-    },
-    "u1StatusColumn": {
-        "text": "State"
-    },
-    "u1OnlineColumn": {
-        "text": "Online"
-    },
     "newDamWindow": {
         "title": "New media"
     },
@@ -1359,73 +1254,8 @@
     "siteBuilderWizardSubmit": {
         "text": "Create this site"
     },
-    "manualQueryWindow": {
-        "title": "Manual query"
-    },
-    "addQBtn": {
-        "text": "Add"
-    },
-    "removeQbtn": {
-        "text": "Remove"
-    },
-    "saveManualQueryBtn": {
-        "text": "Save query"
-    },
     "workspaceWindow": {
         "title": "Workspaces"
-    },
-    "formsWindow": {
-        "title": "Surveys"
-    },
-    "addPageBtn": {
-        "text": "New page",
-        "tooltip": " Add a page in a form (stage management)"
-    },
-    "newElemBtn": {
-        "text": "New item"
-    },
-    "clipboardGroup ": {
-        "title": "Clipboard"
-    },
-    "rightsTab": {
-        "text": "Rights"
-    },
-    "exploitationField": {
-        "text": "Operation",
-        "tooltip": "The operation of the surveys allows to export results in csv format"
-    },
-    "formTitleField": {
-        "fieldLabel": "Survey title"
-    },
-    "uniqueAnswerField": {
-        "fieldLabel": "Uniqueness of the answer"
-    },
-    "formsUniquenessBtn": {
-        "tooltip": "The uniqueness is designed to restrict submission of a survey"
-    },
-    "openingDateField": {
-        "fieldLabel": "Start date "
-    },
-    "closingDateField": {
-        "fieldLabel": "End date"
-    },
-    "endMessageField": {
-        "fieldLabel": "End message"
-    },
-    "statsFieldSet": {
-        "title": "Statistics"
-    },
-    "totalResultFields": {
-        "fieldLabel": "Number of people having started the survey"
-    },
-    "validResultField": {
-        "fieldLabel": "Number of people having completed the survey"
-    },
-    "resultsFieldSet": {
-        "title": "Results"
-    },
-    "exportCSVBtn": {
-        "text": "Export to CSV"
     },
     "newContentWindow": {
         "title": "New content"
@@ -1469,20 +1299,71 @@
     "createAsDraftBtn": {
         "text": "Draft"
     },
+    "customThemesWindow": {
+        "title": "Custom Themes"
+    },
+    "themesMainPanel": {
+        "title": "Themes"
+    },
+    "lessVarsPanel": {
+        "title": "Less Variables"
+    },
+    "garysFieldset": {
+        "title": "Grays"
+    },
+    "randomizeColorsBtn": {
+        "text": "Randomize base colors"
+    },
+    "randomizeColorsBOBtn": {
+        "text": "Randomize based on"
+    },
+    "accentColorsFieldset": {
+        "title": "Accent colors"
+    },
+    "linksFieldset": {
+        "title": "Links"
+    },
+    "tablesFieldset": {
+        "title": "Tables"
+    },
+    "buttonsFieldset": {
+        "title": "Buttons"
+    },
+    "formsFieldset": {
+        "title": "Forms"
+    },
+    "dropdownsFieldset": {
+        "title": "Dropdowns"
+    },
+    "wellsFieldset": {
+        "title": "Wells"
+    },
+    "navbarsFieldset": {
+        "title": "Navbar"
+    },
+    "invertedNavbarsFieldset": {
+        "title": "Inverted navbar"
+    },
+    "paginationFieldset": {
+        "title": "Pagination"
+    },
+    "statesAlertsFieldset": {
+        "title": "Form states and alerts"
+    },
+    "tooltipsFieldset": {
+        "title": "Tooltips and popovers"
+    },
+    "typographyFieldset": {
+        "title": "Typography"
+    },
+    "themeSimulateBtn": {
+        "text": "Simulate"
+    },
     "termsCol": {
         "text": "Terms"
     },
-    "newVocabWindow": {
-        "title": "New vocabulary"
-    },
-    "createNewVocabBtn": {
-        "text": "Create a new vocabulary"
-    },
     "newMaskWindow": {
         "title": "New mask"
-    },
-    "nmSiteField": {
-        "fieldLabel": "Site "
     },
     "createNewMaskBtn": {
         "text": "Create a new mask"
@@ -1504,6 +1385,12 @@
     },
     "blockConfigAdvancedPanel": {
         "title": "Advanced"
+    },
+    "newVocabWindow": {
+        "title": "New vocabulary"
+    },
+    "createNewVocabBtn": {
+        "text": "Create a new vocabulary"
     },
     "newCTWindow": {
         "title": "New content type"
@@ -1534,6 +1421,24 @@
     },
     "removeFieldBtn": {
         "text": "Delete field"
+    },
+    "layoutsGrid": {
+        "title": "Layouts"
+    },
+    "addRowToLBtn": {
+        "text": "New row"
+    },
+    "addColToLBtn": {
+        "text": "New Column"
+    },
+    "assignFieldToColBtn": {
+        "text": "Assign field"
+    },
+    "moveLBtn": {
+        "text": "Move"
+    },
+    "saveLayoutBtn": {
+        "text": "Save layout"
     },
     "adminGroupCT": {
         "title": "Administration"
@@ -1578,32 +1483,11 @@
     "disqusField": {
         "fieldLabel": "Disqus"
     },
-    "layoutsPanel": {
-        "title": "Layouts"
-    },
-    "layoutsGrid": {
-        "title": "Layouts"
-    },
     "availableFieldsGrid": {
         "title": "Available fields"
     },
     "labelColumn": {
         "text": "Labels"
-    },
-    "addRowToLBtn": {
-        "text": "New row"
-    },
-    "addColToLBtn": {
-        "text": "New Column"
-    },
-    "assignFieldToColBtn": {
-        "text": "Assign field"
-    },
-    "moveLBtn": {
-        "text": "Move"
-    },
-    "saveLayoutBtn": {
-        "text": "Save layout"
     },
     "layoutPropertiesPanel": {
         "title": "Properties"
@@ -1631,20 +1515,14 @@
     "rightsFieldSet": {
         "title": "Rights"
     },
-    "showOnlyIfCombo": {
-        "fieldLabel": "Displayed if and only if "
-    },
-    "formsConditionalEditor": {
-        "title": "Display condition"
-    },
-    "showOnlyIfField": {
-        "fieldLabel": "Displayed if and only if "
-    },
     "taxonomyWindow": {
         "title": "Taxonomy"
     },
     "editTermsGroup": {
         "title": "Term editing"
+    },
+    "rightsTab": {
+        "text": "Rights"
     },
     "facetOperatorField": {
         "fieldLabel": "Facet operator"
@@ -1662,6 +1540,39 @@
         "fieldLabel": "Mandatory "
     },
     "termsPanel": [],
+    "appLogsWindow": {
+        "title": "Application logs"
+    },
+    "logsInfDateField": {
+        "fieldLabel": "Show logs between"
+    },
+    "logsSupDateField": {
+        "fieldLabel": "and"
+    },
+    "logsMinLevelField": {
+        "fieldLabel": "of minimal level"
+    },
+    "logsRefreshBtn": {
+        "text": "Refresh"
+    },
+    "logsClearFilterBtn": {
+        "text": "Clear filters"
+    },
+    "messageCol": {
+        "text": "Message"
+    },
+    "DateCol": {
+        "text": "Date"
+    },
+    "levelCol": {
+        "text": "Level"
+    },
+    "mainFileDamCol": {
+        "text": "Main file"
+    },
+    "sizeDamCol": {
+        "text": "Size"
+    },
     "authorColumn": {
         "text": "Author"
     },
@@ -1694,6 +1605,176 @@
     },
     "applyFiltersBtn": {
         "text": "Apply filters"
+    },
+    "damSwitchGridViewBtn": {
+        "text": "Switch display mode"
+    },
+    "showOnlyIfCombo": {
+        "fieldLabel": "Displayed if and only if "
+    },
+    "formAddElementWindow": {
+        "title": "Add Item"
+    },
+    "formsConditionalEditor": {
+        "title": "Display condition"
+    },
+    "showOnlyIfField": {
+        "fieldLabel": "Displayed if and only if "
+    },
+    "formsWindow": {
+        "title": "Surveys"
+    },
+    "addPageBtn": {
+        "text": "New page",
+        "tooltip": " Add a page in a form (stage management)"
+    },
+    "newElemBtn": {
+        "text": "New item"
+    },
+    "clipboardGroup ": {
+        "title": "Clipboard"
+    },
+    "exploitationField": {
+        "text": "Operation",
+        "tooltip": "The operation of the surveys allows to export results in csv format"
+    },
+    "formTitleField": {
+        "fieldLabel": "Survey title"
+    },
+    "uniqueAnswerField": {
+        "fieldLabel": "Uniqueness of the answer"
+    },
+    "formsUniquenessBtn": {
+        "tooltip": "The uniqueness is designed to restrict submission of a survey"
+    },
+    "openingDateField": {
+        "fieldLabel": "Start date "
+    },
+    "closingDateField": {
+        "fieldLabel": "End date"
+    },
+    "endMessageField": {
+        "fieldLabel": "End message"
+    },
+    "statsFieldSet": {
+        "title": "Statistics"
+    },
+    "totalResultFields": {
+        "fieldLabel": "Number of people having started the survey"
+    },
+    "validResultField": {
+        "fieldLabel": "Number of people having completed the survey"
+    },
+    "resultsFieldSet": {
+        "title": "Results"
+    },
+    "exportCSVBtn": {
+        "text": "Export to CSV"
+    },
+    "formPageConfigurator": {
+        "title": "Page editor"
+    },
+    "formPageLabelField": {
+        "fieldLabel": "Label"
+    },
+    "multiChoiceQuestionEditor": {
+        "title": "Closed question Editor"
+    },
+    "questionLabelField": {
+        "fieldLabel": "Title of the question"
+    },
+    "questionCodeField": {
+        "fieldLabel": "Code of the question"
+    },
+    "questionHelpTextField": {
+        "fieldLabel": "Tooltip"
+    },
+    "mandatoryCheckbox": {
+        "fieldLabel": "Mandatory"
+    },
+    "colNumberField": {
+        "fieldLabel": "Number of columns"
+    },
+    "answerTypeCheckboxGroup": {
+        "fieldLabel": "Answer"
+    },
+    "sipleChoiceRadio": {
+        "boxLabel": "simple choice"
+    },
+    "multiChoiceRadio": {
+        "boxLabel": "multi-choice"
+    },
+    "optionsCol": {
+        "text": "Options"
+    },
+    "closedQuestionAddOptionBtn": {
+        "tooltip": "Add an option"
+    },
+    "closedQuestionRemoveOptionBtn": {
+        "tooltip": "Remove this option"
+    },
+    "newFormWindow": {
+        "title": "New form"
+    },
+    "newFormTitleField": {
+        "fieldLabel": "Title"
+    },
+    "newFormCreateBtn": {
+        "text": "Create this form"
+    },
+    "formOpenQuestionConfigurator": {
+        "title": "Open question Editor"
+    },
+    "questionMandatoryField": {
+        "fieldLabel": "Mandatory"
+    },
+    "questionFieldTypeRadioGroup": {
+        "fieldLabel": "Field type"
+    },
+    "questionTextRadio": {
+        "boxLabel": "Text"
+    },
+    "questionTextareaRadio": {
+        "boxLabel": "Comment"
+    },
+    "questionNumberRadio": {
+        "boxLabel": "Number"
+    },
+    "questionDateRadio": {
+        "boxLabel": "Date"
+    },
+    "questionTimeRadio": {
+        "boxLabel": "Time"
+    },
+    "minLengthField": {
+        "fieldLabel": "Min length"
+    },
+    "maxLengthField": {
+        "fieldLabel": "Max length"
+    },
+    "validationField": {
+        "fieldLabel": "Validation"
+    },
+    "minValueField": {
+        "fieldLabel": "Min value"
+    },
+    "maxValueField": {
+        "fieldLabel": "Max value"
+    },
+    "allowDecimalsField": {
+        "fieldLabel": "Decimals"
+    },
+    "formFieldConfiguratorBtn": {
+        "tooltip": "Settings"
+    },
+    "formFieldConditionsBtn": {
+        "tooltip": "Display condition"
+    },
+    "formFieldConditionBtn": {
+        "tooltip": "Display condition"
+    },
+    "layoutsPanel": {
+        "title": "Layouts"
     },
     "groupsWindow": {
         "title": "Groups"
