@@ -1,0 +1,8 @@
+{
+    "Blocks.SignUp.confirmEmail.subject": "Création de compte",
+    "Blocks.SignUp.confirmEmail.hello": "Bonjour %name%,",
+    "Blocks.SignUp.confirmEmail.clickFollowing": "Pour confirmer votre création de compte, merci de l'activer en suivant le lien ci-dessous :",
+    "Blocks.SignUp.confirmEmail.confirmLink": "Confirmer votre adresse mail",
+    "Blocks.SignUp.confirmEmail.thanks": "Cordialement,",
+    "Blocks.SignUp.confirmEmail.automatedMail": "Ceci est un message automatique."
+}
