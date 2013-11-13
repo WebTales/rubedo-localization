@@ -1,0 +1,8 @@
+{
+    "Notification.pendingBody.subject":"Soumission pour validation d'un contenu \"%title%\"",
+    "Notification.pendingBody.hello":"Bonjour,",
+    "Notification.pendingBody.submittedBy":"Le contenu \"%title%\" a été soumis pour validation par %author%",
+    "Notification.pendingBody.urlText":"Vous pouvez retrouver ce contenu dans le back-office en suivant ce lien",
+    "Notification.pendingBody.thanks":"Cordialement",
+    "Notification.pendingBody.automaticMail":"Ceci est un e-mail automatique."
+}
