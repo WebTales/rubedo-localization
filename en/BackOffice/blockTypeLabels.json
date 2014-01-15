@@ -218,5 +218,22 @@
 	"#ext-gen1405#":"Image field",
 	"#ext-gen1406#":"Title only",
 	"#ext-gen1407#":"Summary height",
-	"#ext-gen1408#":"<p>The 'Advanced search form' block displays a search form limitated to one or several content types. The form displays the available vocabularies for choosen content types as combo boxes.</p>"
+	"#ext-gen1408#":"<p>The 'Advanced search form' block displays a search form limitated to one or several content types. The form displays the available vocabularies for choosen content types as combo boxes.</p>",
+	"#ext-gen1409#":"Profile page",
+	"#ext-gen1410#":"Redirect page",
+	"#ext-gen1411#":"Pop-in",
+	"#ext-gen1412#":"Form",
+	"#ext-gen1413#":"User type",
+	"#ext-gen1414#":"Password field",
+	"#ext-gen1415#":"Sign up",
+	"#ext-gen1416#":"Unsubscribe",
+	"#ext-gen1417#":"Directory",
+	"#ext-gen1418#":"Alphabetic index",
+	"#ext-gen1419#":"List",
+	"#ext-gen1420#":"Vcard",
+	"#ext-gen1421#":"User display mode",
+	"#ext-gen1422#":"D3 script",
+	"#ext-gen1423#":"Code",
+	"#ext-gen1424#":"Max results",
+	"#ext-gen1425#":"Data visualization"
 }
