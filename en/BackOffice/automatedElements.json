@@ -1,1944 +1,220 @@
 {
-    "versionCol": {
-        "text": "Version"
-    },
-    "statusCol": {
-        "text": "State"
-    },
-    "dateCol": {
-        "text": "Date"
-    },
-    "authorCol": {
-        "text": "Author"
-    },
-    "iconsBtn": {
-        "text": "Icons"
-    },
-    "showAllIconsBtn": {
-        "text": "Display"
-    },
-    "hideAllIconsBtn": {
-        "text": "Hide"
-    },
-    "rearangeAllIconsBtn": {
-        "text": "Automatically rearrange"
-    },
-    "CustomizeBtn": {
-        "text": "Customize"
-    },
-    "wallpapaerPickerBtn": {
-        "text": "Choose as new wallpaper"
-    },
-    "themePickerBtn": {
-        "text": "Apply this theme"
-    },
-    "hcmodeFieldset": {
-        "title": "High contrast mode"
-    },
-    "hcmodeActivateBtn": {
-        "text": "Activate"
-    },
-    "addGroupWindow": {
-        "title": "Add a group"
-    },
-    "nameField": {
-        "fieldLabel": "Name "
-    },
-    "createGroupAsAsonBtn": {
-        "text": "Create as a descendant of the selected group"
-    },
-    "nameColumn": {
-        "text": "Name"
-    },
-    "reusableElementsWindow": {
-        "title": "Reusable elements"
-    },
-    "nameCol": {
-        "text": "Name"
-    },
-    "deleteBtn": {
-        "text": "Delete"
-    },
-    "addBtn": {
-        "text": "Add"
-    },
-    "exportElementsWindow": {
-        "title": "Export an element"
-    },
-    "mandatoryNameField": {
-        "fieldLabel": "Name * "
-    },
-    "elementDescriptionField": {
-        "fieldLabel": "Description "
-    },
-    "exportElementBtn": {
-        "text": "Export this element "
-    },
-    "changePasswordWindow": {
-        "title": "Change password"
-    },
-    "newPasswordField": {
-        "fieldLabel": "New password "
-    },
-    "confirmField": {
-        "fieldLabel": "Confirm "
-    },
-    "applyBtn": {
-        "text": "Apply"
-    },
-    "removeBtn": {
-        "text": "Delete"
-    },
-    "renameBtn": {
-        "text": "Rename"
-    },
-    "termField": {
-        "fieldLabel": "Term "
-    },
-    "indexedElementsWindow": {
-        "title": "Indexed elements"
-    },
-    "okBtn": {
-        "text": "<b>OK</b>"
-    },
-    "imagePickerChangeBtn": {
-        "tooltip": "Choose a media"
-    },
-    "imagePickerClearBtn": {
-        "tooltip": "Deselect"
-    },
-    "createDesktopShortcutMenuBtn": {
-        "text": "Create a desktop shortcut"
-    },
-    "newDamTypeWindow": {
-        "title": "New media type"
-    },
-    "newDamTypeNameField": {
-        "fieldLabel": "Name "
-    },
-    "newDamTypeMainFileTypeField": {
-        "fieldLabel": "Main file type"
-    },
-    "newDamTypeSubmitBtn": {
-        "text": "Create a new type of media"
-    },
-    "addMTFieldWindow": {
-        "title": "Add a field"
-    },
-    "typeCol": {
-        "text": "Type"
-    },
-    "qbFinalRecStagePanel": {
-        "title": "Summary and saving"
-    },
-    "qbRecapFieldset": {
-        "title": "<b>Summary</b>"
-    },
-    "queryNameField": {
-        "fieldLabel": "Query name"
-    },
-    "saveQBQueryBtn": {
-        "text": "<b>Save this query</b>"
-    },
-    "qbs3": {
-        "title": "Choice of the criteria on fields"
-    },
-    "qbs3ruleadder": {
-        "fieldLabel": "Add a rule on "
-    },
-    "qbs3auxbtn": [],
-    "titleCol": {
-        "text": "Title"
-    },
-    "onlineCol": {
-        "text": "Online"
-    },
-    "chooseThisContentBtn": {
-        "text": "<b>Choose this content</b>"
-    },
-    "qbs4": {
-        "title": "Choice of sorting on fields"
-    },
-    "qbs4sortBtn": {
-        "fieldLabel": "Add a sort on "
-    },
-    "qbs4auxbtn": [],
-    "u1TitleColumn": {
-        "text": "Title"
-    },
-    "u1TypeColumn": {
-        "text": "Type"
-    },
-    "u1StatusColumn": {
-        "text": "State"
-    },
-    "u1OnlineColumn": {
-        "text": "Online"
-    },
-    "gfsUploadFileBtn": {
-        "tooltip": "Upload a file"
-    },
-    "gfsDeleteFileBtn": {
-        "tooltip": "Delete the file"
-    },
-    "gfsDownloadFileBtn": {
-        "tooltip": "Download the file"
-    },
-    "gfsPreviewFileBtn": {
-        "tooltip": "Display in detail"
-    },
-    "fieldEditlocBtn": {
-        "tooltip": "Edit the file"
-    },
-    "gfsUploadWindow": {
-        "title": "Upload"
-    },
-    "fileField": {
-        "fieldLabel": "File",
-        "buttonText": "Choose"
-    },
-    "validateBtn": {
-        "text": "Validate"
-    },
-    "cancelBtn": {
-        "text": "Cancel"
-    },
-    "wizardPrevBtn": {
-        "text": "Previous"
-    },
-    "wizardNextBtn": {
-        "text": "Next"
-    },
-    "queryTypeChooseWindow": {
-        "title": "Choose a query type"
-    },
-    "chooseManualQueryBtn": {
-        "text": "Manual query"
-    },
-    "ChooseSimpleQueryBtn": {
-        "text": "Simple query"
-    },
-    "chooseAdvancedQueryBtn": {
-        "text": "Advanced query"
-    },
-    "manualQueryWindow": {
-        "title": "Manual query"
-    },
-    "addQBtn": {
-        "text": "Add"
-    },
-    "removeQbtn": {
-        "text": "Remove"
-    },
-    "saveManualQueryBtn": {
-        "text": "Save query"
-    },
-    "queryWindow": {
-        "title": "Queries"
-    },
-    "editBtn": {
-        "text": "Edit"
-    },
-    "chooseDamTypeWindow": {
-        "title": "Choose a media type"
-    },
-    "chooseDamTypeField": {
-        "fieldLabel": "Type"
-    },
-    "chooseDamTypeSubmitBtn": {
-        "text": "Create a new media of this type"
-    },
-    "workspaceField": {
-        "fieldLabel": "Workspaces"
-    },
-    "maskSaveChoiceWindow": {
-        "title": "This mask is used by pages"
-    },
-    "maskSaveChoice1Btn": {
-        "text": "Save and reflect the changes on all pages"
-    },
-    "maskSaveChoice2Btn": {
-        "text": "Save as a new mask"
-    },
-    "mediaQueryAssistant": {
-        "title": "Querying on media Wizard"
-    },
-    "mqs1": {
-        "title": "Choice of media types"
-    },
-    "mediaTypesField": {
-        "fieldLabel": "Media types"
-    },
-    "mqS2": {
-        "title": "Choice of rules on taxonomy"
-    },
-    "mqls": {
-        "title": "Save"
-    },
-    "saveBtn": {
-        "text": "Save"
-    },
-    "newTermWindow": {
-        "title": "New term"
-    },
-    "newWorkspaceWindow": {
-        "title": "New workspace"
-    },
-    "createNewWorkspaceBtn": {
-        "text": "Create a new workspace"
-    },
-    "chooseBtn": {
-        "text": "Choose"
-    },
-    "modifyBtn": {
-        "text": "Edit"
-    },
-    "lcFieldAdress": {
-        "fieldLabel": "Address"
-    },
-    "lcFieldAltitude": {
-        "fieldLabel": "Altitude"
-    },
-    "lcFieldLatitude": {
-        "fieldLabel": "Latitude"
-    },
-    "lcFieldLongitude": {
-        "fieldLabel": "Longitude"
-    },
-    "sessionExpiringWindow": {
-        "title": "Your session will soon expire"
-    },
-    "sessionRenewWindow": {
-        "text": "Renew my session"
-    },
-    "sessionExpiredWindow": {
-        "title": "Your session has expired"
-    },
-    "reconnectBtn": {
-        "text": "Connect again"
-    },
-    "newUserWindow": {
-        "title": "New user"
-    },
-    "emailField": {
-        "fieldLabel": "E-mail "
-    },
-    "userAccountField": {
-        "fieldLabel": "User account "
-    },
-    "pagesLaunchBtn": {
-        "text": "Pages"
-    },
-    "previewLaunchBtn": {
-        "text": "Preview"
-    },
-    "contentsLaunchBtn": {
-        "text": "Contents"
-    },
-    "DAMLaunchBtn": {
-        "text": "DAM"
-    },
-    "studioMenuBtn": {
-        "text": "Studio"
-    },
-    "adminLenuBtn": {
-        "text": "Administration"
-    },
-    "mySettingsLaunchBtn": {
-        "text": "Settings"
-    },
-    "logoutBtn": {
-        "text": "Logout"
-    },
-    "sitesLaunchBtn": {
-        "text": "Sites"
-    },
-    "masksLaunchBtn": {
-        "text": "Page masks"
-    },
-    "emailsLaunchBtn": {
-        "text": "Emails"
-    },
-    "contentTypesLaunchBtn": {
-        "text": "Content types"
-    },
-    "damTypesLaunchBtn": {
-        "text": "Media types"
-    },
-    "userTypesLaunchBtn": {
-        "text": "User types"
-    },
-    "customThemesLaunchBtn": {
-        "text": "Custom Themes"
-    },
-    "queriesLaunchBtn": {
-        "text": "Queries"
-    },
-    "taxonomyLaunchBtn": {
-        "text": "Taxonomy"
-    },
-    "groupsLaunchBtn": {
-        "text": "Groups"
-    },
-    "workspacesLaunchBtn": {
-        "text": "Workspaces"
-    },
-    "usersLaunchBtn": {
-        "text": "Users"
-    },
-    "monitoringLaunchBtn": {
-        "text": "Supervision"
-    },
-    "workflowsLaunchBtn": {
-        "text": "Workflows"
-    },
-    "importLaunchBtn": {
-        "text": "Import"
-    },
-    "mailingListsLaunchBtn": {
-        "text": "Mailing lists"
-    },
-    "languagesLaunchBtn": {
-        "text": "Languages"
-    },
-    "applicationLogsLaunchBtn": {
-        "text": "Application logs"
-    },
-    "gfsUploadBtn": {
-        "tooltip": "Upload a file"
-    },
-    "gfsRemoveFileBtn": {
-        "tooltip": "Delete the file"
-    },
-    "gfsDownloadBtn": {
-        "tooltip": "Download the file"
-    },
-    "gfsHelpBtn": {
-        "tooltip": "Main media file. Mandatory."
-    },
-    "gfsEditBtn": {
-        "tooltip": "Edit the file"
-    },
-    "picUploadWindow": {
-        "title": "Upload an image"
-    },
-    "fieldPanel": {
-        "title": "Fields"
-    },
-    "rteConfigWindow": {
-        "title": "Rich text editor"
-    },
-    "emFieldURL": {
-        "fieldLabel": "URL"
-    },
-    "emFieldMaxWidth": {
-        "fieldLabel": "Max width"
-    },
-    "emFieldMAxHeight": {
-        "fieldLabel": "Max height"
-    },
-    "confirmDeleteWindow": {
-        "title": "Deletion confirmation"
-    },
-    "confirmDeleteYes": {
-        "text": "Yes"
-    },
-    "confirmDeleteNo": {
-        "text": "No"
-    },
-    "addBlockWindow": {
-        "title": "Add a block"
-    },
-    "addBlockTypeColumn": {
-        "text": "Type"
-    },
-    "newPageWindow": {
-        "title": "New Page"
-    },
-    "newPageTitleField": {
-        "fieldLabel": "Title "
-    },
-    "newPageMaskChoiceField": {
-        "fieldLabel": "Page mask "
-    },
-    "newPageSubmitBtn": {
-        "text": "Create as a descendant of the selected page"
-    },
-    "previewWindow": {
-        "title": "Preview"
-    },
-    "previewPageTree": {
-        "title": "Page selector"
-    },
-    "siteField": {
-        "fieldLabel": "Site "
-    },
-    "previewDeviceCombo": {
-        "text": "Desktop"
-    },
-    "desktopItem": {
-        "text": "Desktop"
-    },
-    "phoneItem": {
-        "text": "Phone - portrait"
-    },
-    "phoneLItem": {
-        "text": "Phone - landscape"
-    },
-    "tabletItem": {
-        "text": "Tablet - portrait"
-    },
-    "tabletLItem": {
-        "text": "Tablet - landscape"
-    },
-    "draftField": {
-        "fieldLabel": "Draft mode"
-    },
-    "dateField": {
-        "fieldLabel": "Date"
-    },
-    "pagePreviewLanguageField": {
-        "fieldLabel": "Language"
-    },
-    "refreshBtn": {
-        "text": "<b>Refresh</b>"
-    },
-    "importMainWindow": {
-        "title": "Import"
-    },
-    "importStage1Panel": {
-        "title": "Choice of the file to import"
-    },
-    "importSeparatorField": {
-        "fieldLabel": "Separator"
-    },
-    "importCSVFileField": {
-        "fieldLabel": "CSV file",
-        "buttonText": "Choose and analyse"
-    },
-    "importCSVFieldAuxilaryBtn": [],
-    "importStage1MainPanel": {
-        "title": "Choose a CSV file to display its fields"
-    },
-    "importIgnoredFieldsCol": {
-        "text": "Do not import"
-    },
-    "importImportAsFieldCol": {
-        "text": "Import as a field"
-    },
-    "importAsFieldTransCol": {
-        "text": "Import as field translation"
-    },
-    "importImportAsTaxoCol": {
-        "text": "Import as taxonomy"
-    },
-    "ImportAsTaxoTransCol": {
-        "text": "Import as taxonomy translation"
-    },
-    "importStage2": {
-        "title": "Setup of the fields"
-    },
-    "importS2NameColumn": {
-        "text": "Name"
-    },
-    "importS2NewnameCol": {
-        "text": "New name (optional)"
-    },
-    "importS2LabelCol": {
-        "text": "Label"
-    },
-    "importS2TypeCol": {
-        "text": "Type"
-    },
-    "importS2SearchableCol": {
-        "text": "Searchable"
-    },
-    "importS2LocalizableCol": {
-        "text": "Localizable"
-    },
-    "importS2MandatoryCol": {
-        "text": "Mandatory"
-    },
-    "importStage3": {
-        "title": "Setting of the taxonomy"
-    },
-    "importS3NameCol": {
-        "text": "Name"
-    },
-    "importS3NewNameXol": {
-        "text": "New name (optional)"
-    },
-    "importS3MandatoryCol": {
-        "text": "Mandatory"
-    },
-    "translationSettingsPanel": {
-        "title": "Translation settings"
-    },
-    "FieldTransSetPanel": {
-        "title": "Field translations"
-    },
-    "transFieldCol": {
-        "text": "Translated field"
-    },
-    "transLanguageCol": {
-        "text": "Translation language"
-    },
-    "TaxoTransSetPanel": {
-        "title": "Taxonomy translations"
-    },
-    "transVocabCol": {
-        "text": "Translated vocabulary"
-    },
-    "importFinalStage": {
-        "title": "Finalization and import"
-    },
-    "importS4Fielset1": {
-        "title": "The content type settings"
-    },
-    "workflowField": {
-        "fieldLabel": "Workflow"
-    },
-    "importS4Fieldset2": {
-        "title": "Content settings"
-    },
-    "contributeWorkspaceField": {
-        "fieldLabel": "Contribution"
-    },
-    "difusionWorkspaceField": {
-        "fieldLabel": "Diffusion"
-    },
-    "importBtn": {
-        "text": "Import"
-    },
-    "newMLWindow": {
-        "title": "New mailing list"
-    },
-    "newMLCreateBtn": {
-        "text": "Create a new mailing list"
-    },
-    "optionsConfiguratorBtn": {
-        "text": "Configure options"
-    },
-    "optionsEditor1Window": {
-        "title": "Option editor"
-    },
-    "valueCol": {
-        "text": "Value"
-    },
-    "labelCol": {
-        "text": "Label"
-    },
-    "oeditor1addBtn": {
-        "tooltip": "Add an option"
-    },
-    "oeditor1removeBtn": {
-        "tooltip": "Remove this option"
-    },
-    "mailingListsWindow": {
-        "title": "Mailing lists"
-    },
-    "propertiesForm": {
-        "title": "Properties"
-    },
-    "expeditorFieldset": {
-        "title": "Sender"
-    },
-    "expeditorAdressField": {
-        "fieldLabel": "Sender's address"
-    },
-    "expeditorNameField": {
-        "fieldLabel": "Sender's name"
-    },
-    "responseFieldset": {
-        "title": "Reply"
-    },
-    "replyToAdressField": {
-        "fieldLabel": "Reply address"
-    },
-    "replyToNameField": {
-        "fieldLabel": "Reply name"
-    },
-    "returnPathAdressField": {
-        "fieldLabel": "Return path address"
-    },
-    "imagePreviewWindow": {
-        "title": "Full size preview"
-    },
-    "chooseDamTypeMassSubmitBtn": {
-        "text": "Upload media of this type"
-    },
-    "pixlrEditorWindow": {
-        "title": "Image editor"
-    },
-    "damMassUploadWindow": {
-        "title": "Digital assets mass upload"
-    },
-    "uploadTab": {
-        "title": "Upload"
-    },
-    "uploadOptionsTab": {
-        "title": "Options"
-    },
-    "applyCurrentTaxoToUploadField": {
-        "fieldLabel": "Apply current taxonomy facets"
-    },
-    "workspacesToApplyFieldset": {
-        "title": "Workspaces to apply to uploaded media"
-    },
-    "diffusionWorkspaceField": {
-        "fieldLabel": "Diffusion"
-    },
-    "doneUploadingBtn": {
-        "text": "Done uploading"
-    },
-    "systemInfoDisplayWindow": {
-        "title": "System information"
-    },
-    "MongoDBField": {
-        "fieldLabel": "MongoDB"
-    },
-    "rubedoVersionField": {
-        "fieldLabel": "Rubedo"
-    },
-    "ESVersionField": {
-        "fieldLabel": "Elasticsearch"
-    },
-    "ZFVersionField": {
-        "fieldLabel": "Zend Framework"
-    },
-    "phpCompoentsPropertyGrid": {
-        "title": "PHP components"
-    },
-    "frontComponentsPropertyGrid": {
-        "title": "Front components"
-    },
-    "extensionsPropDisplayPanel": {
-        "title": "Rubedo Extensions"
-    },
-    "inheritWorkspaceField": {
-        "fieldLabel": "Inherits workspace"
-    },
-    "facetOverridesWindow": {
-        "title": "Facet overrides"
-    },
-    "facetColumn": {
-        "text": "Facet"
-    },
-    "OperatorColumn": {
-        "text": "Operator"
-    },
-    "languagesInterface4": {
-        "title": "Languages"
-    },
-    "FlagCol": {
-        "text": "Flag"
-    },
-    "LangNameCol": {
-        "text": "Name"
-    },
-    "OwnNameCol": {
-        "text": "Own name"
-    },
-    "workingLanguageWindow": {
-        "title": "Change current working language"
-    },
-    "TALanguageField": {
-        "fieldLabel": "Language"
-    },
-    "setAsWLBtn": {
-        "text": "Set as current working language"
-    },
-    "translationAdderWindow": {
-        "title": "Add new translation"
-    },
-    "translateInThisLanguageBtn": {
-        "text": "Translate in this language"
-    },
-    "currentLanguageDSLField": {
-        "fieldLabel": "Current language"
-    },
-    "addTranslationBtn": {
-        "text": "Add translation"
-    },
-    "removeTranslationBtn": {
-        "text": "Remove translation"
-    },
-    "urlField": {
-        "fieldLabel": "URL"
-    },
-    "referencingFieldSEt": {
-        "title": "SEO"
-    },
-    "titleField": {
-        "fieldLabel": "Title *"
-    },
-    "descriptionField": {
-        "fieldLabel": "Description "
-    },
-    "helpTextField": {
-        "fieldLabel": "Help text "
-    },
-    "siteFieldSet": {
-        "title": "Site"
-    },
-    "siteDefaultTitleField": {
-        "fieldLabel": "Default title"
-    },
-    "defaultDescriptionField": {
-        "fieldLabel": "Default description"
-    },
-    "defaultAuthorField": {
-        "fieldLabel": "Default author"
-    },
-    "contentTitleField": {
-        "fieldLabel": "Title *",
-        "RTip": "Content title. Mandatory."
-    },
-    "summaryField": {
-        "fieldLabel": "Summary ",
-        "RTip": "Optional summary of the content."
-    },
-    "damTitleField": {
-        "fieldLabel": "Title *",
-        "RTip": "Title of the media. Mandatory."
-    },
-    "imageMapperWindow": {
-        "title": "Image map editor"
-    },
-    "newCustomThemeWindow": {
-        "title": "New custom theme"
-    },
-    "createNewCustomThemeBtn": {
-        "text": "Create new custom theme"
-    },
-    "assignTCFieldWindow": {
-        "title": "Assign field"
-    },
-    "assignFieldField": {
-        "fieldLabel": "Field"
-    },
-    "assignFieldSubmitBtn": {
-        "text": "Assign this field to selected column"
-    },
-    "newLayoutWindow": {
-        "title": "New layout"
-    },
-    "nmSiteField": {
-        "fieldLabel": "Site "
-    },
-    "createNewLayoutBtn": {
-        "text": "Create new layout"
-    },
-    "customThemesWindow": {
-        "title": "Custom Themes"
-    },
-    "themesMainPanel": {
-        "title": "Themes"
-    },
-    "lessVarsPanel": {
-        "title": "Less Variables"
-    },
-    "garysFieldset": {
-        "title": "Grays"
-    },
-    "randomizeColorsBtn": {
-        "text": "Randomize base colors"
-    },
-    "randomizeColorsBOBtn": {
-        "text": "Randomize based on"
-    },
-    "accentColorsFieldset": {
-        "title": "Accent colors"
-    },
-    "linksFieldset": {
-        "title": "Links"
-    },
-    "tablesFieldset": {
-        "title": "Tables"
-    },
-    "buttonsFieldset": {
-        "title": "Buttons"
-    },
-    "formsFieldset": {
-        "title": "Forms"
-    },
-    "dropdownsFieldset": {
-        "title": "Dropdowns"
-    },
-    "wellsFieldset": {
-        "title": "Wells"
-    },
-    "navbarsFieldset": {
-        "title": "Navbar"
-    },
-    "invertedNavbarsFieldset": {
-        "title": "Inverted navbar"
-    },
-    "paginationFieldset": {
-        "title": "Pagination"
-    },
-    "statesAlertsFieldset": {
-        "title": "Form states and alerts"
-    },
-    "tooltipsFieldset": {
-        "title": "Tooltips and popovers"
-    },
-    "typographyFieldset": {
-        "title": "Typography"
-    },
-    "themeSimulateBtn": {
-        "text": "Simulate"
-    },
-    "simpleModeFavoritesBtn": {
-        "text": "Favorites"
-    },
-    "newLayoutWindowCopy": {
-        "title": "Copy layout"
-    },
-    "nameFieldCopy": {
-        "fieldLabel": "New name"
-    },
-    "nmSiteFieldCopy": {
-        "fieldLabel": "To site"
-    },
-    "createNewLayoutBtnCopy": {
-        "text": "Copy this layout"
-    },
-    "newUserTypeWindow": {
-        "title": "New user type"
-    },
-    "newUserTypeSubmitBtn": {
-        "text": "Create this new user type"
-    },
-    "ucuFieldsTab": {
-        "title": "Fields"
-    },
-    "UTEmailField": {
-        "fieldLabel": "E-mail *",
-        "RTip": "User email. Mandatory."
-    },
-    "UTNameField": {
-        "fieldLabel": "Name *",
-        "RTip": "User name. Mandatory."
-    },
-    "taxoTab": {
-        "title": "Taxonomy"
-    },
-    "credentiamsAndIntForm": {
-        "title": "Credentials and interface settings"
-    },
-    "IntterfaceSettingsFS": {
-        "title": "Interface settings"
-    },
-    "languageField": {
-        "fieldLabel": "Language "
-    },
-    "interfaceModeField": {
-        "fieldLabel": "Interface"
-    },
-    "acountUserValidFieldSet": {
-        "title": "User account and validity"
-    },
-    "useraccountField": {
-        "fieldLabel": "User account "
-    },
-    "gruopsField": {
-        "fieldLabel": "Groups"
-    },
-    "defaultGroupField": {
-        "fieldLabel": "Default group"
-    },
-    "startValidityField": {
-        "fieldLabel": "Valid from "
-    },
-    "endValidityField": {
-        "fieldLabel": "Valid until "
-    },
-    "passwordChangeFieldSet": {
-        "title": "Change password"
-    },
-    "userPasswordChangeBtn": {
-        "text": "Change the password for this user"
-    },
-    "photoFieldSet": {
-        "title": "Photo"
-    },
-    "changeBtn": {
-        "text": "Change"
-    },
-    "usersWindow": {
-        "title": "Users"
-    },
-    "clipboardGroup": {
-        "title": "Clipboard"
-    },
-    "shortcutBtn": {
-        "text": "Add to Favorites"
-    },
-    "typeColumn": {
-        "text": "Type"
-    },
-    "photoCol": {
-        "text": "Photo"
-    },
-    "emailCol": {
-        "text": "Email"
-    },
-    "creationCol": {
-        "text": "Creation"
-    },
-    "lastUpdateCol": {
-        "text": "Date of last modification"
-    },
-    "signUpStatCol": {
-        "text": "Sign-up status"
-    },
-    "querySimWindow": {
-        "title": "Query result simulation"
-    },
-    "emailsInterface": {
-        "title": "Emails"
-    },
-    "newBtn": {
-        "text": "New"
-    },
-    "editStructureFS": {
-        "title": "Edit structure"
-    },
-    "newRowBtn": {
-        "text": "New Row"
-    },
-    "newColBtn": {
-        "text": "New Column"
-    },
-    "moveBtn": {
-        "text": "Move"
-    },
-    "addComponentsFS": {
-        "title": "Add components"
-    },
-    "addImageCBtn": {
-        "text": "Image"
-    },
-    "addSimpleTextCBtn": {
-        "text": "Simple text"
-    },
-    "addRichTextCBtn": {
-        "text": "Rich text"
-    },
-    "duplicateBtn": {
-        "text": "Copy"
-    },
-    "shotcutBtn": {
-        "text": "Add to Favorites"
-    },
-    "saveGroup": {
-        "title": "Save"
-    },
-    "exploutFS": {
-        "title": "Exploit"
-    },
-    "sendEmailBtn": {
-        "text": "Send"
-    },
-    "editTab": {
-        "text": "Edit"
-    },
-    "propsPanel": {
-        "title": "Properties"
-    },
-    "selectElementPanel": {
-        "title": "Select an item"
-    },
-    "propertiesTab": {
-        "title": "Properties"
-    },
-    "subjectField": {
-        "fieldLabel": "Subject"
-    },
-    "plainTextField": {
-        "fieldLabel": "Plain text"
-    },
-    "previewTab": {
-        "title": "Preview"
-    },
-    "sendEmailWindow": {
-        "title": "Send email"
-    },
-    "mailingListPicker": {
-        "fieldLabel": "Mailing list"
-    },
-    "sendSubmitBtn": {
-        "text": "Send"
-    },
-    "subscribeUsersWindow": {
-        "title": "Subscribe users"
-    },
-    "subscribeSubmitBtn": {
-        "text": "Subscribe"
-    },
-    "MLImportWindow": {
-        "title": "Import users to mailing list"
-    },
-    "csvFileFIeld": {
-        "fieldLabel": "CSV file",
-        "buttonText": "Browse..."
-    },
-    "importSubmitBtn": {
-        "text": "Import"
-    },
-    "codeEditorWindow": {
-        "title": "Code editor"
-    },
-    "pageWindow": {
-        "title": "Pages"
-    },
-    "editGroup": {
-        "title": "Edit"
-    },
-    "newBlocBtn": {
-        "text": "New Block"
-    },
-    "languageCoumn": {
-        "text": "Languages"
-    },
-    "overviewTab": {
-        "text": "Preview"
-    },
-    "propsTab": {
-        "text": "Properties"
-    },
-    "displayedContentTab": {
-        "text": "Displayed Contents"
-    },
-    "excludeFromMenuField": {
-        "fieldLabel": "Non-navigational"
-    },
-    "robotFieldset": {
-        "title": "Robot"
-    },
-    "titleColumn": {
-        "text": "Title"
-    },
-    "zoomLevelSlider": {
-        "fieldLabel": "Zoom level"
-    },
-    "pageMaskWindow": {
-        "title": "Page masks"
-    },
-    "exportBtn": {
-        "text": "Export"
-    },
-    "desktopCustomizeWindow": {
-        "title": "Customizing the desktop"
-    },
-    "wallpaperGrid": {
-        "title": "Wallpaper"
-    },
-    "themeGrid": {
-        "title": "Themes"
-    },
-    "accessibilityPanel": {
-        "title": "Accessibility"
-    },
-    "addUsersToGroupWindow": {
-        "text": "Add these users to the selected group"
-    },
-    "informationsTab": {
-        "text": "Information"
-    },
-    "informationsFieldSet": {
-        "title": "Information"
-    },
-    "mailField": {
-        "fieldLabel": "E-mail "
-    },
-    "civilityField": {
-        "fieldLabel": "Civility "
-    },
-    "organisationField": {
-        "fieldLabel": "Organization "
-    },
-    "serviceField": {
-        "fieldLabel": "Department "
-    },
-    "postField": {
-        "fieldLabel": "Job title"
-    },
-    "phoneField": {
-        "fieldLabel": "Phone "
-    },
-    "mobileField": {
-        "fieldLabel": "Mobile "
-    },
-    "coordinatesField": {
-        "fieldLabel": "Coordinates "
-    },
-    "countryField": {
-        "fieldLabel": "Country "
-    },
-    "applyField": {
-        "text": "Apply"
-    },
-    "settingWindow": {
-        "title": "Settings"
-    },
-    "accessTab": {
-        "text": "Access"
-    },
-    "loginField": {
-        "fieldLabel": "Login "
-    },
-    "changePassFieldSet": {
-        "title": "Change password"
-    },
-    "oldPasswordField": {
-        "fieldLabel": "Current password "
-    },
-    "newPasswordConfirmField": {
-        "fieldLabel": "Confirm new password "
-    },
-    "changePasswordBtn": {
-        "text": "Change Password"
-    },
-    "desktopBtn": {
-        "text": "Desktop"
-    },
-    "searchResultsWindow": {
-        "title": "Search Results"
-    },
-    "saveQueryBtn": {
-        "text": "Save query"
-    },
-    "filtersPanel": {
-        "title": "Filters"
-    },
-    "facetOperatorField": {
-        "fieldLabel": "Facet operator"
-    },
-    "pertinenceCol": {
-        "text": "Relevance"
-    },
-    "sitesWindow": {
-        "title": "Sites"
-    },
-    "domainNameColumn": {
-        "text": "Domain name"
-    },
-    "domainNameField": {
-        "fieldLabel": "Domain name *"
-    },
-    "staticDomainField": {
-        "fieldLabel": "Static domain"
-    },
-    "aliasField": {
-        "fieldLabel": "Alias "
-    },
-    "themeField": {
-        "fieldLabel": "Theme "
-    },
-    "protocolField": {
-        "fieldLabel": "Protocol *"
-    },
-    "defaultLanguageField": {
-        "fieldLabel": "Default language *"
-    },
-    "messageryFieldSet": {
-        "title": "Messaging"
-    },
-    "activeMessageryField": {
-        "fieldLabel": "Enabled "
-    },
-    "smtpServerField": {
-        "fieldLabel": "SMTP server "
-    },
-    "smtpPortField": {
-        "fieldLabel": "SMTP port "
-    },
-    "smtpLoginField": {
-        "fieldLabel": "SMTP login "
-    },
-    "smtpPassField": {
-        "fieldLabel": "SMTP password "
-    },
-    "defaultEmailField": {
-        "fieldLabel": "Default e-mail "
-    },
-    "accessibilityFieldSet ": {
-        "title": "Accessibility"
-    },
-    "accessibilityLeveLfield": {
-        "fieldLabel": "Accessibility level "
-    },
-    "opquastLoginField": {
-        "fieldLabel": "Opquast Login "
-    },
-    "opquastPassField": {
-        "fieldLabel": "Optquast Password "
-    },
-    "apiKeysFieldSet": {
-        "title": "External API keys"
-    },
-    "googleMapKeyField": {
-        "fieldLabel": "Google Maps"
-    },
-    "googleAnalyticsKeyField": {
-        "fieldLabel": "Google Analytics"
-    },
-    "disqusKeyField": {
-        "fieldLabel": "Disqus"
-    },
-    "recaptchaFieldset": {
-        "title": "Recaptcha"
-    },
-    "recaptchaPublicKeyField": {
-        "fieldLabel": "Public key"
-    },
-    "recaptchaPrivateKeyField": {
-        "fieldLabel": "Private key"
-    },
-    "queryBuilder": {
-        "title": "Query Wizard "
-    },
-    "queryBuilderStage1": {
-        "title": "Choice of types of content"
-    },
-    "qbs1selAllBtn": {
-        "tooltip": "Select all"
-    },
-    "qbStage2": {
-        "title": "Choice of taxonomy terms"
-    },
-    "prevBtn": {
-        "text": "Previous"
-    },
-    "nextBtn": {
-        "text": "Next"
-    },
-    "damPickerWindow": {
-        "title": "DAM choice"
-    },
-    "monitoringField": {
-        "title": "Monitoring"
-    },
-    "systemInformationGetBtn": {
-        "text": "System information"
-    },
-    "cachePanel": {
-        "title": "Cache"
-    },
-    "cacheElementFieldSet": {
-        "title": "Cached items"
-    },
-    "objectField": {
-        "fieldLabel": "Objects"
-    },
-    "clearCacheBtn": {
-        "text": "<b>Clear cache</b>"
-    },
-    "elasticSearchPanel": {
-        "title": "Elastic Search"
-    },
-    "indexContentsBtn": {
-        "text": "<b>Index contents</b>"
-    },
-    "indexMediasBtn": {
-        "text": "<b>Index digital assets</b>"
-    },
-    "indexUsersBtn": {
-        "text": "<b>Index users</b>"
-    },
-    "indexAllBtn": {
-        "text": "<b>Index everything</b>"
-    },
-    "newDamWindow": {
-        "title": "New media"
-    },
-    "damOrginalFileField": {
-        "fieldLabel": "Original file *",
-        "buttonText": "Browse...",
-        "RTip": "Main media file. Mandatory."
-    },
-    "taxonomyFieldset": {
-        "title": "Taxonomy"
-    },
-    "workspacesFieldset": {
-        "title": "Workspaces"
-    },
-    "damSubmitNewBtn": {
-        "text": "Create this new media"
-    },
-    "damSubmitUpdateBtn": {
-        "text": "Save changes"
-    },
-    "siteBuilderWizzard": {
-        "title": "Site creation wizard"
-    },
-    "sbStage2": {
-        "title": "Step 1: model"
-    },
-    "createEmptySiteField": {
-        "boxLabel": "Create a blank site"
-    },
-    "createSiteFromModelField": {
-        "boxLabel": "Create a site using an existing site as model"
-    },
-    "siteMoelField": {
-        "fieldLabel": "Model site"
-    },
-    "sbStage1": {
-        "title": "Step 2: Identification"
-    },
-    "sbStage3": {
-        "title": "Step 3: search engine optimization"
-    },
-    "siteBuilderWizardSubmit": {
-        "text": "Create this site"
-    },
-    "workspaceWindow": {
-        "title": "Workspaces"
-    },
-    "newContentWindow": {
-        "title": "New content"
-    },
-    "metadataTab": {
-        "text": "Metadata"
-    },
-    "taxonomyTab": {
-        "text": "Taxonomy"
-    },
-    "workspacesTab": {
-        "text": "Workspaces"
-    },
-    "versionsTab": {
-        "text": "Versions"
-    },
-    "dependantTypesTab": {
-        "text": "Nested content"
-    },
-    "publishFieldset": {
-        "title": "Publication"
-    },
-    "contentStartPublicationDateField": {
-        "fieldLabel": "Start Publication Date "
-    },
-    "contentEndPublicationDateField": {
-        "fieldLabel": "End Publication Date "
-    },
-    "versionTitleCol": {
-        "text": "Title"
-    },
-    "versionVersionCol": {
-        "text": "Version"
-    },
-    "versionPublishDateCol": {
-        "text": "Publication Date"
-    },
-    "versionAuthorCol": {
-        "text": "Author"
-    },
-    "createAsDraftBtn": {
-        "text": "Draft"
-    },
-    "submitBtn": {
-        "text": "Submit"
-    },
-    "refuseBtn": {
-        "text": "Refuse"
-    },
-    "publishBtn": {
-        "text": "Publish"
-    },
-    "termsCol": {
-        "text": "Terms"
-    },
-    "newVocabWindow": {
-        "title": "New vocabulary"
-    },
-    "createNewVocabBtn": {
-        "text": "Create a new vocabulary"
-    },
-    "newMaskWindow": {
-        "title": "New mask"
-    },
-    "createNewMaskBtn": {
-        "text": "Create a new mask"
-    },
-    "maskDupliacteWindow": {
-        "title": "Mask duplication"
-    },
-    "mdNewTitleField": {
-        "fieldLabel": "New title "
-    },
-    "mdnewSiteField": {
-        "fieldLabel": "In the site "
-    },
-    "mdSubmitBtn": {
-        "text": "Duplicate this mask"
-    },
-    "blockConfigSimplePanel": {
-        "title": "Simple"
-    },
-    "blockConfigAdvancedPanel": {
-        "title": "Advanced"
-    },
-    "newCTWindow": {
-        "title": "New content type"
-    },
-    "isDepField": {
-        "fieldLabel": "Nested "
-    },
-    "createNTCBtn": {
-        "text": "Create a new content type"
-    },
-    "addCTFieldWindow": {
-        "title": "Add a field"
-    },
-    "multiTCAddFieldCol": {
-        "title": "Multiple adding"
-    },
-    "optionsGrid": {
-        "title": "Options"
-    },
-    "depCTTab": {
-        "title": "Nested content types"
-    },
-    "stateColumn": {
-        "text": "Status"
-    },
-    "lastUpdateContentCol": {
-        "text": "Last update"
-    },
-    "onlineColumn": {
-        "text": "Online"
-    },
-    "contentsClearFilterBtn": {
-        "text": "Clear filters"
-    },
-    "contentWindow": {
-        "title": "Contents"
-    },
-    "workflowGroup": {
-        "title": "Workflow"
-    },
-    "onlineBtn": {
-        "text": "Put online"
-    },
-    "offlineBtn": {
-        "text": "Take offline"
-    },
-    "contentTypesWindow": {
-        "title": "Content types"
-    },
-    "newFieldBtn": {
-        "text": "New field"
-    },
-    "removeFieldBtn": {
-        "text": "Delete field"
-    },
-    "layoutsGrid": {
-        "title": "Layouts"
-    },
-    "addRowToLBtn": {
-        "text": "New row"
-    },
-    "addColToLBtn": {
-        "text": "New Column"
-    },
-    "assignFieldToColBtn": {
-        "text": "Assign field"
-    },
-    "moveLBtn": {
-        "text": "Move"
-    },
-    "saveLayoutBtn": {
-        "text": "Save layout"
-    },
-    "adminGroupCT": {
-        "title": "Administration"
-    },
-    "purgeContentTypeBtn": {
-        "text": "Empty content",
-        "tooltip": "Delete all the contents of this type"
-    },
-    "systemFieldPanel": {
-        "title": "System fields"
-    },
-    "editableFieldPanel": {
-        "title": "Editable fields"
-    },
-    "propertiesPanel": {
-        "title": "Properties"
-    },
-    "dataTab": {
-        "title": "Data"
-    },
-    "searchTab": {
-        "title": "Search"
-    },
-    "vocabulariesGridPanel": {
-        "title": "Vocabularies"
-    },
-    "descriptionColumn": {
-        "text": "Description"
-    },
-    "helpTextColumn": {
-        "text": "Help Text"
-    },
-    "labelField": {
-        "text": "Labels"
-    },
-    "multiChoiseColumn": {
-        "text": "Multi-choice"
-    },
-    "mandatoryColumn": {
-        "text": "Mandatory"
-    },
-    "rightWorkflowFieldSet": {
-        "title": "Rights and workflow"
-    },
-    "commentsFieldSet": {
-        "title": "Comments"
-    },
-    "disqusField": {
-        "fieldLabel": "Disqus"
-    },
-    "availableFieldsGrid": {
-        "title": "Available fields"
-    },
-    "labelColumn": {
-        "text": "Labels"
-    },
-    "layoutPropertiesPanel": {
-        "title": "Properties"
-    },
-    "DamTypesMainWindow": {
-        "title": "Media types"
-    },
-    "emptyDamBtn": {
-        "text": "Empty assets",
-        "tooltip": "Delete all contents of this type"
-    },
-    "auxBtn13": {
-        "tooltip": "Title of the media. Mandatory."
-    },
-    "auxBtn15": {
-        "tooltip": "Main media file. Mandatory."
-    },
-    "originalFileField": {
-        "fieldLabel": "Original file *",
-        "buttonText": "Browse..."
-    },
-    "MTtaxoGridUse": {
-        "title": "Vocabularies that can be used as classification scheme "
-    },
-    "rightsFieldSet": {
-        "title": "Rights"
-    },
-    "taxonomyWindow": {
-        "title": "Taxonomy"
-    },
-    "editTermsGroup": {
-        "title": "Term editing"
-    },
-    "rightsTab": {
-        "text": "Rights"
-    },
-    "expandableField": {
-        "fieldLabel": "Extendable "
-    },
-    "inputAsTreeField": {
-        "fieldLabel": "Tree entry"
-    },
-    "multiSelectField": {
-        "fieldLabel": "Multi-choice "
-    },
-    "mandatoryField": {
-        "fieldLabel": "Mandatory "
-    },
-    "termsPanel": [],
-    "appLogsWindow": {
-        "title": "Application logs"
-    },
-    "logsInfDateField": {
-        "fieldLabel": "Show logs between"
-    },
-    "logsSupDateField": {
-        "fieldLabel": "and"
-    },
-    "logsMinLevelField": {
-        "fieldLabel": "of minimal level"
-    },
-    "logsRefreshBtn": {
-        "text": "Refresh"
-    },
-    "logsClearFilterBtn": {
-        "text": "Clear filters"
-    },
-    "messageCol": {
-        "text": "Message"
-    },
-    "DateCol": {
-        "text": "Date"
-    },
-    "levelCol": {
-        "text": "Level"
-    },
-    "UserTypesMainWindow": {
-        "title": "User types"
-    },
-    "userTypesGrid": {
-        "title": "User Types"
-    },
-    "mainFileDamCol": {
-        "text": "Main file"
-    },
-    "sizeDamCol": {
-        "text": "Size"
-    },
-    "authorColumn": {
-        "text": "Author"
-    },
-    "createDateColumn": {
-        "text": "Creation date"
-    },
-    "mediasWindow": {
-        "title": "DAM"
-    },
-    "addDirectoryBtn": {
-        "text": "Add"
-    },
-    "removeDirectoryBtn": {
-        "text": "Remove"
-    },
-    "directorySettingsBtn": {
-        "text": "Settings"
-    },
-    "massDamUploadBtn": {
-        "text": "Mass upload"
-    },
-    "filePlanTreePanel": {
-        "title": "File plan"
-    },
-    "damFolderCol": {
-        "text": "Folder"
-    },
-    "typeColumn2": {
-        "text": "Type"
-    },
-    "applyFiltersBtn": {
-        "text": "Apply filters"
-    },
-    "damSwitchGridViewBtn": {
-        "text": "Switch display mode"
-    },
-    "formsLaunchBtn": {
-        "text": "Surveys"
-    },
-    "functionField": {
-        "fieldLabel": "Function "
-    },
-    "showOnlyIfCombo": {
-        "fieldLabel": "Displayed if and only if "
-    },
-    "formAddElementWindow": {
-        "title": "Add Item"
-    },
-    "formsConditionalEditor": {
-        "title": "Display condition"
-    },
-    "showOnlyIfField": {
-        "fieldLabel": "Displayed if and only if "
-    },
-    "formsWindow": {
-        "title": "Surveys"
-    },
-    "addPageBtn": {
-        "text": "New page",
-        "tooltip": " Add a page in a form (stage management)"
-    },
-    "newElemBtn": {
-        "text": "New item"
-    },
-    "clipboardGroup ": {
-        "title": "Clipboard"
-    },
-    "exploitationField": {
-        "text": "Operation",
-        "tooltip": "The operation of the surveys allows to export results in csv format"
-    },
-    "formTitleField": {
-        "fieldLabel": "Survey title"
-    },
-    "uniqueAnswerField": {
-        "fieldLabel": "Uniqueness of the answer"
-    },
-    "formsUniquenessBtn": {
-        "tooltip": "The uniqueness is designed to restrict submission of a survey"
-    },
-    "openingDateField": {
-        "fieldLabel": "Start date "
-    },
-    "closingDateField": {
-        "fieldLabel": "End date"
-    },
-    "endMessageField": {
-        "fieldLabel": "End message"
-    },
-    "statsFieldSet": {
-        "title": "Statistics"
-    },
-    "totalResultFields": {
-        "fieldLabel": "Number of people having started the survey"
-    },
-    "validResultField": {
-        "fieldLabel": "Number of people having completed the survey"
-    },
-    "resultsFieldSet": {
-        "title": "Results"
-    },
-    "exportCSVBtn": {
-        "text": "Export to CSV"
-    },
-    "formPageConfigurator": {
-        "title": "Page editor"
-    },
-    "formPageLabelField": {
-        "fieldLabel": "Label"
-    },
-    "multiChoiceQuestionEditor": {
-        "title": "Closed question Editor"
-    },
-    "questionLabelField": {
-        "fieldLabel": "Title of the question"
-    },
-    "questionCodeField": {
-        "fieldLabel": "Code of the question"
-    },
-    "questionHelpTextField": {
-        "fieldLabel": "Tooltip"
-    },
-    "mandatoryCheckbox": {
-        "fieldLabel": "Mandatory"
-    },
-    "colNumberField": {
-        "fieldLabel": "Number of columns"
-    },
-    "answerTypeCheckboxGroup": {
-        "fieldLabel": "Answer"
-    },
-    "sipleChoiceRadio": {
-        "boxLabel": "simple choice"
-    },
-    "multiChoiceRadio": {
-        "boxLabel": "multi-choice"
-    },
-    "optionsCol": {
-        "text": "Options"
-    },
-    "closedQuestionAddOptionBtn": {
-        "tooltip": "Add an option"
-    },
-    "closedQuestionRemoveOptionBtn": {
-        "tooltip": "Remove this option"
-    },
-    "newFormWindow": {
-        "title": "New form"
-    },
-    "newFormTitleField": {
-        "fieldLabel": "Title"
-    },
-    "newFormCreateBtn": {
-        "text": "Create this form"
-    },
-    "formOpenQuestionConfigurator": {
-        "title": "Open question Editor"
-    },
-    "questionMandatoryField": {
-        "fieldLabel": "Mandatory"
-    },
-    "questionFieldTypeRadioGroup": {
-        "fieldLabel": "Field type"
-    },
-    "questionTextRadio": {
-        "boxLabel": "Text"
-    },
-    "questionTextareaRadio": {
-        "boxLabel": "Comment"
-    },
-    "questionNumberRadio": {
-        "boxLabel": "Number"
-    },
-    "questionDateRadio": {
-        "boxLabel": "Date"
-    },
-    "questionTimeRadio": {
-        "boxLabel": "Time"
-    },
-    "minLengthField": {
-        "fieldLabel": "Min length"
-    },
-    "maxLengthField": {
-        "fieldLabel": "Max length"
-    },
-    "validationField": {
-        "fieldLabel": "Validation"
-    },
-    "minValueField": {
-        "fieldLabel": "Min value"
-    },
-    "maxValueField": {
-        "fieldLabel": "Max value"
-    },
-    "allowDecimalsField": {
-        "fieldLabel": "Decimals"
-    },
-    "formFieldConfiguratorBtn": {
-        "tooltip": "Settings"
-    },
-    "formFieldConditionsBtn": {
-        "tooltip": "Display condition"
-    },
-    "formFieldConditionBtn": {
-        "tooltip": "Display condition"
-    },
-    "layoutsPanel": {
-        "title": "Layouts"
-    },
-    "groupsWindow": {
-        "title": "Groups"
-    },
-    "userTab": {
-        "text": "Users"
-    },
-    "adminTab": {
-        "text": "Administration"
-    },
-    "mailColumn": {
-        "text": "Email"
-    },
-    "phoneColumn": {
-        "text": "Phone"
-    },
-    "addressColumn": {
-        "text": "Address"
-    },
-    "postColumn": {
-        "text": "Job title"
-    },
-    "departmentColumn": {
-        "text": "Department"
-    },
-    "readWorkSpaceField": {
-        "fieldLabel": "Read workspaces "
-    },
-    "writeWorkspaceField": {
-        "fieldLabel": "Contribute workspaces"
-    },
-    "defaultWorkspaceField": {
-        "fieldLabel": "Default workspace"
-    },
-    "hideAllWindowsBtn": {
-        "tooltip": "Show desktop"
-    }
+    "notifTitle": "Notification",
+    "notifCreate": "<p>Succesful creation.</p>",
+    "notifUpdate": "<p>Successful update.</p>",
+    "notifDestroy": "<p>Successful deletion.</p>",
+    "errorTitle": "Error",
+    "serverConnectionError": "Server connection interrupted",
+    "internalServerError": "Internal server error",
+    "unkownError": "Unknown error",
+    "activateText": "Activate",
+    "pageHoldsDefaultError": "This page cannot be deleted because it u one of its decendantes is used as a detail of the site page",
+    "pageHoldsDefaultServerError": "Error in the determination of the deletable status of the page",
+    "deactivateText": "Disable",
+    "windowBeforeUnloadMessage": "You will leave the Back Office and lose any unsaved changes.",
+    "maskIsUsedText": "The mask cannot be deleted because it is used by pages.",
+    "selectAnElementText": "Select an item",
+    "columnText": "Column",
+    "lignText": "Line",
+    "titleText": "Title",
+    "displayTitleText": "Display the title",
+    "visibilityText": "Visibility",
+    "telephoneText": "Phone",
+    "tabletText": "Tablet",
+    "computerText": "Desktop",
+    "HTMLClassText": "HTML class",
+    "HTMLIdText": "HTML ID",
+    "styleText": "Style",
+    "tagText": "Tag",
+    "displayAsTabsText": "Display in tabs",
+    "displayRowTagText": "Display the row tag",
+    "displayRowFluidTagText": "Show row-fluid tag",
+    "includeInAContainerText": "Include in a container",
+    "includeInAContainerFluidText": "Include in a fluid container",
+    "containerIdText": "ID of the container",
+    "containerClassText": "Container class",
+    "mainColumnText": "Main column",
+    "mainColumnRTip": "Sets the display location for content detail in pages using this mask.",
+    "showSpanAndOffsetText": "Display the span and offset",
+    "offsetText": "Offset",
+    "spanText": "Span",
+    "columnIdRecoveryError": "Error in the recovery of a column identifier",
+    "displayInADivText": "Display in a div",
+    "divIdText": "ID of the div",
+    "divClassText": "The div class",
+    "blockText": "Block",
+    "URLPrefixText": "URL Prefix",
+    "invalidMetaError": "Some metadata fields are invalid.",
+    "invalidTaxoError": "Some taxonomy fields are invalid.",
+    "invalidFieldsError": "Some fields are invalid.",
+    "insufficientContentRightsError": "You have insufficient rights to view or modify this content",
+    "newContentText": "New content",
+    "maxOneLocFieldError": "A content type cannot have multiple fields of type \"Location\".",
+    "contentTypeIsUsedError": "This content type is used by content and therefore cannot be deleted.",
+    "warningTitle": "Warning",
+    "contentTypeIncompatModifError": "The content type is used by content and these amendments are not compatible.",
+    "contentTypeModifWarning": "This content type is used by content. Changing it could have repercussions. </br> Would you like to continue?",
+    "fieldReplicaText": "Replica of the field",
+    "successTitle": "Success",
+    "contentsDeleteError": "Error in deleting content",
+    "contentTypeHasBeenEmptiedText": "The content type has been emptied",
+    "fieldNameAlreadyUsedError": "Name already used by another field",
+    "passwordsDoNotMatchError": "Passwords don't match",
+    "passwordChangedText": "Password changed",
+    "rightsRecoveryError": "Error in the recovery of the rights",
+    "tokenRecoveryError": "Error in retrieving the security token",
+    "siteModifWarning": "The modification of this site will involve the closing of the page management window. This will result in the loss of any changes not saved in that window. </br> Do you want to continue?",
+    "pageURLRecoveryError": "Error in retrieving the url of the page",
+    "pagePreviewText": "This is an overview of this page as available online on",
+    "associatedMaskText": "Associated mask",
+    "pagePropertiesInvalidError": "The properties of the page are invalid.",
+    "stageText": "Step",
+    "onText": "out of",
+    "ascText": "Ascending",
+    "descText": "Descending",
+    "andText": "And",
+    "thenText": "Then",
+    "mediaTypeIsUsedError": "This type of media is used by media and therefore cannot be deleted.",
+    "invalidRightsPropertiesError": "Invalid rights configuration",
+    "newDamText": "New media",
+    "DAMEditText": "Edition of the media",
+    "DAMDisplayText": "Display of the media",
+    "searchText": "Search",
+    "identifierRecoveryError": "Error in the recovery of an identifier",
+    "invalidFormPropertiesError": "Invalid form properties",
+    "fileAnalysisError": "Error in parsing the file",
+    "identifiedFieldsText": "identified fields and",
+    "importableContentsText": "importable contents",
+    "importedContentsText": "contents imported",
+    "importError": "Error during import",
+    "eligibleContentTypesText": "Eligible content types",
+    "eachContentMustVerifyRulesText": "Each content must verify the following rules",
+    "eachContentMustVerifyAtLeastOneRuleText": "Each content must verify at least one of the following rules",
+    "taxonomyText": "Taxonomy",
+    "rulesAndSortsOnFieldsText": "Rules and sorting on content fields",
+    "ascSortText": "Sort ascending",
+    "descSortText": "sort descending",
+    "relationBetweenRulesText": "Relationship between the rules",
+    "creationText": "Creation",
+    "lastUpdateText": "Last modified",
+    "noVocabForTheseCtText": "No vocabulary available for this set of content types",
+    "ruleText": "Rule",
+    "tRuleAllText": "Contains all the terms",
+    "tRuleAllRecText": "Contains all the terms or at least a descendant per term",
+    "tRuleSomeText": "Contains at least one of the terms",
+    "tRuleSomeREcText": "Contains at least one of the terms or at least one of the descendants of one of the terms",
+    "tRuleNotText": "Does not contain any of the following terms",
+    "tRuleNotRecText": "Does not contain the following terms or their descendants",
+    "CTMustHaveTitleError": "The content type must have a 'Title' field",
+    "CTMustHaveOnlyOneTitleError": "The content type must have only a single field of type \"title\"",
+    "CTMustHaveOnlyOneSummaryError": "The content type must have only a single field of type \"Summary\"",
+    "CRMustHaveOnlyOneLocFieldError": "The content type must have only a single field of type 'Location'",
+    "notMentionedText": "not filled",
+    "showOnlyIfText": "Displayed if and only if",
+    "orText": "Or",
+    "rootText": "Root",
+    "esGeoQueryText": "Geolocated Elastic Search Query Wizard",
+    "esQueryText": "Elastic Search Query Wizard",
+    "esDAMQueryText": "DAM Elastic Search Query Wizard",
+    "keywordsText": "Keywords",
+    "defaultKeywordsText": "Default keywords",
+    "defaultSinglePageText": "Default detail page",
+    "homePageText": "Homepage",
+    "rolesText": "Roles",
+    "authorText": "Author",
+    "versionText": "Version",
+    "contentsText": "Contents",
+    "displayText": "Display",
+    "publishedText": "published",
+    "pendingText": "pending validation",
+    "draftText": "draft",
+    "refusedText": "refused",
+    "yesText": "Yes",
+    "noText": "No",
+    "mediasText": "Media",
+    "simpleQueryText": "Simple query",
+    "manualQueryText": "Manual query",
+    "restoreText": "Restore",
+    "originalFileMText": "Original file *",
+    "noneText": "None",
+    "basicText": "Basic",
+    "formUniqueAnswerMessage": "You have already completed this survey. Thank you.",
+    "formEndMessage": "Thank you for completing this survey.",
+    "oldVersionText": "(A more recent version of Rubedo is available)",
+    "summaryText": "Summary",
+    "showDesktopTooltip": "Show desktop",
+    "userText": "user",
+    "usersText": "users",
+    "emptyText": "empty",
+    "groupsText": "Groups",
+    "removeText": "Remove",
+    "duplicateFieldText": "Duplicate of the field",
+    "duplicateText": "Duplicate",
+    "multivaluedText": "Multivalued",
+    "searchableText": "Searchable",
+    "localizableText": "Localizable",
+    "optionalText": "Optional",
+    "fileTypeText": "File type",
+    "tooltipText": "Tooltip",
+    "nameText": "Name",
+    "labelText": "Label",
+    "fileFieldText": "File",
+    "fileFieldDescription": "<h2>File field</h2> </br> <p>This field allows for the upload of files.</p>",
+    "databaseIsUpToDateText": "Database is up to date",
+    "databaseNeedsUpdateText": "Database update required",
+    "databaseUpdateWarning": "This action will update the Rubedo database. It is recommended that you back-up your data before starting. Would you like to continue ?",
+    "databaseUpdatedToText": "The database has been updated to version",
+    "folderViewText": "Folder view",
+    "switchToFolderViewText": "Switch to folder view",
+    "searchViewText": "Search view",
+    "switchToSearchViewText": "Switch to search view",
+    "notFiledText": "Not filed",
+    "mediaTypeText": "Media type",
+    "filesUploadedText": "files uploaded",
+    "allText": "All",
+    "contentTypeText": "Content type",
+    "encodingText": "Encoding",
+    "siteLanguageChoiceError": "The default site language must be one of the site languages",
+    "delconBaseText": "Are you sure you want to delete",
+    "thisMaskText": "this page mask",
+    "thisPageText": "this page",
+    "thisContentTypeText": "this content type",
+    "thisMediaTypeText": "this media type",
+    "thisSurveyText": "this survey",
+    "thisFolderText": "this folder",
+    "thisMediaText": "this digital asset",
+    "thisVocabularyText": "this vocabulary",
+    "atLeastOneLocError": "At least one language must be active",
+    "alreadyTranslatedError": "This item has already been translated in all active languages",
+    "missingLocError": "This version is not eligible for localized revert",
+    "imageRequiredError": "An image must be selected",
+    "localizationErrorText": "Localization error",
+    "noCurrentWorkingLanguageError": "No working language selected",
+    "currentWorkingLanguageText": "Current working language",
+    "languagesText": "Languages",
+    "locStrategyText": "Localizastion strategy",
+    "useBrowserLanguageText": "Use browser language",
+    "onlyOneText": "Only one",
+    "withFallbackText": "With fallback",
+    "editText": "Edit",
+    "alreadyAnsweredText": "Already answered",
+    "MediaFieldNeedsTypeError": "Media fields require a media type",
+    "damTypeHasBeenEmptiedText": "The media type has been emptied",
+    "themePreviewText": "Theme preview",
+    "fieldText": "Field",
+    "dbclickToAssignText": "Double-click available fields to assign to this column",
+    "boReloadRequired":"This change requires an interface reload in order to fully take effect. Would you like to reload now ?",
+    "thisUserTypeText":"this user type",
+    "userTypeIsUsedError":"This user type is used by users and therfore cannot be deleted.",
+    "widthText":"Width",
+    "centeredText":"Centered",
+    "bgColorText":"Background color",
+    "bbgColorText":"Body background color",
+    "imageText":"Image",
+    "textText":"Text",
+    "emailBodyText":"Email body",
+    "emailSendWarning":"Are you sure you want to send this email to all users subscribed to the selected mailing list ?",
+    "modelText":"Model",
+    "mailText":"Mail",
+    "displayLabelText":"Display label"
 }
