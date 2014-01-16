@@ -1,0 +1,6 @@
+{
+  "Blocks.SignUp.label.name":"Name",
+  "Blocks.SignUp.label.password":"Password",
+  "Blocks.SignUp.label.confirmPassword":"Confirm password",
+  "Blocks.SignUp.label.signUp":"Sign Up"
+}

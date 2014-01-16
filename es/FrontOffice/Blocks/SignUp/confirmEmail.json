@@ -1,0 +1,10 @@
+{
+  "Blocks.SignUp.confirmEmail.subject":"Account Creation",
+  "Blocks.SignUp.confirmEmail.hello":"Hello %name%,",
+  "Blocks.SignUp.confirmEmail.clickFollowing":"In order to complete you account creation please activate it by clicking on the following link :",
+  "Blocks.SignUp.confirmEmail.confirmLink":"Confirm your email address",
+  "Blocks.SignUp.confirmEmail.thanks":"Best regards,",
+  "Blocks.SignUp.confirmEmail.automatedMail":"This is an automated email.",
+  "Blocks.SignUp.confirmEmail.emailRequired":"Email confirmation required.",
+  "Blocks.SignUp.confirmEmail.emailSended":"A confirmation email has been sent to the adress you provdided."
+}

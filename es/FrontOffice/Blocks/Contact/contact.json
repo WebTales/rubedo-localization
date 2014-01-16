@@ -1,0 +1,12 @@
+{
+  "Blocks.Contact.Label.YourEmailWasSuccessfullySent":"Su correo electrónico fue enviado con éxito",
+  "Blocks.Contact.Input.Name.Label":"Nombre *",
+  "Blocks.Contact.Input.Email.Label":"Dirección de correo electrónico *",
+  "Blocks.Contact.Input.Subject.Label":"Tema *",
+  "Blocks.Contact.Input.Message.Label":"Mensaje *",
+  "Blocks.Contact.Input.Captcha.Label":"Gracias a introducir el código a continuación:",
+  "Blocks.Contact.Input.Submit.Label":"Enviar",
+  "Blocks.Contact.Input.Error.CanNotBeEmpty":"Este campo no puede estar vacío",
+  "Blocks.Contact.Input.Error.EmailAddress":"Este campo no puede estar vacío y la dirección de correo electrónico debe ser del tipo: exemple@domain.country",
+  "Blocks.Contact.Input.Error.BadCaptcha":"El código que ha introducido no coincide con la imagen"
+}

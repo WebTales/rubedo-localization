@@ -1,0 +1,10 @@
+{
+  "Blocks.ProtectedRessource.Mail.Hello":"Hola,",
+  "Blocks.ProtectedRessource.Mail.Body":"Siguiendo su petición, estamos encantados de enviarle el link de descarga. Ésta estará activa durante 48 horas.",
+  "Blocks.ProtectedRessource.Mail.Regards":"Saludos",
+  "Blocks.ProtectedRessource.Mail.signature":"El sitio",
+  "Blocks.ProtectedRessource.Message.Download":"Haga clic en para descargar",
+  "Blocks.ProtectedRessource.Message.EmailSent":"Se ha enviado un email con tu vinculo de descarga",
+  "Blocks.ProtectedRessource.Message.EmailFail":"Imposible enviarle un email con tu vínculo de descarga",
+  "Blocks.ProtectedRessource.Mail.Subject":"Carga de archivos"
+}
