@@ -203,5 +203,18 @@
   "themePreviewText":"Aperçu du thème",
   "fieldText":"Champ",
   "dbclickToAssignText":"Double-cliquez sur les champs disponibles pour assigner à cette colonne",
-  "boReloadRequired":"Ce changement nécessite un rechargement de l'interface afin de prendre pleinement effet. Souhaitez-vous recharger maintenant ?"
+  "boReloadRequired":"Ce changement nécessite un rechargement de l'interface afin de prendre pleinement effet. Souhaitez-vous recharger maintenant ?",
+  "thisUserTypeText":"ce type d'utilisateur",
+  "userTypeIsUsedError":"Ce type d'utilisateur est utilisé par les utilisateurs, et donc ne peut pas être supprimé.",
+  "widthText":"Largeur",
+  "centeredText":"Centré",
+  "bgColorText":"Couleur d'arrière-plan",
+  "bbgColorText":"Couleur d'arrière-plan du corps",
+  "imageText":"Image",
+  "textText":"Texte",
+  "emailBodyText":"Corps de l'e-mail",
+  "emailSendWarning":"Êtes-vous sûr de que vouloir envoyer cet e-mail à tous les utilisateurs abonnés à la liste de diffusion sélectionnée ?",
+  "modelText":"Modèle",
+  "mailText":"Mail",
+  "displayLabelText":"Afficher le libellé"
 }

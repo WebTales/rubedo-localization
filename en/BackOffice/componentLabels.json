@@ -74,6 +74,12 @@
     "exportElementBtn": {
         "text": "Export this element "
     },
+    "removeBtn": {
+        "text": "Delete"
+    },
+    "renameBtn": {
+        "text": "Rename"
+    },
     "changePasswordWindow": {
         "title": "Change password"
     },
@@ -85,12 +91,6 @@
     },
     "applyBtn": {
         "text": "Apply"
-    },
-    "removeBtn": {
-        "text": "Delete"
-    },
-    "renameBtn": {
-        "text": "Rename"
     },
     "termField": {
         "fieldLabel": "Term "
@@ -128,6 +128,22 @@
     "typeCol": {
         "text": "Type"
     },
+    "titleCol": {
+        "text": "Title"
+    },
+    "onlineCol": {
+        "text": "Online"
+    },
+    "chooseThisContentBtn": {
+        "text": "<b>Choose this content</b>"
+    },
+    "qbs3": {
+        "title": "Choice of the criteria on fields"
+    },
+    "qbs3ruleadder": {
+        "fieldLabel": "Add a rule on "
+    },
+    "qbs3auxbtn": [],
     "qbFinalRecStagePanel": {
         "title": "Summary and saving"
     },
@@ -139,22 +155,6 @@
     },
     "saveQBQueryBtn": {
         "text": "<b>Save this query</b>"
-    },
-    "qbs3": {
-        "title": "Choice of the criteria on fields"
-    },
-    "qbs3ruleadder": {
-        "fieldLabel": "Add a rule on "
-    },
-    "qbs3auxbtn": [],
-    "titleCol": {
-        "text": "Title"
-    },
-    "onlineCol": {
-        "text": "Online"
-    },
-    "chooseThisContentBtn": {
-        "text": "<b>Choose this content</b>"
     },
     "qbs4": {
         "title": "Choice of sorting on fields"
@@ -209,6 +209,12 @@
     "wizardNextBtn": {
         "text": "Next"
     },
+    "queryWindow": {
+        "title": "Queries"
+    },
+    "editBtn": {
+        "text": "Edit"
+    },
     "queryTypeChooseWindow": {
         "title": "Choose a query type"
     },
@@ -233,12 +239,6 @@
     "saveManualQueryBtn": {
         "text": "Save query"
     },
-    "queryWindow": {
-        "title": "Queries"
-    },
-    "editBtn": {
-        "text": "Edit"
-    },
     "chooseDamTypeWindow": {
         "title": "Choose a media type"
     },
@@ -248,8 +248,17 @@
     "chooseDamTypeSubmitBtn": {
         "text": "Create a new media of this type"
     },
+    "newWorkspaceWindow": {
+        "title": "New workspace"
+    },
+    "createNewWorkspaceBtn": {
+        "text": "Create a new workspace"
+    },
     "workspaceField": {
         "fieldLabel": "Workspaces"
+    },
+    "newTermWindow": {
+        "title": "New term"
     },
     "maskSaveChoiceWindow": {
         "title": "This mask is used by pages"
@@ -259,6 +268,12 @@
     },
     "maskSaveChoice2Btn": {
         "text": "Save as a new mask"
+    },
+    "chooseBtn": {
+        "text": "Choose"
+    },
+    "modifyBtn": {
+        "text": "Edit"
     },
     "mediaQueryAssistant": {
         "title": "Querying on media Wizard"
@@ -278,21 +293,6 @@
     "saveBtn": {
         "text": "Save"
     },
-    "newTermWindow": {
-        "title": "New term"
-    },
-    "newWorkspaceWindow": {
-        "title": "New workspace"
-    },
-    "createNewWorkspaceBtn": {
-        "text": "Create a new workspace"
-    },
-    "chooseBtn": {
-        "text": "Choose"
-    },
-    "modifyBtn": {
-        "text": "Edit"
-    },
     "lcFieldAdress": {
         "fieldLabel": "Address"
     },
@@ -305,26 +305,17 @@
     "lcFieldLongitude": {
         "fieldLabel": "Longitude"
     },
-    "sessionExpiringWindow": {
-        "title": "Your session will soon expire"
-    },
-    "sessionRenewWindow": {
-        "text": "Renew my session"
-    },
     "sessionExpiredWindow": {
         "title": "Your session has expired"
     },
     "reconnectBtn": {
         "text": "Connect again"
     },
-    "newUserWindow": {
-        "title": "New user"
+    "sessionExpiringWindow": {
+        "title": "Your session will soon expire"
     },
-    "emailField": {
-        "fieldLabel": "E-mail "
-    },
-    "userAccountField": {
-        "fieldLabel": "User account "
+    "sessionRenewWindow": {
+        "text": "Renew my session"
     },
     "pagesLaunchBtn": {
         "text": "Pages"
@@ -419,6 +410,15 @@
     "gfsEditBtn": {
         "tooltip": "Edit the file"
     },
+    "newUserWindow": {
+        "title": "New user"
+    },
+    "emailField": {
+        "fieldLabel": "E-mail "
+    },
+    "userAccountField": {
+        "fieldLabel": "User account "
+    },
     "picUploadWindow": {
         "title": "Upload an image"
     },
@@ -451,18 +451,6 @@
     },
     "addBlockTypeColumn": {
         "text": "Type"
-    },
-    "newPageWindow": {
-        "title": "New Page"
-    },
-    "newPageTitleField": {
-        "fieldLabel": "Title "
-    },
-    "newPageMaskChoiceField": {
-        "fieldLabel": "Page mask "
-    },
-    "newPageSubmitBtn": {
-        "text": "Create as a descendant of the selected page"
     },
     "previewWindow": {
         "title": "Preview"
@@ -502,6 +490,18 @@
     },
     "refreshBtn": {
         "text": "<b>Refresh</b>"
+    },
+    "newPageWindow": {
+        "title": "New Page"
+    },
+    "newPageTitleField": {
+        "fieldLabel": "Title "
+    },
+    "newPageMaskChoiceField": {
+        "fieldLabel": "Page mask "
+    },
+    "newPageSubmitBtn": {
+        "text": "Create as a descendant of the selected page"
     },
     "importMainWindow": {
         "title": "Import"
@@ -616,26 +616,20 @@
     "newMLCreateBtn": {
         "text": "Create a new mailing list"
     },
-    "optionsConfiguratorBtn": {
-        "text": "Configure options"
-    },
-    "optionsEditor1Window": {
-        "title": "Option editor"
-    },
-    "valueCol": {
-        "text": "Value"
-    },
-    "labelCol": {
-        "text": "Label"
-    },
-    "oeditor1addBtn": {
-        "tooltip": "Add an option"
-    },
-    "oeditor1removeBtn": {
-        "tooltip": "Remove this option"
-    },
     "mailingListsWindow": {
         "title": "Mailing lists"
+    },
+    "manageUsersFS": {
+        "title": "Manage subscribed users"
+    },
+    "subscribeBtn": {
+        "text": "Subscribe"
+    },
+    "unsubscribeBtn": {
+        "text": "Unsubscribe"
+    },
+    "exportBtn": {
+        "text": "Export"
     },
     "propertiesForm": {
         "title": "Properties"
@@ -661,35 +655,41 @@
     "returnPathAdressField": {
         "fieldLabel": "Return path address"
     },
-    "imagePreviewWindow": {
-        "title": "Full size preview"
+    "subscribedUsersGrid": {
+        "title": "Subscribed users"
     },
-    "chooseDamTypeMassSubmitBtn": {
-        "text": "Upload media of this type"
+    "emailCol": {
+        "text": "Email"
     },
-    "pixlrEditorWindow": {
-        "title": "Image editor"
+    "createCol": {
+        "text": "Creation"
     },
-    "damMassUploadWindow": {
-        "title": "Digital assets mass upload"
+    "subsCribeCol": {
+        "text": "Subscription"
     },
-    "uploadTab": {
-        "title": "Upload"
+    "unsubscribedUsersGrid": {
+        "title": "Unsubscribed users"
     },
-    "uploadOptionsTab": {
-        "title": "Options"
+    "unsubscribedCol": {
+        "text": "Unsubscription"
     },
-    "applyCurrentTaxoToUploadField": {
-        "fieldLabel": "Apply current taxonomy facets"
+    "optionsConfiguratorBtn": {
+        "text": "Configure options"
     },
-    "workspacesToApplyFieldset": {
-        "title": "Workspaces to apply to uploaded media"
+    "optionsEditor1Window": {
+        "title": "Option editor"
     },
-    "diffusionWorkspaceField": {
-        "fieldLabel": "Diffusion"
+    "valueCol": {
+        "text": "Value"
     },
-    "doneUploadingBtn": {
-        "text": "Done uploading"
+    "labelCol": {
+        "text": "Label"
+    },
+    "oeditor1addBtn": {
+        "tooltip": "Add an option"
+    },
+    "oeditor1removeBtn": {
+        "tooltip": "Remove this option"
     },
     "systemInfoDisplayWindow": {
         "title": "System information"
@@ -715,6 +715,36 @@
     "extensionsPropDisplayPanel": {
         "title": "Rubedo Extensions"
     },
+    "imagePreviewWindow": {
+        "title": "Full size preview"
+    },
+    "pixlrEditorWindow": {
+        "title": "Image editor"
+    },
+    "damMassUploadWindow": {
+        "title": "Digital assets mass upload"
+    },
+    "uploadTab": {
+        "title": "Upload"
+    },
+    "uploadOptionsTab": {
+        "title": "Options"
+    },
+    "applyCurrentTaxoToUploadField": {
+        "fieldLabel": "Apply current taxonomy facets"
+    },
+    "workspacesToApplyFieldset": {
+        "title": "Workspaces to apply to uploaded media"
+    },
+    "diffusionWorkspaceField": {
+        "fieldLabel": "Diffusion"
+    },
+    "doneUploadingBtn": {
+        "text": "Done uploading"
+    },
+    "chooseDamTypeMassSubmitBtn": {
+        "text": "Upload media of this type"
+    },
     "inheritWorkspaceField": {
         "fieldLabel": "Inherits workspace"
     },
@@ -727,6 +757,15 @@
     "OperatorColumn": {
         "text": "Operator"
     },
+    "workingLanguageWindow": {
+        "title": "Change current working language"
+    },
+    "TALanguageField": {
+        "fieldLabel": "Language"
+    },
+    "setAsWLBtn": {
+        "text": "Set as current working language"
+    },
     "languagesInterface4": {
         "title": "Languages"
     },
@@ -738,21 +777,6 @@
     },
     "OwnNameCol": {
         "text": "Own name"
-    },
-    "workingLanguageWindow": {
-        "title": "Change current working language"
-    },
-    "TALanguageField": {
-        "fieldLabel": "Language"
-    },
-    "setAsWLBtn": {
-        "text": "Set as current working language"
-    },
-    "translationAdderWindow": {
-        "title": "Add new translation"
-    },
-    "translateInThisLanguageBtn": {
-        "text": "Translate in this language"
     },
     "currentLanguageDSLField": {
         "fieldLabel": "Current language"
@@ -774,6 +798,12 @@
     },
     "descriptionField": {
         "fieldLabel": "Description "
+    },
+    "translationAdderWindow": {
+        "title": "Add new translation"
+    },
+    "translateInThisLanguageBtn": {
+        "text": "Translate in this language"
     },
     "helpTextField": {
         "fieldLabel": "Help text "
@@ -810,24 +840,6 @@
     },
     "createNewCustomThemeBtn": {
         "text": "Create new custom theme"
-    },
-    "assignTCFieldWindow": {
-        "title": "Assign field"
-    },
-    "assignFieldField": {
-        "fieldLabel": "Field"
-    },
-    "assignFieldSubmitBtn": {
-        "text": "Assign this field to selected column"
-    },
-    "newLayoutWindow": {
-        "title": "New layout"
-    },
-    "nmSiteField": {
-        "fieldLabel": "Site "
-    },
-    "createNewLayoutBtn": {
-        "text": "Create new layout"
     },
     "customThemesWindow": {
         "title": "Custom Themes"
@@ -892,6 +904,24 @@
     "simpleModeFavoritesBtn": {
         "text": "Favorites"
     },
+    "newLayoutWindow": {
+        "title": "New layout"
+    },
+    "nmSiteField": {
+        "fieldLabel": "Site "
+    },
+    "createNewLayoutBtn": {
+        "text": "Create new layout"
+    },
+    "assignTCFieldWindow": {
+        "title": "Assign field"
+    },
+    "assignFieldField": {
+        "fieldLabel": "Field"
+    },
+    "assignFieldSubmitBtn": {
+        "text": "Assign this field to selected column"
+    },
     "newLayoutWindowCopy": {
         "title": "Copy layout"
     },
@@ -923,6 +953,30 @@
     },
     "taxoTab": {
         "title": "Taxonomy"
+    },
+    "usersWindow": {
+        "title": "Users"
+    },
+    "clipboardGroup": {
+        "title": "Clipboard"
+    },
+    "shortcutBtn": {
+        "text": "Add to Favorites"
+    },
+    "typeColumn": {
+        "text": "Type"
+    },
+    "photoCol": {
+        "text": "Photo"
+    },
+    "creationCol": {
+        "text": "Creation"
+    },
+    "lastUpdateCol": {
+        "text": "Date of last modification"
+    },
+    "signUpStatCol": {
+        "text": "Sign-up status"
     },
     "credentiamsAndIntForm": {
         "title": "Credentials and interface settings"
@@ -965,33 +1019,6 @@
     },
     "changeBtn": {
         "text": "Change"
-    },
-    "usersWindow": {
-        "title": "Users"
-    },
-    "clipboardGroup": {
-        "title": "Clipboard"
-    },
-    "shortcutBtn": {
-        "text": "Add to Favorites"
-    },
-    "typeColumn": {
-        "text": "Type"
-    },
-    "photoCol": {
-        "text": "Photo"
-    },
-    "emailCol": {
-        "text": "Email"
-    },
-    "creationCol": {
-        "text": "Creation"
-    },
-    "lastUpdateCol": {
-        "text": "Date of last modification"
-    },
-    "signUpStatCol": {
-        "text": "Sign-up status"
     },
     "querySimWindow": {
         "title": "Query result simulation"
@@ -1062,6 +1089,12 @@
     "previewTab": {
         "title": "Preview"
     },
+    "subscribeUsersWindow": {
+        "title": "Subscribe users"
+    },
+    "subscribeSubmitBtn": {
+        "text": "Subscribe"
+    },
     "sendEmailWindow": {
         "title": "Send email"
     },
@@ -1070,12 +1103,6 @@
     },
     "sendSubmitBtn": {
         "text": "Send"
-    },
-    "subscribeUsersWindow": {
-        "title": "Subscribe users"
-    },
-    "subscribeSubmitBtn": {
-        "text": "Subscribe"
     },
     "MLImportWindow": {
         "title": "Import users to mailing list"
@@ -1125,9 +1152,6 @@
     },
     "pageMaskWindow": {
         "title": "Page masks"
-    },
-    "exportBtn": {
-        "text": "Export"
     },
     "desktopCustomizeWindow": {
         "title": "Customizing the desktop"
@@ -1212,6 +1236,12 @@
     },
     "filtersPanel": {
         "title": "Filters"
+    },
+    "fsGlobalSetPan": {
+        "title": "Global facet settings"
+    },
+    "displayFacetFieldM": {
+        "fieldLabel": "Display"
     },
     "facetOperatorField": {
         "fieldLabel": "Facet operator"
@@ -1351,26 +1381,6 @@
     "indexAllBtn": {
         "text": "<b>Index everything</b>"
     },
-    "newDamWindow": {
-        "title": "New media"
-    },
-    "damOrginalFileField": {
-        "fieldLabel": "Original file *",
-        "buttonText": "Browse...",
-        "RTip": "Main media file. Mandatory."
-    },
-    "taxonomyFieldset": {
-        "title": "Taxonomy"
-    },
-    "workspacesFieldset": {
-        "title": "Workspaces"
-    },
-    "damSubmitNewBtn": {
-        "text": "Create this new media"
-    },
-    "damSubmitUpdateBtn": {
-        "text": "Save changes"
-    },
     "siteBuilderWizzard": {
         "title": "Site creation wizard"
     },
@@ -1397,57 +1407,6 @@
     },
     "workspaceWindow": {
         "title": "Workspaces"
-    },
-    "newContentWindow": {
-        "title": "New content"
-    },
-    "metadataTab": {
-        "text": "Metadata"
-    },
-    "taxonomyTab": {
-        "text": "Taxonomy"
-    },
-    "workspacesTab": {
-        "text": "Workspaces"
-    },
-    "versionsTab": {
-        "text": "Versions"
-    },
-    "dependantTypesTab": {
-        "text": "Nested content"
-    },
-    "publishFieldset": {
-        "title": "Publication"
-    },
-    "contentStartPublicationDateField": {
-        "fieldLabel": "Start Publication Date "
-    },
-    "contentEndPublicationDateField": {
-        "fieldLabel": "End Publication Date "
-    },
-    "versionTitleCol": {
-        "text": "Title"
-    },
-    "versionVersionCol": {
-        "text": "Version"
-    },
-    "versionPublishDateCol": {
-        "text": "Publication Date"
-    },
-    "versionAuthorCol": {
-        "text": "Author"
-    },
-    "createAsDraftBtn": {
-        "text": "Draft"
-    },
-    "submitBtn": {
-        "text": "Submit"
-    },
-    "refuseBtn": {
-        "text": "Refuse"
-    },
-    "publishBtn": {
-        "text": "Publish"
     },
     "termsCol": {
         "text": "Terms"
@@ -1521,11 +1480,40 @@
     "workflowGroup": {
         "title": "Workflow"
     },
+    "publishBtn": {
+        "text": "Publish"
+    },
+    "submitBtn": {
+        "text": "Submit"
+    },
+    "refuseBtn": {
+        "text": "Refuse"
+    },
     "onlineBtn": {
         "text": "Put online"
     },
     "offlineBtn": {
         "text": "Take offline"
+    },
+    "newDamWindow": {
+        "title": "New media"
+    },
+    "damOrginalFileField": {
+        "fieldLabel": "Original file *",
+        "buttonText": "Browse...",
+        "RTip": "Main media file. Mandatory."
+    },
+    "taxonomyFieldset": {
+        "title": "Taxonomy"
+    },
+    "workspacesFieldset": {
+        "title": "Workspaces"
+    },
+    "damSubmitNewBtn": {
+        "text": "Create this new media"
+    },
+    "damSubmitUpdateBtn": {
+        "text": "Save changes"
     },
     "contentTypesWindow": {
         "title": "Content types"
@@ -1560,6 +1548,9 @@
     "purgeContentTypeBtn": {
         "text": "Empty content",
         "tooltip": "Delete all the contents of this type"
+    },
+    "taxonomyTab": {
+        "text": "Taxonomy"
     },
     "systemFieldPanel": {
         "title": "System fields"
@@ -1657,6 +1648,45 @@
         "fieldLabel": "Mandatory "
     },
     "termsPanel": [],
+    "newContentWindow": {
+        "title": "New content"
+    },
+    "metadataTab": {
+        "text": "Metadata"
+    },
+    "workspacesTab": {
+        "text": "Workspaces"
+    },
+    "versionsTab": {
+        "text": "Versions"
+    },
+    "dependantTypesTab": {
+        "text": "Nested content"
+    },
+    "publishFieldset": {
+        "title": "Publication"
+    },
+    "contentStartPublicationDateField": {
+        "fieldLabel": "Start Publication Date "
+    },
+    "contentEndPublicationDateField": {
+        "fieldLabel": "End Publication Date "
+    },
+    "versionTitleCol": {
+        "text": "Title"
+    },
+    "versionVersionCol": {
+        "text": "Version"
+    },
+    "versionPublishDateCol": {
+        "text": "Publication Date"
+    },
+    "versionAuthorCol": {
+        "text": "Author"
+    },
+    "createAsDraftBtn": {
+        "text": "Draft"
+    },
     "appLogsWindow": {
         "title": "Application logs"
     },

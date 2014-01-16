@@ -218,5 +218,22 @@
   "#ext-gen1405#":"Champ image",
   "#ext-gen1406#":"Titre uniquement",
   "#ext-gen1407#":"Hauteur du résumé",
-  "#ext-gen1408#":"<p>Le bloc 'Formulaire de recherche avancée' permet d'afficher un formulaire de recherche limité à une ensemble de types de contenus. Le formulaire expose les différents vocabulaires de taxonomie disponibles sous forme de liste déroulantes.<\/p>"
+  "#ext-gen1408#":"<p>Le bloc 'Formulaire de recherche avancée' permet d'afficher un formulaire de recherche limité à une ensemble de types de contenus. Le formulaire expose les différents vocabulaires de taxonomie disponibles sous forme de liste déroulantes.<\/p>",
+  "#ext-gen1409#":"Page de profil",
+  "#ext-gen1410#":"Page de redirection",
+  "#ext-gen1411#":"Pop-in",
+  "#ext-gen1412#":"Formulaire",
+  "#ext-gen1413#":"Type d'utilisateur",
+  "#ext-gen1414#":"Champ mot de passe",
+  "#ext-gen1415#":"Inscription",
+  "#ext-gen1416#":"Désabonner",
+  "#ext-gen1417#":"Répertoire",
+  "#ext-gen1418#":"Index alphabétique",
+  "#ext-gen1419#":"Liste",
+  "#ext-gen1420#":"VCard",
+  "#ext-gen1421#":"Mode d'affichage de l'utilisateur",
+  "#ext-gen1422#":"Script D3",
+  "#ext-gen1423#":"Code",
+  "#ext-gen1424#":"Résultats Max",
+  "#ext-gen1425#":"Visualisation de données"
 }

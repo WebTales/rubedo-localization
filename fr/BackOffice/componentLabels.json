@@ -96,7 +96,7 @@
     "fieldLabel":"Terme "
   },
   "indexedElementsWindow":{
-    "title":"Elements indexés"
+    "title":"Eléments indexés"
   },
   "okBtn":{
     "text":"<b>OK<\/b>"
@@ -128,15 +128,6 @@
   "typeCol":{
     "text":"Type"
   },
-  "qbs3":{
-    "title":"Choix des critères sur les champs"
-  },
-  "qbs3ruleadder":{
-    "fieldLabel":"Ajouter une régle sur "
-  },
-  "qbs3auxbtn":[
-    
-  ],
   "titleCol":{
     "text":"Titre"
   },
@@ -146,18 +137,15 @@
   "chooseThisContentBtn":{
     "text":"<b>Choisir ce contenu<\/b>"
   },
-  "u1TitleColumn":{
-    "text":"Titre"
+  "qbs3":{
+    "title":"Choix des critères sur les champs"
   },
-  "u1TypeColumn":{
-    "text":"Type"
+  "qbs3ruleadder":{
+    "fieldLabel":"Ajouter une règle sur "
   },
-  "u1StatusColumn":{
-    "text":"Etat"
-  },
-  "u1OnlineColumn":{
-    "text":"En ligne"
-  },
+  "qbs3auxbtn":[
+    
+  ],
   "qbFinalRecStagePanel":{
     "title":"Récapitulatif et enregistrement"
   },
@@ -179,6 +167,18 @@
   "qbs4auxbtn":[
     
   ],
+  "u1TitleColumn":{
+    "text":"Titre"
+  },
+  "u1TypeColumn":{
+    "text":"Type"
+  },
+  "u1StatusColumn":{
+    "text":"Etat"
+  },
+  "u1OnlineColumn":{
+    "text":"En ligne"
+  },
   "gfsUploadFileBtn":{
     "tooltip":"Uploader un fichier"
   },
@@ -231,15 +231,6 @@
   "chooseAdvancedQueryBtn":{
     "text":"Requête avancée"
   },
-  "chooseDamTypeWindow":{
-    "title":"Choissez un type de média"
-  },
-  "chooseDamTypeField":{
-    "fieldLabel":"Type"
-  },
-  "chooseDamTypeSubmitBtn":{
-    "text":"Créer un nouveau média de ce type"
-  },
   "manualQueryWindow":{
     "title":"Requête manuelle"
   },
@@ -252,6 +243,15 @@
   "saveManualQueryBtn":{
     "text":"Enregistrer la requête"
   },
+  "chooseDamTypeWindow":{
+    "title":"Choissez un type de média"
+  },
+  "chooseDamTypeField":{
+    "fieldLabel":"Type"
+  },
+  "chooseDamTypeSubmitBtn":{
+    "text":"Créer un nouveau média de ce type"
+  },
   "newWorkspaceWindow":{
     "title":"Nouvel espace de travail"
   },
@@ -260,6 +260,9 @@
   },
   "workspaceField":{
     "fieldLabel":"Espaces de travail"
+  },
+  "newTermWindow":{
+    "title":"Nouveau terme"
   },
   "maskSaveChoiceWindow":{
     "title":"Ce masque est utilisé par des pages"
@@ -270,8 +273,11 @@
   "maskSaveChoice2Btn":{
     "text":"Enregistrer sous un nouveau masque"
   },
-  "newTermWindow":{
-    "title":"Nouveau terme"
+  "chooseBtn":{
+    "text":"Choisir"
+  },
+  "modifyBtn":{
+    "text":"Modifier"
   },
   "mediaQueryAssistant":{
     "title":"Assistant de requêtage sur médias"
@@ -280,7 +286,7 @@
     "title":"Choix des types de médias"
   },
   "mediaTypesField":{
-    "fieldLabel":"Types de media"
+    "fieldLabel":"Types de média"
   },
   "mqS2":{
     "title":"Choix des règles sur la taxonomie"
@@ -290,12 +296,6 @@
   },
   "saveBtn":{
     "text":"Enregistrer"
-  },
-  "chooseBtn":{
-    "text":"Choisir"
-  },
-  "modifyBtn":{
-    "text":"Modifier"
   },
   "lcFieldAdress":{
     "fieldLabel":"Adresse"
@@ -309,17 +309,17 @@
   "lcFieldLongitude":{
     "fieldLabel":"Longitude"
   },
-  "sessionExpiringWindow":{
-    "title":"Votre session va bientot expirer"
-  },
-  "sessionRenewWindow":{
-    "text":"Renouveler ma session"
-  },
   "sessionExpiredWindow":{
     "title":"Votre session a expiré"
   },
   "reconnectBtn":{
     "text":"Se connecter à nouveau"
+  },
+  "sessionExpiringWindow":{
+    "title":"Votre session va bientot expirer"
+  },
+  "sessionRenewWindow":{
+    "text":"Renouveler ma session"
   },
   "pagesLaunchBtn":{
     "text":"Pages"
@@ -351,17 +351,20 @@
   "masksLaunchBtn":{
     "text":"Masques de page"
   },
+  "emailsLaunchBtn":{
+    "text":"E-mails"
+  },
   "contentTypesLaunchBtn":{
     "text":"Types de contenus"
   },
   "damTypesLaunchBtn":{
     "text":"Types de médias"
   },
+  "userTypesLaunchBtn":{
+    "text":"Types d'utilisateurs"
+  },
   "customThemesLaunchBtn":{
     "text":"Thèmes personnalisés"
-  },
-  "formsLaunchBtn":{
-    "text":"Questionnaires"
   },
   "queriesLaunchBtn":{
     "text":"Requêtes"
@@ -411,9 +414,6 @@
   "gfsEditBtn":{
     "tooltip":"Editer le fichier"
   },
-  "picUploadWindow":{
-    "title":"Uploader une image"
-  },
   "newUserWindow":{
     "title":"Nouvel utilisateur"
   },
@@ -422,6 +422,9 @@
   },
   "userAccountField":{
     "fieldLabel":"Compte utilisateur "
+  },
+  "picUploadWindow":{
+    "title":"Uploader une image"
   },
   "fieldPanel":{
     "title":"Champs"
@@ -438,12 +441,6 @@
   "emFieldMAxHeight":{
     "fieldLabel":"Hauteur max"
   },
-  "addBlockWindow":{
-    "title":"Ajouter un bloc"
-  },
-  "addBlockTypeColumn":{
-    "text":"Type"
-  },
   "confirmDeleteWindow":{
     "title":"Confirmation de suppression"
   },
@@ -452,6 +449,12 @@
   },
   "confirmDeleteNo":{
     "text":"Non"
+  },
+  "addBlockWindow":{
+    "title":"Ajouter un bloc"
+  },
+  "addBlockTypeColumn":{
+    "text":"Type"
   },
   "previewWindow":{
     "title":"Prévisualisation"
@@ -503,33 +506,6 @@
   },
   "newPageSubmitBtn":{
     "text":"Créer en tant que fille de la page sélectionnée"
-  },
-  "mailingListsWindow":{
-    "title":"Listes de diffusion"
-  },
-  "propertiesForm":{
-    "title":"Propriétés"
-  },
-  "expeditorFieldset":{
-    "title":"Expéditeur"
-  },
-  "expeditorAdressField":{
-    "fieldLabel":"Adresse de l'expéditeur"
-  },
-  "expeditorNameField":{
-    "fieldLabel":"Nom de l'expéditeur"
-  },
-  "responseFieldset":{
-    "title":"Réponse"
-  },
-  "replyToAdressField":{
-    "fieldLabel":"Adresse de réponse"
-  },
-  "replyToNameField":{
-    "fieldLabel":"Nom de réponse"
-  },
-  "returnPathAdressField":{
-    "fieldLabel":"Adresse d'erreur"
   },
   "importMainWindow":{
     "title":"Import"
@@ -646,11 +622,65 @@
   "newMLCreateBtn":{
     "text":"Créer une nouvelle liste de diffusion"
   },
+  "mailingListsWindow":{
+    "title":"Listes de diffusion"
+  },
+  "manageUsersFS":{
+    "title":"Gérer les utilisateurs abonnés"
+  },
+  "subscribeBtn":{
+    "text":"Abonner"
+  },
+  "unsubscribeBtn":{
+    "text":"Désabonner"
+  },
+  "exportBtn":{
+    "text":"Exporter"
+  },
+  "propertiesForm":{
+    "title":"Propriétés"
+  },
+  "expeditorFieldset":{
+    "title":"Expéditeur"
+  },
+  "expeditorAdressField":{
+    "fieldLabel":"Adresse de l'expéditeur"
+  },
+  "expeditorNameField":{
+    "fieldLabel":"Nom de l'expéditeur"
+  },
+  "responseFieldset":{
+    "title":"Réponse"
+  },
+  "replyToAdressField":{
+    "fieldLabel":"Adresse de réponse"
+  },
+  "replyToNameField":{
+    "fieldLabel":"Nom de réponse"
+  },
+  "returnPathAdressField":{
+    "fieldLabel":"Adresse d'erreur"
+  },
+  "subscribedUsersGrid":{
+    "title":"Utilisateurs abonnés"
+  },
+  "emailCol":{
+    "text":"Email"
+  },
+  "createCol":{
+    "text":"Création"
+  },
+  "subsCribeCol":{
+    "text":"Abonnement"
+  },
+  "unsubscribedUsersGrid":{
+    "title":"Utilisateurs désabonnés"
+  },
+  "unsubscribedCol":{
+    "text":"Désabonnement"
+  },
   "optionsConfiguratorBtn":{
     "text":"Configurer les options"
-  },
-  "imagePreviewWindow":{
-    "title":"Aperçu pleine taille"
   },
   "optionsEditor1Window":{
     "title":"Editeur d'options"
@@ -691,8 +721,11 @@
   "extensionsPropDisplayPanel":{
     "title":"Extensions Rubedo"
   },
-  "chooseDamTypeMassSubmitBtn":{
-    "text":"Déposer des médias de ce type"
+  "imagePreviewWindow":{
+    "title":"Aperçu pleine taille"
+  },
+  "pixlrEditorWindow":{
+    "title":"Éditeur d'images"
   },
   "damMassUploadWindow":{
     "title":"Upload en masse de médias"
@@ -715,11 +748,11 @@
   "doneUploadingBtn":{
     "text":"Fin de l'upload"
   },
+  "chooseDamTypeMassSubmitBtn":{
+    "text":"Déposer des médias de ce type"
+  },
   "inheritWorkspaceField":{
     "fieldLabel":"Hérite de l'espace de travail"
-  },
-  "pixlrEditorWindow":{
-    "title":"Éditeur d'images"
   },
   "facetOverridesWindow":{
     "title":"Surcharges des facettes"
@@ -739,6 +772,27 @@
   "setAsWLBtn":{
     "text":"Définir comme langue de travail actuelle"
   },
+  "languagesInterface4":{
+    "title":"Langues"
+  },
+  "FlagCol":{
+    "text":"Drapeau"
+  },
+  "LangNameCol":{
+    "text":"Nom"
+  },
+  "OwnNameCol":{
+    "text":"Nom natif"
+  },
+  "currentLanguageDSLField":{
+    "fieldLabel":"Langue courante"
+  },
+  "addTranslationBtn":{
+    "text":"Ajouter une traduction"
+  },
+  "removeTranslationBtn":{
+    "text":"Supprimer cette traduction"
+  },
   "urlField":{
     "fieldLabel":"URL"
   },
@@ -757,37 +811,8 @@
   "translateInThisLanguageBtn":{
     "text":"Traduire dans cette langue"
   },
-  "languagesInterface4":{
-    "title":"Langues"
-  },
-  "FlagCol":{
-    "text":"Drapeau"
-  },
-  "LangNameCol":{
-    "text":"Nom"
-  },
-  "OwnNameCol":{
-    "text":"Nom natif"
-  },
   "helpTextField":{
     "fieldLabel":"Texte d'aide "
-  },
-  "contentTitleField":{
-    "fieldLabel":"Titre *",
-    "RTip":"Titre du contenu. Obligatoire."
-  },
-  "summaryField":{
-    "fieldLabel":"Résumé ",
-    "RTip":"Résumé facultatif du contenu."
-  },
-  "currentLanguageDSLField":{
-    "fieldLabel":"Langue courante"
-  },
-  "addTranslationBtn":{
-    "text":"Ajouter une traduction"
-  },
-  "removeTranslationBtn":{
-    "text":"Supprimer cette traduction"
   },
   "siteFieldSet":{
     "title":"Site"
@@ -801,6 +826,14 @@
   "defaultAuthorField":{
     "fieldLabel":"Auteur par défaut"
   },
+  "contentTitleField":{
+    "fieldLabel":"Titre *",
+    "RTip":"Titre du contenu. Obligatoire."
+  },
+  "summaryField":{
+    "fieldLabel":"Résumé ",
+    "RTip":"Résumé facultatif du contenu."
+  },
   "damTitleField":{
     "fieldLabel":"Titre *",
     "RTip":"Titre du média. Obligatoire."
@@ -813,6 +846,69 @@
   },
   "createNewCustomThemeBtn":{
     "text":"Créer un nouveau thème personnalisé"
+  },
+  "customThemesWindow":{
+    "title":"Thèmes personnalisés"
+  },
+  "themesMainPanel":{
+    "title":"Thèmes"
+  },
+  "lessVarsPanel":{
+    "title":"Variables LESS"
+  },
+  "garysFieldset":{
+    "title":"Gris"
+  },
+  "randomizeColorsBtn":{
+    "text":"Générer couleurs de base"
+  },
+  "randomizeColorsBOBtn":{
+    "text":"Générer selon"
+  },
+  "accentColorsFieldset":{
+    "title":"Couleurs d'accentuation"
+  },
+  "linksFieldset":{
+    "title":"Liens"
+  },
+  "tablesFieldset":{
+    "title":"Tables"
+  },
+  "buttonsFieldset":{
+    "title":"Boutons"
+  },
+  "formsFieldset":{
+    "title":"Formulaires"
+  },
+  "dropdownsFieldset":{
+    "title":"Menus déroulants"
+  },
+  "wellsFieldset":{
+    "title":"Wells"
+  },
+  "navbarsFieldset":{
+    "title":"Barre de navigation"
+  },
+  "invertedNavbarsFieldset":{
+    "title":"Barre de navigation inversée"
+  },
+  "paginationFieldset":{
+    "title":"Pagination"
+  },
+  "statesAlertsFieldset":{
+    "title":"États de formulaires et alertes"
+  },
+  "tooltipsFieldset":{
+    "title":"Info-bulles et popovers"
+  },
+  "typographyFieldset":{
+    "title":"Typographie"
+  },
+  "themeSimulateBtn":{
+    "text":"Simuler"
+  },
+  "simpleModeFavoritesBtn":{
+    "text":"Favoris"
   },
   "newLayoutWindow":{
     "title":"Nouvelle mise en page"
@@ -832,9 +928,6 @@
   "assignFieldSubmitBtn":{
     "text":"Assigner ce champ à la colonne sélectionnée"
   },
-  "simpleModeFavoritesBtn":{
-    "text":"Favoris"
-  },
   "newLayoutWindowCopy":{
     "title":"Copier"
   },
@@ -847,14 +940,103 @@
   "createNewLayoutBtnCopy":{
     "text":"Copier cette mise en page"
   },
-  "pageMaskWindow":{
-    "title":"Masques de page"
+  "newUserTypeWindow":{
+    "title":"Nouveau type d'utilisateur"
+  },
+  "newUserTypeSubmitBtn":{
+    "text":"Créer ce nouveau type d'utilisateur"
+  },
+  "ucuFieldsTab":{
+    "title":"Champs"
+  },
+  "UTEmailField":{
+    "fieldLabel":"E-mail *",
+    "RTip":"E-mail de l'utilisateur. Obligatoire."
+  },
+  "UTNameField":{
+    "fieldLabel":"Nom *",
+    "RTip":"Nom de l'utilisateur. Obligatoire."
+  },
+  "taxoTab":{
+    "title":"Taxonomie"
+  },
+  "usersWindow":{
+    "title":"Utilisateurs"
+  },
+  "clipboardGroup":{
+    "title":"Presse-papiers"
+  },
+  "shortcutBtn":{
+    "text":"Ajouter aux favoris"
+  },
+  "typeColumn":{
+    "text":"Type"
+  },
+  "photoCol":{
+    "text":"Photo"
+  },
+  "creationCol":{
+    "text":"Création"
+  },
+  "lastUpdateCol":{
+    "text":"Date de dernière modification"
+  },
+  "signUpStatCol":{
+    "text":"Statut d'inscription"
+  },
+  "credentiamsAndIntForm":{
+    "title":"Informations d'identification et des paramètres d'interface"
+  },
+  "IntterfaceSettingsFS":{
+    "title":"Paramètres d'interface"
+  },
+  "languageField":{
+    "fieldLabel":"Langue "
+  },
+  "interfaceModeField":{
+    "fieldLabel":"Interface"
+  },
+  "acountUserValidFieldSet":{
+    "title":"Compte utilisateur et validité"
+  },
+  "useraccountField":{
+    "fieldLabel":"Compte utilisateur "
+  },
+  "gruopsField":{
+    "fieldLabel":"Groupes"
+  },
+  "defaultGroupField":{
+    "fieldLabel":"Groupe par defaut"
+  },
+  "startValidityField":{
+    "fieldLabel":"Début de validité "
+  },
+  "endValidityField":{
+    "fieldLabel":"Fin de validité "
+  },
+  "passwordChangeFieldSet":{
+    "title":"Changement de mot de passe"
+  },
+  "userPasswordChangeBtn":{
+    "text":"Changer le mot de passe de cet utilisateur"
+  },
+  "photoFieldSet":{
+    "title":"Photo"
+  },
+  "changeBtn":{
+    "text":"Changer"
+  },
+  "querySimWindow":{
+    "title":"Simulation de résultat de requête"
+  },
+  "emailsInterface":{
+    "title":"E-mails"
   },
   "newBtn":{
     "text":"Nouveau"
   },
-  "editGroup":{
-    "title":"Edition"
+  "editStructureFS":{
+    "title":"Modifier la structure"
   },
   "newRowBtn":{
     "text":"Nouvelle Ligne"
@@ -862,17 +1044,20 @@
   "newColBtn":{
     "text":"Nouvelle Colonne"
   },
-  "newBlocBtn":{
-    "text":"Nouveau Bloc"
-  },
-  "exportBtn":{
-    "text":"Exporter"
-  },
   "moveBtn":{
     "text":"Déplacer"
   },
-  "clipboardGroup":{
-    "title":"Presse-papiers"
+  "addComponentsFS":{
+    "title":"Ajouter des composants"
+  },
+  "addImageCBtn":{
+    "text":"Image"
+  },
+  "addSimpleTextCBtn":{
+    "text":"Texte Simple"
+  },
+  "addRichTextCBtn":{
+    "text":"Texte Riche"
   },
   "duplicateBtn":{
     "text":"Copier"
@@ -883,8 +1068,14 @@
   "saveGroup":{
     "title":"Sauvegarde"
   },
-  "titleColumn":{
-    "text":"Titre"
+  "exploutFS":{
+    "title":"Exploitation"
+  },
+  "sendEmailBtn":{
+    "text":"Envoyer"
+  },
+  "editTab":{
+    "text":"Edition"
   },
   "propsPanel":{
     "title":"Propriétés"
@@ -892,20 +1083,57 @@
   "selectElementPanel":{
     "title":"Sélectionnez un élément"
   },
-  "zoomLevelSlider":{
-    "fieldLabel":"Niveau de zoom"
+  "propertiesTab":{
+    "title":"Propriétés"
+  },
+  "subjectField":{
+    "fieldLabel":"Objet"
+  },
+  "plainTextField":{
+    "fieldLabel":"Texte Brut"
+  },
+  "previewTab":{
+    "title":"Prévisualisation"
+  },
+  "subscribeUsersWindow":{
+    "title":"Abonner des utilisateurs"
+  },
+  "subscribeSubmitBtn":{
+    "text":"Abonner"
+  },
+  "sendEmailWindow":{
+    "title":"Envoyer email"
+  },
+  "mailingListPicker":{
+    "fieldLabel":"Liste de diffusion"
+  },
+  "sendSubmitBtn":{
+    "text":"Envoyer"
+  },
+  "MLImportWindow":{
+    "title":"Import d'utilisateurs à la liste de diffusion"
+  },
+  "csvFileFIeld":{
+    "fieldLabel":"Fichier CSV",
+    "buttonText":"Parcourir..."
+  },
+  "importSubmitBtn":{
+    "text":"Importer"
+  },
+  "codeEditorWindow":{
+    "title":"Éditeur de code"
   },
   "pageWindow":{
     "title":"Pages"
   },
-  "shortcutBtn":{
-    "text":"Ajouter aux favoris"
+  "editGroup":{
+    "title":"Edition"
+  },
+  "newBlocBtn":{
+    "text":"Nouveau Bloc"
   },
   "languageCoumn":{
     "text":"Langues"
-  },
-  "editTab":{
-    "text":"Edition"
   },
   "overviewTab":{
     "text":"Aperçu"
@@ -922,6 +1150,15 @@
   "robotFieldset":{
     "title":"Robot"
   },
+  "titleColumn":{
+    "text":"Titre"
+  },
+  "zoomLevelSlider":{
+    "fieldLabel":"Niveau de zoom"
+  },
+  "pageMaskWindow":{
+    "title":"Masques de page"
+  },
   "desktopCustomizeWindow":{
     "title":"Personnalisation du bureau"
   },
@@ -937,14 +1174,8 @@
   "addUsersToGroupWindow":{
     "text":"Ajouter ces utilisateurs au groupe séléctionné"
   },
-  "usersWindow":{
-    "title":"Utilisateurs"
-  },
   "informationsTab":{
     "text":"Informations"
-  },
-  "accessTab":{
-    "text":"Accès"
   },
   "informationsFieldSet":{
     "title":"Informations"
@@ -973,53 +1204,20 @@
   "coordinatesField":{
     "fieldLabel":"Coordonnées "
   },
-  "languageField":{
-    "fieldLabel":"Langue "
-  },
   "countryField":{
     "fieldLabel":"Pays "
   },
   "applyField":{
     "text":"Appliquer"
   },
-  "photoFieldSet":{
-    "title":"Photo"
-  },
-  "changeBtn":{
-    "text":"Changer"
-  },
-  "acountUserValidFieldSet":{
-    "title":"Compte utilisateur et validité"
-  },
-  "useraccountField":{
-    "fieldLabel":"Compte utilisateur "
-  },
-  "gruopsField":{
-    "fieldLabel":"Groupes"
-  },
-  "defaultGroupField":{
-    "fieldLabel":"Groupe par defaut"
-  },
-  "startValidityField":{
-    "fieldLabel":"Début de validité "
-  },
-  "endValidityField":{
-    "fieldLabel":"Fin de validité "
-  },
-  "passwordChangeFieldSet":{
-    "title":"Changement de mot de passe"
-  },
-  "userPasswordChangeBtn":{
-    "text":"Changer le mot de passe de cet utilisateur"
-  },
   "settingWindow":{
     "title":"Paramètres"
   },
+  "accessTab":{
+    "text":"Accès"
+  },
   "loginField":{
     "fieldLabel":"Login "
-  },
-  "functionField":{
-    "fieldLabel":"Fonction "
   },
   "changePassFieldSet":{
     "title":"Changer de mot de passe"
@@ -1036,41 +1234,26 @@
   "desktopBtn":{
     "text":"Bureau"
   },
-  "stateColumn":{
-    "text":"Etat"
+  "searchResultsWindow":{
+    "title":"Résultats de recherche"
   },
-  "lastUpdateContentCol":{
-    "text":"Dernière mise à jour"
+  "saveQueryBtn":{
+    "text":"Enregistrer la requête"
   },
-  "onlineColumn":{
-    "text":"En ligne"
+  "filtersPanel":{
+    "title":"Filtres"
   },
-  "contentsClearFilterBtn":{
-    "text":"Réinitialiser les filtres"
+  "fsGlobalSetPan":{
+    "title":"Paramètres de facettes généraux"
   },
-  "contentWindow":{
-    "title":"Contenus"
+  "displayFacetFieldM":{
+    "fieldLabel":"Affichage"
   },
-  "workflowGroup":{
-    "title":"Workflow"
+  "facetOperatorField":{
+    "fieldLabel":"Opérateur de facette"
   },
-  "publishBtn":{
-    "text":"Publier"
-  },
-  "submitBtn":{
-    "text":"Soumettre"
-  },
-  "refuseBtn":{
-    "text":"Refuser"
-  },
-  "onlineBtn":{
-    "text":"Mettre en ligne"
-  },
-  "offlineBtn":{
-    "text":"Mettre hors ligne"
-  },
-  "typeColumn":{
-    "text":"Type"
+  "pertinenceCol":{
+    "text":"Pertinence"
   },
   "sitesWindow":{
     "title":"Sites"
@@ -1150,21 +1333,6 @@
   "recaptchaPrivateKeyField":{
     "fieldLabel":"Clé privée"
   },
-  "searchResultsWindow":{
-    "title":"Résultats de recherche"
-  },
-  "saveQueryBtn":{
-    "text":"Enregistrer la requête"
-  },
-  "filtersPanel":{
-    "title":"Filtres"
-  },
-  "lastUpdateCol":{
-    "text":"Date de dernière modification"
-  },
-  "pertinenceCol":{
-    "text":"Pertinence"
-  },
   "queryBuilder":{
     "title":"Assistant de requêtage "
   },
@@ -1196,7 +1364,7 @@
     "title":"Cache"
   },
   "cacheElementFieldSet":{
-    "title":"Elements en cache"
+    "title":"Eléments en cache"
   },
   "objectField":{
     "fieldLabel":"Objets"
@@ -1205,7 +1373,7 @@
     "text":"<b>Vider le cache<\/b>"
   },
   "elasticSearchPanel":{
-    "title":"Elastic Search"
+    "title":"Elasticsearch"
   },
   "indexContentsBtn":{
     "text":"<b>Indexation des contenus<\/b>"
@@ -1213,28 +1381,11 @@
   "indexMediasBtn":{
     "text":"<b>Indexation des médias<\/b>"
   },
+  "indexUsersBtn":{
+    "text":"<b>Indexation des utilisateurs<\/b>"
+  },
   "indexAllBtn":{
     "text":"<b>Indexation complète<\/b>"
-  },
-  "newDamWindow":{
-    "title":"Nouveau média"
-  },
-  "damOrginalFileField":{
-    "fieldLabel":"Fichier original *",
-    "buttonText":"Browse...",
-    "RTip":"Fichier principal du média. Obligatoire."
-  },
-  "taxonomyFieldset":{
-    "title":"Taxonomie"
-  },
-  "workspacesFieldset":{
-    "title":"Espaces de travail"
-  },
-  "damSubmitNewBtn":{
-    "text":"Créer ce nouveau média"
-  },
-  "damSubmitUpdateBtn":{
-    "text":"Enregistrer les modifications"
   },
   "siteBuilderWizzard":{
     "title":"Assistant de création de site"
@@ -1263,110 +1414,14 @@
   "workspaceWindow":{
     "title":"Espaces de travail"
   },
-  "newContentWindow":{
-    "title":"Nouveau Contenu"
-  },
-  "metadataTab":{
-    "text":"Métadonnées"
-  },
-  "taxonomyTab":{
-    "text":"Taxonomie"
-  },
-  "workspacesTab":{
-    "text":"Espaces de travail"
-  },
-  "versionsTab":{
-    "text":"Versions"
-  },
-  "dependantTypesTab":{
-    "text":"Contenus Imbriqués"
-  },
-  "publishFieldset":{
-    "title":"Publication"
-  },
-  "contentStartPublicationDateField":{
-    "fieldLabel":"Date de début de publication "
-  },
-  "contentEndPublicationDateField":{
-    "fieldLabel":"Date de fin de publication "
-  },
-  "versionTitleCol":{
-    "text":"Titre"
-  },
-  "versionVersionCol":{
-    "text":"Version"
-  },
-  "versionPublishDateCol":{
-    "text":"Date de publication"
-  },
-  "versionAuthorCol":{
-    "text":"Auteur"
-  },
-  "createAsDraftBtn":{
-    "text":"Brouillon"
-  },
-  "customThemesWindow":{
-    "title":"Thèmes personnalisés"
-  },
-  "themesMainPanel":{
-    "title":"Thèmes"
-  },
-  "lessVarsPanel":{
-    "title":"Variables LESS"
-  },
-  "garysFieldset":{
-    "title":"Gris"
-  },
-  "randomizeColorsBtn":{
-    "text":"Générer couleurs de base"
-  },
-  "randomizeColorsBOBtn":{
-    "text":"Générer selon"
-  },
-  "accentColorsFieldset":{
-    "title":"Couleurs d'accentuation"
-  },
-  "linksFieldset":{
-    "title":"Liens"
-  },
-  "tablesFieldset":{
-    "title":"Tables"
-  },
-  "buttonsFieldset":{
-    "title":"Boutons"
-  },
-  "formsFieldset":{
-    "title":"Formulaires"
-  },
-  "dropdownsFieldset":{
-    "title":"Menus déroulants"
-  },
-  "wellsFieldset":{
-    "title":"Wells"
-  },
-  "navbarsFieldset":{
-    "title":"Barre de navigation"
-  },
-  "invertedNavbarsFieldset":{
-    "title":"Barre de navigation inversée"
-  },
-  "paginationFieldset":{
-    "title":"Pagination"
-  },
-  "statesAlertsFieldset":{
-    "title":"États de formulaires et alertes"
-  },
-  "tooltipsFieldset":{
-    "title":"Info-bulles et popovers"
-  },
-  "typographyFieldset":{
-    "title":"Typographie"
-  },
-  "themeSimulateBtn":{
-    "text":"Simuler"
-  },
   "termsCol":{
     "text":"Termes"
+  },
+  "newVocabWindow":{
+    "title":"Nouveau vocabulaire"
+  },
+  "createNewVocabBtn":{
+    "text":"Créer un nouveau vocabulaire"
   },
   "newMaskWindow":{
     "title":"Nouveau Masque"
@@ -1392,12 +1447,6 @@
   "blockConfigAdvancedPanel":{
     "title":"Avancé"
   },
-  "newVocabWindow":{
-    "title":"Nouveau vocabulaire"
-  },
-  "createNewVocabBtn":{
-    "text":"Créer un nouveau vocabulaire"
-  },
   "newCTWindow":{
     "title":"Nouveau type de contenu"
   },
@@ -1418,6 +1467,59 @@
   },
   "depCTTab":{
     "title":"Types de contenus imbriqués"
+  },
+  "stateColumn":{
+    "text":"Etat"
+  },
+  "lastUpdateContentCol":{
+    "text":"Dernière mise à jour"
+  },
+  "onlineColumn":{
+    "text":"En ligne"
+  },
+  "contentsClearFilterBtn":{
+    "text":"Réinitialiser les filtres"
+  },
+  "contentWindow":{
+    "title":"Contenus"
+  },
+  "workflowGroup":{
+    "title":"Workflow"
+  },
+  "publishBtn":{
+    "text":"Publier"
+  },
+  "submitBtn":{
+    "text":"Soumettre"
+  },
+  "refuseBtn":{
+    "text":"Refuser"
+  },
+  "onlineBtn":{
+    "text":"Mettre en ligne"
+  },
+  "offlineBtn":{
+    "text":"Mettre hors ligne"
+  },
+  "newDamWindow":{
+    "title":"Nouveau média"
+  },
+  "damOrginalFileField":{
+    "fieldLabel":"Fichier original *",
+    "buttonText":"Browse...",
+    "RTip":"Fichier principal du média. Obligatoire."
+  },
+  "taxonomyFieldset":{
+    "title":"Taxonomie"
+  },
+  "workspacesFieldset":{
+    "title":"Espaces de travail"
+  },
+  "damSubmitNewBtn":{
+    "text":"Créer ce nouveau média"
+  },
+  "damSubmitUpdateBtn":{
+    "text":"Enregistrer les modifications"
   },
   "contentTypesWindow":{
     "title":"Types de contenus"
@@ -1453,6 +1555,9 @@
     "text":"Vider les contenus",
     "tooltip":"Supprimer tous les contenus de ce type"
   },
+  "taxonomyTab":{
+    "text":"Taxonomie"
+  },
   "systemFieldPanel":{
     "title":"Champs système"
   },
@@ -1461,6 +1566,12 @@
   },
   "propertiesPanel":{
     "title":"Propriétés"
+  },
+  "dataTab":{
+    "title":"Données"
+  },
+  "searchTab":{
+    "title":"Recherche"
   },
   "vocabulariesGridPanel":{
     "title":"Vocabulaires"
@@ -1530,9 +1641,6 @@
   "rightsTab":{
     "text":"Droits"
   },
-  "facetOperatorField":{
-    "fieldLabel":"Opérateur de facette"
-  },
   "expandableField":{
     "fieldLabel":"Extensible "
   },
@@ -1548,6 +1656,45 @@
   "termsPanel":[
     
   ],
+  "newContentWindow":{
+    "title":"Nouveau Contenu"
+  },
+  "metadataTab":{
+    "text":"Métadonnées"
+  },
+  "workspacesTab":{
+    "text":"Espaces de travail"
+  },
+  "versionsTab":{
+    "text":"Versions"
+  },
+  "dependantTypesTab":{
+    "text":"Contenus Imbriqués"
+  },
+  "publishFieldset":{
+    "title":"Publication"
+  },
+  "contentStartPublicationDateField":{
+    "fieldLabel":"Date de début de publication "
+  },
+  "contentEndPublicationDateField":{
+    "fieldLabel":"Date de fin de publication "
+  },
+  "versionTitleCol":{
+    "text":"Titre"
+  },
+  "versionVersionCol":{
+    "text":"Version"
+  },
+  "versionPublishDateCol":{
+    "text":"Date de publication"
+  },
+  "versionAuthorCol":{
+    "text":"Auteur"
+  },
+  "createAsDraftBtn":{
+    "text":"Brouillon"
+  },
   "appLogsWindow":{
     "title":"Logs d'application"
   },
@@ -1574,6 +1721,12 @@
   },
   "levelCol":{
     "text":"Niveau"
+  },
+  "UserTypesMainWindow":{
+    "title":"Types d'utilisateurs"
+  },
+  "userTypesGrid":{
+    "title":"Types d'utilisateurs"
   },
   "mainFileDamCol":{
     "text":"Fichier principal"
@@ -1616,6 +1769,12 @@
   },
   "damSwitchGridViewBtn":{
     "text":"Changer de mode d'affichage"
+  },
+  "formsLaunchBtn":{
+    "text":"Questionnaires"
+  },
+  "functionField":{
+    "fieldLabel":"Fonction "
   },
   "showOnlyIfCombo":{
     "fieldLabel":"Affiché si et seulement si "
