@@ -1,0 +1,13 @@
+{
+  "Blocks.SignUp.emailConfirmError.fail":"Erreur!",
+  "Blocks.SignUp.emailConfirmError.missingPasswordParameters":"Paramètres de mot de passe manquants",
+  "Blocks.SignUp.emailConfirmError.passwordParametersDontMatch":"Paramètres de mot de passe ne correspondent pas",
+  "Blocks.SignUp.emailConfirmError.emailInUse":"E-mail déjà utilisé.",
+  "Blocks.SignUp.emailConfirmError.unableToSendConfirmMail":"Impossible d'envoyer le mail de confirmation",
+  "Blocks.SignUp.emailConfirmError.missingRequiredParameters":"Paramètres requis manquants",
+  "Blocks.SignUp.emailConfirmError.unknownUser":"Utilisateur inconnu",
+  "Blocks.SignUp.emailConfirmError.emailAlreadyConfirmed":"Compte déjà confirmé",
+  "Blocks.SignUp.emailConfirmError.invalidSignUpTime":"Temps invalide",
+  "Blocks.SignUp.emailConfirmError.userUpdateFailed":"Erreur durant la mise à jour de l'utilisateur",
+  "Blocks.SignUp.emailConfirmError.invalidEmail":"email invalide"
+}

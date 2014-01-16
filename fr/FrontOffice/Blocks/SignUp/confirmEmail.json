@@ -1,8 +1,10 @@
 {
-    "Blocks.SignUp.confirmEmail.subject": "Création de compte",
-    "Blocks.SignUp.confirmEmail.hello": "Bonjour %name%,",
-    "Blocks.SignUp.confirmEmail.clickFollowing": "Pour confirmer votre création de compte, merci de l'activer en suivant le lien ci-dessous :",
-    "Blocks.SignUp.confirmEmail.confirmLink": "Confirmer votre adresse mail",
-    "Blocks.SignUp.confirmEmail.thanks": "Cordialement,",
-    "Blocks.SignUp.confirmEmail.automatedMail": "Ceci est un message automatique."
+  "Blocks.SignUp.confirmEmail.subject":"Création de compte",
+  "Blocks.SignUp.confirmEmail.hello":"Bonjour %name%,",
+  "Blocks.SignUp.confirmEmail.clickFollowing":"Afin de compléter la création de votre compte veuillez l'activer en cliquant sur le lien suivant :",
+  "Blocks.SignUp.confirmEmail.confirmLink":"Confirmez votre adresse de courriel",
+  "Blocks.SignUp.confirmEmail.thanks":"Sinceres salutations",
+  "Blocks.SignUp.confirmEmail.automatedMail":"Ceci est un e-mail automatique.",
+  "Blocks.SignUp.confirmEmail.emailRequired":"Email de confirmation requis.",
+  "Blocks.SignUp.confirmEmail.emailSended":"Un email de confirmation a été envoyé à l'adresse que vous avez fourni."
 }
