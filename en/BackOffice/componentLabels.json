@@ -1940,19 +1940,5 @@
     },
     "hideAllWindowsBtn": {
         "tooltip": "Show desktop"
-    },
-    "superclass": {
-        "isInstance": true,
-        "$className": "Ext.Base",
-        "initConfigList": [],
-        "configMap": {},
-        "initConfigMap": {}
-    },
-    "config": {},
-    "initConfigList": [],
-    "initConfigMap": {},
-    "configMap": {},
-    "singleton": true,
-    "$className": "Rubedo.RubedoInterfaceLoc",
-    "isInstance": true
+    }
 }
