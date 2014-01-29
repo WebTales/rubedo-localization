@@ -235,5 +235,10 @@
 	"#ext-gen1422#":"D3 script",
 	"#ext-gen1423#":"Code",
 	"#ext-gen1424#":"Max results",
-	"#ext-gen1425#":"Data visualization"
+	"#ext-gen1425#":"Data visualization",
+    "#ext-gen1426#":"<p>The 'Directory' block displays a user directory.</p>",
+    "#ext-gen1427#":"<p>The 'Profile page' displays user profile data.</p>",
+    "#ext-gen1428#":"<p>This block allows you to display graphical representations of data using Rubedo queries.</p>",
+    "#ext-gen1429#":"<p>The 'Unsubscribe' block alows users to unsubscribre from mailing lists.</p>",
+    "#ext-gen1430#":"<p>The 'Sign up' block allows new users to create an account.</p>"
 }

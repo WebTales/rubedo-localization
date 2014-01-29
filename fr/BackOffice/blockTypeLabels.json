@@ -227,7 +227,7 @@
   "#ext-gen1414#":"Champ mot de passe",
   "#ext-gen1415#":"Inscription",
   "#ext-gen1416#":"Désabonner",
-  "#ext-gen1417#":"Répertoire",
+  "#ext-gen1417#":"Annuaire",
   "#ext-gen1418#":"Index alphabétique",
   "#ext-gen1419#":"Liste",
   "#ext-gen1420#":"VCard",
@@ -235,5 +235,10 @@
   "#ext-gen1422#":"Script D3",
   "#ext-gen1423#":"Code",
   "#ext-gen1424#":"Résultats Max",
-  "#ext-gen1425#":"Visualisation de données"
+  "#ext-gen1425#":"Visualisation de données",
+  "#ext-gen1426#":"<p>Le bloc 'Annuaire' permet d’afficher un annuaire d’utilisateurs.</p>",
+  "#ext-gen1427#":"<p>Le bloc 'Page de profil' permet d’afficher les informations de profil des utilisateurs.</p>",
+  "#ext-gen1428#":"<p>Ce bloc permet de réaliser des représentations graphiques à l’aide de requêtes dans Rubedo</p>",
+  "#ext-gen1429#":"<p>Le bloc 'Désabonner' permet aux utilisateurs de se désinscrire d’une liste de diffusion.</p>",
+  "#ext-gen1430#":"<p>Le bloc 'Inscription' permet aux visiteurs de se créer un compte utilisateur depuis la partie visible du site (front-office).</p>"
 }
