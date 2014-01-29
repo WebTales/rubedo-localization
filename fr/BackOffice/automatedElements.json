@@ -8,7 +8,7 @@
   "internalServerError":"Erreur interne du serveur",
   "unkownError":"Erreur inconnue",
   "activateText":"Activer",
-  "pageHoldsDefaultError":"Cette page ne peut être supprimée car elle ou une de ses descendantes est utilisée comme page de détail du site",
+  "pageHoldsDefaultError":"Cette page ne peut être supprimée car elle ou une de ses descendantes est la page de détail ou la page d'accueil",
   "pageHoldsDefaultServerError":"Erreur dans la détermination du statut supprimable de la page",
   "deactivateText":"Désactiver",
   "windowBeforeUnloadMessage":"Vous allez quitter le Back Office et perdre toute modification non sauvegardée.",
