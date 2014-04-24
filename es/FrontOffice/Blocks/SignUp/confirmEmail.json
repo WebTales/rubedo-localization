@@ -6,5 +6,5 @@
   "Blocks.SignUp.confirmEmail.thanks":"Best regards,",
   "Blocks.SignUp.confirmEmail.automatedMail":"This is an automated email.",
   "Blocks.SignUp.confirmEmail.emailRequired":"Email confirmation required.",
-  "Blocks.SignUp.confirmEmail.emailSended":"A confirmation email has been sent to the adress you provdided."
+  "Blocks.SignUp.confirmEmail.emailSent":"A confirmation email has been sent to the adress you provdided."
 }

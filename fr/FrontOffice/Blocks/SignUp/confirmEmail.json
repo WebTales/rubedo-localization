@@ -6,5 +6,5 @@
   "Blocks.SignUp.confirmEmail.thanks":"Sinceres salutations",
   "Blocks.SignUp.confirmEmail.automatedMail":"Ceci est un e-mail automatique.",
   "Blocks.SignUp.confirmEmail.emailRequired":"Email de confirmation requis.",
-  "Blocks.SignUp.confirmEmail.emailSended":"Un email de confirmation a été envoyé à l'adresse que vous avez fourni."
+  "Blocks.SignUp.confirmEmail.emailSent":"Un email de confirmation a été envoyé à l'adresse que vous avez fourni."
 }
