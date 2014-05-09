@@ -33,6 +33,8 @@
     "Label.Cancel": "Cancel",
     "Label.Edit": "Edit",
     "Label.Email": "Email",
+    "Label.Name": "Name",
+    "Label.MailingList": "Mailing lists",
     "Label.Subscribe": "Subscribe",
     "Label.Send": "Send",
     "Label.Submit": "Submit",
