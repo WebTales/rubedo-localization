@@ -14,5 +14,6 @@
     "Blocks.OrderDetails.Payment" : "Payment",
     "Blocks.OrderDetails.Payment.Means": "Payment means",
     "Blocks.OrderDetails.Payment.VatEin": "VAT number / EIN",
-    "Blocks.OrderDetails.Payment.Status": "Payment status"
+    "Blocks.OrderDetails.Payment.Status": "Payment status",
+    "Blocks.OrderDetails.Status.pendingPayment": "Pending Payment"
 }
