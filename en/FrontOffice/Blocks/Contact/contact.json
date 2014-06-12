@@ -4,9 +4,9 @@
 	"Blocks.Contact.Input.Email.Label":"Email address *",
 	"Blocks.Contact.Input.Subject.Label":"Subject *",
 	"Blocks.Contact.Input.Message.Label":"Message *",
-	"Blocks.Contact.Input.Captcha.Label":"Thank you to enter the code below:",
+	"Blocks.Contact.Input.Captcha.Label":"Please enter the code below :",
 	"Blocks.Contact.Input.Submit.Label":"Submit",
 	"Blocks.Contact.Input.Error.CanNotBeEmpty":"This field can not be empty",
-	"Blocks.Contact.Input.Error.EmailAddress":"This field can not be empty and the email address must be like: exemple@domain.country",
+	"Blocks.Contact.Input.Error.EmailAddress":"This field can not be empty and the email address must be like : exemple@domain.country",
 	"Blocks.Contact.Input.Error.BadCaptcha":"The code that you entered did not match with the image"
 }
