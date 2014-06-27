@@ -1,0 +1,8 @@
+{
+    "Blocks.ShoppingCart.Label.Name": "Name",
+    "Blocks.ShoppingCart.Label.UnitPrice": "Unit price",
+    "Blocks.ShoppingCart.Label.Number": "Number",
+    "Blocks.ShoppingCart.Label.AddRemove": "Add/Remove",
+    "Blocks.ShoppingCart.Label.Price": "Price",
+    "Blocks.ShoppingCart.Label.Delete": "Delete"
+}
