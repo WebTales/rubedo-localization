@@ -32,6 +32,7 @@
 	"Search.Label.Page":"Page",
 	"Label.Cancel":"Annuler",
 	"Label.Email":"Email",
+    "Label.Name": "Nom",
 	"Label.Subscribe":"S'abonner",
 	"Label.Send":"Envoyer",
 	"Label.Download":"Télécharger",
