@@ -1,6 +1,8 @@
 {
-  "Blocks.SignUp.label.name":"Nom",
-  "Blocks.SignUp.label.password":"Mot de passe",
-  "Blocks.SignUp.label.confirmPassword":"Confirmer le mot de passe",
-  "Blocks.SignUp.label.signUp":"Créer un compte"
+    "Blocks.SignUp.label.name":"Nom",
+    "Blocks.SignUp.label.password":"Mot de passe",
+    "Blocks.SignUp.label.confirmPassword":"Confirmer le mot de passe",
+    "Blocks.SignUp.label.signUp":"Créer un compte",
+    "Blocks.SignUp.label.mailingList": "Souscrire à la liste de diffusion suivante"
+
 }

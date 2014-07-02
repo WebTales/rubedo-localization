@@ -3,5 +3,6 @@
     "Blocks.SignUp.label.password": "Password",
     "Blocks.SignUp.label.confirmPassword": "Confirm password",
     "Blocks.SignUp.Label.Captcha": "Captcha",
-    "Blocks.SignUp.label.signUp": "Sign Up"
+    "Blocks.SignUp.label.signUp": "Sign Up",
+    "Blocks.SignUp.label.mailingList": "Subscribe to the following mailing lists"
 }
