@@ -1,5 +1,8 @@
 {
     "Search.Facets.Label.MediaType": "Media type",
+    "Search.Facets.Label.CONTENT": "Contents",
+    "Search.Facets.Label.USER": "Users",
+    "Search.Facets.Label.DAM": "Media",
     "Search.Facets.Label.ContentType": "Content type",
     "Search.Facets.Label.Author": "Author",
     "Search.Facets.Label.ModificationDate": "Modification date",
