@@ -12,7 +12,7 @@
 	"Search.Facets.Label.Date.Month":"Moins d'un mois",
 	"Search.Facets.Label.Date.Year":"Moins d'un an",
 	"Search.Facets.Label.Date":"Date",
-    "Search.Facets.Label.DataType ":"Type de donnée",
+    "Search.Facets.Label.DataType":"Type de donnée",
     "Search.Facets.Label.UserName":"Nom d'utilisateur",
     "Search.Facets.Label.UserType":"Type d'utilisateur",
 	"TaxonomyTerms.PagePicker.CurrentPage":"Page courante",
