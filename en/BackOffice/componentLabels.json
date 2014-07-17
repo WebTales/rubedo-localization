@@ -122,6 +122,13 @@
     "newDamTypeSubmitBtn": {
         "text": "Create a new type of media"
     },
+    "qbs3": {
+        "title": "Choice of the criteria on fields"
+    },
+    "qbs3ruleadder": {
+        "fieldLabel": "Add a rule on "
+    },
+    "qbs3auxbtn": [],
     "addMTFieldWindow": {
         "title": "Add a field"
     },
@@ -137,13 +144,6 @@
     "chooseThisContentBtn": {
         "text": "<b>Choose this content</b>"
     },
-    "qbs3": {
-        "title": "Choice of the criteria on fields"
-    },
-    "qbs3ruleadder": {
-        "fieldLabel": "Add a rule on "
-    },
-    "qbs3auxbtn": [],
     "qbFinalRecStagePanel": {
         "title": "Summary and saving"
     },
@@ -209,12 +209,6 @@
     "wizardNextBtn": {
         "text": "Next"
     },
-    "queryWindow": {
-        "title": "Queries"
-    },
-    "editBtn": {
-        "text": "Edit"
-    },
     "queryTypeChooseWindow": {
         "title": "Choose a query type"
     },
@@ -226,6 +220,12 @@
     },
     "chooseAdvancedQueryBtn": {
         "text": "Advanced query"
+    },
+    "queryWindow": {
+        "title": "Queries"
+    },
+    "editBtn": {
+        "text": "Edit"
     },
     "manualQueryWindow": {
         "title": "Manual query"
@@ -269,12 +269,6 @@
     "maskSaveChoice2Btn": {
         "text": "Save as a new mask"
     },
-    "chooseBtn": {
-        "text": "Choose"
-    },
-    "modifyBtn": {
-        "text": "Edit"
-    },
     "mediaQueryAssistant": {
         "title": "Querying on media Wizard"
     },
@@ -293,6 +287,12 @@
     "saveBtn": {
         "text": "Save"
     },
+    "chooseBtn": {
+        "text": "Choose"
+    },
+    "modifyBtn": {
+        "text": "Edit"
+    },
     "lcFieldAdress": {
         "fieldLabel": "Address"
     },
@@ -305,17 +305,32 @@
     "lcFieldLongitude": {
         "fieldLabel": "Longitude"
     },
+    "sessionExpiringWindow": {
+        "title": "Your session will soon expire"
+    },
+    "sessionRenewWindow": {
+        "text": "Renew my session"
+    },
     "sessionExpiredWindow": {
         "title": "Your session has expired"
     },
     "reconnectBtn": {
         "text": "Connect again"
     },
-    "sessionExpiringWindow": {
-        "title": "Your session will soon expire"
+    "gfsUploadBtn": {
+        "tooltip": "Upload a file"
     },
-    "sessionRenewWindow": {
-        "text": "Renew my session"
+    "gfsRemoveFileBtn": {
+        "tooltip": "Delete the file"
+    },
+    "gfsDownloadBtn": {
+        "tooltip": "Download the file"
+    },
+    "gfsHelpBtn": {
+        "tooltip": "Main media file. Mandatory."
+    },
+    "gfsEditBtn": {
+        "tooltip": "Edit the file"
     },
     "pagesLaunchBtn": {
         "text": "Pages"
@@ -362,6 +377,9 @@
     "customThemesLaunchBtn": {
         "text": "Custom Themes"
     },
+    "formsLaunchBtn": {
+        "text": "Surveys"
+    },
     "queriesLaunchBtn": {
         "text": "Queries"
     },
@@ -395,20 +413,20 @@
     "applicationLogsLaunchBtn": {
         "text": "Application logs"
     },
-    "gfsUploadBtn": {
-        "tooltip": "Upload a file"
+    "shippersLaunchBtn": {
+        "text": "Shippers"
     },
-    "gfsRemoveFileBtn": {
-        "tooltip": "Delete the file"
+    "taxesLaunchBtn": {
+        "text": "Taxes"
     },
-    "gfsDownloadBtn": {
-        "tooltip": "Download the file"
+    "stockLaunchBtn": {
+        "text": "Stock"
     },
-    "gfsHelpBtn": {
-        "tooltip": "Main media file. Mandatory."
+    "pmLaunchBtn": {
+        "text": "Payment means"
     },
-    "gfsEditBtn": {
-        "tooltip": "Edit the file"
+    "ordersLaunchBtn": {
+        "text": "Orders"
     },
     "newUserWindow": {
         "title": "New user"
@@ -419,11 +437,11 @@
     "userAccountField": {
         "fieldLabel": "User account "
     },
-    "picUploadWindow": {
-        "title": "Upload an image"
-    },
     "fieldPanel": {
         "title": "Fields"
+    },
+    "picUploadWindow": {
+        "title": "Upload an image"
     },
     "rteConfigWindow": {
         "title": "Rich text editor"
@@ -505,6 +523,28 @@
     },
     "importMainWindow": {
         "title": "Import"
+    },
+    "presetsPanel": {
+        "title": "Presets"
+    },
+    "useExistingPresetFieldset": {
+        "title": "Use existing preset"
+    },
+    "inportPrestField": {},
+    "importPresetApplyBtn": {
+        "text": "Apply"
+    },
+    "importPresetDeleteBtn": {
+        "text": "Delete selected preset"
+    },
+    "saveAsNewPresetFieldset": {
+        "title": "Save as new preset"
+    },
+    "importPresetNameField": {
+        "fieldLabel": "Name"
+    },
+    "importPresetSaveBtn": {
+        "text": "Save"
     },
     "importStage1Panel": {
         "title": "Choice of the file to import"
@@ -616,6 +656,9 @@
     "newMLCreateBtn": {
         "text": "Create a new mailing list"
     },
+    "optionsConfiguratorBtn": {
+        "text": "Configure options"
+    },
     "mailingListsWindow": {
         "title": "Mailing lists"
     },
@@ -673,9 +716,6 @@
     "unsubscribedCol": {
         "text": "Unsubscription"
     },
-    "optionsConfiguratorBtn": {
-        "text": "Configure options"
-    },
     "optionsEditor1Window": {
         "title": "Option editor"
     },
@@ -718,9 +758,6 @@
     "imagePreviewWindow": {
         "title": "Full size preview"
     },
-    "pixlrEditorWindow": {
-        "title": "Image editor"
-    },
     "damMassUploadWindow": {
         "title": "Digital assets mass upload"
     },
@@ -744,6 +781,9 @@
     },
     "chooseDamTypeMassSubmitBtn": {
         "text": "Upload media of this type"
+    },
+    "pixlrEditorWindow": {
+        "title": "Image editor"
     },
     "inheritWorkspaceField": {
         "fieldLabel": "Inherits workspace"
@@ -778,6 +818,12 @@
     "OwnNameCol": {
         "text": "Own name"
     },
+    "descriptionField": {
+        "fieldLabel": "Description "
+    },
+    "helpTextField": {
+        "fieldLabel": "Help text "
+    },
     "currentLanguageDSLField": {
         "fieldLabel": "Current language"
     },
@@ -786,27 +832,6 @@
     },
     "removeTranslationBtn": {
         "text": "Remove translation"
-    },
-    "urlField": {
-        "fieldLabel": "URL"
-    },
-    "referencingFieldSEt": {
-        "title": "SEO"
-    },
-    "titleField": {
-        "fieldLabel": "Title *"
-    },
-    "descriptionField": {
-        "fieldLabel": "Description "
-    },
-    "translationAdderWindow": {
-        "title": "Add new translation"
-    },
-    "translateInThisLanguageBtn": {
-        "text": "Translate in this language"
-    },
-    "helpTextField": {
-        "fieldLabel": "Help text "
     },
     "siteFieldSet": {
         "title": "Site"
@@ -819,6 +844,12 @@
     },
     "defaultAuthorField": {
         "fieldLabel": "Default author"
+    },
+    "translationAdderWindow": {
+        "title": "Add new translation"
+    },
+    "translateInThisLanguageBtn": {
+        "text": "Translate in this language"
     },
     "contentTitleField": {
         "fieldLabel": "Title *",
@@ -840,69 +871,6 @@
     },
     "createNewCustomThemeBtn": {
         "text": "Create new custom theme"
-    },
-    "customThemesWindow": {
-        "title": "Custom Themes"
-    },
-    "themesMainPanel": {
-        "title": "Themes"
-    },
-    "lessVarsPanel": {
-        "title": "Less Variables"
-    },
-    "garysFieldset": {
-        "title": "Grays"
-    },
-    "randomizeColorsBtn": {
-        "text": "Randomize base colors"
-    },
-    "randomizeColorsBOBtn": {
-        "text": "Randomize based on"
-    },
-    "accentColorsFieldset": {
-        "title": "Accent colors"
-    },
-    "linksFieldset": {
-        "title": "Links"
-    },
-    "tablesFieldset": {
-        "title": "Tables"
-    },
-    "buttonsFieldset": {
-        "title": "Buttons"
-    },
-    "formsFieldset": {
-        "title": "Forms"
-    },
-    "dropdownsFieldset": {
-        "title": "Dropdowns"
-    },
-    "wellsFieldset": {
-        "title": "Wells"
-    },
-    "navbarsFieldset": {
-        "title": "Navbar"
-    },
-    "invertedNavbarsFieldset": {
-        "title": "Inverted navbar"
-    },
-    "paginationFieldset": {
-        "title": "Pagination"
-    },
-    "statesAlertsFieldset": {
-        "title": "Form states and alerts"
-    },
-    "tooltipsFieldset": {
-        "title": "Tooltips and popovers"
-    },
-    "typographyFieldset": {
-        "title": "Typography"
-    },
-    "themeSimulateBtn": {
-        "text": "Simulate"
-    },
-    "simpleModeFavoritesBtn": {
-        "text": "Favorites"
     },
     "newLayoutWindow": {
         "title": "New layout"
@@ -933,6 +901,9 @@
     },
     "createNewLayoutBtnCopy": {
         "text": "Copy this layout"
+    },
+    "simpleModeFavoritesBtn": {
+        "text": "Favorites"
     },
     "newUserTypeWindow": {
         "title": "New user type"
@@ -978,6 +949,9 @@
     "signUpStatCol": {
         "text": "Sign-up status"
     },
+    "querySimWindow": {
+        "title": "Query result simulation"
+    },
     "credentiamsAndIntForm": {
         "title": "Credentials and interface settings"
     },
@@ -1019,9 +993,6 @@
     },
     "changeBtn": {
         "text": "Change"
-    },
-    "querySimWindow": {
-        "title": "Query result simulation"
     },
     "emailsInterface": {
         "title": "Emails"
@@ -1095,6 +1066,9 @@
     "subscribeSubmitBtn": {
         "text": "Subscribe"
     },
+    "codeEditorWindow": {
+        "title": "Code editor"
+    },
     "sendEmailWindow": {
         "title": "Send email"
     },
@@ -1114,17 +1088,311 @@
     "importSubmitBtn": {
         "text": "Import"
     },
-    "codeEditorWindow": {
-        "title": "Code editor"
+    "eCCategoryFieldset": {
+        "title": "E-Commerce category"
     },
-    "pageWindow": {
-        "title": "Pages"
+    "titleField": {
+        "fieldLabel": "Title *"
+    },
+    "categoryImageField": {
+        "fieldLabel": "Image"
+    },
+    "productSettingsPanel": {
+        "title": "Product settings"
+    },
+    "skuField": {
+        "fieldLabel": "SKU"
+    },
+    "basePriceField": {
+        "fieldLabel": "Base price"
+    },
+    "preparationDelayField": {
+        "fieldLabel": "Preparation delay"
+    },
+    "stockManagementFieldset": {
+        "title": "Stock management"
+    },
+    "canOrderOutOfStockField": {
+        "fieldLabel": "Can order out of stock"
+    },
+    "outOfStockLimitField": {
+        "fieldLabel": "Out of stock limit"
+    },
+    "notifyForQuantityBelowField": {
+        "fieldLabel": "Notify for stock below"
+    },
+    "resupplyDelayField": {
+        "fieldLabel": "Resupply delay (days)"
+    },
+    "variationsGrid": {
+        "title": "Variations"
+    },
+    "specialOffersGrid": {
+        "title": "Special offers for this variation"
+    },
+    "startDateCol": {
+        "text": "Start date"
+    },
+    "endDateCol": {
+        "text": "End date"
+    },
+    "priceCol": {
+        "text": "Price"
+    },
+    "taxesWindow": {
+        "title": "Taxes"
+    },
+    "activeCol": {
+        "text": "Active"
+    },
+    "userTypesCol": {
+        "text": "User Types"
+    },
+    "productTypesCol": {
+        "text": "Product Types"
+    },
+    "countryCol": {
+        "text": "Country"
+    },
+    "stateRegionCol": {
+        "text": "State / Region"
+    },
+    "zipPostalCodeCol": {
+        "text": "Zip / PostalCode"
+    },
+    "ratePercentageCol": {
+        "text": "Rate (%)"
+    },
+    "priorityCol": {
+        "text": "Priority"
+    },
+    "stockWindow": {
+        "title": "Stock"
+    },
+    "productTypeCol": {
+        "text": "Product type "
+    },
+    "ItemsGrid": {
+        "title": "Items"
+    },
+    "stockCol": {
+        "text": "Stock"
+    },
+    "skuCol": {
+        "text": "Sku"
+    },
+    "addStockBtn": {
+        "text": "Add stock"
+    },
+    "removeStockBtn": {
+        "text": "Remove stock"
+    },
+    "viewProductBtn": {
+        "text": "View product"
+    },
+    "shippersWindow": {
+        "title": "Shippers"
+    },
+    "activeField": {
+        "fieldLabel": "Active"
+    },
+    "rateTypeField": {
+        "fieldLabel": "Rate type"
+    },
+    "ratesGrid": {
+        "title": "Rates"
+    },
+    "taxCol": {
+        "text": "Tax (%)"
+    },
+    "delayCol": {
+        "text": "Delay (days)"
+    },
+    "displayedDelayAmountCol": {
+        "text": "Displayed delay (amount)"
+    },
+    "displayedDelayUnitCol": {
+        "text": "Displayed delay (unit)"
+    },
+    "addRateBtn": {
+        "text": "Add rate"
+    },
+    "removeRateBtn": {
+        "text": "Remove rate"
+    },
+    "eCFieldset": {
+        "title": "E-Commerce"
+    },
+    "manageStockField": {
+        "fieldLabel": "Manage stock"
+    },
+    "removeStockWindow": {
+        "title": "Remove stock"
+    },
+    "amountToRemoveField": {
+        "fieldLabel": "Amount to remove"
+    },
+    "removeStockFromItemBtn": {
+        "text": "Remove stock from selected item"
+    },
+    "addStockWindow": {
+        "title": "Add stock"
+    },
+    "alountToAddField": {
+        "fieldLabel": "Amount to add"
+    },
+    "addStockToItemBtn": {
+        "text": "Add stock to selected item"
+    },
+    "paymentMeansWindow": {
+        "title": "Payment means"
+    },
+    "rubedoConfigurationForm": {
+        "title": "Rubedo configuration"
+    },
+    "displayNameField": {
+        "fieldLabel": "Display name"
+    },
+    "nPMCForm": {
+        "title": "Native payment means configuration"
+    },
+    "saveConfigurationBtn": {
+        "text": "Save configuration"
+    },
+    "ordersWindow": {
+        "title": "Orders"
+    },
+    "orderNumberCol": {
+        "text": "Order Number"
+    },
+    "clientNameCol": {
+        "text": "Client name"
+    },
+    "fullPriceCol": {
+        "text": "Full Price"
+    },
+    "shipperCol": {
+        "text": "Shipper"
+    },
+    "orderSettingForm": {
+        "title": "Settings"
+    },
+    "attachmentsFieldset": {
+        "title": "Attachments"
+    },
+    "billDocumentField": {
+        "fieldLabel": "Bill"
+    },
+    "orderStatusField": {
+        "fieldLabel": "Order status *"
+    },
+    "applyChangesBtn": {
+        "text": "Apply changes"
+    },
+    "pricingAndClientDataForm": {
+        "title": "Pricing and cilent data"
+    },
+    "pricingFieldset": {
+        "title": "Pricing"
+    },
+    "shippingPriceTFField": {
+        "fieldLabel": "Shipping price (TF)"
+    },
+    "shippingTaxField": {
+        "fieldLabel": "Shipping taxes"
+    },
+    "shippingPriceField": {
+        "fieldLabel": "Shipping price"
+    },
+    "totalPriceField": {
+        "fieldLabel": "Total price"
+    },
+    "taxTotalField": {
+        "fieldLabel": "Tax total"
+    },
+    "clientFieldset": {
+        "title": "Client"
+    },
+    "billingAddressField": {
+        "fieldLabel": "Billing address"
+    },
+    "shippingAddressField": {
+        "fieldLabel": "Shipping address"
+    },
+    "paymentMeansField": {
+        "fieldLabel": "Payment means"
+    },
+    "shipperField": {
+        "fieldLabel": "Shipper"
+    },
+    "shippingCommentsField": {
+        "fieldLabel": "Shipping comments"
+    },
+    "baughtProductsGrid": {
+        "title": "Products"
+    },
+    "subtitleCol": {
+        "text": "Subtitle"
+    },
+    "unitPriceCol": {
+        "text": "Unit price"
+    },
+    "unitTaxedPriceCol": {
+        "text": "Unit taxed price"
+    },
+    "amountCol": {
+        "text": "Amount"
+    },
+    "taxedPriceCol": {
+        "text": "Taxed Price"
+    },
+    "importProductOptionForm": {
+        "title": "Product fields"
+    },
+    "baseSkuField": {
+        "fieldLabel": "Base SKU"
+    },
+    "PreparationDelayField": {
+        "fieldLabel": "Preparation delay"
+    },
+    "priceField": {
+        "fieldLabel": "Price"
+    },
+    "stockField": {
+        "fieldLabel": "Stock"
+    },
+    "importProductOptionsFieldset": {
+        "title": "Product fields"
+    },
+    "pageMaskWindow": {
+        "title": "Page masks"
     },
     "editGroup": {
         "title": "Edit"
     },
     "newBlocBtn": {
         "text": "New Block"
+    },
+    "titleColumn": {
+        "text": "Title"
+    },
+    "zoomLevelSlider": {
+        "fieldLabel": "Zoom level"
+    },
+    "desktopCustomizeWindow": {
+        "title": "Customizing the desktop"
+    },
+    "wallpaperGrid": {
+        "title": "Wallpaper"
+    },
+    "themeGrid": {
+        "title": "Themes"
+    },
+    "accessibilityPanel": {
+        "title": "Accessibility"
+    },
+    "pageWindow": {
+        "title": "Pages"
     },
     "languageCoumn": {
         "text": "Languages"
@@ -1138,32 +1406,17 @@
     "displayedContentTab": {
         "text": "Displayed Contents"
     },
+    "urlField": {
+        "fieldLabel": "URL"
+    },
     "excludeFromMenuField": {
         "fieldLabel": "Non-navigational"
     },
+    "referencingFieldSEt": {
+        "title": "SEO"
+    },
     "robotFieldset": {
         "title": "Robot"
-    },
-    "titleColumn": {
-        "text": "Title"
-    },
-    "zoomLevelSlider": {
-        "fieldLabel": "Zoom level"
-    },
-    "pageMaskWindow": {
-        "title": "Page masks"
-    },
-    "desktopCustomizeWindow": {
-        "title": "Customizing the desktop"
-    },
-    "wallpaperGrid": {
-        "title": "Wallpaper"
-    },
-    "themeGrid": {
-        "title": "Themes"
-    },
-    "accessibilityPanel": {
-        "title": "Accessibility"
     },
     "addUsersToGroupWindow": {
         "text": "Add these users to the selected group"
@@ -1272,6 +1525,9 @@
     },
     "defaultLanguageField": {
         "fieldLabel": "Default language *"
+    },
+    "sitesEnableECField": {
+        "fieldLabel": "E-Commerce page categories"
     },
     "messageryFieldSet": {
         "title": "Messaging"
@@ -1408,6 +1664,66 @@
     "workspaceWindow": {
         "title": "Workspaces"
     },
+    "customThemesWindow": {
+        "title": "Custom Themes"
+    },
+    "themesMainPanel": {
+        "title": "Themes"
+    },
+    "lessVarsPanel": {
+        "title": "Less Variables"
+    },
+    "garysFieldset": {
+        "title": "Grays"
+    },
+    "randomizeColorsBtn": {
+        "text": "Randomize base colors"
+    },
+    "randomizeColorsBOBtn": {
+        "text": "Randomize based on"
+    },
+    "accentColorsFieldset": {
+        "title": "Accent colors"
+    },
+    "linksFieldset": {
+        "title": "Links"
+    },
+    "tablesFieldset": {
+        "title": "Tables"
+    },
+    "buttonsFieldset": {
+        "title": "Buttons"
+    },
+    "formsFieldset": {
+        "title": "Forms"
+    },
+    "dropdownsFieldset": {
+        "title": "Dropdowns"
+    },
+    "wellsFieldset": {
+        "title": "Wells"
+    },
+    "navbarsFieldset": {
+        "title": "Navbar"
+    },
+    "invertedNavbarsFieldset": {
+        "title": "Inverted navbar"
+    },
+    "paginationFieldset": {
+        "title": "Pagination"
+    },
+    "statesAlertsFieldset": {
+        "title": "Form states and alerts"
+    },
+    "tooltipsFieldset": {
+        "title": "Tooltips and popovers"
+    },
+    "typographyFieldset": {
+        "title": "Typography"
+    },
+    "themeSimulateBtn": {
+        "text": "Simulate"
+    },
     "termsCol": {
         "text": "Terms"
     },
@@ -1444,8 +1760,8 @@
     "newCTWindow": {
         "title": "New content type"
     },
-    "isDepField": {
-        "fieldLabel": "Nested "
+    "productTypeField": {
+        "fieldLabel": "Product type"
     },
     "createNTCBtn": {
         "text": "Create a new content type"
@@ -1762,12 +2078,6 @@
     "damSwitchGridViewBtn": {
         "text": "Switch display mode"
     },
-    "formsLaunchBtn": {
-        "text": "Surveys"
-    },
-    "functionField": {
-        "fieldLabel": "Function "
-    },
     "showOnlyIfCombo": {
         "fieldLabel": "Displayed if and only if "
     },
@@ -1931,6 +2241,12 @@
     },
     "formFieldConditionBtn": {
         "tooltip": "Display condition"
+    },
+    "isDepField": {
+        "fieldLabel": "Nested "
+    },
+    "functionField": {
+        "fieldLabel": "Function "
     },
     "layoutsPanel": {
         "title": "Layouts"
