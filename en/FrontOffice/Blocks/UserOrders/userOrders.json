@@ -1,0 +1,9 @@
+{
+    "Blocks.UserOrders.OrderNumber": "Order number",
+    "Blocks.UserOrders.Date": "Date",
+    "Blocks.UserOrders.Price": "Price",
+    "Blocks.UserOrders.Shipper": "Shipper",
+    "Blocks.UserOrders.PaymentMeans": "Payment means",
+    "Blocks.UserOrders.Status": "Status",
+    "Blocks.UserOrders.ViewDetails": "View Details"
+}
