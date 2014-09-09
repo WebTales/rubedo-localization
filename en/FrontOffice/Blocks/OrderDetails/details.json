@@ -9,7 +9,7 @@
     "Blocks.OrderDetails.Table.Amount": "Amount",
     "Blocks.OrderDetails.Table.Price": "Price",
     "Blocks.OrderDetails.Table.Taxes": "Taxes",
-    "Blocks.OrderDetails.Table.ProductsTaxes": "Products taxes",
+    "Blocks.OrderDetails.Table.ProductsTaxes": "Product taxes",
     "Blocks.OrderDetails.Table.ShippingTax": "Shipping Taxes",
     "Blocks.OrderDetails.Table.TotalPrice": "Total Price",
     "Blocks.OrderDetails.Table.ShippingMethod": "Shipping Method",
