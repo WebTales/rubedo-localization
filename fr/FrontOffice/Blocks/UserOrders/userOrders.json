@@ -1,0 +1,9 @@
+{
+  "Blocks.UserOrders.OrderNumber":"Numéro de la commande",
+  "Blocks.UserOrders.Date":"Date",
+  "Blocks.UserOrders.Price":"Prix",
+  "Blocks.UserOrders.Shipper":"Expéditeur",
+  "Blocks.UserOrders.PaymentMeans":"Moyens de paiement",
+  "Blocks.UserOrders.Status":"Statut",
+  "Blocks.UserOrders.ViewDetails":"voir les détails"
+}

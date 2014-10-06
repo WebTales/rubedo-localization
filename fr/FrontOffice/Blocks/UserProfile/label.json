@@ -1,17 +1,14 @@
 {
-    "Blocks.UserProfile.Label.Email": "Email",
-    "Blocks.UserProfile.Label.OldPassword": "Ancien mot de passe",
-    "Blocks.UserProfile.Label.NewPassword": "Nouveau mot de passe",
-    "Blocks.UserProfile.Label.NewPasswordConfirm": "Confirmez le nouveau mot de passe",
-
-    "Blocks.UserProfile.Error.EmailNotValid": "L'adresse email n'est pas valide.",
-    "Blocks.UserProfile.Error.EmailAlreadyInDB": "L'adresse email existe déjà.",
-    "Blocks.UserProfile.Error.PasswordConfirmNotMatch": "Les mots de passe ne correspondent pas.",
-    "Blocks.UserProfile.Error.OldPasswordIsWrong": "L'ancien mot de passe est incorrect.",
-
-    "Blocks.UserProfile.Success.EmailChanged": "L'Email a bien été changé.",
-    "Blocks.UserProfile.Success.PasswordChanged": "Le mot de passe a bien été changé.",
-
-    "Blocks.UserProfile.Edit.Profile": "Editer le profile",
-    "Blocks.UserProfile.Edit.Login": "Editer les identifiants"
+  "Blocks.UserProfile.Label.Email":"Email",
+  "Blocks.UserProfile.Label.OldPassword":"Ancien mot de passe",
+  "Blocks.UserProfile.Label.NewPassword":"Nouveau mot de passe",
+  "Blocks.UserProfile.Label.NewPasswordConfirm":"Confirmez le nouveau mot de passe",
+  "Blocks.UserProfile.Error.EmailNotValid":"L'e-mail n'est pas valide.",
+  "Blocks.UserProfile.Error.EmailAlreadyInDB":"Cet e-mail existe déjà.",
+  "Blocks.UserProfile.Error.PasswordConfirmNotMatch":"Les mots de passe ne correspondent pas.",
+  "Blocks.UserProfile.Error.OldPasswordIsWrong":"L'ancien mot de passe est faux.",
+  "Blocks.UserProfile.Success.EmailChanged":"L'adresse e-mail a bien été changée.",
+  "Blocks.UserProfile.Success.PasswordChanged":"Le mot de passe a été changé.",
+  "Blocks.UserProfile.Edit.Profile":"Éditer le profil",
+  "Blocks.UserProfile.Edit.Login":"Modifier ses identifiants"
 }

@@ -1,0 +1,13 @@
+{
+  "Blocks.ShoppingCart.Label.Name":"Nom",
+  "Blocks.ShoppingCart.Label.UnitPrice":"Prix unitaire",
+  "Blocks.ShoppingCart.Label.Number":"Nombre",
+  "Blocks.ShoppingCart.Label.AddRemove":"Ajouter\/supprimer",
+  "Blocks.ShoppingCart.Label.Price":"Prix",
+  "Blocks.ShoppingCart.Label.Delete":"Supprimer",
+  "Blocks.ShoppingCart.ViewCart":"Voir mon panier",
+  "Blocks.ShoppingCart.CartIsEmpty":"Votre panier est vide.",
+  "Blocks.ShoppingCart.Total":"Total",
+  "Label.ShoppingCart":"Mon panier",
+  "Label.Checkout":"Valider mon panier"
+}

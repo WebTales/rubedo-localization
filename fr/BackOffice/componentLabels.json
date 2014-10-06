@@ -122,6 +122,15 @@
   "newDamTypeSubmitBtn":{
     "text":"Créer un nouveau type de média"
   },
+  "qbs3":{
+    "title":"Choix des critères sur les champs"
+  },
+  "qbs3ruleadder":{
+    "fieldLabel":"Ajouter une règle sur "
+  },
+  "qbs3auxbtn":[
+    
+  ],
   "addMTFieldWindow":{
     "title":"Ajouter un champ"
   },
@@ -137,15 +146,6 @@
   "chooseThisContentBtn":{
     "text":"<b>Choisir ce contenu<\/b>"
   },
-  "qbs3":{
-    "title":"Choix des critères sur les champs"
-  },
-  "qbs3ruleadder":{
-    "fieldLabel":"Ajouter une règle sur "
-  },
-  "qbs3auxbtn":[
-    
-  ],
   "qbFinalRecStagePanel":{
     "title":"Récapitulatif et enregistrement"
   },
@@ -213,12 +213,6 @@
   "wizardNextBtn":{
     "text":"Suivant"
   },
-  "queryWindow":{
-    "title":"Requêtes"
-  },
-  "editBtn":{
-    "text":"Editer"
-  },
   "queryTypeChooseWindow":{
     "title":"Choisissez un type de requête"
   },
@@ -230,6 +224,12 @@
   },
   "chooseAdvancedQueryBtn":{
     "text":"Requête avancée"
+  },
+  "queryWindow":{
+    "title":"Requêtes"
+  },
+  "editBtn":{
+    "text":"Editer"
   },
   "manualQueryWindow":{
     "title":"Requête manuelle"
@@ -273,12 +273,6 @@
   "maskSaveChoice2Btn":{
     "text":"Enregistrer sous un nouveau masque"
   },
-  "chooseBtn":{
-    "text":"Choisir"
-  },
-  "modifyBtn":{
-    "text":"Modifier"
-  },
   "mediaQueryAssistant":{
     "title":"Assistant de requêtage sur médias"
   },
@@ -297,6 +291,12 @@
   "saveBtn":{
     "text":"Enregistrer"
   },
+  "chooseBtn":{
+    "text":"Choisir"
+  },
+  "modifyBtn":{
+    "text":"Modifier"
+  },
   "lcFieldAdress":{
     "fieldLabel":"Adresse"
   },
@@ -309,17 +309,32 @@
   "lcFieldLongitude":{
     "fieldLabel":"Longitude"
   },
+  "sessionExpiringWindow":{
+    "title":"Votre session va bientot expirer"
+  },
+  "sessionRenewWindow":{
+    "text":"Renouveler ma session"
+  },
   "sessionExpiredWindow":{
     "title":"Votre session a expiré"
   },
   "reconnectBtn":{
     "text":"Se connecter à nouveau"
   },
-  "sessionExpiringWindow":{
-    "title":"Votre session va bientot expirer"
+  "gfsUploadBtn":{
+    "tooltip":"Uploader un fichier"
   },
-  "sessionRenewWindow":{
-    "text":"Renouveler ma session"
+  "gfsRemoveFileBtn":{
+    "tooltip":"Supprimer le fichier"
+  },
+  "gfsDownloadBtn":{
+    "tooltip":"Télécharger le fichier"
+  },
+  "gfsHelpBtn":{
+    "tooltip":"Fichier principal du média. Obligatoire."
+  },
+  "gfsEditBtn":{
+    "tooltip":"Editer le fichier"
   },
   "pagesLaunchBtn":{
     "text":"Pages"
@@ -366,6 +381,9 @@
   "customThemesLaunchBtn":{
     "text":"Thèmes personnalisés"
   },
+  "formsLaunchBtn":{
+    "text":"Questionnaires"
+  },
   "queriesLaunchBtn":{
     "text":"Requêtes"
   },
@@ -399,20 +417,20 @@
   "applicationLogsLaunchBtn":{
     "text":"Logs d'application"
   },
-  "gfsUploadBtn":{
-    "tooltip":"Uploader un fichier"
+  "shippersLaunchBtn":{
+    "text":"Expéditeurs"
   },
-  "gfsRemoveFileBtn":{
-    "tooltip":"Supprimer le fichier"
+  "taxesLaunchBtn":{
+    "text":"Taxes"
   },
-  "gfsDownloadBtn":{
-    "tooltip":"Télécharger le fichier"
+  "stockLaunchBtn":{
+    "text":"Stock"
   },
-  "gfsHelpBtn":{
-    "tooltip":"Fichier principal du média. Obligatoire."
+  "pmLaunchBtn":{
+    "text":"Moyens de paiement"
   },
-  "gfsEditBtn":{
-    "tooltip":"Editer le fichier"
+  "ordersLaunchBtn":{
+    "text":"Commandes"
   },
   "newUserWindow":{
     "title":"Nouvel utilisateur"
@@ -423,11 +441,11 @@
   "userAccountField":{
     "fieldLabel":"Compte utilisateur "
   },
-  "picUploadWindow":{
-    "title":"Uploader une image"
-  },
   "fieldPanel":{
     "title":"Champs"
+  },
+  "picUploadWindow":{
+    "title":"Uploader une image"
   },
   "rteConfigWindow":{
     "title":"Editeur de texte riche"
@@ -509,6 +527,30 @@
   },
   "importMainWindow":{
     "title":"Import"
+  },
+  "presetsPanel":{
+    "title":"Préréglages"
+  },
+  "useExistingPresetFieldset":{
+    "title":"Utiliser préréglage existant"
+  },
+  "inportPrestField":[
+    
+  ],
+  "importPresetApplyBtn":{
+    "text":"Appliquer"
+  },
+  "importPresetDeleteBtn":{
+    "text":"Supprimer le préréglage sélectionné"
+  },
+  "saveAsNewPresetFieldset":{
+    "title":"Enregistrer en tant que nouveau paramètre"
+  },
+  "importPresetNameField":{
+    "fieldLabel":"Nom"
+  },
+  "importPresetSaveBtn":{
+    "text":"Enregistrer"
   },
   "importStage1Panel":{
     "title":"Choix du fichier à importer"
@@ -622,6 +664,9 @@
   "newMLCreateBtn":{
     "text":"Créer une nouvelle liste de diffusion"
   },
+  "optionsConfiguratorBtn":{
+    "text":"Configurer les options"
+  },
   "mailingListsWindow":{
     "title":"Listes de diffusion"
   },
@@ -679,9 +724,6 @@
   "unsubscribedCol":{
     "text":"Désabonnement"
   },
-  "optionsConfiguratorBtn":{
-    "text":"Configurer les options"
-  },
   "optionsEditor1Window":{
     "title":"Editeur d'options"
   },
@@ -724,9 +766,6 @@
   "imagePreviewWindow":{
     "title":"Aperçu pleine taille"
   },
-  "pixlrEditorWindow":{
-    "title":"Éditeur d'images"
-  },
   "damMassUploadWindow":{
     "title":"Upload en masse de médias"
   },
@@ -750,6 +789,9 @@
   },
   "chooseDamTypeMassSubmitBtn":{
     "text":"Déposer des médias de ce type"
+  },
+  "pixlrEditorWindow":{
+    "title":"Éditeur d'images"
   },
   "inheritWorkspaceField":{
     "fieldLabel":"Hérite de l'espace de travail"
@@ -784,6 +826,12 @@
   "OwnNameCol":{
     "text":"Nom natif"
   },
+  "descriptionField":{
+    "fieldLabel":"Description "
+  },
+  "helpTextField":{
+    "fieldLabel":"Texte d'aide "
+  },
   "currentLanguageDSLField":{
     "fieldLabel":"Langue courante"
   },
@@ -792,27 +840,6 @@
   },
   "removeTranslationBtn":{
     "text":"Supprimer cette traduction"
-  },
-  "urlField":{
-    "fieldLabel":"URL"
-  },
-  "referencingFieldSEt":{
-    "title":"Référencement"
-  },
-  "titleField":{
-    "fieldLabel":"Titre *"
-  },
-  "descriptionField":{
-    "fieldLabel":"Description "
-  },
-  "translationAdderWindow":{
-    "title":"Ajouter une nouvelle traduction"
-  },
-  "translateInThisLanguageBtn":{
-    "text":"Traduire dans cette langue"
-  },
-  "helpTextField":{
-    "fieldLabel":"Texte d'aide "
   },
   "siteFieldSet":{
     "title":"Site"
@@ -825,6 +852,12 @@
   },
   "defaultAuthorField":{
     "fieldLabel":"Auteur par défaut"
+  },
+  "translationAdderWindow":{
+    "title":"Ajouter une nouvelle traduction"
+  },
+  "translateInThisLanguageBtn":{
+    "text":"Traduire dans cette langue"
   },
   "contentTitleField":{
     "fieldLabel":"Titre *",
@@ -846,69 +879,6 @@
   },
   "createNewCustomThemeBtn":{
     "text":"Créer un nouveau thème personnalisé"
-  },
-  "customThemesWindow":{
-    "title":"Thèmes personnalisés"
-  },
-  "themesMainPanel":{
-    "title":"Thèmes"
-  },
-  "lessVarsPanel":{
-    "title":"Variables LESS"
-  },
-  "garysFieldset":{
-    "title":"Gris"
-  },
-  "randomizeColorsBtn":{
-    "text":"Générer couleurs de base"
-  },
-  "randomizeColorsBOBtn":{
-    "text":"Générer selon"
-  },
-  "accentColorsFieldset":{
-    "title":"Couleurs d'accentuation"
-  },
-  "linksFieldset":{
-    "title":"Liens"
-  },
-  "tablesFieldset":{
-    "title":"Tables"
-  },
-  "buttonsFieldset":{
-    "title":"Boutons"
-  },
-  "formsFieldset":{
-    "title":"Formulaires"
-  },
-  "dropdownsFieldset":{
-    "title":"Menus déroulants"
-  },
-  "wellsFieldset":{
-    "title":"Wells"
-  },
-  "navbarsFieldset":{
-    "title":"Barre de navigation"
-  },
-  "invertedNavbarsFieldset":{
-    "title":"Barre de navigation inversée"
-  },
-  "paginationFieldset":{
-    "title":"Pagination"
-  },
-  "statesAlertsFieldset":{
-    "title":"États de formulaires et alertes"
-  },
-  "tooltipsFieldset":{
-    "title":"Info-bulles et popovers"
-  },
-  "typographyFieldset":{
-    "title":"Typographie"
-  },
-  "themeSimulateBtn":{
-    "text":"Simuler"
-  },
-  "simpleModeFavoritesBtn":{
-    "text":"Favoris"
   },
   "newLayoutWindow":{
     "title":"Nouvelle mise en page"
@@ -939,6 +909,9 @@
   },
   "createNewLayoutBtnCopy":{
     "text":"Copier cette mise en page"
+  },
+  "simpleModeFavoritesBtn":{
+    "text":"Favoris"
   },
   "newUserTypeWindow":{
     "title":"Nouveau type d'utilisateur"
@@ -984,6 +957,9 @@
   "signUpStatCol":{
     "text":"Statut d'inscription"
   },
+  "querySimWindow":{
+    "title":"Simulation de résultat de requête"
+  },
   "credentiamsAndIntForm":{
     "title":"Informations d'identification et des paramètres d'interface"
   },
@@ -1025,9 +1001,6 @@
   },
   "changeBtn":{
     "text":"Changer"
-  },
-  "querySimWindow":{
-    "title":"Simulation de résultat de requête"
   },
   "emailsInterface":{
     "title":"E-mails"
@@ -1101,6 +1074,9 @@
   "subscribeSubmitBtn":{
     "text":"Abonner"
   },
+  "codeEditorWindow":{
+    "title":"Éditeur de code"
+  },
   "sendEmailWindow":{
     "title":"Envoyer email"
   },
@@ -1120,17 +1096,311 @@
   "importSubmitBtn":{
     "text":"Importer"
   },
-  "codeEditorWindow":{
-    "title":"Éditeur de code"
+  "eCCategoryFieldset":{
+    "title":"Catégorie E-commerce"
   },
-  "pageWindow":{
-    "title":"Pages"
+  "titleField":{
+    "fieldLabel":"Titre *"
+  },
+  "categoryImageField":{
+    "fieldLabel":"Image"
+  },
+  "productSettingsPanel":{
+    "title":"Paramètres de produit"
+  },
+  "skuField":{
+    "fieldLabel":"SKU"
+  },
+  "basePriceField":{
+    "fieldLabel":"Prix de base"
+  },
+  "preparationDelayField":{
+    "fieldLabel":"Délai de préparation"
+  },
+  "stockManagementFieldset":{
+    "title":"Gestion des stocks"
+  },
+  "canOrderOutOfStockField":{
+    "fieldLabel":"Possibilité de commander les produits en rupture de stock"
+  },
+  "outOfStockLimitField":{
+    "fieldLabel":"Limite avant rupture de stock"
+  },
+  "notifyForQuantityBelowField":{
+    "fieldLabel":"Notifier les stocks inférieurs à"
+  },
+  "resupplyDelayField":{
+    "fieldLabel":"Délai de réapprovisionnement (jours)"
+  },
+  "variationsGrid":{
+    "title":"Variations"
+  },
+  "specialOffersGrid":{
+    "title":"Offres spéciales pour cette variation"
+  },
+  "startDateCol":{
+    "text":"Date de début"
+  },
+  "endDateCol":{
+    "text":"Date de fin"
+  },
+  "priceCol":{
+    "text":"Prix"
+  },
+  "taxesWindow":{
+    "title":"Taxes"
+  },
+  "activeCol":{
+    "text":"Actif"
+  },
+  "userTypesCol":{
+    "text":"Types d'utilisateurs"
+  },
+  "productTypesCol":{
+    "text":"Types de produits"
+  },
+  "countryCol":{
+    "text":"Pays"
+  },
+  "stateRegionCol":{
+    "text":"Etat \/ région"
+  },
+  "zipPostalCodeCol":{
+    "text":"Zip \/ code postal"
+  },
+  "ratePercentageCol":{
+    "text":"Taux (%)"
+  },
+  "priorityCol":{
+    "text":"Priorité"
+  },
+  "stockWindow":{
+    "title":"Stock"
+  },
+  "productTypeCol":{
+    "text":"Type de produit "
+  },
+  "ItemsGrid":{
+    "title":"Produits"
+  },
+  "stockCol":{
+    "text":"Stock"
+  },
+  "skuCol":{
+    "text":"SKU"
+  },
+  "addStockBtn":{
+    "text":"Ajouter du stock"
+  },
+  "removeStockBtn":{
+    "text":"Supprimer du stock"
+  },
+  "viewProductBtn":{
+    "text":"Voir le produit"
+  },
+  "shippersWindow":{
+    "title":"Expéditeurs"
+  },
+  "activeField":{
+    "fieldLabel":"Actif"
+  },
+  "rateTypeField":{
+    "fieldLabel":"Type de taux"
+  },
+  "ratesGrid":{
+    "title":"Prix"
+  },
+  "taxCol":{
+    "text":"Taxe (%)"
+  },
+  "delayCol":{
+    "text":"Délai (jours)"
+  },
+  "displayedDelayAmountCol":{
+    "text":"Délai affiché (quantité)"
+  },
+  "displayedDelayUnitCol":{
+    "text":"Délai affiché (unité)"
+  },
+  "addRateBtn":{
+    "text":"Ajouter un tarif"
+  },
+  "removeRateBtn":{
+    "text":"Supprimer un tarif"
+  },
+  "eCFieldset":{
+    "title":"E-commerce"
+  },
+  "manageStockField":{
+    "fieldLabel":"Gestion des stocks"
+  },
+  "removeStockWindow":{
+    "title":"Supprimer du stock"
+  },
+  "amountToRemoveField":{
+    "fieldLabel":"Montant à supprimer"
+  },
+  "removeStockFromItemBtn":{
+    "text":"Supprimer le stock de l'élément sélectionné"
+  },
+  "addStockWindow":{
+    "title":"Ajouter du stock"
+  },
+  "alountToAddField":{
+    "fieldLabel":"Montant à ajouter"
+  },
+  "addStockToItemBtn":{
+    "text":"Ajouter du stock à l'élément sélectionné"
+  },
+  "paymentMeansWindow":{
+    "title":"Moyens de paiement"
+  },
+  "rubedoConfigurationForm":{
+    "title":"Configuration de Rubedo"
+  },
+  "displayNameField":{
+    "fieldLabel":"Nom Affiché"
+  },
+  "nPMCForm":{
+    "title":"Configuration du moyen de paiement"
+  },
+  "saveConfigurationBtn":{
+    "text":"Enregistrer la configuration"
+  },
+  "ordersWindow":{
+    "title":"Commandes"
+  },
+  "orderNumberCol":{
+    "text":"Numéro de commande"
+  },
+  "clientNameCol":{
+    "text":"Nom du client"
+  },
+  "fullPriceCol":{
+    "text":"Plein tarif"
+  },
+  "shipperCol":{
+    "text":"Expéditeur"
+  },
+  "orderSettingForm":{
+    "title":"Paramètres"
+  },
+  "attachmentsFieldset":{
+    "title":"Pièces jointes"
+  },
+  "billDocumentField":{
+    "fieldLabel":"Facture"
+  },
+  "orderStatusField":{
+    "fieldLabel":"Statut de la commande *"
+  },
+  "applyChangesBtn":{
+    "text":"Appliquer les modifications"
+  },
+  "pricingAndClientDataForm":{
+    "title":"Tarification et données client"
+  },
+  "pricingFieldset":{
+    "title":"Total commande"
+  },
+  "shippingPriceTFField":{
+    "fieldLabel":"Frais d'expédition"
+  },
+  "shippingTaxField":{
+    "fieldLabel":"Taxes d'expédition"
+  },
+  "shippingPriceField":{
+    "fieldLabel":"Prix du transporteur"
+  },
+  "totalPriceField":{
+    "fieldLabel":"Prix total "
+  },
+  "taxTotalField":{
+    "fieldLabel":"Total des taxes"
+  },
+  "clientFieldset":{
+    "title":"Client"
+  },
+  "billingAddressField":{
+    "fieldLabel":"Adresse de facturation"
+  },
+  "shippingAddressField":{
+    "fieldLabel":"Adresse d’expédition"
+  },
+  "paymentMeansField":{
+    "fieldLabel":"Moyens de paiement"
+  },
+  "shipperField":{
+    "fieldLabel":"Expéditeur"
+  },
+  "shippingCommentsField":{
+    "fieldLabel":"Commentaires pour l'expédition"
+  },
+  "baughtProductsGrid":{
+    "title":"Produits"
+  },
+  "subtitleCol":{
+    "text":"Sous-titres"
+  },
+  "unitPriceCol":{
+    "text":"Prix unitaire"
+  },
+  "unitTaxedPriceCol":{
+    "text":"Prix unitaire TTC"
+  },
+  "amountCol":{
+    "text":"Montant"
+  },
+  "taxedPriceCol":{
+    "text":"Prix TTC"
+  },
+  "importProductOptionForm":{
+    "title":"Champs du produit"
+  },
+  "baseSkuField":{
+    "fieldLabel":"Base SKU"
+  },
+  "PreparationDelayField":{
+    "fieldLabel":"Délai de préparation"
+  },
+  "priceField":{
+    "fieldLabel":"Prix"
+  },
+  "stockField":{
+    "fieldLabel":"Stock"
+  },
+  "importProductOptionsFieldset":{
+    "title":"Champs du produit"
+  },
+  "pageMaskWindow":{
+    "title":"Masques de page"
   },
   "editGroup":{
     "title":"Edition"
   },
   "newBlocBtn":{
     "text":"Nouveau Bloc"
+  },
+  "titleColumn":{
+    "text":"Titre"
+  },
+  "zoomLevelSlider":{
+    "fieldLabel":"Niveau de zoom"
+  },
+  "desktopCustomizeWindow":{
+    "title":"Personnalisation du bureau"
+  },
+  "wallpaperGrid":{
+    "title":"Fond d'écran"
+  },
+  "themeGrid":{
+    "title":"Thèmes"
+  },
+  "accessibilityPanel":{
+    "title":"Accessibilité"
+  },
+  "pageWindow":{
+    "title":"Pages"
   },
   "languageCoumn":{
     "text":"Langues"
@@ -1144,32 +1414,17 @@
   "displayedContentTab":{
     "text":"Contenus affichés"
   },
+  "urlField":{
+    "fieldLabel":"URL"
+  },
   "excludeFromMenuField":{
     "fieldLabel":"Hors navigation"
   },
+  "referencingFieldSEt":{
+    "title":"Référencement"
+  },
   "robotFieldset":{
     "title":"Robot"
-  },
-  "titleColumn":{
-    "text":"Titre"
-  },
-  "zoomLevelSlider":{
-    "fieldLabel":"Niveau de zoom"
-  },
-  "pageMaskWindow":{
-    "title":"Masques de page"
-  },
-  "desktopCustomizeWindow":{
-    "title":"Personnalisation du bureau"
-  },
-  "wallpaperGrid":{
-    "title":"Fond d'écran"
-  },
-  "themeGrid":{
-    "title":"Thèmes"
-  },
-  "accessibilityPanel":{
-    "title":"Accessibilité"
   },
   "addUsersToGroupWindow":{
     "text":"Ajouter ces utilisateurs au groupe séléctionné"
@@ -1278,6 +1533,9 @@
   },
   "defaultLanguageField":{
     "fieldLabel":"Langue par défaut *"
+  },
+  "sitesEnableECField":{
+    "fieldLabel":"Catégories de page E-commerce"
   },
   "messageryFieldSet":{
     "title":"Messagerie"
@@ -1414,6 +1672,66 @@
   "workspaceWindow":{
     "title":"Espaces de travail"
   },
+  "customThemesWindow":{
+    "title":"Thèmes personnalisés"
+  },
+  "themesMainPanel":{
+    "title":"Thèmes"
+  },
+  "lessVarsPanel":{
+    "title":"Variables LESS"
+  },
+  "garysFieldset":{
+    "title":"Gris"
+  },
+  "randomizeColorsBtn":{
+    "text":"Générer couleurs de base"
+  },
+  "randomizeColorsBOBtn":{
+    "text":"Générer selon"
+  },
+  "accentColorsFieldset":{
+    "title":"Couleurs d'accentuation"
+  },
+  "linksFieldset":{
+    "title":"Liens"
+  },
+  "tablesFieldset":{
+    "title":"Tables"
+  },
+  "buttonsFieldset":{
+    "title":"Boutons"
+  },
+  "formsFieldset":{
+    "title":"Formulaires"
+  },
+  "dropdownsFieldset":{
+    "title":"Menus déroulants"
+  },
+  "wellsFieldset":{
+    "title":"Wells"
+  },
+  "navbarsFieldset":{
+    "title":"Barre de navigation"
+  },
+  "invertedNavbarsFieldset":{
+    "title":"Barre de navigation inversée"
+  },
+  "paginationFieldset":{
+    "title":"Pagination"
+  },
+  "statesAlertsFieldset":{
+    "title":"États de formulaires et alertes"
+  },
+  "tooltipsFieldset":{
+    "title":"Info-bulles et popovers"
+  },
+  "typographyFieldset":{
+    "title":"Typographie"
+  },
+  "themeSimulateBtn":{
+    "text":"Simuler"
+  },
   "termsCol":{
     "text":"Termes"
   },
@@ -1450,8 +1768,8 @@
   "newCTWindow":{
     "title":"Nouveau type de contenu"
   },
-  "isDepField":{
-    "fieldLabel":"Imbriqué "
+  "productTypeField":{
+    "fieldLabel":"Type de produit"
   },
   "createNTCBtn":{
     "text":"Créer un nouveau type de contenu"
@@ -1770,12 +2088,6 @@
   "damSwitchGridViewBtn":{
     "text":"Changer de mode d'affichage"
   },
-  "formsLaunchBtn":{
-    "text":"Questionnaires"
-  },
-  "functionField":{
-    "fieldLabel":"Fonction "
-  },
   "showOnlyIfCombo":{
     "fieldLabel":"Affiché si et seulement si "
   },
@@ -1939,6 +2251,12 @@
   },
   "formFieldConditionBtn":{
     "tooltip":"Condition d'affichage"
+  },
+  "isDepField":{
+    "fieldLabel":"Imbriqué "
+  },
+  "functionField":{
+    "fieldLabel":"Fonction "
   },
   "layoutsPanel":{
     "title":"Mises en page"
