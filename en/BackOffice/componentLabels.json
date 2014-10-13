@@ -2286,5 +2286,8 @@
     },
     "hideAllWindowsBtn": {
         "tooltip": "Show desktop"
+    },
+    "productsShortcutBtn": {
+        "text": "Products (Contents interface)"
     }
 }
