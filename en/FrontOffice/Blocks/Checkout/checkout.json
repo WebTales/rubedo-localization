@@ -29,5 +29,7 @@
     "Blocks.Checkout.ShippingOption": "%name% - Delivered under %delay% %unit% for %rate% €",
     "Blocks.Checkout.CheckoutSummary.SubTotal": "Sub-total",
     "Blocks.Checkout.CheckoutSummary.PaymentMethod": "Payment method",
-    "Blocks.Checkout.CheckoutSummary.ConfirmOrder": "Confirm order"
+    "Blocks.Checkout.CheckoutSummary.ConfirmOrder": "Confirm order",
+    "Blocks.Checkout.Button.Continue": "Continue",
+    "Blocks.Checkout.Button.LogOut": "Log Out"
 }
