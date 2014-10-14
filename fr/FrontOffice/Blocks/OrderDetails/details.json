@@ -17,5 +17,5 @@
   "Blocks.OrderDetails.Payment.Means":"Moyens de paiement",
   "Blocks.OrderDetails.Payment.VatEin":"Numéro de TVA",
   "Blocks.OrderDetails.Payment.Status":"Statut de paiement",
-  "Blocks.OrderDetails.OrderBill":"Facture de la commande"
+  "Blocks.OrderDetails.OrderBill":"Télécharger la facture"
 }
