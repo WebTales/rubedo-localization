@@ -1,0 +1,9 @@
+{
+    "Notification.Orders.CustomerNotification.Create.Subject": "Thanks for your order",
+    "Notification.Orders.CustomerNotification.Update.Subject": "Order status has been changed",
+    "Notification.Orders.ShopNotification.Create.Subject": "Your shop %site% has new order",
+    "Notification.Orders.ShopNotification.Hello": "Hello,",
+    "Notification.Orders.ShopNotification.Body": "A new order as been recorded. Please view the summary below.",
+    "Notification.Orders.CustomerNotification.DearUser": "Dear %name%,",
+    "Notification.Orders.CustomerNotification.Body": "Your order \"%orderNumber%\" has now the status \"%status%\". Please view the summary below."
+}
