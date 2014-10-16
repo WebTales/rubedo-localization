@@ -5,5 +5,5 @@
     "Notification.Orders.ShopNotification.Hello": "Hello,",
     "Notification.Orders.ShopNotification.Body": "A new order as been recorded. Please view the summary below.",
     "Notification.Orders.CustomerNotification.DearUser": "Dear %name%,",
-    "Notification.Orders.CustomerNotification.Body": "Your order \"%orderNumber%\" has now the status \"%status%\". Please view the summary below."
+    "Notification.Orders.CustomerNotification.Body": "Thanks for your order \"%orderNumber%\" on <a href=\"http://%siteUrl%\">%siteName%</a>. Your order has now the status \"%status%\". Please view the summary below."
 }
