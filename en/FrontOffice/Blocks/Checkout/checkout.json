@@ -31,5 +31,15 @@
     "Blocks.Checkout.CheckoutSummary.PaymentMethod": "Payment method",
     "Blocks.Checkout.CheckoutSummary.ConfirmOrder": "Confirm order",
     "Blocks.Checkout.Button.Continue": "Continue",
-    "Blocks.Checkout.Button.LogOut": "Log Out"
+    "Blocks.Checkout.Button.LogOut": "Log Out",
+    "Blocks.Checkout.PersonalDetails": "Personal details",
+    "Blocks.Checkout.Password": "Your password",
+    "Blocks.Checkout.MailingLists": "Mailing lists",
+    "Blocks.Checkout.MailingLists.Label": "I wish to subscribe to the following mailing lists",
+    "Blocks.Checkout.Address": "Your address",
+    "Blocks.Checkout.Label.ChooseCountry": "Choose your country",
+    "Blocks.Checkout.Label.Address.SameBilling": "Use same address for billing.",
+    "Blocks.Checkout.Label.Address.SameShipping": "Use same address for delivery.",
+    "Blocks.Checkout.Label.TermsAndCondition": "Terms and Conditions",
+    "Blocks.Checkout.Label.Terms": "I have read and agree to the"
 }
