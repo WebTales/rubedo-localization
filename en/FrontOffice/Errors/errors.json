@@ -1,0 +1,7 @@
+{
+    "Error.Label.UnknownBlock": "Unknown block",
+    "Error.Label.UnknownFileType": "Unknown file type",
+    "Error.Label.UnknownField": "Unknown field",
+
+    "Error.Label.Http404": "Error 404 : page not found"
+}

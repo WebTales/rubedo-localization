@@ -3,5 +3,9 @@
 	"Blocks.Search.Label.ByPage": "by page",
 	"Blocks.Search.Label.KeyWords": "Key words",
 	"Blocks.Search.Label.SeeAllResults": "See all results",
-	"Blocks.Search.Label.SearchCriteria": "Search criteria"
+	"Blocks.Search.Label.SearchCriteria": "Search criteria",
+    "Blocks.Search.Label.OrderByRelevance": "Order by relevance",
+    "Blocks.Search.Label.OrderByDate": "Order by date",
+    "Blocks.Search.Label.OrderByAuthor": "Order by author",
+    "Blocks.Search.Label.OrderByTitle": "Order by title"
 }

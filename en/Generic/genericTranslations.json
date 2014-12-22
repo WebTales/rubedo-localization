@@ -42,6 +42,7 @@
     "Label.Send": "Send",
     "Label.Submit": "Submit",
     "Label.Download": "Download",
+    "Label.Upload": "Upload",
     "Label.Refresh": "Refresh",
     "Label.Url": "Url",
     "Label.MaxWidth": "Max width",
@@ -50,7 +51,10 @@
     "Label.Longitude": "Longitude",
     "Label.Altitude": "Altitude",
     "Label.Latitude": "Latitude",
-    "Block.error": "Error!",
+    "Label.Close": "Close",
+    "Block.error": "Error !",
+    "Block.Success": "Success !",
+    "Block.Warning": "Warning !",
     "Block.noimageerror": "Can't access images",
     "Block.errorNoDisplay": "No data to display."
 }
