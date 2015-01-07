@@ -2289,5 +2289,8 @@
     },
     "productsShortcutBtn": {
         "text": "Products (Contents interface)"
+    },
+    "vanityUrlField":{
+        "fieldLabel":"Vanity URL"
     }
 }

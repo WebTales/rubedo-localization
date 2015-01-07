@@ -2296,5 +2296,8 @@
   },
   "hideAllWindowsBtn":{
     "tooltip":"Afficher le bureau"
+  },
+  "vanityUrlField":{
+     "fieldLabel":"URL Courte"
   }
 }
