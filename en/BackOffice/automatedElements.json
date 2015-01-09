@@ -1,6 +1,6 @@
 {
     "notifTitle": "Notification",
-    "notifCreate": "<p>Succesful creation.</p>",
+    "notifCreate": "<p>Successful creation.</p>",
     "notifUpdate": "<p>Successful update.</p>",
     "notifDestroy": "<p>Successful deletion.</p>",
     "errorTitle": "Error",
@@ -192,7 +192,7 @@
     "noCurrentWorkingLanguageError": "No working language selected",
     "currentWorkingLanguageText": "Current working language",
     "languagesText": "Languages",
-    "locStrategyText": "Localizastion strategy",
+    "locStrategyText": "Localization strategy",
     "useBrowserLanguageText": "Use browser language",
     "onlyOneText": "Only one",
     "withFallbackText": "With fallback",
