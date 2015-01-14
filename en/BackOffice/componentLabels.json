@@ -129,6 +129,18 @@
         "fieldLabel": "Add a rule on "
     },
     "qbs3auxbtn": [],
+    "qbFinalRecStagePanel": {
+        "title": "Summary and saving"
+    },
+    "qbRecapFieldset": {
+        "title": "<b>Summary</b>"
+    },
+    "queryNameField": {
+        "fieldLabel": "Query name"
+    },
+    "saveQBQueryBtn": {
+        "text": "<b>Save this query</b>"
+    },
     "addMTFieldWindow": {
         "title": "Add a field"
     },
@@ -143,18 +155,6 @@
     },
     "chooseThisContentBtn": {
         "text": "<b>Choose this content</b>"
-    },
-    "qbFinalRecStagePanel": {
-        "title": "Summary and saving"
-    },
-    "qbRecapFieldset": {
-        "title": "<b>Summary</b>"
-    },
-    "queryNameField": {
-        "fieldLabel": "Query name"
-    },
-    "saveQBQueryBtn": {
-        "text": "<b>Save this query</b>"
     },
     "qbs4": {
         "title": "Choice of sorting on fields"
@@ -209,18 +209,6 @@
     "wizardNextBtn": {
         "text": "Next"
     },
-    "queryTypeChooseWindow": {
-        "title": "Choose a query type"
-    },
-    "chooseManualQueryBtn": {
-        "text": "Manual query"
-    },
-    "ChooseSimpleQueryBtn": {
-        "text": "Simple query"
-    },
-    "chooseAdvancedQueryBtn": {
-        "text": "Advanced query"
-    },
     "queryWindow": {
         "title": "Queries"
     },
@@ -239,6 +227,18 @@
     "saveManualQueryBtn": {
         "text": "Save query"
     },
+    "queryTypeChooseWindow": {
+        "title": "Choose a query type"
+    },
+    "chooseManualQueryBtn": {
+        "text": "Manual query"
+    },
+    "ChooseSimpleQueryBtn": {
+        "text": "Simple query"
+    },
+    "chooseAdvancedQueryBtn": {
+        "text": "Advanced query"
+    },
     "chooseDamTypeWindow": {
         "title": "Choose a media type"
     },
@@ -254,11 +254,11 @@
     "createNewWorkspaceBtn": {
         "text": "Create a new workspace"
     },
-    "workspaceField": {
-        "fieldLabel": "Workspaces"
-    },
     "newTermWindow": {
         "title": "New term"
+    },
+    "workspaceField": {
+        "fieldLabel": "Workspaces"
     },
     "maskSaveChoiceWindow": {
         "title": "This mask is used by pages"
@@ -373,12 +373,6 @@
     },
     "userTypesLaunchBtn": {
         "text": "User types"
-    },
-    "customThemesLaunchBtn": {
-        "text": "Custom Themes"
-    },
-    "formsLaunchBtn": {
-        "text": "Surveys"
     },
     "queriesLaunchBtn": {
         "text": "Queries"
@@ -656,9 +650,6 @@
     "newMLCreateBtn": {
         "text": "Create a new mailing list"
     },
-    "optionsConfiguratorBtn": {
-        "text": "Configure options"
-    },
     "mailingListsWindow": {
         "title": "Mailing lists"
     },
@@ -715,6 +706,9 @@
     },
     "unsubscribedCol": {
         "text": "Unsubscription"
+    },
+    "optionsConfiguratorBtn": {
+        "text": "Configure options"
     },
     "optionsEditor1Window": {
         "title": "Option editor"
@@ -797,15 +791,6 @@
     "OperatorColumn": {
         "text": "Operator"
     },
-    "workingLanguageWindow": {
-        "title": "Change current working language"
-    },
-    "TALanguageField": {
-        "fieldLabel": "Language"
-    },
-    "setAsWLBtn": {
-        "text": "Set as current working language"
-    },
     "languagesInterface4": {
         "title": "Languages"
     },
@@ -818,11 +803,14 @@
     "OwnNameCol": {
         "text": "Own name"
     },
-    "descriptionField": {
-        "fieldLabel": "Description "
+    "workingLanguageWindow": {
+        "title": "Change current working language"
     },
-    "helpTextField": {
-        "fieldLabel": "Help text "
+    "TALanguageField": {
+        "fieldLabel": "Language"
+    },
+    "setAsWLBtn": {
+        "text": "Set as current working language"
     },
     "currentLanguageDSLField": {
         "fieldLabel": "Current language"
@@ -832,6 +820,18 @@
     },
     "removeTranslationBtn": {
         "text": "Remove translation"
+    },
+    "translationAdderWindow": {
+        "title": "Add new translation"
+    },
+    "translateInThisLanguageBtn": {
+        "text": "Translate in this language"
+    },
+    "descriptionField": {
+        "fieldLabel": "Description "
+    },
+    "helpTextField": {
+        "fieldLabel": "Help text "
     },
     "siteFieldSet": {
         "title": "Site"
@@ -844,12 +844,6 @@
     },
     "defaultAuthorField": {
         "fieldLabel": "Default author"
-    },
-    "translationAdderWindow": {
-        "title": "Add new translation"
-    },
-    "translateInThisLanguageBtn": {
-        "text": "Translate in this language"
     },
     "contentTitleField": {
         "fieldLabel": "Title *",
@@ -865,12 +859,6 @@
     },
     "imageMapperWindow": {
         "title": "Image map editor"
-    },
-    "newCustomThemeWindow": {
-        "title": "New custom theme"
-    },
-    "createNewCustomThemeBtn": {
-        "text": "Create new custom theme"
     },
     "newLayoutWindow": {
         "title": "New layout"
@@ -890,6 +878,12 @@
     "assignFieldSubmitBtn": {
         "text": "Assign this field to selected column"
     },
+    "simpleModeFavoritesBtn": {
+        "text": "Favorites"
+    },
+    "customThemesLaunchBtn": {
+        "text": "Custom Themes"
+    },
     "newLayoutWindowCopy": {
         "title": "Copy layout"
     },
@@ -901,9 +895,6 @@
     },
     "createNewLayoutBtnCopy": {
         "text": "Copy this layout"
-    },
-    "simpleModeFavoritesBtn": {
-        "text": "Favorites"
     },
     "newUserTypeWindow": {
         "title": "New user type"
@@ -1066,9 +1057,6 @@
     "subscribeSubmitBtn": {
         "text": "Subscribe"
     },
-    "codeEditorWindow": {
-        "title": "Code editor"
-    },
     "sendEmailWindow": {
         "title": "Send email"
     },
@@ -1087,6 +1075,9 @@
     },
     "importSubmitBtn": {
         "text": "Import"
+    },
+    "codeEditorWindow": {
+        "title": "Code editor"
     },
     "eCCategoryFieldset": {
         "title": "E-Commerce category"
@@ -1139,6 +1130,45 @@
     "priceCol": {
         "text": "Price"
     },
+    "eCFieldset": {
+        "title": "E-Commerce"
+    },
+    "manageStockField": {
+        "fieldLabel": "Manage stock"
+    },
+    "shippersWindow": {
+        "title": "Shippers"
+    },
+    "activeField": {
+        "fieldLabel": "Active"
+    },
+    "rateTypeField": {
+        "fieldLabel": "Rate type"
+    },
+    "ratesGrid": {
+        "title": "Rates"
+    },
+    "countryCol": {
+        "text": "Country"
+    },
+    "taxCol": {
+        "text": "Tax (%)"
+    },
+    "delayCol": {
+        "text": "Delay (days)"
+    },
+    "displayedDelayAmountCol": {
+        "text": "Displayed delay (amount)"
+    },
+    "displayedDelayUnitCol": {
+        "text": "Displayed delay (unit)"
+    },
+    "addRateBtn": {
+        "text": "Add rate"
+    },
+    "removeRateBtn": {
+        "text": "Remove rate"
+    },
     "taxesWindow": {
         "title": "Taxes"
     },
@@ -1150,9 +1180,6 @@
     },
     "productTypesCol": {
         "text": "Product Types"
-    },
-    "countryCol": {
-        "text": "Country"
     },
     "stateRegionCol": {
         "text": "State / Region"
@@ -1190,41 +1217,14 @@
     "viewProductBtn": {
         "text": "View product"
     },
-    "shippersWindow": {
-        "title": "Shippers"
+    "addStockWindow": {
+        "title": "Add stock"
     },
-    "activeField": {
-        "fieldLabel": "Active"
+    "alountToAddField": {
+        "fieldLabel": "Amount to add"
     },
-    "rateTypeField": {
-        "fieldLabel": "Rate type"
-    },
-    "ratesGrid": {
-        "title": "Rates"
-    },
-    "taxCol": {
-        "text": "Tax (%)"
-    },
-    "delayCol": {
-        "text": "Delay (days)"
-    },
-    "displayedDelayAmountCol": {
-        "text": "Displayed delay (amount)"
-    },
-    "displayedDelayUnitCol": {
-        "text": "Displayed delay (unit)"
-    },
-    "addRateBtn": {
-        "text": "Add rate"
-    },
-    "removeRateBtn": {
-        "text": "Remove rate"
-    },
-    "eCFieldset": {
-        "title": "E-Commerce"
-    },
-    "manageStockField": {
-        "fieldLabel": "Manage stock"
+    "addStockToItemBtn": {
+        "text": "Add stock to selected item"
     },
     "removeStockWindow": {
         "title": "Remove stock"
@@ -1234,15 +1234,6 @@
     },
     "removeStockFromItemBtn": {
         "text": "Remove stock from selected item"
-    },
-    "addStockWindow": {
-        "title": "Add stock"
-    },
-    "alountToAddField": {
-        "fieldLabel": "Amount to add"
-    },
-    "addStockToItemBtn": {
-        "text": "Add stock to selected item"
     },
     "paymentMeansWindow": {
         "title": "Payment means"
@@ -1346,6 +1337,18 @@
     "taxedPriceCol": {
         "text": "Taxed Price"
     },
+    "importChoiceWindow": {
+        "title": "Choose import options"
+    },
+    "whatToImportCombo": {
+        "fieldLabel": "What to import"
+    },
+    "howToImportCombo": {
+        "fieldLabel": "How to import"
+    },
+    "importUsingTheseOptionsBtn": {
+        "text": "Import using these options"
+    },
     "importProductOptionForm": {
         "title": "Product fields"
     },
@@ -1361,8 +1364,78 @@
     "stockField": {
         "fieldLabel": "Stock"
     },
+    "detectedFieldsCol": {
+        "text": "Detected fields"
+    },
+    "fieldMappingsPannel": {
+        "title": "Field mapping"
+    },
+    "contentTypeField": {
+        "fieldLabel": "Content type"
+    },
+    "uniqueKeyIndexField": {
+        "fieldLabel": "Unique key index"
+    },
+    "uniqueKeyField": {
+        "fieldLabel": "Unique key field"
+    },
+    "contentFieldIndexesFieldset": {
+        "title": "Content fields indexes"
+    },
+    "importTaxoFieldset": {
+        "title": "Taxonomy fields indexes"
+    },
+    "launchUpdateBtn": {
+        "text": "Launch update"
+    },
     "importProductOptionsFieldset": {
         "title": "Product fields"
+    },
+    "foThemesInterface": {
+        "title": "Themes"
+    },
+    "importThemeBtn": {
+        "text": "Import theme"
+    },
+    "manageFodersBtnGroup": {
+        "title": "Manage folders"
+    },
+    "addChildBtn": {
+        "text": "Add child"
+    },
+    "removeChildBtn": {
+        "text": "Remove"
+    },
+    "manageFilesBtnGroup": {
+        "title": "Manage files"
+    },
+    "downloadFileBtn": {
+        "text": "Download"
+    },
+    "replaceFileBtn": {
+        "text": "Replace"
+    },
+    "deleteFileBtn": {
+        "text": "Delete"
+    },
+    "damFolderCol": {
+        "text": "Folder"
+    },
+    "themeFilesGrid": {
+        "title": "Files"
+    },
+    "fileSizeCol": {
+        "text": "File size"
+    },
+    "thmeImportWindow": {
+        "title": "Theme import"
+    },
+    "zipArchiveField": {
+        "fieldLabel": "Zip archive",
+        "buttonText": "Browse..."
+    },
+    "themeImportSubmitBtn": {
+        "text": "Import"
     },
     "pageMaskWindow": {
         "title": "Page masks"
@@ -1402,9 +1475,6 @@
     },
     "propsTab": {
         "text": "Properties"
-    },
-    "displayedContentTab": {
-        "text": "Displayed Contents"
     },
     "urlField": {
         "fieldLabel": "URL"
@@ -1481,6 +1551,39 @@
     "desktopBtn": {
         "text": "Desktop"
     },
+    "stateColumn": {
+        "text": "Status"
+    },
+    "lastUpdateContentCol": {
+        "text": "Last update"
+    },
+    "onlineColumn": {
+        "text": "Online"
+    },
+    "contentsClearFilterBtn": {
+        "text": "Clear filters"
+    },
+    "contentWindow": {
+        "title": "Contents"
+    },
+    "workflowGroup": {
+        "title": "Workflow"
+    },
+    "publishBtn": {
+        "text": "Publish"
+    },
+    "submitBtn": {
+        "text": "Submit"
+    },
+    "refuseBtn": {
+        "text": "Refuse"
+    },
+    "onlineBtn": {
+        "text": "Put online"
+    },
+    "offlineBtn": {
+        "text": "Take offline"
+    },
     "searchResultsWindow": {
         "title": "Search Results"
     },
@@ -1507,6 +1610,9 @@
     },
     "domainNameColumn": {
         "text": "Domain name"
+    },
+    "settingsTab": {
+        "title": "Settings"
     },
     "domainNameField": {
         "fieldLabel": "Domain name *"
@@ -1583,6 +1689,30 @@
     "recaptchaPrivateKeyField": {
         "fieldLabel": "Private key"
     },
+    "resourcesTab": {
+        "title": "Resources"
+    },
+    "exteranlStylesPanel": {
+        "title": "External styles"
+    },
+    "urlCol": {
+        "text": "Url"
+    },
+    "externalScriptsPanel": {
+        "title": "External scripts"
+    },
+    "internalStylesGrid": {
+        "title": "Internal styles"
+    },
+    "editCodeBtn": {
+        "text": "Edit code"
+    },
+    "internalScriptsGrid": {
+        "title": "Internal scripts"
+    },
+    "damPickerWindow": {
+        "title": "DAM choice"
+    },
     "queryBuilder": {
         "title": "Query Wizard "
     },
@@ -1600,9 +1730,6 @@
     },
     "nextBtn": {
         "text": "Next"
-    },
-    "damPickerWindow": {
-        "title": "DAM choice"
     },
     "monitoringField": {
         "title": "Monitoring"
@@ -1637,6 +1764,26 @@
     "indexAllBtn": {
         "text": "<b>Index everything</b>"
     },
+    "newDamWindow": {
+        "title": "New media"
+    },
+    "damOrginalFileField": {
+        "fieldLabel": "Original file *",
+        "buttonText": "Browse...",
+        "RTip": "Main media file. Mandatory."
+    },
+    "taxonomyFieldset": {
+        "title": "Taxonomy"
+    },
+    "workspacesFieldset": {
+        "title": "Workspaces"
+    },
+    "damSubmitNewBtn": {
+        "text": "Create this new media"
+    },
+    "damSubmitUpdateBtn": {
+        "text": "Save changes"
+    },
     "siteBuilderWizzard": {
         "title": "Site creation wizard"
     },
@@ -1664,65 +1811,50 @@
     "workspaceWindow": {
         "title": "Workspaces"
     },
-    "customThemesWindow": {
-        "title": "Custom Themes"
+    "newContentWindow": {
+        "title": "New content"
     },
-    "themesMainPanel": {
-        "title": "Themes"
+    "metadataTab": {
+        "text": "Metadata"
     },
-    "lessVarsPanel": {
-        "title": "Less Variables"
+    "taxonomyTab": {
+        "text": "Taxonomy"
     },
-    "garysFieldset": {
-        "title": "Grays"
+    "workspacesTab": {
+        "text": "Workspaces"
     },
-    "randomizeColorsBtn": {
-        "text": "Randomize base colors"
+    "versionsTab": {
+        "text": "Versions"
     },
-    "randomizeColorsBOBtn": {
-        "text": "Randomize based on"
+    "dependantTypesTab": {
+        "text": "Nested content"
     },
-    "accentColorsFieldset": {
-        "title": "Accent colors"
+    "vanityUrlField": {
+        "fieldLabel": "Vanity URL"
     },
-    "linksFieldset": {
-        "title": "Links"
+    "publishFieldset": {
+        "title": "Publication"
     },
-    "tablesFieldset": {
-        "title": "Tables"
+    "contentStartPublicationDateField": {
+        "fieldLabel": "Start Publication Date "
     },
-    "buttonsFieldset": {
-        "title": "Buttons"
+    "contentEndPublicationDateField": {
+        "fieldLabel": "End Publication Date "
     },
-    "formsFieldset": {
-        "title": "Forms"
+    "versionTitleCol": {
+        "text": "Title"
     },
-    "dropdownsFieldset": {
-        "title": "Dropdowns"
+    "versionVersionCol": {
+        "text": "Version"
     },
-    "wellsFieldset": {
-        "title": "Wells"
+    "versionPublishDateCol": {
+        "text": "Publication Date"
     },
-    "navbarsFieldset": {
-        "title": "Navbar"
+    "versionAuthorCol": {
+        "text": "Author"
     },
-    "invertedNavbarsFieldset": {
-        "title": "Inverted navbar"
-    },
-    "paginationFieldset": {
-        "title": "Pagination"
-    },
-    "statesAlertsFieldset": {
-        "title": "Form states and alerts"
-    },
-    "tooltipsFieldset": {
-        "title": "Tooltips and popovers"
-    },
-    "typographyFieldset": {
-        "title": "Typography"
-    },
-    "themeSimulateBtn": {
-        "text": "Simulate"
+    "createAsDraftBtn": {
+        "text": "Draft"
     },
     "termsCol": {
         "text": "Terms"
@@ -1778,59 +1910,6 @@
     "depCTTab": {
         "title": "Nested content types"
     },
-    "stateColumn": {
-        "text": "Status"
-    },
-    "lastUpdateContentCol": {
-        "text": "Last update"
-    },
-    "onlineColumn": {
-        "text": "Online"
-    },
-    "contentsClearFilterBtn": {
-        "text": "Clear filters"
-    },
-    "contentWindow": {
-        "title": "Contents"
-    },
-    "workflowGroup": {
-        "title": "Workflow"
-    },
-    "publishBtn": {
-        "text": "Publish"
-    },
-    "submitBtn": {
-        "text": "Submit"
-    },
-    "refuseBtn": {
-        "text": "Refuse"
-    },
-    "onlineBtn": {
-        "text": "Put online"
-    },
-    "offlineBtn": {
-        "text": "Take offline"
-    },
-    "newDamWindow": {
-        "title": "New media"
-    },
-    "damOrginalFileField": {
-        "fieldLabel": "Original file *",
-        "buttonText": "Browse...",
-        "RTip": "Main media file. Mandatory."
-    },
-    "taxonomyFieldset": {
-        "title": "Taxonomy"
-    },
-    "workspacesFieldset": {
-        "title": "Workspaces"
-    },
-    "damSubmitNewBtn": {
-        "text": "Create this new media"
-    },
-    "damSubmitUpdateBtn": {
-        "text": "Save changes"
-    },
     "contentTypesWindow": {
         "title": "Content types"
     },
@@ -1864,9 +1943,6 @@
     "purgeContentTypeBtn": {
         "text": "Empty content",
         "tooltip": "Delete all the contents of this type"
-    },
-    "taxonomyTab": {
-        "text": "Taxonomy"
     },
     "systemFieldPanel": {
         "title": "System fields"
@@ -1964,45 +2040,6 @@
         "fieldLabel": "Mandatory "
     },
     "termsPanel": [],
-    "newContentWindow": {
-        "title": "New content"
-    },
-    "metadataTab": {
-        "text": "Metadata"
-    },
-    "workspacesTab": {
-        "text": "Workspaces"
-    },
-    "versionsTab": {
-        "text": "Versions"
-    },
-    "dependantTypesTab": {
-        "text": "Nested content"
-    },
-    "publishFieldset": {
-        "title": "Publication"
-    },
-    "contentStartPublicationDateField": {
-        "fieldLabel": "Start Publication Date "
-    },
-    "contentEndPublicationDateField": {
-        "fieldLabel": "End Publication Date "
-    },
-    "versionTitleCol": {
-        "text": "Title"
-    },
-    "versionVersionCol": {
-        "text": "Version"
-    },
-    "versionPublishDateCol": {
-        "text": "Publication Date"
-    },
-    "versionAuthorCol": {
-        "text": "Author"
-    },
-    "createAsDraftBtn": {
-        "text": "Draft"
-    },
     "appLogsWindow": {
         "title": "Application logs"
     },
@@ -2066,9 +2103,6 @@
     "filePlanTreePanel": {
         "title": "File plan"
     },
-    "damFolderCol": {
-        "text": "Folder"
-    },
     "typeColumn2": {
         "text": "Type"
     },
@@ -2077,6 +2111,78 @@
     },
     "damSwitchGridViewBtn": {
         "text": "Switch display mode"
+    },
+    "formsLaunchBtn": {
+        "text": "Surveys"
+    },
+    "newCustomThemeWindow": {
+        "title": "New custom theme"
+    },
+    "createNewCustomThemeBtn": {
+        "text": "Create new custom theme"
+    },
+    "displayedContentTab": {
+        "text": "Displayed Contents"
+    },
+    "customThemesWindow": {
+        "title": "Custom Themes"
+    },
+    "themesMainPanel": {
+        "title": "Themes"
+    },
+    "lessVarsPanel": {
+        "title": "Less Variables"
+    },
+    "garysFieldset": {
+        "title": "Grays"
+    },
+    "randomizeColorsBtn": {
+        "text": "Randomize base colors"
+    },
+    "randomizeColorsBOBtn": {
+        "text": "Randomize based on"
+    },
+    "accentColorsFieldset": {
+        "title": "Accent colors"
+    },
+    "linksFieldset": {
+        "title": "Links"
+    },
+    "tablesFieldset": {
+        "title": "Tables"
+    },
+    "buttonsFieldset": {
+        "title": "Buttons"
+    },
+    "formsFieldset": {
+        "title": "Forms"
+    },
+    "dropdownsFieldset": {
+        "title": "Dropdowns"
+    },
+    "wellsFieldset": {
+        "title": "Wells"
+    },
+    "navbarsFieldset": {
+        "title": "Navbar"
+    },
+    "invertedNavbarsFieldset": {
+        "title": "Inverted navbar"
+    },
+    "paginationFieldset": {
+        "title": "Pagination"
+    },
+    "statesAlertsFieldset": {
+        "title": "Form states and alerts"
+    },
+    "tooltipsFieldset": {
+        "title": "Tooltips and popovers"
+    },
+    "typographyFieldset": {
+        "title": "Typography"
+    },
+    "themeSimulateBtn": {
+        "text": "Simulate"
     },
     "showOnlyIfCombo": {
         "fieldLabel": "Displayed if and only if "
@@ -2289,8 +2395,5 @@
     },
     "productsShortcutBtn": {
         "text": "Products (Contents interface)"
-    },
-    "vanityUrlField":{
-        "fieldLabel":"Vanity URL"
     }
 }
