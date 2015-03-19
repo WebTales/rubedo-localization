@@ -259,6 +259,17 @@
     "#ext-gen1446#":"Twig code",
     "#ext-gen1447#":"Activate Magic Query",
     "#ext-gen1448#":"Filter by user",
-    "#ext-gen1449#":"Show Flags"
+    "#ext-gen1449#":"Show Flags",
+    "#ext-gen1450#":"Image width",
+    "#ext-gen1451#":"Image resize mode",
+    "#ext-gen1452#":"Custom template",
+    "#ext-gen1453#":"Show paging",
+    "#ext-gen1454#":"Show page numbers",
+    "#ext-gen1455#":"Show navigation",
+    "#ext-gen1456#":"Show caption",
+    "#ext-gen1457#":"Show summary",
+    "#ext-gen1459#":"Autoplay",
+    "#ext-gen1460#":"Stop on hover",
+    "#ext-gen1461#":"Image height"
 
 }
