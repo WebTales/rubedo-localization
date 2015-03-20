@@ -1,8 +1,8 @@
 {
-    "Notification.refusedBody.subject":"Contenu refusé \"%title%\"",
-    "Notification.refusedBody.hello":"Bonjour,",
-    "Notification.refusedBody.refusedBy":"Le contenu \"%title%\" a été refusé par %author%.",
-    "Notification.refusedBody.urlText":"Vous pouvez retrouver ce contenu dans le back-office en suivant ce lien",
-    "Notification.refusedBody.thanks":"Cordialement",
-    "Notification.refusedBody.automaticMail":"Ceci est un e-mail automatique."
+  "Notification.refusedBody.subject":"Le contenu %title% a été refusé",
+  "Notification.refusedBody.hello":"Bonjour,",
+  "Notification.refusedBody.refusedBy":"Le contenu \"%title%\" a été refusé par %author%.",
+  "Notification.refusedBody.urlText":"Vous pouvez trouver ce contenu en back-office en suivant ce lien",
+  "Notification.refusedBody.thanks":"Cordialement",
+  "Notification.refusedBody.automaticMail":"Ceci est un e-mail automatique."
 }

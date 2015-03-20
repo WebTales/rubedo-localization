@@ -42,6 +42,7 @@
   "Label.Send":"Envoyer",
   "Label.Submit":"Soumettre",
   "Label.Download":"Télécharger",
+  "Label.Upload":"Télécharger",
   "Label.Refresh":"Rafraîchir",
   "Label.Url":"URL",
   "Label.MaxWidth":"Largeur max",
@@ -50,7 +51,10 @@
   "Label.Longitude":"Longitude",
   "Label.Altitude":"Altitude",
   "Label.Latitude":"Latitude",
+  "Label.Close":"Fermer",
   "Block.error":"Erreur !",
+  "Block.Success":"Succès !",
+  "Block.Warning":"Alerte !",
   "Block.noimageerror":"Impossible de charger les images",
   "Block.errorNoDisplay":"Aucune données à afficher."
 }

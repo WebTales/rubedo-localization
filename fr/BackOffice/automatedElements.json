@@ -218,5 +218,18 @@
   "mailText":"Mail",
   "displayLabelText":"Afficher le libellé",
   "productTypeText":"Type de Produit",
-  "configurableText":"Configurable"
+  "configurableText":"Configurable",
+  "flatRatePerOrderText":"Tarif par commande",
+  "flatRatePerItemText":"Tarif par produit",
+  "hoursText":"heure(s)",
+  "daysText":"jours",
+  "weeksText":"semaines",
+  "monthsText":"mois",
+  "productSettingsText":"Paramètres de produit",
+  "productsText":"Produits",
+  "updateText":"Mise à jour",
+  "neverText":"Jamais",
+  "largeDesktopText":"Large desktop",
+  "customTemplateText":"Custom template",
+  "stackingThresholdText":"Stacking threshold"
 }

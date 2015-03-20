@@ -5,5 +5,8 @@
   "Blocks.UserOrders.Shipper":"Expéditeur",
   "Blocks.UserOrders.PaymentMeans":"Moyens de paiement",
   "Blocks.UserOrders.Status":"Statut",
+  "Blocks.UserOrders.Status.pendingPayment":"En attente de paiement",
+  "Blocks.UserOrders.Status.payed":"Payée",
+  "Blocks.UserOrders.Status.cancelled":"Annulée",
   "Blocks.UserOrders.ViewDetails":"voir les détails"
 }

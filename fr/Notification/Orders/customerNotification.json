@@ -1,9 +1,9 @@
 {
-    "Notification.Orders.CustomerNotification.Create.Subject": "Merci pour votre commande",
-    "Notification.Orders.CustomerNotification.Update.Subject": "Le statut de votre commande a changé",
-    "Notification.Orders.ShopNotification.Create.Subject": "Votre site %site% a une nouvelle commande",
-    "Notification.Orders.ShopNotification.Hello": "Bonjour,",
-    "Notification.Orders.ShopNotification.Body": "Une nouvelle commande a été enregistrée. Vous trouverez le résumé ci-dessous.",
-    "Notification.Orders.CustomerNotification.DearUser": "Cher(e) %name%,",
-    "Notification.Orders.CustomerNotification.Body": "Merci pour votre commande \"%orderNumber%\" sur <a href=\"http://%siteUrl%\">%siteName%</a>.Votre commande a désormais le statut \"%status%\". Vous trouverez le résumé ci-dessous."
+  "Notification.Orders.CustomerNotification.Create.Subject":"Merci pour votre commande",
+  "Notification.Orders.CustomerNotification.Update.Subject":"Le statut de votre commande a été modifié",
+  "Notification.Orders.ShopNotification.Create.Subject":"Une nouvelle commande a été enregistrée sur %site%",
+  "Notification.Orders.ShopNotification.Hello":"Bonjour,",
+  "Notification.Orders.ShopNotification.Body":"Une nouvelle commande a été enregistrée. Vous pouvez consulter le résumé ci-dessous.",
+  "Notification.Orders.CustomerNotification.DearUser":"Cher %name%,",
+  "Notification.Orders.CustomerNotification.Body":"Merci pour votre commande «%orderNumber% » sur <a href=\"http:\/\/%siteUrl%\">%siteName%<\/a>. Votre commande a maintenant le statut de «%status% ». Veuillez consulter le résumé ci-dessous."
 }

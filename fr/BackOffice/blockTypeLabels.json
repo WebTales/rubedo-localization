@@ -259,5 +259,16 @@
   "#ext-gen1446#":"Code Twig",
   "#ext-gen1447#":"Activer les Magic Query",
   "#ext-gen1448#":"Filtrer par utilisateur",
-    "#ext-gen1449#":"Afficher les drapeaux"
+  "#ext-gen1449#":"Afficher les drapeaux",
+  "#ext-gen1450#":"Largeur de l'image",
+  "#ext-gen1451#":"Mode de redimensionnement d'image",
+  "#ext-gen1452#":"Custom template",
+  "#ext-gen1453#":"Voir la pagination",
+  "#ext-gen1454#":"Afficher les numéros de page",
+  "#ext-gen1455#":"Afficher la navigation",
+  "#ext-gen1456#":"Afficher le titre",
+  "#ext-gen1457#":"Afficher le résumé",
+  "#ext-gen1459#":"Lecture automatique",
+  "#ext-gen1460#":"Arrêt au survol",
+  "#ext-gen1461#":"Hauteur de l'image"
 }
