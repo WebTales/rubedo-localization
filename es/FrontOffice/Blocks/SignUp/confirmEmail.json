@@ -1,10 +1,10 @@
 {
-  "Blocks.SignUp.confirmEmail.subject":"Account Creation",
-  "Blocks.SignUp.confirmEmail.hello":"Hello %name%,",
-  "Blocks.SignUp.confirmEmail.clickFollowing":"In order to complete you account creation please activate it by clicking on the following link :",
-  "Blocks.SignUp.confirmEmail.confirmLink":"Confirm your email address",
-  "Blocks.SignUp.confirmEmail.thanks":"Best regards,",
-  "Blocks.SignUp.confirmEmail.automatedMail":"This is an automated email.",
-  "Blocks.SignUp.confirmEmail.emailRequired":"Email confirmation required.",
+  "Blocks.SignUp.confirmEmail.subject":"Creación de cuenta",
+  "Blocks.SignUp.confirmEmail.hello":"Hola %name%,",
+  "Blocks.SignUp.confirmEmail.clickFollowing":"Para concluir la creación de su cuenta, es necesario activarla haciendo clic en el siguiente enlace:",
+  "Blocks.SignUp.confirmEmail.confirmLink":"Confirme su dirección de correo electrónico",
+  "Blocks.SignUp.confirmEmail.thanks":"Saludos,",
+  "Blocks.SignUp.confirmEmail.automatedMail":"Este es un correo electrónico automatizado.",
+  "Blocks.SignUp.confirmEmail.emailRequired":"Confirmación del correo electrónico necesaria.",
   "Blocks.SignUp.confirmEmail.emailSent":"A confirmation email has been sent to the adress you provdided."
 }

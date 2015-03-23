@@ -1,0 +1,12 @@
+{
+  "Blocks.UserOrders.OrderNumber":"Order number",
+  "Blocks.UserOrders.Date":"Fecha",
+  "Blocks.UserOrders.Price":"Precio",
+  "Blocks.UserOrders.Shipper":"Shipper",
+  "Blocks.UserOrders.PaymentMeans":"Formas de pago",
+  "Blocks.UserOrders.Status":"Estado",
+  "Blocks.UserOrders.Status.pendingPayment":"Pending payment",
+  "Blocks.UserOrders.Status.payed":"Payed",
+  "Blocks.UserOrders.Status.cancelled":"Cancelled",
+  "Blocks.UserOrders.ViewDetails":"View Details"
+}

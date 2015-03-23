@@ -3,5 +3,11 @@
   "Blocks.Search.Label.ByPage":"par page",
   "Blocks.Search.Label.KeyWords":"Mots-clés",
   "Blocks.Search.Label.SeeAllResults":"Voir tous les résultats",
-  "Blocks.Search.Label.SearchCriteria":"Critères de recherche"
+  "Blocks.Search.Label.SearchCriteria":"Critères de recherche",
+  "Blocks.Search.Label.OrderByTitle":"Trier par titre",
+  "Blocks.Search.Label.OrderBy":"Trier par",
+  "Blocks.Search.Label.ViewAs":"Affichage",
+  "Blocks.Search.Label.Grid":"Grille",
+  "Blocks.Search.Label.List":"Liste",
+  "Search.Label.OrderByNewest":"Trier par nouveautés"
 }

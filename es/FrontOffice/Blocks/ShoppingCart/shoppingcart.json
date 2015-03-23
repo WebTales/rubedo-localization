@@ -1,0 +1,17 @@
+{
+  "Blocks.ShoppingCart.Label.Name":"Nombre",
+  "Blocks.ShoppingCart.Label.UnitPrice":"Unit price",
+  "Blocks.ShoppingCart.Label.Number":"Número",
+  "Blocks.ShoppingCart.Label.AddRemove":"Add\/Remove",
+  "Blocks.ShoppingCart.Label.Price":"Precio",
+  "Blocks.ShoppingCart.Label.Delete":"Borrar",
+  "Blocks.ShoppingCart.ViewCart":"Ver cesta",
+  "Blocks.ShoppingCart.CartIsEmpty":"Aún no tienes artículos en la cesta",
+  "Blocks.ShoppingCart.Total":"Total",
+  "Label.ShoppingCart":"Mi Cesta",
+  "Label.Checkout":"Checkout",
+  "Label.Item":"Item",
+  "Label.Empty":"Vacío",
+  "Label.Items":"Items",
+  "Label.AddToCart":"Añadir a la cesta"
+}

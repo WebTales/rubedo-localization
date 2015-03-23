@@ -1,0 +1,8 @@
+{
+  "Notification.refusedBody.subject":"Content refused \"%title%\"",
+  "Notification.refusedBody.hello":"Buenos días,",
+  "Notification.refusedBody.refusedBy":"The content \"%title%\" has been refused by %author%.",
+  "Notification.refusedBody.urlText":"You can find this content in back-office by following this link",
+  "Notification.refusedBody.thanks":"Saludos",
+  "Notification.refusedBody.automaticMail":"Este es un correo electrónico automatizado."
+}

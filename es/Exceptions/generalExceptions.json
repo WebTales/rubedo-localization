@@ -100,5 +100,5 @@
   "Exception99":"The server is unable to determine the cType of the field",
   "Exception100":"No se pueden eliminar los idiomas",
   "Exception101":"Página no encontrada en este idioma",
-  "Exception102": "This page is the homepage or father of the homepage"
+  "Exception102":"This page is the homepage or father of the homepage"
 }

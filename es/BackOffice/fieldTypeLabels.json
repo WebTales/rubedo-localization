@@ -62,10 +62,10 @@
   "#ext-gen1252#":"Modo",
   "#ext-gen1260#":"Área de texto",
   "#ext-gen1261#":"<p>El campo 'Área de texto' le permite introducir un texto largo sin formateo avanzado. Integra varias reglas de validación: por orden alfabético o alfanumérico.<\/p>",
-  "#ext-gen1262#":"OR",
-  "#ext-gen1263#":"AND",
+  "#ext-gen1262#":"O",
+  "#ext-gen1263#":"Y",
   "#ext-gen1264#":"Not analyzed",
   "#ext-gen1265#":"Return in search",
   "#ext-gen1266#":"Use as facet",
-  "#ext-gen1267#":"Facet operator"
+  "#ext-gen1267#":"Operador de faceta"
 }

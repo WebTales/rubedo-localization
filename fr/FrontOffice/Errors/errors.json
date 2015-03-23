@@ -1,0 +1,6 @@
+{
+  "Error.Label.UnknownBlock":"Bloc inconnu",
+  "Error.Label.UnknownFileType":"Type de fichier inconnu",
+  "Error.Label.UnknownField":"Champ inconnu",
+  "Error.Label.Http404":"Erreur 404 : page introuvable"
+}

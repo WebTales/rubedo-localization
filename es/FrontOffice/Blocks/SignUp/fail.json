@@ -1,4 +1,5 @@
 {
   "Blocks.SignUp.fail.error":"Error!",
-  "Blocks.SignUp.fail.creationFailed":"Account creation failed."
+  "Blocks.SignUp.fail.creationFailed":"Ocurrió un error al crear la cuenta.",
+  "Blocks.SignUp.fail.captchaIsWrong":"Captcha is wrong."
 }

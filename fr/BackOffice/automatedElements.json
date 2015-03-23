@@ -229,7 +229,10 @@
   "productsText":"Produits",
   "updateText":"Mise à jour",
   "neverText":"Jamais",
-  "largeDesktopText":"Large desktop",
-  "customTemplateText":"Custom template",
-  "stackingThresholdText":"Stacking threshold"
+  "largeDesktopText":"Grand écran",
+  "customTemplateText":"Gabarit personnalisé",
+  "stackingThresholdText":"Seuil d'empilement",
+  "cancelledText":"Annulée",
+  "pendingPaymentText":"En attente de paiement",
+  "payedText":"Payée"
 }

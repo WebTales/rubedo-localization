@@ -122,21 +122,6 @@
   "newDamTypeSubmitBtn":{
     "text":"Crear un nuevo tipo de medio"
   },
-  "addMTFieldWindow":{
-    "title":"Agregar un campo"
-  },
-  "typeCol":{
-    "text":"Tipo"
-  },
-  "titleCol":{
-    "text":"Titulo"
-  },
-  "onlineCol":{
-    "text":"En línea"
-  },
-  "chooseThisContentBtn":{
-    "text":"<b>Elija este contenido<\/b>"
-  },
   "qbs3":{
     "title":"Elejir los criterios de los campos"
   },
@@ -157,6 +142,21 @@
   },
   "saveQBQueryBtn":{
     "text":"<b>Guardar esta consulta<\/b>"
+  },
+  "addMTFieldWindow":{
+    "title":"Agregar un campo"
+  },
+  "typeCol":{
+    "text":"Tipo"
+  },
+  "titleCol":{
+    "text":"Titulo"
+  },
+  "onlineCol":{
+    "text":"En línea"
+  },
+  "chooseThisContentBtn":{
+    "text":"<b>Elija este contenido<\/b>"
   },
   "qbs4":{
     "title":"Opción de ordenar en los campos"
@@ -219,18 +219,6 @@
   "editBtn":{
     "text":"Editar"
   },
-  "queryTypeChooseWindow":{
-    "title":"Elija un tipo de consulta"
-  },
-  "chooseManualQueryBtn":{
-    "text":"Consulta manual"
-  },
-  "ChooseSimpleQueryBtn":{
-    "text":"Consulta simple"
-  },
-  "chooseAdvancedQueryBtn":{
-    "text":"Consulta avanzada"
-  },
   "manualQueryWindow":{
     "title":"Consulta manual"
   },
@@ -242,6 +230,18 @@
   },
   "saveManualQueryBtn":{
     "text":"Guardar consulta"
+  },
+  "queryTypeChooseWindow":{
+    "title":"Elija un tipo de consulta"
+  },
+  "chooseManualQueryBtn":{
+    "text":"Consulta manual"
+  },
+  "ChooseSimpleQueryBtn":{
+    "text":"Consulta simple"
+  },
+  "chooseAdvancedQueryBtn":{
+    "text":"Consulta avanzada"
   },
   "chooseDamTypeWindow":{
     "title":"Elija un tipo de medio"
@@ -258,11 +258,11 @@
   "createNewWorkspaceBtn":{
     "text":"Crear un nuevo Espacio de trabajo"
   },
-  "workspaceField":{
-    "fieldLabel":"Espacios de Trabajo"
-  },
   "newTermWindow":{
     "title":"Nuevo término"
+  },
+  "workspaceField":{
+    "fieldLabel":"Espacios de Trabajo"
   },
   "maskSaveChoiceWindow":{
     "title":"Esta máscara es utilizada por páginas"
@@ -272,12 +272,6 @@
   },
   "maskSaveChoice2Btn":{
     "text":"Guardar como una nueva máscara"
-  },
-  "chooseBtn":{
-    "text":"Seleccione"
-  },
-  "modifyBtn":{
-    "text":"Editar"
   },
   "mediaQueryAssistant":{
     "title":"Querying on media Wizard"
@@ -297,6 +291,12 @@
   "saveBtn":{
     "text":"Guardar"
   },
+  "chooseBtn":{
+    "text":"Seleccione"
+  },
+  "modifyBtn":{
+    "text":"Editar"
+  },
   "lcFieldAdress":{
     "fieldLabel":"Dirección"
   },
@@ -309,17 +309,32 @@
   "lcFieldLongitude":{
     "fieldLabel":"Longitud"
   },
+  "sessionExpiringWindow":{
+    "title":"La sesión caducará pronto"
+  },
+  "sessionRenewWindow":{
+    "text":"Renovar mi sesión"
+  },
   "sessionExpiredWindow":{
     "title":"Su sesión ha caducado"
   },
   "reconnectBtn":{
     "text":"Conectarse de nuevo"
   },
-  "sessionExpiringWindow":{
-    "title":"La sesión caducará pronto"
+  "gfsUploadBtn":{
+    "tooltip":"Cargar un archivo"
   },
-  "sessionRenewWindow":{
-    "text":"Renovar mi sesión"
+  "gfsRemoveFileBtn":{
+    "tooltip":"Elimine el archivo"
+  },
+  "gfsDownloadBtn":{
+    "tooltip":"Descargue el archivo"
+  },
+  "gfsHelpBtn":{
+    "tooltip":"Main media file. Mandatory."
+  },
+  "gfsEditBtn":{
+    "tooltip":"Edite el archivo"
   },
   "pagesLaunchBtn":{
     "text":"Páginas"
@@ -349,10 +364,10 @@
     "text":"Sitios"
   },
   "masksLaunchBtn":{
-    "text":"Page masks"
+    "text":"Máscaras de página"
   },
   "emailsLaunchBtn":{
-    "text":"Emails"
+    "text":"Correos electrónicos"
   },
   "contentTypesLaunchBtn":{
     "text":"Tipos de contenido"
@@ -361,10 +376,7 @@
     "text":"Tipos de medios"
   },
   "userTypesLaunchBtn":{
-    "text":"User types"
-  },
-  "customThemesLaunchBtn":{
-    "text":"Temas personalizados"
+    "text":"Tipos de usuario"
   },
   "queriesLaunchBtn":{
     "text":"Consultas"
@@ -399,35 +411,35 @@
   "applicationLogsLaunchBtn":{
     "text":"Registros de aplicación"
   },
-  "gfsUploadBtn":{
-    "tooltip":"Cargar un archivo"
+  "shippersLaunchBtn":{
+    "text":"Shippers"
   },
-  "gfsRemoveFileBtn":{
-    "tooltip":"Elimine el archivo"
+  "taxesLaunchBtn":{
+    "text":"Impuestos"
   },
-  "gfsDownloadBtn":{
-    "tooltip":"Descargue el archivo"
+  "stockLaunchBtn":{
+    "text":"Stock"
   },
-  "gfsHelpBtn":{
-    "tooltip":"Main media file. Mandatory."
+  "pmLaunchBtn":{
+    "text":"Formas de pago"
   },
-  "gfsEditBtn":{
-    "tooltip":"Edite el archivo"
+  "ordersLaunchBtn":{
+    "text":"Orders"
   },
   "newUserWindow":{
     "title":"Nuevo usuario"
   },
   "emailField":{
-    "fieldLabel":"E-mail "
+    "fieldLabel":"Correo electrónico "
   },
   "userAccountField":{
     "fieldLabel":"Cuenta de usuario "
   },
-  "picUploadWindow":{
-    "title":"Cargue una imagen"
-  },
   "fieldPanel":{
     "title":"Campos"
+  },
+  "picUploadWindow":{
+    "title":"Cargue una imagen"
   },
   "rteConfigWindow":{
     "title":"Editor de texto enriquecido"
@@ -508,17 +520,41 @@
     "text":"Create as a descendant of the selected page"
   },
   "importMainWindow":{
-    "title":"Import"
+    "title":"Importar"
+  },
+  "presetsPanel":{
+    "title":"Presets"
+  },
+  "useExistingPresetFieldset":{
+    "title":"Use existing preset"
+  },
+  "inportPrestField":[
+    
+  ],
+  "importPresetApplyBtn":{
+    "text":"Aplicar"
+  },
+  "importPresetDeleteBtn":{
+    "text":"Delete selected preset"
+  },
+  "saveAsNewPresetFieldset":{
+    "title":"Save as new preset"
+  },
+  "importPresetNameField":{
+    "fieldLabel":"Nombre"
+  },
+  "importPresetSaveBtn":{
+    "text":"Guardar"
   },
   "importStage1Panel":{
     "title":"Choice of the file to import"
   },
   "importSeparatorField":{
-    "fieldLabel":"Separator"
+    "fieldLabel":"Separador"
   },
   "importCSVFileField":{
-    "fieldLabel":"CSV file",
-    "buttonText":"Choose and analyse"
+    "fieldLabel":"Archivo CSV",
+    "buttonText":"Seleccionar y analizar"
   },
   "importCSVFieldAuxilaryBtn":[
     
@@ -527,22 +563,22 @@
     "title":"Choose a CSV file to display its fields"
   },
   "importIgnoredFieldsCol":{
-    "text":"Do not import"
+    "text":"No importar"
   },
   "importImportAsFieldCol":{
-    "text":"Import as a field"
+    "text":"Importar como un campo"
   },
   "importAsFieldTransCol":{
-    "text":"Import as field translation"
+    "text":"Importar como traducción de campo"
   },
   "importImportAsTaxoCol":{
-    "text":"Import as taxonomy"
+    "text":"Importar como taxonomía"
   },
   "ImportAsTaxoTransCol":{
-    "text":"Import as taxonomy translation"
+    "text":"Importar como traducción de taxonomía"
   },
   "importStage2":{
-    "title":"Setup of the fields"
+    "title":"Configuración de los campos"
   },
   "importS2NameColumn":{
     "text":"Nombre"
@@ -551,19 +587,19 @@
     "text":"Nuevo nombre (opcional)"
   },
   "importS2LabelCol":{
-    "text":"Label"
+    "text":"Etiqueta"
   },
   "importS2TypeCol":{
     "text":"Tipo"
   },
   "importS2SearchableCol":{
-    "text":"Searchable"
+    "text":"Buscable"
   },
   "importS2LocalizableCol":{
     "text":"Localizable"
   },
   "importS2MandatoryCol":{
-    "text":"Mandatory"
+    "text":"Obligatorio"
   },
   "importStage3":{
     "title":"Setting of the taxonomy"
@@ -575,19 +611,19 @@
     "text":"Nuevo nombre (opcional)"
   },
   "importS3MandatoryCol":{
-    "text":"Mandatory"
+    "text":"Obligatorio"
   },
   "translationSettingsPanel":{
     "title":"Translation settings"
   },
   "FieldTransSetPanel":{
-    "title":"Field translations"
+    "title":"Traducciones de campo"
   },
   "transFieldCol":{
     "text":"Translated field"
   },
   "transLanguageCol":{
-    "text":"Translation language"
+    "text":"Idioma de traducción"
   },
   "TaxoTransSetPanel":{
     "title":"Taxonomy translations"
@@ -602,19 +638,19 @@
     "title":"The content type settings"
   },
   "workflowField":{
-    "fieldLabel":"Workflow"
+    "fieldLabel":"Flujo de trabajo"
   },
   "importS4Fieldset2":{
-    "title":"Content settings"
+    "title":"Configuración de contenido"
   },
   "contributeWorkspaceField":{
-    "fieldLabel":"Contribution"
+    "fieldLabel":"Contribución"
   },
   "difusionWorkspaceField":{
-    "fieldLabel":"Diffusion"
+    "fieldLabel":"Difusión"
   },
   "importBtn":{
-    "text":"Import"
+    "text":"Importar"
   },
   "newMLWindow":{
     "title":"New mailing list"
@@ -623,7 +659,7 @@
     "text":"Create a new mailing list"
   },
   "mailingListsWindow":{
-    "title":"Mailing lists"
+    "title":"Lista de correo"
   },
   "manageUsersFS":{
     "title":"Manage subscribed users"
@@ -638,7 +674,7 @@
     "text":"Exportar"
   },
   "propertiesForm":{
-    "title":"Properties"
+    "title":"Propiedades"
   },
   "expeditorFieldset":{
     "title":"Sender"
@@ -665,13 +701,13 @@
     "title":"Subscribed users"
   },
   "emailCol":{
-    "text":"Email"
+    "text":"Correo electrónico"
   },
   "createCol":{
-    "text":"Creation"
+    "text":"Creación"
   },
   "subsCribeCol":{
-    "text":"Subscription"
+    "text":"Suscripción"
   },
   "unsubscribedUsersGrid":{
     "title":"Unsubscribed users"
@@ -724,9 +760,6 @@
   "imagePreviewWindow":{
     "title":"Vista previa completa"
   },
-  "pixlrEditorWindow":{
-    "title":"Editor de imágenes"
-  },
   "damMassUploadWindow":{
     "title":"Carga masiva de activos digitales"
   },
@@ -751,6 +784,9 @@
   "chooseDamTypeMassSubmitBtn":{
     "text":"Upload media of this type"
   },
+  "pixlrEditorWindow":{
+    "title":"Editor de imágenes"
+  },
   "inheritWorkspaceField":{
     "fieldLabel":"Espacio de trabajo heredado"
   },
@@ -762,15 +798,6 @@
   },
   "OperatorColumn":{
     "text":"Operator"
-  },
-  "workingLanguageWindow":{
-    "title":"Cambiar el idioma de trabajo actual"
-  },
-  "TALanguageField":{
-    "fieldLabel":"Idioma"
-  },
-  "setAsWLBtn":{
-    "text":"Establecer como idioma de trabajo actual"
   },
   "languagesInterface4":{
     "title":"Idiomas"
@@ -784,6 +811,15 @@
   "OwnNameCol":{
     "text":"Nombre propio"
   },
+  "workingLanguageWindow":{
+    "title":"Cambiar el idioma de trabajo actual"
+  },
+  "TALanguageField":{
+    "fieldLabel":"Idioma"
+  },
+  "setAsWLBtn":{
+    "text":"Establecer como idioma de trabajo actual"
+  },
   "currentLanguageDSLField":{
     "fieldLabel":"Idioma actual"
   },
@@ -793,23 +829,14 @@
   "removeTranslationBtn":{
     "text":"Quitar traducción"
   },
-  "urlField":{
-    "fieldLabel":"URL"
-  },
-  "referencingFieldSEt":{
-    "title":"SEO"
-  },
-  "titleField":{
-    "fieldLabel":"Titulo *"
-  },
-  "descriptionField":{
-    "fieldLabel":"Descripción "
-  },
   "translationAdderWindow":{
     "title":"Agregar nueva traducción"
   },
   "translateInThisLanguageBtn":{
     "text":"Traducir en este idioma"
+  },
+  "descriptionField":{
+    "fieldLabel":"Descripción "
   },
   "helpTextField":{
     "fieldLabel":"Texto de ayuda "
@@ -841,75 +868,6 @@
   "imageMapperWindow":{
     "title":"Editor de mapas de imagen"
   },
-  "newCustomThemeWindow":{
-    "title":"Nuevo tema personalizado"
-  },
-  "createNewCustomThemeBtn":{
-    "text":"Crear nuevo tema personalizado"
-  },
-  "customThemesWindow":{
-    "title":"Temas personalizados"
-  },
-  "themesMainPanel":{
-    "title":"Temas"
-  },
-  "lessVarsPanel":{
-    "title":"Menos Variables"
-  },
-  "garysFieldset":{
-    "title":"Grays"
-  },
-  "randomizeColorsBtn":{
-    "text":"Colores base aleatorios"
-  },
-  "randomizeColorsBOBtn":{
-    "text":"Randomize based on"
-  },
-  "accentColorsFieldset":{
-    "title":"Colores de acento"
-  },
-  "linksFieldset":{
-    "title":"Vínculos"
-  },
-  "tablesFieldset":{
-    "title":"Tablas"
-  },
-  "buttonsFieldset":{
-    "title":"Botones"
-  },
-  "formsFieldset":{
-    "title":"Formularios"
-  },
-  "dropdownsFieldset":{
-    "title":"Menús desplegables"
-  },
-  "wellsFieldset":{
-    "title":"Wells"
-  },
-  "navbarsFieldset":{
-    "title":"Barra de navegación"
-  },
-  "invertedNavbarsFieldset":{
-    "title":"Barra invertida"
-  },
-  "paginationFieldset":{
-    "title":"Paginación"
-  },
-  "statesAlertsFieldset":{
-    "title":"Forma de estados y alertas"
-  },
-  "tooltipsFieldset":{
-    "title":"Tooltips and popovers"
-  },
-  "typographyFieldset":{
-    "title":"Tipografía"
-  },
-  "themeSimulateBtn":{
-    "text":"Simular"
-  },
-  "simpleModeFavoritesBtn":{
-    "text":"Favoritos"
-  },
   "newLayoutWindow":{
     "title":"Nuevo diseño"
   },
@@ -928,6 +886,12 @@
   "assignFieldSubmitBtn":{
     "text":"Asignar este campo a la columna seleccionada"
   },
+  "simpleModeFavoritesBtn":{
+    "text":"Favoritos"
+  },
+  "customThemesLaunchBtn":{
+    "text":"Temas personalizados"
+  },
   "newLayoutWindowCopy":{
     "title":"Copiar diseño"
   },
@@ -941,24 +905,24 @@
     "text":"Copiar este diseño"
   },
   "newUserTypeWindow":{
-    "title":"New user type"
+    "title":"Nuevo tipo de usuario"
   },
   "newUserTypeSubmitBtn":{
     "text":"Create this new user type"
   },
   "ucuFieldsTab":{
-    "title":"Fields"
+    "title":"Campos"
   },
   "UTEmailField":{
-    "fieldLabel":"E-mail *",
-    "RTip":"User email. Mandatory."
+    "fieldLabel":"Correo electrónico *",
+    "RTip":"Correo electrónico del usuario. Obligatorio."
   },
   "UTNameField":{
-    "fieldLabel":"Name *",
-    "RTip":"User name. Mandatory."
+    "fieldLabel":"Nombre *",
+    "RTip":"Nombre de usuario. Obligatorio."
   },
   "taxoTab":{
-    "title":"Taxonomy"
+    "title":"Taxonomía"
   },
   "usersWindow":{
     "title":"usuarios"
@@ -973,16 +937,19 @@
     "text":"Tipo"
   },
   "photoCol":{
-    "text":"Photo"
+    "text":"Foto"
   },
   "creationCol":{
-    "text":"Creation"
+    "text":"Creación"
   },
   "lastUpdateCol":{
     "text":"Fecha de la última modificación"
   },
   "signUpStatCol":{
     "text":"Sign-up status"
+  },
+  "querySimWindow":{
+    "title":"Query result simulation"
   },
   "credentiamsAndIntForm":{
     "title":"Credentials and interface settings"
@@ -1003,7 +970,7 @@
     "fieldLabel":"Cuenta de usuario "
   },
   "gruopsField":{
-    "fieldLabel":"Groups"
+    "fieldLabel":"Grupos"
   },
   "defaultGroupField":{
     "fieldLabel":"Default group"
@@ -1026,11 +993,8 @@
   "changeBtn":{
     "text":"Cambiar"
   },
-  "querySimWindow":{
-    "title":"Query result simulation"
-  },
   "emailsInterface":{
-    "title":"Emails"
+    "title":"Correos electrónicos"
   },
   "newBtn":{
     "text":"Nuevo"
@@ -1051,13 +1015,13 @@
     "title":"Add components"
   },
   "addImageCBtn":{
-    "text":"Image"
+    "text":"Imagen"
   },
   "addSimpleTextCBtn":{
-    "text":"Simple text"
+    "text":"Texto simple"
   },
   "addRichTextCBtn":{
-    "text":"Rich text"
+    "text":"Texto enriquecido"
   },
   "duplicateBtn":{
     "text":"Copiar"
@@ -1072,7 +1036,7 @@
     "title":"Exploit"
   },
   "sendEmailBtn":{
-    "text":"Send"
+    "text":"Enviar"
   },
   "editTab":{
     "text":"Editar"
@@ -1084,47 +1048,405 @@
     "title":"Seleccione un elemento"
   },
   "propertiesTab":{
-    "title":"Properties"
+    "title":"Propiedades"
   },
   "subjectField":{
-    "fieldLabel":"Subject"
+    "fieldLabel":"Tema"
   },
   "plainTextField":{
     "fieldLabel":"Plain text"
   },
   "previewTab":{
-    "title":"Preview"
+    "title":"Vista Previa"
   },
   "subscribeUsersWindow":{
     "title":"Subscribe users"
   },
   "subscribeSubmitBtn":{
-    "text":"Subscribe"
+    "text":"Suscribirse"
   },
   "sendEmailWindow":{
-    "title":"Send email"
+    "title":"Enviar correo electrónico"
   },
   "mailingListPicker":{
-    "fieldLabel":"Mailing list"
+    "fieldLabel":"Lista de correo"
   },
   "sendSubmitBtn":{
-    "text":"Send"
+    "text":"Enviar"
   },
   "MLImportWindow":{
     "title":"Import users to mailing list"
   },
   "csvFileFIeld":{
-    "fieldLabel":"CSV file",
-    "buttonText":"Browse..."
+    "fieldLabel":"Archivo CSV",
+    "buttonText":"Examinar..."
   },
   "importSubmitBtn":{
-    "text":"Import"
+    "text":"Importar"
   },
   "codeEditorWindow":{
-    "title":"Code editor"
+    "title":"Editor de código"
   },
-  "pageWindow":{
-    "title":"Páginas"
+  "eCCategoryFieldset":{
+    "title":"E-Commerce category"
+  },
+  "titleField":{
+    "fieldLabel":"Titulo *"
+  },
+  "categoryImageField":{
+    "fieldLabel":"Imagen"
+  },
+  "productSettingsPanel":{
+    "title":"Product settings"
+  },
+  "skuField":{
+    "fieldLabel":"SKU"
+  },
+  "basePriceField":{
+    "fieldLabel":"Base price"
+  },
+  "preparationDelayField":{
+    "fieldLabel":"Preparation delay"
+  },
+  "stockManagementFieldset":{
+    "title":"Stock management"
+  },
+  "canOrderOutOfStockField":{
+    "fieldLabel":"Can order out of stock"
+  },
+  "outOfStockLimitField":{
+    "fieldLabel":"Out of stock limit"
+  },
+  "notifyForQuantityBelowField":{
+    "fieldLabel":"Notify for stock below"
+  },
+  "resupplyDelayField":{
+    "fieldLabel":"Resupply delay (days)"
+  },
+  "variationsGrid":{
+    "title":"Variations"
+  },
+  "specialOffersGrid":{
+    "title":"Special offers for this variation"
+  },
+  "startDateCol":{
+    "text":"Fecha de inicio"
+  },
+  "endDateCol":{
+    "text":"Fecha de finalización"
+  },
+  "priceCol":{
+    "text":"Precio"
+  },
+  "eCFieldset":{
+    "title":"Comercio Electrónico"
+  },
+  "manageStockField":{
+    "fieldLabel":"Manage stock"
+  },
+  "shippersWindow":{
+    "title":"Shippers"
+  },
+  "activeField":{
+    "fieldLabel":"Active"
+  },
+  "rateTypeField":{
+    "fieldLabel":"Rate type"
+  },
+  "ratesGrid":{
+    "title":"Rates"
+  },
+  "countryCol":{
+    "text":"País"
+  },
+  "taxCol":{
+    "text":"Tax (%)"
+  },
+  "delayCol":{
+    "text":"Delay (days)"
+  },
+  "displayedDelayAmountCol":{
+    "text":"Displayed delay (amount)"
+  },
+  "displayedDelayUnitCol":{
+    "text":"Displayed delay (unit)"
+  },
+  "addRateBtn":{
+    "text":"Add rate"
+  },
+  "removeRateBtn":{
+    "text":"Remove rate"
+  },
+  "taxesWindow":{
+    "title":"Impuestos"
+  },
+  "activeCol":{
+    "text":"Active"
+  },
+  "userTypesCol":{
+    "text":"User Types"
+  },
+  "productTypesCol":{
+    "text":"Product Types"
+  },
+  "stateRegionCol":{
+    "text":"Estado\/ Región"
+  },
+  "zipPostalCodeCol":{
+    "text":"Zip \/ Código postal"
+  },
+  "ratePercentageCol":{
+    "text":"Rate (%)"
+  },
+  "priorityCol":{
+    "text":"Priority"
+  },
+  "stockWindow":{
+    "title":"Stock"
+  },
+  "productTypeCol":{
+    "text":"Product type "
+  },
+  "ItemsGrid":{
+    "title":"Items"
+  },
+  "stockCol":{
+    "text":"Stock"
+  },
+  "skuCol":{
+    "text":"SKU"
+  },
+  "addStockBtn":{
+    "text":"Add stock"
+  },
+  "removeStockBtn":{
+    "text":"Remove stock"
+  },
+  "viewProductBtn":{
+    "text":"View product"
+  },
+  "addStockWindow":{
+    "title":"Add stock"
+  },
+  "alountToAddField":{
+    "fieldLabel":"Amount to add"
+  },
+  "addStockToItemBtn":{
+    "text":"Add stock to selected item"
+  },
+  "removeStockWindow":{
+    "title":"Remove stock"
+  },
+  "amountToRemoveField":{
+    "fieldLabel":"Amount to remove"
+  },
+  "removeStockFromItemBtn":{
+    "text":"Remove stock from selected item"
+  },
+  "paymentMeansWindow":{
+    "title":"Formas de pago"
+  },
+  "rubedoConfigurationForm":{
+    "title":"Rubedo configuration"
+  },
+  "displayNameField":{
+    "fieldLabel":"Display name"
+  },
+  "nPMCForm":{
+    "title":"Native payment means configuration"
+  },
+  "saveConfigurationBtn":{
+    "text":"Save configuration"
+  },
+  "ordersWindow":{
+    "title":"Orders"
+  },
+  "orderNumberCol":{
+    "text":"Order Number"
+  },
+  "clientNameCol":{
+    "text":"Nombre del cliente"
+  },
+  "fullPriceCol":{
+    "text":"Full Price"
+  },
+  "shipperCol":{
+    "text":"Shipper"
+  },
+  "orderSettingForm":{
+    "title":"Configuración"
+  },
+  "attachmentsFieldset":{
+    "title":"Attachments"
+  },
+  "billDocumentField":{
+    "fieldLabel":"Bill"
+  },
+  "orderStatusField":{
+    "fieldLabel":"Order status *"
+  },
+  "applyChangesBtn":{
+    "text":"Apply changes"
+  },
+  "pricingAndClientDataForm":{
+    "title":"Pricing and cilent data"
+  },
+  "pricingFieldset":{
+    "title":"Pricing"
+  },
+  "shippingPriceTFField":{
+    "fieldLabel":"Shipping price (TF)"
+  },
+  "shippingTaxField":{
+    "fieldLabel":"Shipping taxes"
+  },
+  "shippingPriceField":{
+    "fieldLabel":"Shipping price"
+  },
+  "totalPriceField":{
+    "fieldLabel":"Total price"
+  },
+  "taxTotalField":{
+    "fieldLabel":"Tax total"
+  },
+  "clientFieldset":{
+    "title":"Client"
+  },
+  "billingAddressField":{
+    "fieldLabel":"Billing address"
+  },
+  "shippingAddressField":{
+    "fieldLabel":"Shipping address"
+  },
+  "paymentMeansField":{
+    "fieldLabel":"Formas de pago"
+  },
+  "shipperField":{
+    "fieldLabel":"Shipper"
+  },
+  "shippingCommentsField":{
+    "fieldLabel":"Shipping comments"
+  },
+  "baughtProductsGrid":{
+    "title":"Products"
+  },
+  "subtitleCol":{
+    "text":"Subtitle"
+  },
+  "unitPriceCol":{
+    "text":"Unit price"
+  },
+  "unitTaxedPriceCol":{
+    "text":"Unit taxed price"
+  },
+  "amountCol":{
+    "text":"Cantidad"
+  },
+  "taxedPriceCol":{
+    "text":"Taxed Price"
+  },
+  "importChoiceWindow":{
+    "title":"Choose import options"
+  },
+  "whatToImportCombo":{
+    "fieldLabel":"What to import"
+  },
+  "howToImportCombo":{
+    "fieldLabel":"How to import"
+  },
+  "importUsingTheseOptionsBtn":{
+    "text":"Import using these options"
+  },
+  "importProductOptionForm":{
+    "title":"Product fields"
+  },
+  "baseSkuField":{
+    "fieldLabel":"Base SKU"
+  },
+  "PreparationDelayField":{
+    "fieldLabel":"Preparation delay"
+  },
+  "priceField":{
+    "fieldLabel":"Precio"
+  },
+  "stockField":{
+    "fieldLabel":"Stock"
+  },
+  "detectedFieldsCol":{
+    "text":"Detected fields"
+  },
+  "fieldMappingsPannel":{
+    "title":"Field mapping"
+  },
+  "contentTypeField":{
+    "fieldLabel":"Tipo de contenido"
+  },
+  "uniqueKeyIndexField":{
+    "fieldLabel":"Unique key index"
+  },
+  "uniqueKeyField":{
+    "fieldLabel":"Unique key field"
+  },
+  "contentFieldIndexesFieldset":{
+    "title":"Content fields indexes"
+  },
+  "importTaxoFieldset":{
+    "title":"Taxonomy fields indexes"
+  },
+  "launchUpdateBtn":{
+    "text":"Launch update"
+  },
+  "importProductOptionsFieldset":{
+    "title":"Product fields"
+  },
+  "foThemesInterface":{
+    "title":"Themes"
+  },
+  "importThemeBtn":{
+    "text":"Import theme"
+  },
+  "manageFodersBtnGroup":{
+    "title":"Manage folders"
+  },
+  "addChildBtn":{
+    "text":"Add child"
+  },
+  "removeChildBtn":{
+    "text":"Eliminar"
+  },
+  "manageFilesBtnGroup":{
+    "title":"Manage files"
+  },
+  "downloadFileBtn":{
+    "text":"Descargar"
+  },
+  "replaceFileBtn":{
+    "text":"Replace"
+  },
+  "deleteFileBtn":{
+    "text":"Borrar"
+  },
+  "damFolderCol":{
+    "text":"Carpeta"
+  },
+  "themeFilesGrid":{
+    "title":"Files"
+  },
+  "fileSizeCol":{
+    "text":"File size"
+  },
+  "thmeImportWindow":{
+    "title":"Theme import"
+  },
+  "zipArchiveField":{
+    "fieldLabel":"Zip archive",
+    "buttonText":"Examinar..."
+  },
+  "themeImportSubmitBtn":{
+    "text":"Importar"
+  },
+  "pageMaskWindow":{
+    "title":"Máscaras de página"
   },
   "editGroup":{
     "title":"Editar"
@@ -1132,32 +1454,11 @@
   "newBlocBtn":{
     "text":"Nuevo bloque"
   },
-  "languageCoumn":{
-    "text":"Idiomas"
-  },
-  "overviewTab":{
-    "text":"Previsualización"
-  },
-  "propsTab":{
-    "text":"Propiedades"
-  },
-  "displayedContentTab":{
-    "text":"Contenido visualizado"
-  },
-  "excludeFromMenuField":{
-    "fieldLabel":"Non-navigational"
-  },
-  "robotFieldset":{
-    "title":"Robot"
-  },
   "titleColumn":{
     "text":"Titulo"
   },
   "zoomLevelSlider":{
     "fieldLabel":"Nivel de zoom"
-  },
-  "pageMaskWindow":{
-    "title":"Máscaras de página"
   },
   "desktopCustomizeWindow":{
     "title":"Personalizar el escritorio"
@@ -1170,6 +1471,30 @@
   },
   "accessibilityPanel":{
     "title":"Accesibilidad"
+  },
+  "pageWindow":{
+    "title":"Páginas"
+  },
+  "languageCoumn":{
+    "text":"Idiomas"
+  },
+  "overviewTab":{
+    "text":"Previsualización"
+  },
+  "propsTab":{
+    "text":"Propiedades"
+  },
+  "urlField":{
+    "fieldLabel":"URL"
+  },
+  "excludeFromMenuField":{
+    "fieldLabel":"Non-navigational"
+  },
+  "referencingFieldSEt":{
+    "title":"SEO"
+  },
+  "robotFieldset":{
+    "title":"Robot"
   },
   "addUsersToGroupWindow":{
     "text":"Agregue estos usuarios al grupo seleccionado"
@@ -1234,6 +1559,39 @@
   "desktopBtn":{
     "text":"Escritorio"
   },
+  "stateColumn":{
+    "text":"Estado"
+  },
+  "lastUpdateContentCol":{
+    "text":"Última actualización"
+  },
+  "onlineColumn":{
+    "text":"En línea"
+  },
+  "contentsClearFilterBtn":{
+    "text":"limpiar filtros"
+  },
+  "contentWindow":{
+    "title":"Contenidos"
+  },
+  "workflowGroup":{
+    "title":"Flujo de trabajo"
+  },
+  "publishBtn":{
+    "text":"Publicar"
+  },
+  "submitBtn":{
+    "text":"Enviar"
+  },
+  "refuseBtn":{
+    "text":"Rechazar"
+  },
+  "onlineBtn":{
+    "text":"Poner en línea"
+  },
+  "offlineBtn":{
+    "text":"Take offline"
+  },
   "searchResultsWindow":{
     "title":"Resultados de la búsqueda"
   },
@@ -1247,7 +1605,7 @@
     "title":"Global facet settings"
   },
   "displayFacetFieldM":{
-    "fieldLabel":"Display"
+    "fieldLabel":"Mostrar"
   },
   "facetOperatorField":{
     "fieldLabel":"Operador de faceta"
@@ -1260,6 +1618,9 @@
   },
   "domainNameColumn":{
     "text":"Nombre de dominio"
+  },
+  "settingsTab":{
+    "title":"Configuración"
   },
   "domainNameField":{
     "fieldLabel":"Nombre de dominio *"
@@ -1278,6 +1639,9 @@
   },
   "defaultLanguageField":{
     "fieldLabel":"Idioma predeterminado *"
+  },
+  "sitesEnableECField":{
+    "fieldLabel":"E-Commerce page categories"
   },
   "messageryFieldSet":{
     "title":"Mensajería"
@@ -1333,6 +1697,30 @@
   "recaptchaPrivateKeyField":{
     "fieldLabel":"Llave privada"
   },
+  "resourcesTab":{
+    "title":"Resources"
+  },
+  "exteranlStylesPanel":{
+    "title":"External styles"
+  },
+  "urlCol":{
+    "text":"Url"
+  },
+  "externalScriptsPanel":{
+    "title":"External scripts"
+  },
+  "internalStylesGrid":{
+    "title":"Internal styles"
+  },
+  "editCodeBtn":{
+    "text":"Edit code"
+  },
+  "internalScriptsGrid":{
+    "title":"Internal scripts"
+  },
+  "damPickerWindow":{
+    "title":"DAM choice"
+  },
   "queryBuilder":{
     "title":"Query Wizard "
   },
@@ -1346,13 +1734,10 @@
     "title":"Choice of taxonomy terms"
   },
   "prevBtn":{
-    "text":"Previous"
+    "text":"Anterior"
   },
   "nextBtn":{
-    "text":"Next"
-  },
-  "damPickerWindow":{
-    "title":"DAM choice"
+    "text":"Siguiente"
   },
   "monitoringField":{
     "title":"Monitoring"
@@ -1387,6 +1772,26 @@
   "indexAllBtn":{
     "text":"<b>Index everything<\/b>"
   },
+  "newDamWindow":{
+    "title":"Nuevos medios"
+  },
+  "damOrginalFileField":{
+    "fieldLabel":"Archivo original *",
+    "buttonText":"Examinar...",
+    "RTip":"Main media file. Mandatory."
+  },
+  "taxonomyFieldset":{
+    "title":"Taxonomía"
+  },
+  "workspacesFieldset":{
+    "title":"Workspaces"
+  },
+  "damSubmitNewBtn":{
+    "text":"Create this new media"
+  },
+  "damSubmitUpdateBtn":{
+    "text":"Guardar cambios"
+  },
   "siteBuilderWizzard":{
     "title":"Site creation wizard"
   },
@@ -1403,7 +1808,7 @@
     "fieldLabel":"Model site"
   },
   "sbStage1":{
-    "title":"Step 2: Identification"
+    "title":"Paso 2: identificación"
   },
   "sbStage3":{
     "title":"Step 3: search engine optimization"
@@ -1413,6 +1818,51 @@
   },
   "workspaceWindow":{
     "title":"Workspaces"
+  },
+  "newContentWindow":{
+    "title":"Nuevo contenido"
+  },
+  "metadataTab":{
+    "text":"Metadata"
+  },
+  "taxonomyTab":{
+    "text":"Taxonomía"
+  },
+  "workspacesTab":{
+    "text":"Workspaces"
+  },
+  "versionsTab":{
+    "text":"Versions"
+  },
+  "dependantTypesTab":{
+    "text":"Nested content"
+  },
+  "vanityUrlField":{
+    "fieldLabel":"Vanity URL"
+  },
+  "publishFieldset":{
+    "title":"Publicación"
+  },
+  "contentStartPublicationDateField":{
+    "fieldLabel":"Fecha de inicio de Publicación "
+  },
+  "contentEndPublicationDateField":{
+    "fieldLabel":"Fecha de fin de Publicación "
+  },
+  "versionTitleCol":{
+    "text":"Titulo"
+  },
+  "versionVersionCol":{
+    "text":"Versión"
+  },
+  "versionPublishDateCol":{
+    "text":"Fecha de publicación"
+  },
+  "versionAuthorCol":{
+    "text":"Autor"
+  },
+  "createAsDraftBtn":{
+    "text":"Borrador"
   },
   "termsCol":{
     "text":"Términos"
@@ -1450,8 +1900,8 @@
   "newCTWindow":{
     "title":"Nuevo tipo de contenido"
   },
-  "isDepField":{
-    "fieldLabel":"Anidados "
+  "productTypeField":{
+    "fieldLabel":"Product type"
   },
   "createNTCBtn":{
     "text":"Crear un nuevo tipo de contenido"
@@ -1467,59 +1917,6 @@
   },
   "depCTTab":{
     "title":"Tipos de contenido anidados"
-  },
-  "stateColumn":{
-    "text":"Estado"
-  },
-  "lastUpdateContentCol":{
-    "text":"Última actualización"
-  },
-  "onlineColumn":{
-    "text":"En línea"
-  },
-  "contentsClearFilterBtn":{
-    "text":"limpiar filtros"
-  },
-  "contentWindow":{
-    "title":"Contenidos"
-  },
-  "workflowGroup":{
-    "title":"Flujo de trabajo"
-  },
-  "publishBtn":{
-    "text":"Publicar"
-  },
-  "submitBtn":{
-    "text":"Enviar"
-  },
-  "refuseBtn":{
-    "text":"Rechazar"
-  },
-  "onlineBtn":{
-    "text":"Poner en línea"
-  },
-  "offlineBtn":{
-    "text":"Take offline"
-  },
-  "newDamWindow":{
-    "title":"New media"
-  },
-  "damOrginalFileField":{
-    "fieldLabel":"Original file *",
-    "buttonText":"Browse...",
-    "RTip":"Main media file. Mandatory."
-  },
-  "taxonomyFieldset":{
-    "title":"Taxonomy"
-  },
-  "workspacesFieldset":{
-    "title":"Workspaces"
-  },
-  "damSubmitNewBtn":{
-    "text":"Create this new media"
-  },
-  "damSubmitUpdateBtn":{
-    "text":"Save changes"
   },
   "contentTypesWindow":{
     "title":"Tipos de contenido"
@@ -1555,9 +1952,6 @@
     "text":"Sin contenido",
     "tooltip":"Borrar todo el contenido de este tipo"
   },
-  "taxonomyTab":{
-    "text":"Taxonomy"
-  },
   "systemFieldPanel":{
     "title":"Campos de sistema"
   },
@@ -1571,7 +1965,7 @@
     "title":"Data"
   },
   "searchTab":{
-    "title":"Search"
+    "title":"Buscar"
   },
   "vocabulariesGridPanel":{
     "title":"Vocabularios"
@@ -1656,45 +2050,6 @@
   "termsPanel":[
     
   ],
-  "newContentWindow":{
-    "title":"Nuevo contenido"
-  },
-  "metadataTab":{
-    "text":"Metadata"
-  },
-  "workspacesTab":{
-    "text":"Workspaces"
-  },
-  "versionsTab":{
-    "text":"Versions"
-  },
-  "dependantTypesTab":{
-    "text":"Nested content"
-  },
-  "publishFieldset":{
-    "title":"Publication"
-  },
-  "contentStartPublicationDateField":{
-    "fieldLabel":"Fecha de inicio de Publicación "
-  },
-  "contentEndPublicationDateField":{
-    "fieldLabel":"Fecha de fin de Publicación "
-  },
-  "versionTitleCol":{
-    "text":"Titulo"
-  },
-  "versionVersionCol":{
-    "text":"Versión"
-  },
-  "versionPublishDateCol":{
-    "text":"Fecha de publicación"
-  },
-  "versionAuthorCol":{
-    "text":"Autor"
-  },
-  "createAsDraftBtn":{
-    "text":"Borrador"
-  },
   "appLogsWindow":{
     "title":"Registros de aplicación"
   },
@@ -1723,10 +2078,10 @@
     "text":"Nivel"
   },
   "UserTypesMainWindow":{
-    "title":"User types"
+    "title":"Tipos de usuario"
   },
   "userTypesGrid":{
-    "title":"User Types"
+    "title":"Tipos de usuario"
   },
   "mainFileDamCol":{
     "text":"Archivo principal"
@@ -1738,28 +2093,25 @@
     "text":"Autor"
   },
   "createDateColumn":{
-    "text":"Creation date"
+    "text":"Fecha de creación"
   },
   "mediasWindow":{
     "title":"DAM"
   },
   "addDirectoryBtn":{
-    "text":"Add"
+    "text":"Agregar"
   },
   "removeDirectoryBtn":{
-    "text":"Remove"
+    "text":"Eliminar"
   },
   "directorySettingsBtn":{
-    "text":"Settings"
+    "text":"Configuración"
   },
   "massDamUploadBtn":{
     "text":"Mass upload"
   },
   "filePlanTreePanel":{
     "title":"File plan"
-  },
-  "damFolderCol":{
-    "text":"Carpeta"
   },
   "typeColumn2":{
     "text":"Tipo"
@@ -1773,8 +2125,74 @@
   "formsLaunchBtn":{
     "text":"Encuestas"
   },
-  "functionField":{
-    "fieldLabel":"Función "
+  "newCustomThemeWindow":{
+    "title":"Nuevo tema personalizado"
+  },
+  "createNewCustomThemeBtn":{
+    "text":"Crear nuevo tema personalizado"
+  },
+  "displayedContentTab":{
+    "text":"Contenido visualizado"
+  },
+  "customThemesWindow":{
+    "title":"Temas personalizados"
+  },
+  "themesMainPanel":{
+    "title":"Temas"
+  },
+  "lessVarsPanel":{
+    "title":"Menos Variables"
+  },
+  "garysFieldset":{
+    "title":"Grays"
+  },
+  "randomizeColorsBtn":{
+    "text":"Colores base aleatorios"
+  },
+  "randomizeColorsBOBtn":{
+    "text":"Randomize based on"
+  },
+  "accentColorsFieldset":{
+    "title":"Colores de acento"
+  },
+  "linksFieldset":{
+    "title":"Vínculos"
+  },
+  "tablesFieldset":{
+    "title":"Tablas"
+  },
+  "buttonsFieldset":{
+    "title":"Botones"
+  },
+  "formsFieldset":{
+    "title":"Formularios"
+  },
+  "dropdownsFieldset":{
+    "title":"Menús desplegables"
+  },
+  "wellsFieldset":{
+    "title":"Wells"
+  },
+  "navbarsFieldset":{
+    "title":"Barra de navegación"
+  },
+  "invertedNavbarsFieldset":{
+    "title":"Barra invertida"
+  },
+  "paginationFieldset":{
+    "title":"Paginación"
+  },
+  "statesAlertsFieldset":{
+    "title":"Forma de estados y alertas"
+  },
+  "tooltipsFieldset":{
+    "title":"Tooltips and popovers"
+  },
+  "typographyFieldset":{
+    "title":"Tipografía"
+  },
+  "themeSimulateBtn":{
+    "text":"Simular"
   },
   "showOnlyIfCombo":{
     "fieldLabel":"Mostrarlo si y sólo si "
@@ -1869,7 +2287,7 @@
     "boxLabel":"elección simple"
   },
   "multiChoiceRadio":{
-    "boxLabel":"multi-choice"
+    "boxLabel":"selección múltiple"
   },
   "optionsCol":{
     "text":"Opciones"
@@ -1923,16 +2341,16 @@
     "fieldLabel":"Validation"
   },
   "minValueField":{
-    "fieldLabel":"Min value"
+    "fieldLabel":"Valor mínimo"
   },
   "maxValueField":{
-    "fieldLabel":"Max value"
+    "fieldLabel":"Valor máximo"
   },
   "allowDecimalsField":{
     "fieldLabel":"Decimals"
   },
   "formFieldConfiguratorBtn":{
-    "tooltip":"Settings"
+    "tooltip":"Configuración"
   },
   "formFieldConditionsBtn":{
     "tooltip":"Display condition"
@@ -1940,8 +2358,14 @@
   "formFieldConditionBtn":{
     "tooltip":"Display condition"
   },
+  "isDepField":{
+    "fieldLabel":"Anidados "
+  },
+  "functionField":{
+    "fieldLabel":"Función "
+  },
   "layoutsPanel":{
-    "title":"Layouts"
+    "title":"Diseños"
   },
   "groupsWindow":{
     "title":"Grupos"
@@ -1950,22 +2374,22 @@
     "text":"Users"
   },
   "adminTab":{
-    "text":"Administration"
+    "text":"Administración"
   },
   "mailColumn":{
-    "text":"Email"
+    "text":"Correo electrónico"
   },
   "phoneColumn":{
     "text":"Teléfono"
   },
   "addressColumn":{
-    "text":"Address"
+    "text":"Dirección"
   },
   "postColumn":{
     "text":"Job title"
   },
   "departmentColumn":{
-    "text":"Department"
+    "text":"Departamento"
   },
   "readWorkSpaceField":{
     "fieldLabel":"Read workspaces "
@@ -1977,6 +2401,12 @@
     "fieldLabel":"Default workspace"
   },
   "hideAllWindowsBtn":{
-    "tooltip":"Show desktop"
+    "tooltip":"Mostrar el escritorio"
+  },
+  "productsShortcutBtn":{
+    "text":"Products (Contents interface)"
+  },
+  "exportOrdersBtn":{
+    "text":"Export orders"
   }
 }

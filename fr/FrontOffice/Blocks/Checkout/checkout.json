@@ -9,7 +9,7 @@
   "Blocks.Checkout.Label.City":"Ville *",
   "Blocks.Checkout.Label.Country":"Pays *",
   "Blocks.Checkout.Label.State":"Dept. \/ Province",
-  "Blocks.Checkout.Label.Zipcode":"Zip \/ code postal *",
+  "Blocks.Checkout.Label.Zipcode":"Code postal *",
   "Blocks.Checkout.Label.VAT":"Numéro de TVA",
   "Blocks.Checkout.Label.SaveChanges":"Enregistrer les modifications",
   "Blocks.Checkout.Label.Continue":"Continuer",

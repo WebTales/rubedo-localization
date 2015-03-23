@@ -6,7 +6,7 @@
   "Blocks.OrderDetails.OrderDetails":"Détails de la commande",
   "Blocks.OrderDetails.Table.Name":"Nom",
   "Blocks.OrderDetails.Table.Cost":"Prix unitaire",
-  "Blocks.OrderDetails.Table.Amount":"Montant",
+  "Blocks.OrderDetails.Table.Amount":"Quantité",
   "Blocks.OrderDetails.Table.Price":"Prix",
   "Blocks.OrderDetails.Table.Taxes":"Taxes",
   "Blocks.OrderDetails.Table.ProductsTaxes":"Taxes de produits",

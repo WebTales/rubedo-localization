@@ -1388,10 +1388,10 @@
     "fieldLabel":"Champ clé unique"
   },
   "contentFieldIndexesFieldset":{
-    "title":"Content fields indexes"
+    "title":"Index des champs du contenu"
   },
   "importTaxoFieldset":{
-    "title":"Taxonomy fields indexes"
+    "title":"Index de champs de taxonomie"
   },
   "launchUpdateBtn":{
     "text":"Lancer la mise à jour"
@@ -1409,13 +1409,13 @@
     "title":"Gérer les dossiers"
   },
   "addChildBtn":{
-    "text":"Add child"
+    "text":"Nouveau dossier"
   },
   "removeChildBtn":{
     "text":"Enlever"
   },
   "manageFilesBtnGroup":{
-    "title":"Manage files"
+    "title":"Gérer les fichiers"
   },
   "downloadFileBtn":{
     "text":"Télécharger"
@@ -2405,5 +2405,8 @@
   },
   "productsShortcutBtn":{
     "text":"Produits (interface de contenu)"
+  },
+  "exportOrdersBtn":{
+    "text":"Exporter les commandes"
   }
 }
