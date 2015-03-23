@@ -2395,5 +2395,9 @@
     },
     "productsShortcutBtn": {
         "text": "Products (Contents interface)"
+    },
+    "exportOrdersBtn": {
+        "text": "Export orders"
     }
+
 }
