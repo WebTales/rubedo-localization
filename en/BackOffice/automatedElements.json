@@ -231,5 +231,8 @@
     "neverText": "Never",
     "largeDesktopText": "Large desktop",
     "customTemplateText": "Custom template",
-    "stackingThresholdText": "Stacking threshold"
+    "stackingThresholdText": "Stacking threshold",
+    "cancelledText":"Cancelled",
+    "pendingPaymentText":"Pending payment",
+    "payedText":"Payed"
 }
