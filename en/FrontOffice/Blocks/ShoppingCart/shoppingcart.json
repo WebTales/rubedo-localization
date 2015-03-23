@@ -9,5 +9,9 @@
     "Blocks.ShoppingCart.CartIsEmpty": "Your cart is empty.",
     "Blocks.ShoppingCart.Total": "Total",
     "Label.ShoppingCart": "Shopping Cart",
-    "Label.Checkout": "Checkout"
+    "Label.Checkout": "Checkout",
+    "Label.Item": "Item",
+    "Label.Empty": "Empty",
+    "Label.Items": "Items",
+    "Label.AddToCart": "Add to cart"
 }
