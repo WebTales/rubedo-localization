@@ -213,7 +213,7 @@
   "imageText":"Image",
   "textText":"Texte",
   "emailBodyText":"Corps de l'e-mail",
-  "emailSendWarning":"Êtes-vous sûr de que vouloir envoyer cet e-mail à tous les utilisateurs abonnés à la liste de diffusion sélectionnée ?",
+  "emailSendWarning":"Êtes-vous sûr de vouloir envoyer cet e-mail à tous les utilisateurs abonnés à la liste de diffusion sélectionnée ?",
   "modelText":"Modèle",
   "mailText":"Mail",
   "displayLabelText":"Afficher le libellé",

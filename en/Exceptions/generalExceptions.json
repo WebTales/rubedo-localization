@@ -101,5 +101,6 @@
 	"Exception99": "The server is unable to determine the cType of the field",
 	"Exception100": "Languages can't be deleted",
     "Exception101":"Page not found in this language",
-    "Exception102": "This page is the homepage or father of the homepage"
+    "Exception102": "This page is the homepage or father of the homepage",
+    "Exception103":"Failed to update the user"
 }
