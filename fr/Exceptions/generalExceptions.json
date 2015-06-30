@@ -101,5 +101,6 @@
   "Exception100":"Les langues ne peuvent être supprimées",
   "Exception101":"La page n'a pas été trouvée dans cette langue.",
   "Exception102":"Cette page est la page d'accueil ou est parent de la page d'accueil",
-  "Exception103":"Erreur lors de la mise à jour de l'utilisateur"
+  "Exception103":"Erreur lors de la mise à jour de l'utilisateur",
+  "Exception104":"L'adresse email de l'expéditeur n'est pas valide : %1$s"
 }

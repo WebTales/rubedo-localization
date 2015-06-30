@@ -102,5 +102,6 @@
 	"Exception100": "Languages can't be deleted",
     "Exception101":"Page not found in this language",
     "Exception102": "This page is the homepage or father of the homepage",
-    "Exception103":"Failed to update the user"
+    "Exception103":"Failed to update the user",
+    "Exception104":"Bad email sender value : %1$s"
 }
