@@ -972,6 +972,9 @@
   "gruopsField":{
     "fieldLabel":"Groupes"
   },
+  "signUpTypeField": {
+    "fieldLabel": "Activation de compte"
+  },
   "defaultGroupField":{
     "fieldLabel":"Groupe par defaut"
   },
