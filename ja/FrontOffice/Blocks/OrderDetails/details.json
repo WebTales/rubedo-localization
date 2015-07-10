@@ -1,0 +1,21 @@
+{
+  "Blocks.OrderDetails.OrderNumber":"%order% を注文",
+  "Blocks.OrderDetails.OrderReview":"注文の確認",
+  "Blocks.OrderDetails.BillingAddress":"請求先住所",
+  "Blocks.OrderDetails.ShippingAddress":"配送先住所",
+  "Blocks.OrderDetails.OrderDetails":"注文の詳細",
+  "Blocks.OrderDetails.Table.Name":"名前",
+  "Blocks.OrderDetails.Table.Cost":"単価",
+  "Blocks.OrderDetails.Table.Amount":"合計",
+  "Blocks.OrderDetails.Table.Price":"価格",
+  "Blocks.OrderDetails.Table.Taxes":"税",
+  "Blocks.OrderDetails.Table.ProductsTaxes":"製品に関する税",
+  "Blocks.OrderDetails.Table.ShippingTax":"配送に関する税",
+  "Blocks.OrderDetails.Table.TotalPrice":"合計価格",
+  "Blocks.OrderDetails.Table.ShippingMethod":"発送方法",
+  "Blocks.OrderDetails.Payment":"支払い",
+  "Blocks.OrderDetails.Payment.Means":"支払方法",
+  "Blocks.OrderDetails.Payment.VatEin":"付加価値税番号\/米国納税者番号",
+  "Blocks.OrderDetails.Payment.Status":"支払ステータス",
+  "Blocks.OrderDetails.OrderBill":"発注請求書"
+}

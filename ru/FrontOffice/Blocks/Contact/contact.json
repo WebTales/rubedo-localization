@@ -1,0 +1,12 @@
+{
+  "Blocks.Contact.Label.YourEmailWasSuccessfullySent":"Письмо отправлено успешно",
+  "Blocks.Contact.Input.Name.Label":"Имя *",
+  "Blocks.Contact.Input.Email.Label":"Адрес Email *",
+  "Blocks.Contact.Input.Subject.Label":"Тема *",
+  "Blocks.Contact.Input.Message.Label":"Сообщение *",
+  "Blocks.Contact.Input.Captcha.Label":"Пожалуйста, введите код :",
+  "Blocks.Contact.Input.Submit.Label":"Подтвердить",
+  "Blocks.Contact.Input.Error.CanNotBeEmpty":"Это поле должно быть заполнено",
+  "Blocks.Contact.Input.Error.EmailAddress":"Это поле должно быть заполнено и адрес email должен выглядеть, как: имя@домен.страна",
+  "Blocks.Contact.Input.Error.BadCaptcha":"Код, который вы ввели, не соответствует изображению"
+}

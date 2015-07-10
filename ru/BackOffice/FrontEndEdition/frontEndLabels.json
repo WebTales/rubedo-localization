@@ -1,0 +1,14 @@
+{
+  "FO.Administration.Toolbar.Button.EditPage":"Редактировать раздел",
+  "FO.Administration.Toolbar.Button.User.Logout":"Выход",
+  "FO.Administration.Toolbar.Button.User.Backoffice":"Административная часть",
+  "FO.Administration.Toolbar.Button.Cancel":"Отмена",
+  "FO.Administration.Toolbar.Button.Validate":"Проверить",
+  "FO.Administration.Toolbar.Button.SaveChanges":"Сохранить изменения",
+  "FO.Administration.Toolbar.Status.Consultation":"Консультация",
+  "FO.Administration.Toolbar.Status.Edition":"Редакция",
+  "FO.Administration.Toolbar.Title.Administration":"Администрирование",
+  "FO.Administration.Toolbar.Button.SaveChanges.Tooltip":"Нажмите CTRL + S для сохранения",
+  "FO.Administration.Toolbar.foEditSuccess":"Содержимое обновлено",
+  "FO.Administration.Toolbar.foSelectCtype":"Выберите тип содержимого для добавления"
+}

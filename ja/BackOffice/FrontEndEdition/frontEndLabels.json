@@ -1,0 +1,14 @@
+{
+  "FO.Administration.Toolbar.Button.EditPage":"ページ編集",
+  "FO.Administration.Toolbar.Button.User.Logout":"ログアウト",
+  "FO.Administration.Toolbar.Button.User.Backoffice":"バックオフィス",
+  "FO.Administration.Toolbar.Button.Cancel":"キャンセル",
+  "FO.Administration.Toolbar.Button.Validate":"検証",
+  "FO.Administration.Toolbar.Button.SaveChanges":"変更の保存",
+  "FO.Administration.Toolbar.Status.Consultation":"コンサルテーション",
+  "FO.Administration.Toolbar.Status.Edition":"エディション",
+  "FO.Administration.Toolbar.Title.Administration":"管理",
+  "FO.Administration.Toolbar.Button.SaveChanges.Tooltip":"Ctrlキーを押しながらSで保存",
+  "FO.Administration.Toolbar.foEditSuccess":"コンテンツは無事アップロードされました",
+  "FO.Administration.Toolbar.foSelectCtype":"追加するコンテンツのタイプを選びます"
+}

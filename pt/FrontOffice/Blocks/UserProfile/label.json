@@ -1,0 +1,14 @@
+{
+  "Blocks.UserProfile.Label.Email":"Email",
+  "Blocks.UserProfile.Label.OldPassword":"Old password",
+  "Blocks.UserProfile.Label.NewPassword":"New password",
+  "Blocks.UserProfile.Label.NewPasswordConfirm":"Confirm new password",
+  "Blocks.UserProfile.Error.EmailNotValid":"Email is not valid.",
+  "Blocks.UserProfile.Error.EmailAlreadyInDB":"Email already exist.",
+  "Blocks.UserProfile.Error.PasswordConfirmNotMatch":"Passwords not match.",
+  "Blocks.UserProfile.Error.OldPasswordIsWrong":"Old password is wrong.",
+  "Blocks.UserProfile.Success.EmailChanged":"Email has been changed.",
+  "Blocks.UserProfile.Success.PasswordChanged":"Password has been changed.",
+  "Blocks.UserProfile.Edit.Profile":"Edit profile",
+  "Blocks.UserProfile.Edit.Login":"Edit credentials"
+}

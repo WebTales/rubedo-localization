@@ -1,0 +1,12 @@
+{
+  "Blocks.Contact.Label.YourEmailWasSuccessfullySent":"Ihre E-Mail wurde erfolgreich verschickt",
+  "Blocks.Contact.Input.Name.Label":"Name *",
+  "Blocks.Contact.Input.Email.Label":"E-Mail-Adresse *",
+  "Blocks.Contact.Input.Subject.Label":"Betreff *",
+  "Blocks.Contact.Input.Message.Label":"Nachricht *",
+  "Blocks.Contact.Input.Captcha.Label":"Bitte geben Sie folgenden Code ein:",
+  "Blocks.Contact.Input.Submit.Label":"Senden",
+  "Blocks.Contact.Input.Error.CanNotBeEmpty":"Dieses Feld darf nicht leer sein",
+  "Blocks.Contact.Input.Error.EmailAddress":"Dieses Feld darf nicht leer sein und die E-Mail-Adresse muss folgendem Format entsprechen: beispiel@domain.toplevel",
+  "Blocks.Contact.Input.Error.BadCaptcha":"Der Code, den Sie eingegeben haben stimmte nicht mit dem Bild überein"
+}

@@ -1,0 +1,12 @@
+{
+  "Blocks.Contact.Label.YourEmailWasSuccessfullySent":"電子メールが正常に送信されました",
+  "Blocks.Contact.Input.Name.Label":"氏名 *",
+  "Blocks.Contact.Input.Email.Label":"メールアドレス *",
+  "Blocks.Contact.Input.Subject.Label":"件名 *",
+  "Blocks.Contact.Input.Message.Label":"メッセージ内容 *",
+  "Blocks.Contact.Input.Captcha.Label":"次のコードを入力してください：",
+  "Blocks.Contact.Input.Submit.Label":"送信",
+  "Blocks.Contact.Input.Error.CanNotBeEmpty":"このフィールドは空にできません",
+  "Blocks.Contact.Input.Error.EmailAddress":"このフィールドは空にできません、次のようなメール アドレスにする必要があります: exemple@domain.country",
+  "Blocks.Contact.Input.Error.BadCaptcha":"入力したコードは、画像で描かれているコードと一致しませんでした。"
+}

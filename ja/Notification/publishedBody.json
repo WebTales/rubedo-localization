@@ -1,0 +1,8 @@
+{
+  "Notification.publishedBody.subject":"Content published \"%title%\"",
+  "Notification.publishedBody.hello":"Good morning,",
+  "Notification.publishedBody.publishedBy":"The content \"%title%\" has been published by %author%.",
+  "Notification.publishedBody.urlText":"You can find this content in back-office by following this link",
+  "Notification.publishedBody.thanks":"よろしくお願いいたします。",
+  "Notification.publishedBody.automaticMail":"This is an automatic email."
+}

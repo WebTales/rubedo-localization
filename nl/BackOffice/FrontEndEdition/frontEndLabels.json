@@ -1,0 +1,14 @@
+{
+  "FO.Administration.Toolbar.Button.EditPage":"Pagina bewerken",
+  "FO.Administration.Toolbar.Button.User.Logout":"Uitloggen",
+  "FO.Administration.Toolbar.Button.User.Backoffice":"Backoffice",
+  "FO.Administration.Toolbar.Button.Cancel":"Annuleren",
+  "FO.Administration.Toolbar.Button.Validate":"Valideren",
+  "FO.Administration.Toolbar.Button.SaveChanges":"Wijzigingen opslaan",
+  "FO.Administration.Toolbar.Status.Consultation":"Overleg",
+  "FO.Administration.Toolbar.Status.Edition":"Editie",
+  "FO.Administration.Toolbar.Title.Administration":"Administratie",
+  "FO.Administration.Toolbar.Button.SaveChanges.Tooltip":"Druk op CTRL + S om op te slaan",
+  "FO.Administration.Toolbar.foEditSuccess":"Inhoud bijgewerkt",
+  "FO.Administration.Toolbar.foSelectCtype":"Selecteer content type om toe te voegen"
+}

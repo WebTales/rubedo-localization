@@ -1,0 +1,17 @@
+{
+  "Blocks.ShoppingCart.Label.Name":"Название",
+  "Blocks.ShoppingCart.Label.UnitPrice":"Цена за шт.",
+  "Blocks.ShoppingCart.Label.Number":"Номер",
+  "Blocks.ShoppingCart.Label.AddRemove":"Добавить\/Удалить",
+  "Blocks.ShoppingCart.Label.Price":"Цена",
+  "Blocks.ShoppingCart.Label.Delete":"Удалить",
+  "Blocks.ShoppingCart.ViewCart":"Просмотреть корзину",
+  "Blocks.ShoppingCart.CartIsEmpty":"Ваша корзина пуста.",
+  "Blocks.ShoppingCart.Total":"Всего",
+  "Label.ShoppingCart":"Корзина",
+  "Label.Checkout":"Оплата",
+  "Label.Item":"Item",
+  "Label.Empty":"Empty",
+  "Label.Items":"Items",
+  "Label.AddToCart":"Add to cart"
+}

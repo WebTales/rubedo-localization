@@ -1,0 +1,5 @@
+{
+  "Blocks.SignUp.fail.error":"Ошибка!",
+  "Blocks.SignUp.fail.creationFailed":"Сбой при создании аккаунта.",
+  "Blocks.SignUp.fail.captchaIsWrong":"CAPTCHA введена неверно."
+}

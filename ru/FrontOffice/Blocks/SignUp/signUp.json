@@ -1,0 +1,8 @@
+{
+  "Blocks.SignUp.label.name":"Имя",
+  "Blocks.SignUp.label.password":"Пароль",
+  "Blocks.SignUp.label.confirmPassword":"Подтвердите пароль",
+  "Blocks.SignUp.Label.Captcha":"Капча",
+  "Blocks.SignUp.label.signUp":"Зарегистрироваться",
+  "Blocks.SignUp.label.mailingList":"Подписаться на следующие списки рассылки"
+}

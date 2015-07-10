@@ -1,0 +1,14 @@
+{
+  "FO.Administration.Toolbar.Button.EditPage":"Seite bearbeiten",
+  "FO.Administration.Toolbar.Button.User.Logout":"Ausloggen",
+  "FO.Administration.Toolbar.Button.User.Backoffice":"Administration",
+  "FO.Administration.Toolbar.Button.Cancel":"Abbrechen",
+  "FO.Administration.Toolbar.Button.Validate":"Prüfen",
+  "FO.Administration.Toolbar.Button.SaveChanges":"Änderungen speichern",
+  "FO.Administration.Toolbar.Status.Consultation":"Beratung",
+  "FO.Administration.Toolbar.Status.Edition":"Ausgabe",
+  "FO.Administration.Toolbar.Title.Administration":"Administration",
+  "FO.Administration.Toolbar.Button.SaveChanges.Tooltip":"Drücke Strg + S zum Speichern",
+  "FO.Administration.Toolbar.foEditSuccess":"Inhalt erfolgreich aktualisiert",
+  "FO.Administration.Toolbar.foSelectCtype":"Wähle den Inhaltstyp um hinzuzufügen"
+}

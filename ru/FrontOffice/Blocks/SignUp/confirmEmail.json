@@ -1,0 +1,10 @@
+{
+  "Blocks.SignUp.confirmEmail.subject":"Создание аккаунта",
+  "Blocks.SignUp.confirmEmail.hello":"Здравствуйте, %name%,",
+  "Blocks.SignUp.confirmEmail.clickFollowing":"Для того, чтобы завершить создание аккаунта, пожалуйста, активируйте его, нажав на ссылку:",
+  "Blocks.SignUp.confirmEmail.confirmLink":"Подтвердите Ваш E-mail адрес",
+  "Blocks.SignUp.confirmEmail.thanks":"С уважением,",
+  "Blocks.SignUp.confirmEmail.automatedMail":"Это письмо сформировано автоматически.",
+  "Blocks.SignUp.confirmEmail.emailRequired":"Требуется подтверждение E-mail.",
+  "Blocks.SignUp.confirmEmail.emailSent":"Вам выслано письмо по адресу, который вы указали."
+}

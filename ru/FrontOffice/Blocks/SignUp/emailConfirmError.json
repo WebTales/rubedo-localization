@@ -1,0 +1,13 @@
+{
+  "Blocks.SignUp.emailConfirmError.fail":"Ошибка!",
+  "Blocks.SignUp.emailConfirmError.missingPasswordParameters":"Отсутствует пароль",
+  "Blocks.SignUp.emailConfirmError.passwordParametersDontMatch":"Пароли не совпадают",
+  "Blocks.SignUp.emailConfirmError.emailInUse":"Этот адрес E-mail уже используется.",
+  "Blocks.SignUp.emailConfirmError.unableToSendConfirmMail":"Не удается отправить подтверждение по E-mail",
+  "Blocks.SignUp.emailConfirmError.missingRequiredParameters":"Отсутствуют обязательные параметры",
+  "Blocks.SignUp.emailConfirmError.unknownUser":"Неизвестный пользователь",
+  "Blocks.SignUp.emailConfirmError.emailAlreadyConfirmed":"Email уже подтвержден",
+  "Blocks.SignUp.emailConfirmError.invalidSignUpTime":"Недопустимое время входа",
+  "Blocks.SignUp.emailConfirmError.userUpdateFailed":"Ошибка обновления данных о пользователе",
+  "Blocks.SignUp.emailConfirmError.invalidEmail":"Некорректный адрес E-mail"
+}

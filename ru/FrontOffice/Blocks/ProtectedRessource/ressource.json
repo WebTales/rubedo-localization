@@ -1,0 +1,10 @@
+{
+  "Blocks.ProtectedRessource.Mail.Hello":"Здравствуйте,",
+  "Blocks.ProtectedRessource.Mail.Body":"В соответствии с вашим запросом мы вышлем ссылку на загрузку. Она будет активна 48 часов.",
+  "Blocks.ProtectedRessource.Mail.Regards":"С уважением",
+  "Blocks.ProtectedRessource.Mail.signature":"Сайт",
+  "Blocks.ProtectedRessource.Message.Download":"Нажмите для загрузки",
+  "Blocks.ProtectedRessource.Message.EmailSent":"Вам был отправлен E-mail со ссылкой на загрузку",
+  "Blocks.ProtectedRessource.Message.EmailFail":"Невозможно выслать вам E-mail со ссылкой на загрузку",
+  "Blocks.ProtectedRessource.Mail.Subject":"Загрузка файла"
+}

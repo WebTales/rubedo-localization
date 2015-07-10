@@ -1,0 +1,12 @@
+{
+  "Blocks.UserOrders.OrderNumber":"Номер заказа",
+  "Blocks.UserOrders.Date":"Дата",
+  "Blocks.UserOrders.Price":"Цена",
+  "Blocks.UserOrders.Shipper":"Отправитель",
+  "Blocks.UserOrders.PaymentMeans":"Способы оплаты",
+  "Blocks.UserOrders.Status":"Статус",
+  "Blocks.UserOrders.Status.pendingPayment":"Pending payment",
+  "Blocks.UserOrders.Status.payed":"Payed",
+  "Blocks.UserOrders.Status.cancelled":"Cancelled",
+  "Blocks.UserOrders.ViewDetails":"Показать подробности"
+}

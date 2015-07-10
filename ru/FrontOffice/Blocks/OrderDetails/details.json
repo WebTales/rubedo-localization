@@ -1,0 +1,21 @@
+{
+  "Blocks.OrderDetails.OrderNumber":"Заказ %order%",
+  "Blocks.OrderDetails.OrderReview":"Проверка заказа",
+  "Blocks.OrderDetails.BillingAddress":"Адрес плательщика",
+  "Blocks.OrderDetails.ShippingAddress":"Адрес доставки",
+  "Blocks.OrderDetails.OrderDetails":"Подробности заказа",
+  "Blocks.OrderDetails.Table.Name":"Имя",
+  "Blocks.OrderDetails.Table.Cost":"Стоимость за 1 шт.",
+  "Blocks.OrderDetails.Table.Amount":"Количество",
+  "Blocks.OrderDetails.Table.Price":"Цена",
+  "Blocks.OrderDetails.Table.Taxes":"Налоги",
+  "Blocks.OrderDetails.Table.ProductsTaxes":"Стоимость продуктов",
+  "Blocks.OrderDetails.Table.ShippingTax":"Доставка",
+  "Blocks.OrderDetails.Table.TotalPrice":"Общая стоимость",
+  "Blocks.OrderDetails.Table.ShippingMethod":"Способ доставки",
+  "Blocks.OrderDetails.Payment":"Платеж",
+  "Blocks.OrderDetails.Payment.Means":"Способы оплаты",
+  "Blocks.OrderDetails.Payment.VatEin":"Номер плательщика НДС \/ ЭЙН",
+  "Blocks.OrderDetails.Payment.Status":"Статус оплаты",
+  "Blocks.OrderDetails.OrderBill":"Order bill"
+}

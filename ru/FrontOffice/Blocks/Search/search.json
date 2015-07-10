@@ -1,0 +1,13 @@
+{
+  "Blocks.Search.Label.AllInOnePage":"Все на одной странице",
+  "Blocks.Search.Label.ByPage":"на странице",
+  "Blocks.Search.Label.KeyWords":"Ключевые слова",
+  "Blocks.Search.Label.SeeAllResults":"Посмотреть все результаты",
+  "Blocks.Search.Label.SearchCriteria":"Условия поиска",
+  "Blocks.Search.Label.OrderByTitle":"Order by title",
+  "Blocks.Search.Label.OrderBy":"Order by",
+  "Blocks.Search.Label.ViewAs":"View as",
+  "Blocks.Search.Label.Grid":"Grid",
+  "Blocks.Search.Label.List":"List",
+  "Search.Label.OrderByNewest":"Order by newest"
+}

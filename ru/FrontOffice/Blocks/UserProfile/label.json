@@ -1,0 +1,14 @@
+{
+  "Blocks.UserProfile.Label.Email":"E-mail",
+  "Blocks.UserProfile.Label.OldPassword":"Старый пароль",
+  "Blocks.UserProfile.Label.NewPassword":"Новый пароль",
+  "Blocks.UserProfile.Label.NewPasswordConfirm":"Подтвердите новый пароль",
+  "Blocks.UserProfile.Error.EmailNotValid":"Адрес e-mail не валиден.",
+  "Blocks.UserProfile.Error.EmailAlreadyInDB":"Такой e-mail уже существует.",
+  "Blocks.UserProfile.Error.PasswordConfirmNotMatch":"Пароли не совпадают.",
+  "Blocks.UserProfile.Error.OldPasswordIsWrong":"Старый пароль не верен.",
+  "Blocks.UserProfile.Success.EmailChanged":"Адрес E-mail изменен.",
+  "Blocks.UserProfile.Success.PasswordChanged":"Пароль изменен.",
+  "Blocks.UserProfile.Edit.Profile":"Редактировать профиль",
+  "Blocks.UserProfile.Edit.Login":"Редактировать учетные данные"
+}

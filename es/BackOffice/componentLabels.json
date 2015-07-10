@@ -972,8 +972,8 @@
   "gruopsField":{
     "fieldLabel":"Grupos"
   },
-  "signUpTypeField": {
-    "fieldLabel": "Sign-up type"
+  "signUpTypeField":{
+    "fieldLabel":"Sign-up type"
   },
   "defaultGroupField":{
     "fieldLabel":"Default group"
