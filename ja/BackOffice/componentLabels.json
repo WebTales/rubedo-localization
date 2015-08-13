@@ -1382,7 +1382,7 @@
     "title":"Field mapping"
   },
   "contentTypeField":{
-    "fieldLabel":"Content type"
+    "fieldLabel":"コンテンツ タイプ"
   },
   "uniqueKeyIndexField":{
     "fieldLabel":"Unique key index"
@@ -1575,7 +1575,7 @@
     "text":"Clear filters"
   },
   "contentWindow":{
-    "title":"Contents"
+    "title":"コンテンツ"
   },
   "workflowGroup":{
     "title":"Workflow"
@@ -1608,7 +1608,7 @@
     "title":"Global facet settings"
   },
   "displayFacetFieldM":{
-    "fieldLabel":"Display"
+    "fieldLabel":"ディスプレイ"
   },
   "facetOperatorField":{
     "fieldLabel":"Facet operator"
@@ -1862,7 +1862,7 @@
     "text":"Publication Date"
   },
   "versionAuthorCol":{
-    "text":"Author"
+    "text":"著者"
   },
   "createAsDraftBtn":{
     "text":"Draft"
@@ -1922,7 +1922,7 @@
     "title":"Nested content types"
   },
   "contentTypesWindow":{
-    "title":"Content types"
+    "title":"コンテンツ タイプ"
   },
   "newFieldBtn":{
     "text":"New field"
@@ -1949,7 +1949,7 @@
     "text":"Save layout"
   },
   "adminGroupCT":{
-    "title":"Administration"
+    "title":"管理"
   },
   "purgeContentTypeBtn":{
     "text":"Empty content",
@@ -2093,7 +2093,7 @@
     "text":"Size"
   },
   "authorColumn":{
-    "text":"Author"
+    "text":"著者"
   },
   "createDateColumn":{
     "text":"Creation date"
@@ -2377,7 +2377,7 @@
     "text":"Users"
   },
   "adminTab":{
-    "text":"Administration"
+    "text":"管理"
   },
   "mailColumn":{
     "text":"Email"
@@ -2386,7 +2386,7 @@
     "text":"Phone"
   },
   "addressColumn":{
-    "text":"Address"
+    "text":"住所"
   },
   "postColumn":{
     "text":"Job title"

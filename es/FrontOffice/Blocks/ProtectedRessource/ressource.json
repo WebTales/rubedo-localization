@@ -6,5 +6,6 @@
   "Blocks.ProtectedRessource.Message.Download":"Haga clic en para descargar",
   "Blocks.ProtectedRessource.Message.EmailSent":"Se ha enviado un email con tu vinculo de descarga",
   "Blocks.ProtectedRessource.Message.EmailFail":"Imposible enviarle un email con tu vínculo de descarga",
-  "Blocks.ProtectedRessource.Mail.Subject":"Carga de archivos"
+  "Blocks.ProtectedRessource.Mail.Subject":"Carga de archivos",
+  "Blocks.ProtectedRessource.MailSent":"An email with your download link has been sent"
 }

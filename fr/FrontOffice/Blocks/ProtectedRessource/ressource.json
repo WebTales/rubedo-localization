@@ -6,5 +6,6 @@
   "Blocks.ProtectedRessource.Message.Download":"Cliquez pour votre téléchargement",
   "Blocks.ProtectedRessource.Message.EmailSent":"Un email avec votre lien de téléchargement vous a été envoyé",
   "Blocks.ProtectedRessource.Message.EmailFail":"Impossible de vous envoyer un email avec votre lien de téléchargement",
-  "Blocks.ProtectedRessource.Mail.Subject":"Téléchargement de fichier"
+  "Blocks.ProtectedRessource.Mail.Subject":"Téléchargement de fichier",
+  "Blocks.ProtectedRessource.MailSent":"Un email contenant votre lien de téléchargement vient de vous être envoyé"
 }

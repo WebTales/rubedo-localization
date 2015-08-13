@@ -6,5 +6,6 @@
   "Blocks.ProtectedRessource.Message.Download":"Нажмите для загрузки",
   "Blocks.ProtectedRessource.Message.EmailSent":"Вам был отправлен E-mail со ссылкой на загрузку",
   "Blocks.ProtectedRessource.Message.EmailFail":"Невозможно выслать вам E-mail со ссылкой на загрузку",
-  "Blocks.ProtectedRessource.Mail.Subject":"Загрузка файла"
+  "Blocks.ProtectedRessource.Mail.Subject":"Загрузка файла",
+  "Blocks.ProtectedRessource.MailSent":"An email with your download link has been sent"
 }

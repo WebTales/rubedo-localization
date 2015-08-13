@@ -1,0 +1,4 @@
+{
+  "Blocks.UserProfile.error.error":"Error!",
+  "Blocks.UserProfile.error.noUser":"No connected user or supplied user id"
+}
