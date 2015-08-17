@@ -3,6 +3,7 @@
   "Blocks.UserProfile.Label.OldPassword":"Старый пароль",
   "Blocks.UserProfile.Label.NewPassword":"Новый пароль",
   "Blocks.UserProfile.Label.NewPasswordConfirm":"Подтвердите новый пароль",
+  "Blocks.UserProfile.Label.SubscribedNews":"My subscribed newsletters",
   "Blocks.UserProfile.Error.EmailNotValid":"Адрес e-mail не валиден.",
   "Blocks.UserProfile.Error.EmailAlreadyInDB":"Такой e-mail уже существует.",
   "Blocks.UserProfile.Error.PasswordConfirmNotMatch":"Пароли не совпадают.",
