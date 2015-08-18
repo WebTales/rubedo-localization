@@ -1,0 +1,11 @@
+{
+  "Blocks.Contrib.Label.NewContent":"New content",
+  "Blocks.Contrib.Label.EditContent":"Edit content",
+  "Blocks.Contrib.Label.SaveDraft":"Save as draft",
+  "Blocks.Contrib.Label.Submit":"Submit",
+  "Blocks.Contrib.Label.Publish":"Publish",
+  "Blocks.Contrib.Status.ContentUpdated":"Content updated",
+  "Blocks.Contrib.Status.ContentCreated":"Content created",
+  "Blocks.Contrib.Status.UpdateError":"Content update error",
+  "Blocks.Contrib.Status.CreateError":"Content creation error"
+}

@@ -1,0 +1,11 @@
+{
+  "Blocks.Contrib.Label.NewContent":"Nouveau Contenu",
+  "Blocks.Contrib.Label.EditContent":"Modifier le Contenu",
+  "Blocks.Contrib.Label.SaveDraft":"Enregistrer en tant que brouillon",
+  "Blocks.Contrib.Label.Submit":"Soumettre",
+  "Blocks.Contrib.Label.Publish":"Publier",
+  "Blocks.Contrib.Status.ContentUpdated":"Contenu mis à jour",
+  "Blocks.Contrib.Status.ContentCreated":"Contenu créé",
+  "Blocks.Contrib.Status.UpdateError":"Erreur lors de la mise à jour du contenu",
+  "Blocks.Contrib.Status.CreateError":"Erreur lors de la création du contenu"
+}
