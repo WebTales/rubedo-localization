@@ -1,0 +1,5 @@
+{
+  "Blocks.Subscribe.Status.Success":"Vous êtes maintenant inscrit à la ou les newsletter(s) sélectionnées",
+  "Blocks.Subscribe.Status.Fail":"Le processus d'inscription à la newsletter à échoué",
+  "Blocks.Subscribe.Status.BadEmail":"Le nom et l'email sont obligatoires"
+}
