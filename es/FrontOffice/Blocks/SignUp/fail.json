@@ -1,5 +1,6 @@
 {
   "Blocks.SignUp.fail.error":"Error!",
   "Blocks.SignUp.fail.creationFailed":"Ocurrió un error al crear la cuenta.",
-  "Blocks.SignUp.fail.captchaIsWrong":"Captcha is wrong."
+  "Blocks.SignUp.fail.captchaIsWrong":"Captcha is wrong.",
+  "Blocks.SignUp.fail.BadUserType":"Registration is disabled on this user type"
 }
