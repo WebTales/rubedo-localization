@@ -272,5 +272,8 @@
   "#ext-gen1460#":"Arrêt au survol",
   "#ext-gen1461#":"Hauteur de l'image",
   "#ext-gen1462#":"Page d'inscription",
-  "#ext-gen1463#":"Désactiver les pages de niveau un"
+  "#ext-gen1463#":"Désactiver les pages de niveau un",
+  "#ext-gen1464#":"Alignement",
+  "#ext-gen1465#":"Fallback root",
+  "#ext-gen1466#":"Désactiver les pages du niveau deux"
 }

@@ -272,5 +272,8 @@
   "#ext-gen1460#":"Stop on hover",
   "#ext-gen1461#":"Image height",
   "#ext-gen1462#":"Sign up page",
-  "#ext-gen1463#":"Disable level one pages"
+  "#ext-gen1463#":"Disable level one pages",
+  "#ext-gen1464#":"Align",
+  "#ext-gen1465#":"Fallback root",
+  "#ext-gen1466#":"Disable level two pages"
 }
