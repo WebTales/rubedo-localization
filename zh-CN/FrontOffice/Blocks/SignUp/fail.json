@@ -2,5 +2,6 @@
   "Blocks.SignUp.fail.error":"Error!",
   "Blocks.SignUp.fail.creationFailed":"Account creation failed.",
   "Blocks.SignUp.fail.captchaIsWrong":"Captcha is wrong.",
-  "Blocks.SignUp.fail.BadUserType":"Registration is disabled on this user type"
+  "Blocks.SignUp.fail.BadUserType":"Registration is disabled on this user type",
+  "Blocks.SignUp.fail.EmailUsed":"Email already used"
 }
