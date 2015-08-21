@@ -235,5 +235,6 @@
   "cancelledText":"Cancelled",
   "pendingPaymentText":"Pending payment",
   "payedText":"Payed",
+  "loadOnLaunchText":"Load on launch",
   "cacheClearedText":"Cache cleared"
 }

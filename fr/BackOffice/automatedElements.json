@@ -235,5 +235,6 @@
   "cancelledText":"Annulée",
   "pendingPaymentText":"En attente de paiement",
   "payedText":"Payée",
+  "loadOnLaunchText":"Charger à l'initialisation",
   "cacheClearedText":"Cache effacé"
 }

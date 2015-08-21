@@ -201,6 +201,10 @@
     "fieldLabel":"Archivo",
     "buttonText":"Seleccione"
   },
+  "zipFileField":{
+    "fieldLabel":"Zip file",
+    "buttonText":"Choose"
+  },
   "validateBtn":{
     "text":"Validar"
   },
@@ -780,6 +784,12 @@
   },
   "doneUploadingBtn":{
     "text":"Carga terminada"
+  },
+  "uploadBtn":{
+    "text":"Upload"
+  },
+  "downloadAsZipBtn":{
+    "text":"Download as zip"
   },
   "chooseDamTypeMassSubmitBtn":{
     "text":"Upload media of this type"

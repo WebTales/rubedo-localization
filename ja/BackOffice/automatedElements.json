@@ -235,5 +235,6 @@
   "cancelledText":"キャンセルされました",
   "pendingPaymentText":"保留中の支払い",
   "payedText":"支払い済み",
+  "loadOnLaunchText":"Load on launch",
   "cacheClearedText":"Cache cleared"
 }
