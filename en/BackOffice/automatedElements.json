@@ -234,5 +234,6 @@
     "stackingThresholdText": "Stacking threshold",
     "cancelledText":"Cancelled",
     "pendingPaymentText":"Pending payment",
-    "payedText":"Payed"
+    "payedText":"Payed",
+    "cacheClearedText":"Cache cleared"
 }
