@@ -1833,7 +1833,8 @@
         "text": "Nested content"
     },
     "vanityUrlField": {
-        "fieldLabel": "Vanity URL"
+        "fieldLabel": "Vanity URL",
+         "RTip":"Value to be used as content part in any URL diplaying this content."
     },
     "publishFieldset": {
         "title": "Publication"
