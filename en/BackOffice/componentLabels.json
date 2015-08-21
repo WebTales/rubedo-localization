@@ -1750,8 +1750,23 @@
         "fieldLabel": "Objects"
     },
     "clearCacheBtn": {
-        "text": "<b>Clear cache</b>"
+        "text": "<b>Clear all cached items</b>"
     },
+    "clearFileCacheBtn": {
+        "text": "<b>Clear file cache</b>"
+    },
+    "clearConfigCacheBtn": {
+        "text": "<b>Clear config cache</b>"
+    },
+    "clearAPICacheBtn": {
+        "text": "<b>Clear API cache</b>"
+    },
+     "clearUrlCacheBtn": {
+        "text": "<b>Clear URL cache</b>"
+    },
+  "clearObjectCacheBtn": {
+    "text": "<b>Clear Object cache</b>"
+  },
     "elasticSearchPanel": {
         "title": "Elastic Search"
     },
@@ -1833,7 +1848,8 @@
         "text": "Nested content"
     },
     "vanityUrlField": {
-        "fieldLabel": "Vanity URL"
+        "fieldLabel": "Vanity URL",
+         "RTip":"Value to be used as content part in any URL diplaying this content."
     },
     "publishFieldset": {
         "title": "Publication"
