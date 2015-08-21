@@ -234,5 +234,6 @@
   "stackingThresholdText":"スタッキングのしきい値",
   "cancelledText":"キャンセルされました",
   "pendingPaymentText":"保留中の支払い",
-  "payedText":"支払い済み"
+  "payedText":"支払い済み",
+  "cacheClearedText":"Cache cleared"
 }

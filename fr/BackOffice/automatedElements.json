@@ -234,5 +234,6 @@
   "stackingThresholdText":"Seuil d'empilement",
   "cancelledText":"Annulée",
   "pendingPaymentText":"En attente de paiement",
-  "payedText":"Payée"
+  "payedText":"Payée",
+  "cacheClearedText":"Cache effacé"
 }

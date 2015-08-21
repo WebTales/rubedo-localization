@@ -1760,6 +1760,21 @@
   "clearCacheBtn":{
     "text":"<b>Vider le cache<\/b>"
   },
+  "clearFileCacheBtn":{
+    "text":"<b>Vider le cache de fichiers<\/b>"
+  },
+  "clearConfigCacheBtn":{
+    "text":"<b>Vider le cache de configuration<\/b>"
+  },
+  "clearAPICacheBtn":{
+    "text":"<b>Vider le cache d'API<\/b>"
+  },
+  "clearUrlCacheBtn":{
+    "text":"<b>Vider le cache des URL<\/b>"
+  },
+  "clearObjectCacheBtn":{
+    "text":"<b>Vider le cache objet<\/b>"
+  },
   "elasticSearchPanel":{
     "title":"Elasticsearch"
   },
@@ -1841,7 +1856,8 @@
     "text":"Contenus Imbriqués"
   },
   "vanityUrlField":{
-    "fieldLabel":"URL courte"
+    "fieldLabel":"URL courte",
+    "RTip":"Valeur affichée pour ce contenu dans toutes les URL le concernant."
   },
   "publishFieldset":{
     "title":"Publication"
