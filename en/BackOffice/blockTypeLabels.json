@@ -290,12 +290,12 @@
     "#ext-gen1478#":"Time Threshold",
     "#ext-gen1479#":"Image options",
     "#ext-gen1480#":"Content editing",
-    "#ext-gen1481#":"<p>\u0022Category\u0022 block provides quick access to product categories. Various display options are available.<\/p>",
-    "#ext-gen1482#":"<p>The \u0022User orders\u0022 block shows to the logged customer his orders list.<\/p>",
-    "#ext-gen1483#":"<p>The \u0022Order detail\u0022 block allows you to display the order summary. The page in which this block is included will be displayed once an order is validated and when the customer wants to check the details of an order from the orders list.<\/p>",
-    "#ext-gen1484#":"<p>The \u0022Product List\u0022 block is a default list view that displays products in a grid with access to product detail and adding to cart.<\/p>",
-    "#ext-gen1485#":"<p>The \u0022Shopping Cart\u0022 block offers two display modes:<br>The button mode allows access to cart detail and proceed to checkout.<br>The detail mode allows access to checkout.<\/p>",
-    "#ext-gen1486#":"<p>The \u0022Product Search\u0022 block displays a product search page with a default layout.<\/p>",
-    "#ext-gen1487#":"<p>The \u0022Checkout\u0022 block displays a one-page checkout form.<\/p>",
-    "#ext-gen1488#":"<p>The \u0022Development\u0022 block is a container for writing your own AngularJS template code.<br>The code can mix regular HTML5 combined with AngularJS directives.<\/p>"
+    "#ext-gen1481#":"<p>'Category' block provides quick access to product categories. Various display options are available.<\/p>",
+    "#ext-gen1482#":"<p>The 'User orders' block shows to the logged customer his orders list.<\/p>",
+    "#ext-gen1483#":"<p>The 'Order detail' block allows you to display the order summary. The page in which this block is included will be displayed once an order is validated and when the customer wants to check the details of an order from the orders list.<\/p>",
+    "#ext-gen1484#":"<p>The 'Product List' block is a default list view that displays products in a grid with access to product detail and adding to cart.<\/p>",
+    "#ext-gen1485#":"<p>The 'Shopping Cart' block offers two display modes:<br>The button mode allows access to cart detail and proceed to checkout.<br>The detail mode allows access to checkout.<\/p>",
+    "#ext-gen1486#":"<p>The 'Product Search' block displays a product search page with a default layout.<\/p>",
+    "#ext-gen1487#":"<p>The 'Checkout' block displays a one-page checkout form.<\/p>",
+    "#ext-gen1488#":"<p>The 'Development' block is a container for writing your own AngularJS template code.<br>The code can mix regular HTML5 combined with AngularJS directives.<\/p>"
 }
