@@ -290,12 +290,14 @@
   "#ext-gen1478#":"Time Threshold",
   "#ext-gen1479#":"Options de l'image",
   "#ext-gen1480#":"Édition de contenu",
-  "#ext-gen1481#":"<p>'Category' block provides quick access to product categories. Various display options are available.<\/p>",
-  "#ext-gen1482#":"<p>The 'User orders' block shows to the logged customer his orders list.<\/p>",
-  "#ext-gen1483#":"<p>The 'Order detail' block allows you to display the order summary. The page in which this block is included will be displayed once an order is validated and when the customer wants to check the details of an order from the orders list.<\/p>",
-  "#ext-gen1484#":"<p>The 'Product List' block is a default list view that displays products in a grid with access to product detail and adding to cart.<\/p>",
-  "#ext-gen1485#":"<p>The 'Shopping Cart' block offers two display modes:<br>The button mode allows access to cart detail and proceed to checkout.<br>The detail mode allows access to checkout.<\/p>",
-  "#ext-gen1486#":"<p>The 'Product Search' block displays a product search page with a default layout.<\/p>",
-  "#ext-gen1487#":"<p>The 'Checkout' block displays a one-page checkout form.<\/p>",
-  "#ext-gen1488#":"<p>The 'Development' block is a container for writing your own AngularJS template code.<br>The code can mix regular HTML5 combined with AngularJS directives.<\/p>"
+  "#ext-gen1481#":"<p>Le bloc « Catégorie » fournit un accès rapide aux catégories de produits. Diverses options d'affichage sont disponibles.<\/p>",
+  "#ext-gen1482#":"<p>Le bloc « Commandes de l'utilisateur » affiche au client connecté la liste de ses commandes.<\/p>",
+  "#ext-gen1483#":"<p>Le bloc « Détail de la commande » permet d'afficher le récapitulatif d'une commande. On accède au détail d'une commande à partir d'un bloc 'Commandes de l'utilisateur'.<\/p>",
+  "#ext-gen1484#":"<p>Le bloc \"Liste de produits\" est une vue liste par défaut qui affiche les produits sous forme de grille avec l'accès au détail du produit et l'ajout direct au panier.<\/p>",
+  "#ext-gen1485#":"<p>Le bloc \"Panier\" propose deux modes d'affichage du contenu du panier. Il permet de proposer un mode bouton et un mode détail.<br>\n\nLe mode bouton permet d'accéder au détail du panier et de procéder à la validation de la commande. Le mode détail permet d'accéder à la validation de la commande.<\/br><\/p>",
+  "#ext-gen1486#":"<p>Le bloc « Recherche produit » affiche une page de recherche de produit avec une mise en page par défaut.<\/p>",
+  "#ext-gen1487#":"<p>Le bloc \"Valider mon panier\" affiche un tunnel d'achat pour les clients sur une page unique.<\/p>",
+  "#ext-gen1488#":"<p>Le bloc de « Développement » est un conteneur pour écrire votre propre code AngularJS. <br>Le code peut mélanger HTML5 régulier combiné avec des directives AngularJS.<\/p>",
+  "#ext-gen1489#":"Liste de produits",
+  "#ext-gen1490#":"Recherche pour les produits"
 }

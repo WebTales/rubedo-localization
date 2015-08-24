@@ -297,5 +297,7 @@
     "#ext-gen1485#":"<p>The 'Shopping Cart' block offers two display modes:<br>The button mode allows access to cart detail and proceed to checkout.<br>The detail mode allows access to checkout.<\/p>",
     "#ext-gen1486#":"<p>The 'Product Search' block displays a product search page with a default layout.<\/p>",
     "#ext-gen1487#":"<p>The 'Checkout' block displays a one-page checkout form.<\/p>",
-    "#ext-gen1488#":"<p>The 'Development' block is a container for writing your own AngularJS template code.<br>The code can mix regular HTML5 combined with AngularJS directives.<\/p>"
+    "#ext-gen1488#":"<p>The 'Development' block is a container for writing your own AngularJS template code.<br>The code can mix regular HTML5 combined with AngularJS directives.<\/p>",
+    "#ext-gen1489#":"Product list",
+    "#ext-gen1490#":"Product search"
 }
