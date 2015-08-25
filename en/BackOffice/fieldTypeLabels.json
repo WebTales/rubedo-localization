@@ -67,5 +67,9 @@
 	"#ext-gen1264#":"Not analyzed",
 	"#ext-gen1265#":"Return in search",
 	"#ext-gen1266#":"Use as facet",
-	"#ext-gen1267#":"Facet operator"
+	"#ext-gen1267#":"Facet operator",
+	"#ext-gen1268#":"JSON Object",
+	"#ext-gen1269#":"JSON Object",
+	"#ext-gen1270#":"Embedded image",
+	"#ext-gen1271#":"Embedded image not stored in DAM"
 }
