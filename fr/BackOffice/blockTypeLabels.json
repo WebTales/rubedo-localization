@@ -299,5 +299,8 @@
   "#ext-gen1487#":"<p>Le bloc 'Valider mon panier' affiche un tunnel d'achat pour les clients sur une page unique.<\/p>",
   "#ext-gen1488#":"<p>Le bloc de 'Développement' est un conteneur pour écrire votre propre code AngularJS. <br>Le code peut mélanger HTML5 régulier combiné avec des directives AngularJS.<\/p>",
   "#ext-gen1489#":"Liste de produits",
-  "#ext-gen1490#":"Recherche pour les produits"
+  "#ext-gen1490#":"Recherche pour les produits",
+  "#ext-gen1491#":"Hauteur minimale",
+  "#ext-gen1492#":"Contribution de contenu",
+  "#ext-gen1493#":"<p>Le bloc 'Contribution de contenu' permet à des utilisateurs connectés possédant le droit « Contributeurs de contenus FO » de créer des contenus directement dans une page<\/p>"
 }
