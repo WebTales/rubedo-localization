@@ -1,11 +1,11 @@
 {
-  "Blocks.Contrib.Label.NewContent":"New content",
-  "Blocks.Contrib.Label.EditContent":"Edit content",
-  "Blocks.Contrib.Label.SaveDraft":"Save as draft",
-  "Blocks.Contrib.Label.Submit":"Submit",
-  "Blocks.Contrib.Label.Publish":"Publish",
-  "Blocks.Contrib.Status.ContentUpdated":"Content updated",
-  "Blocks.Contrib.Status.ContentCreated":"Content created",
-  "Blocks.Contrib.Status.UpdateError":"Content update error",
-  "Blocks.Contrib.Status.CreateError":"Content creation error"
+  "Blocks.Contrib.Label.NewContent":"Neuer Inhalt",
+  "Blocks.Contrib.Label.EditContent":"Inhalt bearbeiten",
+  "Blocks.Contrib.Label.SaveDraft":"Als Entwurf speichern",
+  "Blocks.Contrib.Label.Submit":"Senden",
+  "Blocks.Contrib.Label.Publish":"Veröffentlichen",
+  "Blocks.Contrib.Status.ContentUpdated":"Inhalt aktualisiert",
+  "Blocks.Contrib.Status.ContentCreated":"Erstellte Inhalte",
+  "Blocks.Contrib.Status.UpdateError":"Fehler beim aktualisieren des Inhalts",
+  "Blocks.Contrib.Status.CreateError":"Fehler beim Erstellen des Inhalts"
 }

@@ -1,8 +1,8 @@
 {
-  "Blocks.Form.Label.New":"New",
-  "Blocks.Form.Label.Step":"Step",
-  "Blocks.Form.Label.OutOf":"out of",
-  "Blocks.Form.Label.Previous":"Previous",
-  "Blocks.Form.Label.Next":"Next",
-  "Blocks.Form.Label.Finish":"Finish"
+  "Blocks.Form.Label.New":"Neu",
+  "Blocks.Form.Label.Step":"Schritt",
+  "Blocks.Form.Label.OutOf":"von",
+  "Blocks.Form.Label.Previous":"Vorheriges",
+  "Blocks.Form.Label.Next":"Weiter",
+  "Blocks.Form.Label.Finish":"Abschließen"
 }

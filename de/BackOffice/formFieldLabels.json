@@ -1,9 +1,9 @@
 {
-  "#ext-gen1050#":"Open question",
-  "#ext-gen1051#":"<p>Open questions offer the possibility to set up an open, variable type field (numeric, comment, date, etc).<\/p>",
-  "#ext-gen1053#":"Closed question",
-  "#ext-gen1054#":"<p>A closed question is a question for which the interviewee are offered a choice among the expected answers. The closed question can be single choice or multiple choice.<\/p>",
-  "#ext-gen1056#":"Rich text",
-  "#ext-gen1057#":"<p>Rich text allows to display a text of presentation and manage its formatting. It also gives the ability to add links and media (images, videos, sounds, documents).<\/p>",
-  "#ext-gen1058#":"<h3>Rich text<\/h3>"
+  "#ext-gen1050#":"Offene Frage",
+  "#ext-gen1051#":"<p>Offene Fragen bieten die Möglichkeit, eine offenes Variablen-Typfeld (numerisch, Kommentar, Datum usw.) einzurichten.<\/p>",
+  "#ext-gen1053#":"Geschlossene Frage",
+  "#ext-gen1054#":"<p>Eine geschlosse Frage ist eine Frage, wofür den Suchenden eine Auswahl der erwarteten Antworten angeboten wird. Bei der geschlossenen Frage kann es sich um single-Choice oder multiple-Choice Antworten handeln.<\/p>",
+  "#ext-gen1056#":"Rich-Text",
+  "#ext-gen1057#":"<p>-Rich-Text erlaubt es einen Text formatiert anzuzeigen und zu verwalten. Es gibt auch die Möglichkeit Links und Medien (Bilder, Videos, Töne, Dokumente) hinzuzufügen.<\/p>",
+  "#ext-gen1058#":"<h3>Rich-text<\/h3>"
 }
