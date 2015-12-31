@@ -1,14 +1,14 @@
 {
   "FO.Administration.Toolbar.Button.EditPage":"Editar Página",
-  "FO.Administration.Toolbar.Button.User.Logout":"Log out",
+  "FO.Administration.Toolbar.Button.User.Logout":"Terminar",
   "FO.Administration.Toolbar.Button.User.Backoffice":"BackOffice",
-  "FO.Administration.Toolbar.Button.Cancel":"Cancel",
+  "FO.Administration.Toolbar.Button.Cancel":"Anular",
   "FO.Administration.Toolbar.Button.Validate":"Validar",
-  "FO.Administration.Toolbar.Button.SaveChanges":"Save changes",
+  "FO.Administration.Toolbar.Button.SaveChanges":"Guardar alterações",
   "FO.Administration.Toolbar.Status.Consultation":"Consulta",
   "FO.Administration.Toolbar.Status.Edition":"Edição",
   "FO.Administration.Toolbar.Title.Administration":"Administração",
-  "FO.Administration.Toolbar.Button.SaveChanges.Tooltip":"Press CTRL + S to save",
+  "FO.Administration.Toolbar.Button.SaveChanges.Tooltip":"Digite Ctrl + s para guardar",
   "FO.Administration.Toolbar.foEditSuccess":"Conteúdo corretamente atualizado",
   "FO.Administration.Toolbar.foSelectCtype":"Seleciona o tipo de conteúdo a juntar"
 }

@@ -8,8 +8,10 @@
   "Blocks.UserProfile.Error.EmailAlreadyInDB":"Cet e-mail existe déjà.",
   "Blocks.UserProfile.Error.PasswordConfirmNotMatch":"Les mots de passe ne correspondent pas.",
   "Blocks.UserProfile.Error.OldPasswordIsWrong":"L'ancien mot de passe est faux.",
+  "Blocks.UserProfile.Error.UserNotUpdated":"Erreur lors de la mise à jour du profil.",
   "Blocks.UserProfile.Success.EmailChanged":"L'adresse e-mail a bien été changée.",
   "Blocks.UserProfile.Success.PasswordChanged":"Le mot de passe a été changé.",
+  "Blocks.UserProfile.Success.UserUpdated":"Votre profil a été mis a jour.",
   "Blocks.UserProfile.Edit.Profile":"Éditer le profil",
   "Blocks.UserProfile.Edit.Login":"Modifier ses identifiants"
 }

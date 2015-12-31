@@ -8,8 +8,10 @@
   "Blocks.UserProfile.Error.EmailAlreadyInDB":"Такой e-mail уже существует.",
   "Blocks.UserProfile.Error.PasswordConfirmNotMatch":"Пароли не совпадают.",
   "Blocks.UserProfile.Error.OldPasswordIsWrong":"Старый пароль не верен.",
+  "Blocks.UserProfile.Error.UserNotUpdated":"Profile update error.",
   "Blocks.UserProfile.Success.EmailChanged":"Адрес E-mail изменен.",
   "Blocks.UserProfile.Success.PasswordChanged":"Пароль изменен.",
+  "Blocks.UserProfile.Success.UserUpdated":"Profile updated.",
   "Blocks.UserProfile.Edit.Profile":"Редактировать профиль",
   "Blocks.UserProfile.Edit.Login":"Редактировать учетные данные"
 }
