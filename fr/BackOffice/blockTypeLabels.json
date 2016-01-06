@@ -121,6 +121,7 @@
   "#ext-gen1251#":"<p>Le bloc « Téléchargement de média » permet de télécharger un média de façon anonyme.<\/p>",
   "#ext-gen1254#":"Média",
   "#ext-gen1255#":"Introduction",
+  "#ext-gen1256#":"Introduction des newletters",
   "#ext-gen1257#":"Téléchargement de média protégé",
   "#ext-gen1258#":"<p>Le bloc « Téléchargement de média » permet de télécharger un média  par le biais d’une invitation par e-mail.<\/p>",
   "#ext-gen1261#":"Liste de diffusion",
@@ -302,5 +303,7 @@
   "#ext-gen1490#":"Recherche pour les produits",
   "#ext-gen1491#":"Hauteur minimale",
   "#ext-gen1492#":"Contribution de contenu",
-  "#ext-gen1493#":"<p>Le bloc 'Contribution de contenu' permet à des utilisateurs connectés possédant le droit « Contributeurs de contenus FO » de créer des contenus directement dans une page<\/p>"
+  "#ext-gen1493#":"<p>Le bloc 'Contribution de contenu' permet à des utilisateurs connectés possédant le droit « Contributeurs de contenus FO » de créer des contenus directement dans une page<\/p>",
+  "#ext-gen1494#":"Données",
+  "#ext-gen1495#":"Flux RSS"
 }

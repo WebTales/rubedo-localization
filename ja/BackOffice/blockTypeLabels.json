@@ -121,6 +121,7 @@
   "#ext-gen1251#":"<p>『メディア ダウンロード』ブロックは、メディアの匿名ダウンロードを可能にします。<\/p>",
   "#ext-gen1254#":"メディア",
   "#ext-gen1255#":"はじめに",
+  "#ext-gen1256#":"Newletters introduction",
   "#ext-gen1257#":"保護されたメディアのダウンロード",
   "#ext-gen1258#":"<p>『保護されたメディアのダウンロード』ブロックにより、ユーザ は E-メール で通知を受けることによってメディアのダウンロードが可能となります。<\/p>",
   "#ext-gen1261#":"メーリング リスト",
@@ -302,5 +303,7 @@
   "#ext-gen1490#":"Product search",
   "#ext-gen1491#":"Min height",
   "#ext-gen1492#":"Content contribution",
-  "#ext-gen1493#":"<p>The 'Content contribution' block allows loged users with the write 'FO content contributor' to create contents directly into a page<\/p>"
+  "#ext-gen1493#":"<p>The 'Content contribution' block allows loged users with the write 'FO content contributor' to create contents directly into a page<\/p>",
+  "#ext-gen1494#":"Data",
+  "#ext-gen1495#":"RSS Feed"
 }
