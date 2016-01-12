@@ -59,6 +59,7 @@
   "Label.published":"Publié",
   "Label.draft":"Brouillon",
   "Label.pending":"En attente de validation",
+  "Label.refused":"Refusé",
   "Block.error":"Erreur !",
   "Block.Success":"Succès !",
   "Block.Warning":"Alerte !",

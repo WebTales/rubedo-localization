@@ -59,6 +59,7 @@
   "Label.published":"Published",
   "Label.draft":"Draft",
   "Label.pending":"Pending",
+  "Label.refused":"Refused",
   "Block.error":"Error !",
   "Block.Success":"Success !",
   "Block.Warning":"Warning !",
