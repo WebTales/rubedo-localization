@@ -1,7 +1,7 @@
 {
   "Notification.publishedBody.subject":"Le contenu  «%title% » a été publié",
   "Notification.publishedBody.hello":"Bonjour,",
-  "Notification.publishedBody.publishedBy":"La contenu «%title% » a été publié par %author%.",
+  "Notification.publishedBody.publishedBy":"Le contenu \"%title%\" à été validé par %author%.",
   "Notification.publishedBody.urlText":"Vous pouvez trouver ce contenu en back-office en suivant ce lien",
   "Notification.publishedBody.thanks":"Cordialement",
   "Notification.publishedBody.automaticMail":"Ceci est un e-mail automatique."
