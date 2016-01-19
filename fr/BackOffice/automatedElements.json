@@ -236,5 +236,11 @@
   "pendingPaymentText":"En attente de paiement",
   "payedText":"Payée",
   "loadOnLaunchText":"Charger à l'initialisation",
-  "cacheClearedText":"Cache effacé"
+  "cacheClearedText":"Cache effacé",
+  "edAll":"Tous les états",
+  "edDraft":"Brouillon",
+  "edArchived":"Archivé",
+  "edFuture":"Futur",
+  "edPublished":"Publié actuellement",
+  "edPending":"En attente de validation"
 }
