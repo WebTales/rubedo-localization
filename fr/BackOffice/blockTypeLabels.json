@@ -305,5 +305,15 @@
   "#ext-gen1492#":"Contribution de contenu",
   "#ext-gen1493#":"<p>Le bloc 'Contribution de contenu' permet à des utilisateurs connectés possédant le droit « Contributeurs de contenus FO » de créer des contenus directement dans une page<\/p>",
   "#ext-gen1494#":"Données",
-  "#ext-gen1495#":"Flux RSS"
+  "#ext-gen1495#":"Flux RSS",
+  "#ext-gen1496#":"Contextualisation",
+  "#ext-gen1497#":"Activer la contextualisation",
+  "#ext-gen1498#":"Taxonomie contextuelle",
+  "#ext-gen1499#":"Règle de taxonomie contextuelle",
+  "#ext-gen1500#":"Contient tous les termes",
+  "#ext-gen1501#":"Contient tous les termes ou au moins un descendant par terme",
+  "#ext-gen1502#":"Contient au moins un des termes",
+  "#ext-gen1503#":"Contient au moins un des termes ou au moins un descendant d'un des termes",
+  "#ext-gen1504#":"Ne contient aucun des termes suivants",
+  "#ext-gen1505#":"Ne contient aucun des termes suivants ni leurs descendants"
 }
