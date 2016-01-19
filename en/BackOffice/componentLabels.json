@@ -2426,6 +2426,67 @@
     },
     "exportOrdersBtn": {
         "text": "Export orders"
+    },
+    "editorialDasboardLaunchBtn":{
+      "text":"Editorial dashboard"
+    },
+    "activityInterfaceLaunchBtn":{
+      "text":"Activity"
+    },
+    "rssFeedsLaunchBtn":{
+      "text":"RSS Feeds"
+    },
+    "actLogInTab":{
+      "title":"Log in"
+    },
+    "activityMonitorWindow":{
+      "title":"Activity"
+    },
+    "userCol":{
+      "text":"User"
+    },
+    "logInDateCol":{
+      "text":"Log-in date"
+    },
+    "viewUserDetailABtn":{
+      "text":"View user detail"
+    },
+    "contentContribATab":{
+      "title":"Content contribution"
+    },
+    "viewContentDetailBtn1":{
+      "text":"View content detail"
+    },
+    "EditorialInterface":{
+      "title":"Editorial dashboard"
+    },
+    "viewModeBox":{
+      "title":"View mode"
+    },
+    "spdCol":{
+      "text":"Start publication"
+    },
+    "epdCol":{
+      "text":"End publication"
+    },
+    "rssFeedsInterface":{
+      "title":"RSS Feeds"
+    },
+    "getFeedLinkBtn":{
+      "text":"Get feed link"
+    },
+    "activateUField":{
+      "fieldLabel":"Activated"
+    },
+  "query1field":{
+      "fieldLabel":"Query"
+    }, "start1field":{
+      "fieldLabel":"Start"
+    }, "limit1field":{
+      "fieldLabel":"Limit"
+    }, "createNewFeedBtn":{
+      "text":"Create new feed"
+    }, "newRssWindow":{
+      "title":"New RSS Feed"
     }
-
 }

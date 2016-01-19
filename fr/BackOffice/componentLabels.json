@@ -2437,5 +2437,67 @@
   },
   "exportOrdersBtn":{
     "text":"Exporter les commandes"
-  }
+  },
+  "editorialDasboardLaunchBtn":{
+    "text":"Tableau de bord"
+  },
+  "activityInterfaceLaunchBtn":{
+    "text":"Activité"
+  },
+  "rssFeedsLaunchBtn":{
+    "text":"Flux RSS"
+  },
+  "actLogInTab":{
+    "title":"Connexion"
+  },
+  "activityMonitorWindow":{
+    "title":"Acivité"
+  },
+  "userCol":{
+    "text":"Utilisateur"
+  },
+  "logInDateCol":{
+    "text":"Date de connexion"
+  },
+  "viewUserDetailABtn":{
+    "text":"Voir le détail de l'utilisateur"
+  },
+  "contentContribATab":{
+    "title":"Contribution de contenus"
+  },
+  "viewContentDetailBtn1":{
+    "text":"Voir le détail du contenu"
+  },
+  "EditorialInterface":{
+    "title":"Tableau de bord"
+  },
+  "viewModeBox":{
+    "title":"Mode d'affichage"
+  },
+  "spdCol":{
+    "text":"Début publication"
+  },
+  "epdCol":{
+    "text":"Fin publication"
+  },
+  "rssFeedsInterface":{
+    "title":"Flux RSS"
+  },
+  "getFeedLinkBtn":{
+    "text":"Obtenir le lien"
+  },
+  "activateUField":{
+    "fieldLabel":"Activé"
+  },
+  "query1field":{
+    "fieldLabel":"Requête"
+  }, "start1field":{
+  "fieldLabel":"Sauter n résulats"
+}, "limit1field":{
+  "fieldLabel":"Limite"
+}, "createNewFeedBtn":{
+  "text":"Créer un nouveau flux"
+}, "newRssWindow":{
+  "title":"Nouveau flux RSS"
+}
 }
