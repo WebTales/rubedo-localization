@@ -71,5 +71,7 @@
   "#ext-gen1268#":"Objet JSON",
   "#ext-gen1269#":"Objet JSON",
   "#ext-gen1270#":"Image intégrée",
-  "#ext-gen1271#":"Image incorporée dans le contenu et non présente en médiathèque"
+  "#ext-gen1271#":"Image incorporée dans le contenu et non présente en médiathèque",
+  "#ext-gen1272#":"Contenu intégré",
+  "#ext-gen1273#":"Champ libre"
 }
