@@ -236,5 +236,11 @@
   "pendingPaymentText":"保留中の支払い",
   "payedText":"支払い済み",
   "loadOnLaunchText":"Load on launch",
-  "cacheClearedText":"Cache cleared"
+  "cacheClearedText":"Cache cleared",
+  "edAll":"All states",
+  "edDraft":"Draft",
+  "edArchived":"Archived",
+  "edFuture":"Future",
+  "edPublished":"Published now",
+  "edPending":"Pending validation"
 }

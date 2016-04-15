@@ -1,4 +1,4 @@
 {
-  "Blocks.UserProfile.error.error":"Error!",
-  "Blocks.UserProfile.error.noUser":"No connected user or supplied user id"
+  "Blocks.UserProfile.error.error":"Fehler!",
+  "Blocks.UserProfile.error.noUser":"Keine verbundenen Benutzer oder angegebene Benutzer id"
 }

@@ -8,5 +8,6 @@
     "Blocks.UserOrders.Status.pendingPayment": "Pending payment",
     "Blocks.UserOrders.Status.payed": "Payed",
     "Blocks.UserOrders.Status.cancelled": "Cancelled",
-    "Blocks.UserOrders.ViewDetails": "View Details"
+    "Blocks.UserOrders.ViewDetails": "View Details",
+    "Blocks.UserOrders.From":"From"
 }

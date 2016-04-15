@@ -1,11 +1,11 @@
 {
-  "Blocks.ProtectedRessource.Mail.Hello":"Hello,",
-  "Blocks.ProtectedRessource.Mail.Body":"Following your request, we are pleased to send you your download link. This one will be active 48 hours.",
-  "Blocks.ProtectedRessource.Mail.Regards":"Regards",
-  "Blocks.ProtectedRessource.Mail.signature":"The site",
-  "Blocks.ProtectedRessource.Message.Download":"Click for your download",
-  "Blocks.ProtectedRessource.Message.EmailSent":"An email with your download link had been sent to you",
-  "Blocks.ProtectedRessource.Message.EmailFail":"Impossible to send you an email with your download link",
-  "Blocks.ProtectedRessource.Mail.Subject":"File upload",
-  "Blocks.ProtectedRessource.MailSent":"An email with your download link has been sent"
+  "Blocks.ProtectedRessource.Mail.Hello":"Hallo,",
+  "Blocks.ProtectedRessource.Mail.Body":"Auf Ihre Anfrage hin, freuen wir uns, Ihnen Ihren Download-Link zu senden. Dieser ist 48 Stunden aktiv.",
+  "Blocks.ProtectedRessource.Mail.Regards":"Grüße",
+  "Blocks.ProtectedRessource.Mail.signature":"Die Website",
+  "Blocks.ProtectedRessource.Message.Download":"Klicken Sie hier für Ihren download",
+  "Blocks.ProtectedRessource.Message.EmailSent":"Eine e-Mail mit den Download-Link wurde an Sie gesendet",
+  "Blocks.ProtectedRessource.Message.EmailFail":"Es ist nicht möglich eine E-Mail mit den Download-link an Sie zu senden",
+  "Blocks.ProtectedRessource.Mail.Subject":"Datei hochladen",
+  "Blocks.ProtectedRessource.MailSent":"Eine e-Mail mit den Download-Link wurde gesendet"
 }

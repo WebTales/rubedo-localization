@@ -8,5 +8,6 @@
   "Blocks.UserOrders.Status.pendingPayment":"En attente de paiement",
   "Blocks.UserOrders.Status.payed":"Payée",
   "Blocks.UserOrders.Status.cancelled":"Annulée",
-  "Blocks.UserOrders.ViewDetails":"voir les détails"
+  "Blocks.UserOrders.ViewDetails":"voir les détails",
+  "Blocks.UserOrders.From":"À partir de"
 }

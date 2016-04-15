@@ -236,5 +236,11 @@
   "pendingPaymentText":"Pending payment",
   "payedText":"Payed",
   "loadOnLaunchText":"Load on launch",
-  "cacheClearedText":"Cache cleared"
+  "cacheClearedText":"Cache cleared",
+  "edAll":"All states",
+  "edDraft":"Draft",
+  "edArchived":"Archived",
+  "edFuture":"Future",
+  "edPublished":"Published now",
+  "edPending":"Pending validation"
 }

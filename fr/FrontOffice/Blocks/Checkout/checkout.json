@@ -14,7 +14,7 @@
   "Blocks.Checkout.Label.SaveChanges":"Enregistrer les modifications",
   "Blocks.Checkout.Label.Continue":"Continuer",
   "Blocks.Checkout.Label.SkipToNext":"Passez à l'étape suivante",
-  "Blocks.Checkout.Steps.CheckoutOptions":"Étape 1: Options de la commande",
+  "Blocks.Checkout.Steps.CheckoutOptions":"Étape 1: Identification",
   "Blocks.Checkout.Steps.ContactInformations":"Étape 2: Information de Contact",
   "Blocks.Checkout.Steps.BillingDetails":"Étape 3: Les détails de facturation",
   "Blocks.Checkout.Steps.ShippingDetails":"Étape 4: Détails d'expédition",

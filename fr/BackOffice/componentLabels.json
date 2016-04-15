@@ -2451,7 +2451,7 @@
     "title":"Connexion"
   },
   "activityMonitorWindow":{
-    "title":"Activité"
+    "title":"Acivité"
   },
   "userCol":{
     "text":"Utilisateur"
@@ -2491,13 +2491,17 @@
   },
   "query1field":{
     "fieldLabel":"Requête"
-  }, "start1field":{
-  "fieldLabel":"Sauter n résulats"
-}, "limit1field":{
-  "fieldLabel":"Limite"
-}, "createNewFeedBtn":{
-  "text":"Créer un nouveau flux"
-}, "newRssWindow":{
-  "title":"Nouveau flux RSS"
-}
+  },
+  "start1field":{
+    "fieldLabel":"Sauter n résulats"
+  },
+  "limit1field":{
+    "fieldLabel":"Limite"
+  },
+  "createNewFeedBtn":{
+    "text":"Créer un nouveau flux"
+  },
+  "newRssWindow":{
+    "title":"Nouveau flux RSS"
+  }
 }
