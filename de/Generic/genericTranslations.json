@@ -60,6 +60,8 @@
   "Label.draft":"Entwurf",
   "Label.pending":"Noch nicht genehmigt",
   "Label.refused":"Refused",
+  "Label.days":"days",
+  "Label.day":"day",
   "Block.error":"Fehler !",
   "Block.Success":"Erfolgreich!",
   "Block.Warning":"Warnung!",

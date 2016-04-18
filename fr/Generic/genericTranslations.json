@@ -60,6 +60,8 @@
   "Label.draft":"Brouillon",
   "Label.pending":"En attente de validation",
   "Label.refused":"Refusé",
+  "Label.days":"jours",
+  "Label.day":"jour",
   "Block.error":"Erreur !",
   "Block.Success":"Succès !",
   "Block.Warning":"Alerte !",

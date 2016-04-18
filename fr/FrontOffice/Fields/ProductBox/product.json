@@ -1,0 +1,6 @@
+{
+  "Fields.User.Label.OutOfStock":"Rupture de stock",
+  "Fields.User.Label.InStock":"En stock",
+  "Fields.User.Label.RessupliedBefore":"disponible dans",
+  "Fields.User.Label.SentBefore":"envoyé dans"
+}
