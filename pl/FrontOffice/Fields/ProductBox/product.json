@@ -1,0 +1,6 @@
+{
+  "Fields.User.Label.OutOfStock":"Chwilowy brak towaru w magazynie",
+  "Fields.User.Label.InStock":"W magazynie",
+  "Fields.User.Label.RessupliedBefore":"będzie dostępny za",
+  "Fields.User.Label.SentBefore":"zostanie wysłany za"
+}

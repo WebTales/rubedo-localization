@@ -1,0 +1,13 @@
+{
+  "Blocks.UserOrders.OrderNumber":"Numer zamówienia",
+  "Blocks.UserOrders.Date":"Data",
+  "Blocks.UserOrders.Price":"Cena",
+  "Blocks.UserOrders.Shipper":"Dostawca",
+  "Blocks.UserOrders.PaymentMeans":"Sposób zapłaty",
+  "Blocks.UserOrders.Status":"Status",
+  "Blocks.UserOrders.Status.pendingPayment":"Oczekuje na zapłatę",
+  "Blocks.UserOrders.Status.payed":"Zapłacone",
+  "Blocks.UserOrders.Status.cancelled":"Anulowane",
+  "Blocks.UserOrders.ViewDetails":"Zobacz szczegóły",
+  "Blocks.UserOrders.From":"Począwszy od"
+}

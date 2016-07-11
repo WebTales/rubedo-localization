@@ -1,0 +1,13 @@
+{
+  "Blocks.SignUp.emailConfirmError.fail":"Wystąpił błąd!",
+  "Blocks.SignUp.emailConfirmError.missingPasswordParameters":"Hasło utworzone nieprawidłowo",
+  "Blocks.SignUp.emailConfirmError.passwordParametersDontMatch":"Hasło nie pasuje",
+  "Blocks.SignUp.emailConfirmError.emailInUse":"Podany mail już istnieje w bazie danych.",
+  "Blocks.SignUp.emailConfirmError.unableToSendConfirmMail":"Nie można wysłać maila z potwierdzenirm",
+  "Blocks.SignUp.emailConfirmError.missingRequiredParameters":"Brak wymaganych pól",
+  "Blocks.SignUp.emailConfirmError.unknownUser":"Nie ma takiego użytkownika",
+  "Blocks.SignUp.emailConfirmError.emailAlreadyConfirmed":"Konto zostało już aktywowane",
+  "Blocks.SignUp.emailConfirmError.invalidSignUpTime":"Przekroczono czas oczekiwani",
+  "Blocks.SignUp.emailConfirmError.userUpdateFailed":"Wystąpił błąd w trakcie uaktualniania konta",
+  "Blocks.SignUp.emailConfirmError.invalidEmail":"nieprawidłowy adres mail"
+}

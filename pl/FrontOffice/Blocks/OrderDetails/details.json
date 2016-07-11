@@ -1,0 +1,21 @@
+{
+  "Blocks.OrderDetails.OrderNumber":"Zamówienie %order%",
+  "Blocks.OrderDetails.OrderReview":"Szczegóły zamówienia",
+  "Blocks.OrderDetails.BillingAddress":"Adres do faktury",
+  "Blocks.OrderDetails.ShippingAddress":"Adres do wysyłki",
+  "Blocks.OrderDetails.OrderDetails":"Szczegóły zamówienia",
+  "Blocks.OrderDetails.Table.Name":"Nazwa",
+  "Blocks.OrderDetails.Table.Cost":"Cena za sztukę",
+  "Blocks.OrderDetails.Table.Amount":"Ilość",
+  "Blocks.OrderDetails.Table.Price":"Cena",
+  "Blocks.OrderDetails.Table.Taxes":"Do zapłaty",
+  "Blocks.OrderDetails.Table.ProductsTaxes":"Cena produktu",
+  "Blocks.OrderDetails.Table.ShippingTax":"Cena przesyłki",
+  "Blocks.OrderDetails.Table.TotalPrice":"Razem do zapłaty",
+  "Blocks.OrderDetails.Table.ShippingMethod":"Sposób dostawy",
+  "Blocks.OrderDetails.Payment":"Płatność",
+  "Blocks.OrderDetails.Payment.Means":"Spósób płatności",
+  "Blocks.OrderDetails.Payment.VatEin":"VAT",
+  "Blocks.OrderDetails.Payment.Status":"Status płatności",
+  "Blocks.OrderDetails.OrderBill":"Faktura"
+}

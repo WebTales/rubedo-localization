@@ -1,0 +1,11 @@
+{
+  "Blocks.Contrib.Label.NewContent":"Nowa zawartość",
+  "Blocks.Contrib.Label.EditContent":"Modyfikuj zawartość",
+  "Blocks.Contrib.Label.SaveDraft":"Zapisz jako wersja robocza",
+  "Blocks.Contrib.Label.Submit":"Do zatwierdzenia",
+  "Blocks.Contrib.Label.Publish":"Publikuj",
+  "Blocks.Contrib.Status.ContentUpdated":"Zawartość została zaktualizowana",
+  "Blocks.Contrib.Status.ContentCreated":"Stworzono nową zawartość",
+  "Blocks.Contrib.Status.UpdateError":"Wystąpił błąd – zawartość nie została zaktualizowana",
+  "Blocks.Contrib.Status.CreateError":"Wystąpił błąd – zawartość nie została stworzona"
+}

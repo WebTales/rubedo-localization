@@ -1,0 +1,6 @@
+{
+  "Error.Label.UnknownBlock":"Nieznany blok",
+  "Error.Label.UnknownFileType":"Nieznany rodzaj pliku",
+  "Error.Label.UnknownField":"Nieznane pole",
+  "Error.Label.Http404":"Error 404: strony nie znaleziono"
+}

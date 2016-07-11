@@ -1,0 +1,7 @@
+{
+  "Blocks.SignUp.fail.error":"Wstąpił błąd!",
+  "Blocks.SignUp.fail.creationFailed":"Nie udało się stworzyć konta.",
+  "Blocks.SignUp.fail.captchaIsWrong":"Nieprawidłowy kod CAPTCHA.",
+  "Blocks.SignUp.fail.BadUserType":"Nie można utworzyć podanego użytkownika",
+  "Blocks.SignUp.fail.EmailUsed":"Podany adres mail już istnieje w bazie danych"
+}

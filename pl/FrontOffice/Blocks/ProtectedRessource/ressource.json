@@ -1,0 +1,11 @@
+{
+  "Blocks.ProtectedRessource.Mail.Hello":"Dzień dobry,",
+  "Blocks.ProtectedRessource.Mail.Body":"Dziękujemy za złożenie zamówienia. Przesyłamy link do pobrania zakupionej zawartości. Będzie on aktywny w czasie 48 godzin.",
+  "Blocks.ProtectedRessource.Mail.Regards":"Pozdrawiamy serdecznie",
+  "Blocks.ProtectedRessource.Mail.signature":"Strona internetowa",
+  "Blocks.ProtectedRessource.Message.Download":"Kliknij, aby pobrać",
+  "Blocks.ProtectedRessource.Message.EmailSent":"Mail z linkiem do pobrania został wysłany",
+  "Blocks.ProtectedRessource.Message.EmailFail":"Wystąpił błąd – nie można wysłać maila z linkiem do pobrania",
+  "Blocks.ProtectedRessource.Mail.Subject":"Link do pobrania",
+  "Blocks.ProtectedRessource.MailSent":"Mail z linkiem do pobrania został wysłany"
+}

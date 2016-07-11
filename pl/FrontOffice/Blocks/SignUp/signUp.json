@@ -1,0 +1,8 @@
+{
+  "Blocks.SignUp.label.name":"Nazwisko",
+  "Blocks.SignUp.label.password":"Hasło",
+  "Blocks.SignUp.label.confirmPassword":"Potwierdź hasło",
+  "Blocks.SignUp.Label.Captcha":"Captcha",
+  "Blocks.SignUp.label.signUp":"Utwórz konto",
+  "Blocks.SignUp.label.mailingList":"Chcę otrzymywać newsletter"
+}

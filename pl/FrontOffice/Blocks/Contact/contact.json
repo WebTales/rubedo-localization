@@ -1,0 +1,12 @@
+{
+  "Blocks.Contact.Label.YourEmailWasSuccessfullySent":"Mail został wysłan",
+  "Blocks.Contact.Input.Name.Label":"Nazwisko *",
+  "Blocks.Contact.Input.Email.Label":"Email *",
+  "Blocks.Contact.Input.Subject.Label":"Temat *",
+  "Blocks.Contact.Input.Message.Label":"Wiadomość *",
+  "Blocks.Contact.Input.Captcha.Label":"Proszę przepisać podany kod:",
+  "Blocks.Contact.Input.Submit.Label":"Zatwierdź",
+  "Blocks.Contact.Input.Error.CanNotBeEmpty":"To pole nie może być puste",
+  "Blocks.Contact.Input.Error.EmailAddress":"To pole nie może być puste, proszę podać mail w formie: przyklad@domena.kraj",
+  "Blocks.Contact.Input.Error.BadCaptcha":"Kod nie zgadza się z obrazkiem"
+}

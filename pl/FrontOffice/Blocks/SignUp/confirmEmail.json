@@ -1,0 +1,10 @@
+{
+  "Blocks.SignUp.confirmEmail.subject":"Utwórz nowe konto",
+  "Blocks.SignUp.confirmEmail.hello":"Dzień dobry %name%,",
+  "Blocks.SignUp.confirmEmail.clickFollowing":"Aby zaktywować konto, proszę kliknąć:",
+  "Blocks.SignUp.confirmEmail.confirmLink":"Proszę potwierdzić adres emial",
+  "Blocks.SignUp.confirmEmail.thanks":"Pozdrawiamy serdecznie",
+  "Blocks.SignUp.confirmEmail.automatedMail":"Email wysłany automatycznie.",
+  "Blocks.SignUp.confirmEmail.emailRequired":"Aby aktywać konto wymagane jst potwierdzienie adresu email.",
+  "Blocks.SignUp.confirmEmail.emailSent":"Email z potwierdzeniem został wysłany na podany adres mailowy."
+}

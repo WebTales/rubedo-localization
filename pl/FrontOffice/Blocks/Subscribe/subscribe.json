@@ -1,0 +1,5 @@
+{
+  "Blocks.Subscribe.Status.Success":"Zapisałeś się na podany newsletter(s)",
+  "Blocks.Subscribe.Status.Fail":"Nie udało się zpisać na newsletter",
+  "Blocks.Subscribe.Status.BadEmail":"Nie udało się zpisać na newsletter"
+}

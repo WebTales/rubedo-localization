@@ -1,0 +1,17 @@
+{
+  "Blocks.UserProfile.Label.Email":"Email",
+  "Blocks.UserProfile.Label.OldPassword":"Stare hasło",
+  "Blocks.UserProfile.Label.NewPassword":"Nowe hasło",
+  "Blocks.UserProfile.Label.NewPasswordConfirm":"Potwierdź nowe hasło",
+  "Blocks.UserProfile.Label.SubscribedNews":"Moje newslettery",
+  "Blocks.UserProfile.Error.EmailNotValid":"Nieprawidłowy adres email.",
+  "Blocks.UserProfile.Error.EmailAlreadyInDB":"Podany adres email już istnieje w bazie danych.",
+  "Blocks.UserProfile.Error.PasswordConfirmNotMatch":"Podane hasła nie są takie same.",
+  "Blocks.UserProfile.Error.OldPasswordIsWrong":"Nieprawidłowe stare hasło.",
+  "Blocks.UserProfile.Error.UserNotUpdated":"Wystąpił błąd w czasie aktualizaji danch użytkownika.",
+  "Blocks.UserProfile.Success.EmailChanged":"Adres mail został zmieniony.",
+  "Blocks.UserProfile.Success.PasswordChanged":"Hasło zostało zmienione.",
+  "Blocks.UserProfile.Success.UserUpdated":"Dane użytkownika zostały zaktualizowan.",
+  "Blocks.UserProfile.Edit.Profile":"Modyfikuj dane użytkownika",
+  "Blocks.UserProfile.Edit.Login":"Zmień login"
+}
