@@ -2503,5 +2503,17 @@
   },
   "newRssWindow":{
     "title":"Nouveau flux RSS"
+  },
+  "urlFieldOption": {
+    "fieldLabel": "Ouvrir dans un nouvel onglet"
+  },
+  "signUpModerationBtnGroup":{
+    "title":"Modèration d'inscription"
+  },
+  "approveSignUpBtn":{
+    "text":"Approuver"
+  },
+  "denySignUpBtn":{
+    "text":"Refuser"
   }
 }

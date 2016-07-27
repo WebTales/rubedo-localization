@@ -2488,5 +2488,17 @@
       "text":"Create new feed"
     }, "newRssWindow":{
       "title":"New RSS Feed"
-    }
+    },
+  "urlFieldOption": {
+    "fieldLabel": "Open in new tab"
+  },
+  "signUpModerationBtnGroup":{
+    "title":"Sign-up moderation"
+  },
+  "approveSignUpBtn":{
+    "text":"Approve"
+  },
+  "denySignUpBtn":{
+    "text":"Deny"
+  }
 }
