@@ -2515,5 +2515,17 @@
   },
   "denySignUpBtn":{
     "text":"Refuser"
+  },
+  "pagesPersoForm":{
+    "title":"Personalisation"
+  },
+  "philtersFieldset":{
+    "title":"Philtres"
+  },
+  "eventsFieldset":{
+    "title":"Evenements"
+  },
+  "pageViewField":{
+    "fieldLabel":"Vue de la page"
   }
 }
