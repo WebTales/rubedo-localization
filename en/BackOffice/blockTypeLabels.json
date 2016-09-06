@@ -324,6 +324,11 @@
     "#ext-gen1511#":"Event Pie",
     "#ext-gen1512#":"Event Time series",
     "#ext-gen1513#":"Title",
-    "#ext-gen1514#":"Description"
+    "#ext-gen1514#":"Description",
+    "#ext-gen1515#":"Recommended contents",
+    "#ext-gen1516#":"Display image",
+    "#ext-gen1517#":"Use detail content",
+    "#ext-gen1518#":"History size",
+    "#ext-gen1519#":"History depth"
 
 }
