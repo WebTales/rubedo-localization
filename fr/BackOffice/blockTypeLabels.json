@@ -315,5 +315,14 @@
   "#ext-gen1502#":"Contient au moins un des termes",
   "#ext-gen1503#":"Contient au moins un des termes ou au moins un descendant d'un des termes",
   "#ext-gen1504#":"Ne contient aucun des termes suivants",
-  "#ext-gen1505#":"Ne contient aucun des termes suivants ni leurs descendants"
+  "#ext-gen1505#":"Ne contient aucun des termes suivants ni leurs descendants",
+  "#ext-gen1506#":"Event",
+  "#ext-gen1507#":"Facet",
+  "#ext-gen1508#":"Interval (days)",
+  "#ext-gen1509#":"Granularity",
+  "#ext-gen1510#":"Event MAP",
+  "#ext-gen1511#":"Event Pie",
+  "#ext-gen1512#":"Event Time series",
+  "#ext-gen1513#":"Title",
+  "#ext-gen1514#":"Description"
 }
