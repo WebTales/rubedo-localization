@@ -202,8 +202,8 @@
     "buttonText":"Seleccione"
   },
   "zipFileField":{
-    "fieldLabel":"Zip file",
-    "buttonText":"Choose"
+    "fieldLabel":"Archivo Zip",
+    "buttonText":"Elegir"
   },
   "validateBtn":{
     "text":"Validar"
@@ -422,13 +422,13 @@
     "text":"Impuestos"
   },
   "stockLaunchBtn":{
-    "text":"Stock"
+    "text":"Inventario"
   },
   "pmLaunchBtn":{
     "text":"Formas de pago"
   },
   "ordersLaunchBtn":{
-    "text":"Orders"
+    "text":"Pedidos"
   },
   "newUserWindow":{
     "title":"Nuevo usuario"
@@ -669,10 +669,10 @@
     "title":"Manage subscribed users"
   },
   "subscribeBtn":{
-    "text":"Subscribe"
+    "text":"Suscribirse"
   },
   "unsubscribeBtn":{
-    "text":"Unsubscribe"
+    "text":"Anular suscripción"
   },
   "exportBtn":{
     "text":"Exportar"
@@ -681,22 +681,22 @@
     "title":"Propiedades"
   },
   "expeditorFieldset":{
-    "title":"Sender"
+    "title":"Remitente"
   },
   "expeditorAdressField":{
-    "fieldLabel":"Sender's address"
+    "fieldLabel":"Dirección del remitente"
   },
   "expeditorNameField":{
-    "fieldLabel":"Sender's name"
+    "fieldLabel":"Nombre del remitente"
   },
   "responseFieldset":{
-    "title":"Reply"
+    "title":"Responder"
   },
   "replyToAdressField":{
-    "fieldLabel":"Reply address"
+    "fieldLabel":"Dirección de respuesta"
   },
   "replyToNameField":{
-    "fieldLabel":"Reply name"
+    "fieldLabel":"Nombre de la respuesta"
   },
   "returnPathAdressField":{
     "fieldLabel":"Return path address"
@@ -2503,5 +2503,29 @@
   },
   "newRssWindow":{
     "title":"New RSS Feed"
+  },
+  "urlFieldOption":{
+    "fieldLabel":"Open in new tab"
+  },
+  "signUpModerationBtnGroup":{
+    "title":"Sign-up moderation"
+  },
+  "approveSignUpBtn":{
+    "text":"Approve"
+  },
+  "denySignUpBtn":{
+    "text":"Deny"
+  },
+  "pagesPersoForm":{
+    "title":"Personalization"
+  },
+  "philtersFieldset":{
+    "title":"Philters"
+  },
+  "eventsFieldset":{
+    "title":"Events"
+  },
+  "pageViewField":{
+    "fieldLabel":"Page view"
   }
 }

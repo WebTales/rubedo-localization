@@ -1,6 +1,6 @@
 {
-  "Backoffice.Exports.Orders.OrderNumber":"Order number",
-  "Backoffice.Exports.Orders.PaymentMean":"Payment mean",
+  "Backoffice.Exports.Orders.OrderNumber":"Numero de Orden",
+  "Backoffice.Exports.Orders.PaymentMean":"Pago Significa",
   "Backoffice.Exports.Orders.Status":"Estado",
   "Backoffice.Exports.Orders.PriceInclTax":"Precio Final Incl. Impuestos",
   "Backoffice.Exports.Orders.PriceExclTax":"Precio Final Excl. Impuestos",
@@ -18,7 +18,7 @@
   "Backoffice.Exports.Orders.ShippingRegionState":"Estado \/ Region de Envio",
   "Backoffice.Exports.Orders.ProductName":"Nombre de Producto",
   "Backoffice.Exports.Orders.ProductSubtitle":"Subtítulos de producto",
-  "Backoffice.Exports.Orders.ProductAmount":"Product amount",
+  "Backoffice.Exports.Orders.ProductAmount":"Cantidad de productos",
   "Backoffice.Exports.Orders.UnitPriceInclTax":"Precio Unitario Incl. IVA",
   "Backoffice.Exports.Orders.UnitPriceExclTax":"Precio Unitario Excl. IVA",
   "Backoffice.Exports.Orders.ProductPriceInclTax":"Precio de Producto Incl. IVA",

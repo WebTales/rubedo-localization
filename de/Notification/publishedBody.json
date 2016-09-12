@@ -1,8 +1,8 @@
 {
   "Notification.publishedBody.subject":"Content published \"%title%\"",
-  "Notification.publishedBody.hello":"Good morning,",
+  "Notification.publishedBody.hello":"Guten Morgen,",
   "Notification.publishedBody.publishedBy":"The content \"%title%\" has been validated by %author%.",
   "Notification.publishedBody.urlText":"You can find this content in back-office by following this link",
-  "Notification.publishedBody.thanks":"Best regards",
+  "Notification.publishedBody.thanks":"Beste Grüße",
   "Notification.publishedBody.automaticMail":"This is an automatic email."
 }

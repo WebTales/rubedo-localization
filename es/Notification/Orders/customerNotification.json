@@ -1,9 +1,9 @@
 {
-  "Notification.Orders.CustomerNotification.Create.Subject":"Thanks for your order",
-  "Notification.Orders.CustomerNotification.Update.Subject":"Order status has been changed",
-  "Notification.Orders.ShopNotification.Create.Subject":"Your shop %site% has new order",
+  "Notification.Orders.CustomerNotification.Create.Subject":"Gracias por tu pedido",
+  "Notification.Orders.CustomerNotification.Update.Subject":"El estado del pedido ha cambiado",
+  "Notification.Orders.ShopNotification.Create.Subject":"Tu tienda %site% tiene un nuevo pedido",
   "Notification.Orders.ShopNotification.Hello":"Hola,",
-  "Notification.Orders.ShopNotification.Body":"A new order as been recorded. Please view the summary below.",
-  "Notification.Orders.CustomerNotification.DearUser":"Dear %name%,",
-  "Notification.Orders.CustomerNotification.Body":"Thanks for your order \"%orderNumber%\" on <a href=\"http:\/\/%siteUrl%\">%siteName%<\/a>. Your order has now the status \"%status%\". Please view the summary below."
+  "Notification.Orders.ShopNotification.Body":"Se ha registrado un nuevo pedido. Puedes ver el resumen a continuación.",
+  "Notification.Orders.CustomerNotification.DearUser":"Estimado %name%,",
+  "Notification.Orders.CustomerNotification.Body":"Gracias por tu pedido %orderNumber% en <a href=\"http:\/\/%siteUrl%\">%siteName%<\/a>. El pedido está en estado \"%status%\". Puedes ver el resumen a continuación."
 }

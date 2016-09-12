@@ -1,5 +1,5 @@
 {
-  "Blocks.UserOrders.OrderNumber":"Order number",
+  "Blocks.UserOrders.OrderNumber":"Numero de Orden",
   "Blocks.UserOrders.Date":"Fecha",
   "Blocks.UserOrders.Price":"Precio",
   "Blocks.UserOrders.Shipper":"Shipper",
@@ -9,5 +9,5 @@
   "Blocks.UserOrders.Status.payed":"Payed",
   "Blocks.UserOrders.Status.cancelled":"Cancelled",
   "Blocks.UserOrders.ViewDetails":"View Details",
-  "Blocks.UserOrders.From":"From"
+  "Blocks.UserOrders.From":"De"
 }

@@ -1,5 +1,5 @@
 {
-  "Blocks.SignUp.emailConfirmError.fail":"Error!",
+  "Blocks.SignUp.emailConfirmError.fail":"Fehler!",
   "Blocks.SignUp.emailConfirmError.missingPasswordParameters":"Missing password parameters",
   "Blocks.SignUp.emailConfirmError.passwordParametersDontMatch":"Password parameters don't match",
   "Blocks.SignUp.emailConfirmError.emailInUse":"Email already in use.",

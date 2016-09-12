@@ -1,8 +1,8 @@
 {
   "Notification.pendingBody.subject":"Submission of a content for approval \"%title%\"",
-  "Notification.pendingBody.hello":"Good morning,",
+  "Notification.pendingBody.hello":"Guten Morgen,",
   "Notification.pendingBody.submittedBy":"The content \"%title%\" has been submitted for approval by %author%",
   "Notification.pendingBody.urlText":"You can find this content in back-office by following this link",
-  "Notification.pendingBody.thanks":"Best regards",
+  "Notification.pendingBody.thanks":"Beste Grüße",
   "Notification.pendingBody.automaticMail":"This is an automatic email."
 }

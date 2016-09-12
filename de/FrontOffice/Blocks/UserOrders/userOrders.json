@@ -1,9 +1,9 @@
 {
-  "Blocks.UserOrders.OrderNumber":"Order number",
-  "Blocks.UserOrders.Date":"Date",
-  "Blocks.UserOrders.Price":"Price",
+  "Blocks.UserOrders.OrderNumber":"Bestell-Nr",
+  "Blocks.UserOrders.Date":"Datum",
+  "Blocks.UserOrders.Price":"Preis",
   "Blocks.UserOrders.Shipper":"Shipper",
-  "Blocks.UserOrders.PaymentMeans":"Payment means",
+  "Blocks.UserOrders.PaymentMeans":"Zahlungsmittel",
   "Blocks.UserOrders.Status":"Status",
   "Blocks.UserOrders.Status.pendingPayment":"Pending payment",
   "Blocks.UserOrders.Status.payed":"Payed",

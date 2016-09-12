@@ -21,10 +21,10 @@
     "text":"Скрыть"
   },
   "rearangeAllIconsBtn":{
-    "text":"Automatically rearrange"
+    "text":"Автоматически разместить"
   },
   "CustomizeBtn":{
-    "text":"Customize"
+    "text":"Настроить"
   },
   "wallpapaerPickerBtn":{
     "text":"Поместить на рабочий стол"
@@ -96,13 +96,13 @@
     "fieldLabel":"Term "
   },
   "indexedElementsWindow":{
-    "title":"Indexed elements"
+    "title":"Индексированные элементы"
   },
   "okBtn":{
     "text":"<b>OK<\/b>"
   },
   "imagePickerChangeBtn":{
-    "tooltip":"Choose a media"
+    "tooltip":"Выбрать"
   },
   "imagePickerClearBtn":{
     "tooltip":"Снять выделение"
@@ -111,7 +111,7 @@
     "text":"Создать ярлык на рабочем столе"
   },
   "newDamTypeWindow":{
-    "title":"New media type"
+    "title":"Новый тип материала"
   },
   "newDamTypeNameField":{
     "fieldLabel":"Название "
@@ -120,28 +120,28 @@
     "fieldLabel":"Главный тип файла"
   },
   "newDamTypeSubmitBtn":{
-    "text":"Create a new type of media"
+    "text":"Создать новый тип материала"
   },
   "qbs3":{
-    "title":"Choice of the criteria on fields"
+    "title":"Выбор критерия на поля"
   },
   "qbs3ruleadder":{
-    "fieldLabel":"Add a rule on "
+    "fieldLabel":"Добавить правило на "
   },
   "qbs3auxbtn":[
     
   ],
   "qbFinalRecStagePanel":{
-    "title":"Summary and saving"
+    "title":"Отчет и сохранение"
   },
   "qbRecapFieldset":{
-    "title":"<b>Summary<\/b>"
+    "title":"<b>Отчет<\/b>"
   },
   "queryNameField":{
-    "fieldLabel":"Query name"
+    "fieldLabel":"Имя запроса"
   },
   "saveQBQueryBtn":{
-    "text":"<b>Save this query<\/b>"
+    "text":"<b>Сохранить запрос<\/b>"
   },
   "addMTFieldWindow":{
     "title":"Добавить поле"
@@ -159,267 +159,267 @@
     "text":"<b>Выберите это содежимое<\/b>"
   },
   "qbs4":{
-    "title":"Choice of sorting on fields"
+    "title":"Выбор сортировки полей"
   },
   "qbs4sortBtn":{
-    "fieldLabel":"Add a sort on "
+    "fieldLabel":"Добавить сортировку "
   },
   "qbs4auxbtn":[
     
   ],
   "u1TitleColumn":{
-    "text":"Title"
+    "text":"Заголовок"
   },
   "u1TypeColumn":{
-    "text":"Type"
+    "text":"Тип"
   },
   "u1StatusColumn":{
-    "text":"State"
+    "text":"Состояние"
   },
   "u1OnlineColumn":{
     "text":"Online"
   },
   "gfsUploadFileBtn":{
-    "tooltip":"Upload a file"
+    "tooltip":"Загрузить файл"
   },
   "gfsDeleteFileBtn":{
-    "tooltip":"Delete the file"
+    "tooltip":"Удалить файл"
   },
   "gfsDownloadFileBtn":{
-    "tooltip":"Download the file"
+    "tooltip":"Скачать файл"
   },
   "gfsPreviewFileBtn":{
-    "tooltip":"Display in detail"
+    "tooltip":"Отобразить подробнее"
   },
   "fieldEditlocBtn":{
-    "tooltip":"Edit the file"
+    "tooltip":"Редактировать файл"
   },
   "gfsUploadWindow":{
-    "title":"Upload"
+    "title":"Загрузить"
   },
   "fileField":{
-    "fieldLabel":"File",
-    "buttonText":"Choose"
+    "fieldLabel":"Файл",
+    "buttonText":"Выбрать"
   },
   "zipFileField":{
-    "fieldLabel":"Zip file",
-    "buttonText":"Choose"
+    "fieldLabel":"Zip-файл",
+    "buttonText":"Выбрать"
   },
   "validateBtn":{
-    "text":"Validate"
+    "text":"Проверить"
   },
   "cancelBtn":{
     "text":"Отмена"
   },
   "wizardPrevBtn":{
-    "text":"Previous"
+    "text":"Предыдущий"
   },
   "wizardNextBtn":{
-    "text":"Next"
+    "text":"Следующий"
   },
   "queryWindow":{
-    "title":"Queries"
+    "title":"Запросы"
   },
   "editBtn":{
-    "text":"Edit"
+    "text":"Редактировать"
   },
   "manualQueryWindow":{
-    "title":"Manual query"
+    "title":"Ручной запрос"
   },
   "addQBtn":{
-    "text":"Add"
+    "text":"Добавить"
   },
   "removeQbtn":{
-    "text":"Remove"
+    "text":"Удалить"
   },
   "saveManualQueryBtn":{
-    "text":"Save query"
+    "text":"Сохранить запрос"
   },
   "queryTypeChooseWindow":{
-    "title":"Choose a query type"
+    "title":"Выбрать тип запроса"
   },
   "chooseManualQueryBtn":{
-    "text":"Manual query"
+    "text":"Ручной запрос"
   },
   "ChooseSimpleQueryBtn":{
-    "text":"Simple query"
+    "text":"Простой запрос"
   },
   "chooseAdvancedQueryBtn":{
-    "text":"Advanced query"
+    "text":"Расширенный запрос"
   },
   "chooseDamTypeWindow":{
-    "title":"Choose a media type"
+    "title":"Выбрать тип материала"
   },
   "chooseDamTypeField":{
-    "fieldLabel":"Type"
+    "fieldLabel":"Тип"
   },
   "chooseDamTypeSubmitBtn":{
-    "text":"Create a new media of this type"
+    "text":"Создать новый материал этого типа"
   },
   "newWorkspaceWindow":{
-    "title":"New workspace"
+    "title":"Новая рабочая область"
   },
   "createNewWorkspaceBtn":{
-    "text":"Create a new workspace"
+    "text":"Создать новую рабочую область"
   },
   "newTermWindow":{
     "title":"New term"
   },
   "workspaceField":{
-    "fieldLabel":"Workspaces"
+    "fieldLabel":"Рабочие области"
   },
   "maskSaveChoiceWindow":{
-    "title":"This mask is used by pages"
+    "title":"Этот тип используется в разделах"
   },
   "maskSaveChoice1Btn":{
-    "text":"Save and reflect the changes on all pages"
+    "text":"Сохранить и применить изменения на всех разделах"
   },
   "maskSaveChoice2Btn":{
-    "text":"Save as a new mask"
+    "text":"Сохранить как новый тип раздела"
   },
   "mediaQueryAssistant":{
-    "title":"Querying on media Wizard"
+    "title":"Запрос Мастера материалов"
   },
   "mqs1":{
-    "title":"Choice of media types"
+    "title":"Выбор типа материала"
   },
   "mediaTypesField":{
-    "fieldLabel":"Media types"
+    "fieldLabel":"Типы материалов"
   },
   "mqS2":{
-    "title":"Choice of rules on taxonomy"
+    "title":"Выбор правил классификации"
   },
   "mqls":{
-    "title":"Save"
+    "title":"Сохранить"
   },
   "saveBtn":{
-    "text":"Save"
+    "text":"Сохранить"
   },
   "chooseBtn":{
-    "text":"Choose"
+    "text":"Выбрать"
   },
   "modifyBtn":{
-    "text":"Edit"
+    "text":"Редактировать"
   },
   "lcFieldAdress":{
-    "fieldLabel":"Address"
+    "fieldLabel":"Адрес"
   },
   "lcFieldAltitude":{
-    "fieldLabel":"Altitude"
+    "fieldLabel":"Высота"
   },
   "lcFieldLatitude":{
-    "fieldLabel":"Latitude"
+    "fieldLabel":"Широта"
   },
   "lcFieldLongitude":{
-    "fieldLabel":"Longitude"
+    "fieldLabel":"Долгота"
   },
   "sessionExpiringWindow":{
-    "title":"Your session will soon expire"
+    "title":"Ваша сессия скоро будет прекращена"
   },
   "sessionRenewWindow":{
-    "text":"Renew my session"
+    "text":"Обновить сессию"
   },
   "sessionExpiredWindow":{
-    "title":"Your session has expired"
+    "title":"Ваша сессия прекращена"
   },
   "reconnectBtn":{
-    "text":"Connect again"
+    "text":"Запустить снова"
   },
   "gfsUploadBtn":{
-    "tooltip":"Upload a file"
+    "tooltip":"Загрузить файл"
   },
   "gfsRemoveFileBtn":{
-    "tooltip":"Delete the file"
+    "tooltip":"Удалить файл"
   },
   "gfsDownloadBtn":{
-    "tooltip":"Download the file"
+    "tooltip":"Скачать файл"
   },
   "gfsHelpBtn":{
     "tooltip":"Main media file. Mandatory."
   },
   "gfsEditBtn":{
-    "tooltip":"Edit the file"
+    "tooltip":"Редактировать файл"
   },
   "pagesLaunchBtn":{
-    "text":"Pages"
+    "text":"Разделы"
   },
   "previewLaunchBtn":{
-    "text":"Preview"
+    "text":"Предварительный просмотр"
   },
   "contentsLaunchBtn":{
-    "text":"Contents"
+    "text":"Содержимое"
   },
   "DAMLaunchBtn":{
     "text":"DAM"
   },
   "studioMenuBtn":{
-    "text":"Studio"
+    "text":"Студия"
   },
   "adminLenuBtn":{
-    "text":"Administration"
+    "text":"Администрирование"
   },
   "mySettingsLaunchBtn":{
-    "text":"Settings"
+    "text":"Настройки"
   },
   "logoutBtn":{
-    "text":"Logout"
+    "text":"Выход"
   },
   "sitesLaunchBtn":{
-    "text":"Sites"
+    "text":"Сайты"
   },
   "masksLaunchBtn":{
-    "text":"Page masks"
+    "text":"Типы разделов"
   },
   "emailsLaunchBtn":{
-    "text":"Emails"
+    "text":"Email-ы"
   },
   "contentTypesLaunchBtn":{
-    "text":"Content types"
+    "text":"Типы содержимого"
   },
   "damTypesLaunchBtn":{
-    "text":"Media types"
+    "text":"Типы материалов"
   },
   "userTypesLaunchBtn":{
-    "text":"User types"
+    "text":"Типы пользователей"
   },
   "queriesLaunchBtn":{
-    "text":"Queries"
+    "text":"Запросы"
   },
   "taxonomyLaunchBtn":{
-    "text":"Taxonomy"
+    "text":"Таксономия"
   },
   "groupsLaunchBtn":{
-    "text":"Groups"
+    "text":"Группы"
   },
   "workspacesLaunchBtn":{
-    "text":"Workspaces"
+    "text":"Рабочие области"
   },
   "usersLaunchBtn":{
-    "text":"Users"
+    "text":"Пользователи"
   },
   "monitoringLaunchBtn":{
-    "text":"Monitoring"
+    "text":"Мониторинг"
   },
   "workflowsLaunchBtn":{
-    "text":"Workflows"
+    "text":"Цепочки публикации"
   },
   "importLaunchBtn":{
-    "text":"Import"
+    "text":"Импорт"
   },
   "mailingListsLaunchBtn":{
-    "text":"Mailing lists"
+    "text":"Почтовые рассылки"
   },
   "languagesLaunchBtn":{
-    "text":"Languages"
+    "text":"Языки"
   },
   "applicationLogsLaunchBtn":{
-    "text":"Application logs"
+    "text":"Журнал приложений"
   },
   "shippersLaunchBtn":{
-    "text":"Shippers"
+    "text":"Поставщики"
   },
   "taxesLaunchBtn":{
-    "text":"Taxes"
+    "text":"Налоги"
   },
   "stockLaunchBtn":{
     "text":"Stock"
@@ -428,58 +428,58 @@
     "text":"Payment means"
   },
   "ordersLaunchBtn":{
-    "text":"Orders"
+    "text":"Заказы"
   },
   "newUserWindow":{
-    "title":"New user"
+    "title":"Новый пользователь"
   },
   "emailField":{
     "fieldLabel":"E-mail "
   },
   "userAccountField":{
-    "fieldLabel":"User account "
+    "fieldLabel":"Аккаунт пользователя "
   },
   "fieldPanel":{
-    "title":"Fields"
+    "title":"Поля"
   },
   "picUploadWindow":{
-    "title":"Upload an image"
+    "title":"Загрузить изображение"
   },
   "rteConfigWindow":{
-    "title":"Rich text editor"
+    "title":"Расширенный текстовый редактор"
   },
   "emFieldURL":{
     "fieldLabel":"URL"
   },
   "emFieldMaxWidth":{
-    "fieldLabel":"Max width"
+    "fieldLabel":"Максимальная ширина"
   },
   "emFieldMAxHeight":{
-    "fieldLabel":"Max height"
+    "fieldLabel":"Максимальная высота"
   },
   "confirmDeleteWindow":{
-    "title":"Deletion confirmation"
+    "title":"Подтверждение удаления"
   },
   "confirmDeleteYes":{
-    "text":"Yes"
+    "text":"Да"
   },
   "confirmDeleteNo":{
-    "text":"No"
+    "text":"Нет"
   },
   "addBlockWindow":{
-    "title":"Add a block"
+    "title":"Добавить блок"
   },
   "addBlockTypeColumn":{
-    "text":"Type"
+    "text":"Тип"
   },
   "previewWindow":{
-    "title":"Preview"
+    "title":"Предварительный просмотр"
   },
   "previewPageTree":{
     "title":"Page selector"
   },
   "siteField":{
-    "fieldLabel":"Site "
+    "fieldLabel":"Сайт "
   },
   "previewDeviceCombo":{
     "text":"Desktop"
@@ -503,28 +503,28 @@
     "fieldLabel":"Draft mode"
   },
   "dateField":{
-    "fieldLabel":"Date"
+    "fieldLabel":"Дата"
   },
   "pagePreviewLanguageField":{
-    "fieldLabel":"Language"
+    "fieldLabel":"Язык"
   },
   "refreshBtn":{
-    "text":"<b>Refresh<\/b>"
+    "text":"<b>Обновить<\/b>"
   },
   "newPageWindow":{
-    "title":"New Page"
+    "title":"Новый раздел"
   },
   "newPageTitleField":{
-    "fieldLabel":"Title "
+    "fieldLabel":"Заголовок "
   },
   "newPageMaskChoiceField":{
-    "fieldLabel":"Page mask "
+    "fieldLabel":"Тип раздела "
   },
   "newPageSubmitBtn":{
-    "text":"Create as a descendant of the selected page"
+    "text":"Создать дочерний раздел"
   },
   "importMainWindow":{
-    "title":"Import"
+    "title":"Импорт"
   },
   "presetsPanel":{
     "title":"Presets"
@@ -545,32 +545,32 @@
     "title":"Save as new preset"
   },
   "importPresetNameField":{
-    "fieldLabel":"Name"
+    "fieldLabel":"Название"
   },
   "importPresetSaveBtn":{
-    "text":"Save"
+    "text":"Сохранить"
   },
   "importStage1Panel":{
-    "title":"Choice of the file to import"
+    "title":"Выбрать файл для импорта"
   },
   "importSeparatorField":{
-    "fieldLabel":"Separator"
+    "fieldLabel":"Разделитель"
   },
   "importCSVFileField":{
-    "fieldLabel":"CSV file",
-    "buttonText":"Choose and analyse"
+    "fieldLabel":"CSV-файд",
+    "buttonText":"Выбрать и проанализировать"
   },
   "importCSVFieldAuxilaryBtn":[
     
   ],
   "importStage1MainPanel":{
-    "title":"Choose a CSV file to display its fields"
+    "title":"Выбрать CSV-файл и показать его поля"
   },
   "importIgnoredFieldsCol":{
-    "text":"Do not import"
+    "text":"Не импортировать"
   },
   "importImportAsFieldCol":{
-    "text":"Import as a field"
+    "text":"Импортировать как поле"
   },
   "importAsFieldTransCol":{
     "text":"Import as field translation"
@@ -582,49 +582,49 @@
     "text":"Import as taxonomy translation"
   },
   "importStage2":{
-    "title":"Setup of the fields"
+    "title":"Настройка полей"
   },
   "importS2NameColumn":{
-    "text":"Name"
+    "text":"Название"
   },
   "importS2NewnameCol":{
-    "text":"New name (optional)"
+    "text":"Новое название (необязательно)"
   },
   "importS2LabelCol":{
-    "text":"Label"
+    "text":"Метка"
   },
   "importS2TypeCol":{
-    "text":"Type"
+    "text":"Тип"
   },
   "importS2SearchableCol":{
-    "text":"Searchable"
+    "text":"С возможностью поиска"
   },
   "importS2LocalizableCol":{
-    "text":"Localizable"
+    "text":"Локализация"
   },
   "importS2MandatoryCol":{
-    "text":"Mandatory"
+    "text":"Обязательное"
   },
   "importStage3":{
     "title":"Setting of the taxonomy"
   },
   "importS3NameCol":{
-    "text":"Name"
+    "text":"Название"
   },
   "importS3NewNameXol":{
-    "text":"New name (optional)"
+    "text":"Новое название (необязательно)"
   },
   "importS3MandatoryCol":{
-    "text":"Mandatory"
+    "text":"Обязательность"
   },
   "translationSettingsPanel":{
-    "title":"Translation settings"
+    "title":"Настройки перевода"
   },
   "FieldTransSetPanel":{
-    "title":"Field translations"
+    "title":"Переводы поля"
   },
   "transFieldCol":{
-    "text":"Translated field"
+    "text":"Переводимое поле"
   },
   "transLanguageCol":{
     "text":"Translation language"
@@ -642,10 +642,10 @@
     "title":"The content type settings"
   },
   "workflowField":{
-    "fieldLabel":"Workflow"
+    "fieldLabel":"Цепочка публикации"
   },
   "importS4Fieldset2":{
-    "title":"Content settings"
+    "title":"Настройки содержимого"
   },
   "contributeWorkspaceField":{
     "fieldLabel":"Contribution"
@@ -654,64 +654,64 @@
     "fieldLabel":"Diffusion"
   },
   "importBtn":{
-    "text":"Import"
+    "text":"Импорт"
   },
   "newMLWindow":{
-    "title":"New mailing list"
+    "title":"Новый список рассылки"
   },
   "newMLCreateBtn":{
-    "text":"Create a new mailing list"
+    "text":"Создать новый список рассылки"
   },
   "mailingListsWindow":{
-    "title":"Mailing lists"
+    "title":"Списки рассылок"
   },
   "manageUsersFS":{
-    "title":"Manage subscribed users"
+    "title":"Управление подписчиками"
   },
   "subscribeBtn":{
-    "text":"Subscribe"
+    "text":"Подписаться"
   },
   "unsubscribeBtn":{
-    "text":"Unsubscribe"
+    "text":"Удалить подписку"
   },
   "exportBtn":{
-    "text":"Export"
+    "text":"Экспортировать"
   },
   "propertiesForm":{
-    "title":"Properties"
+    "title":"Свойства"
   },
   "expeditorFieldset":{
-    "title":"Sender"
+    "title":"Отправитель"
   },
   "expeditorAdressField":{
-    "fieldLabel":"Sender's address"
+    "fieldLabel":"Адрес отправителя"
   },
   "expeditorNameField":{
-    "fieldLabel":"Sender's name"
+    "fieldLabel":"Имя отправителя"
   },
   "responseFieldset":{
-    "title":"Reply"
+    "title":"Ответить"
   },
   "replyToAdressField":{
-    "fieldLabel":"Reply address"
+    "fieldLabel":"Адрес получателя"
   },
   "replyToNameField":{
-    "fieldLabel":"Reply name"
+    "fieldLabel":"Имя получателя"
   },
   "returnPathAdressField":{
-    "fieldLabel":"Return path address"
+    "fieldLabel":"Обратный адрес"
   },
   "subscribedUsersGrid":{
-    "title":"Subscribed users"
+    "title":"Подписчики"
   },
   "emailCol":{
     "text":"Email"
   },
   "createCol":{
-    "text":"Creation"
+    "text":"Создание"
   },
   "subsCribeCol":{
-    "text":"Subscription"
+    "text":"Подписка"
   },
   "unsubscribedUsersGrid":{
     "title":"Unsubscribed users"
@@ -726,10 +726,10 @@
     "title":"Option editor"
   },
   "valueCol":{
-    "text":"Value"
+    "text":"Значение"
   },
   "labelCol":{
-    "text":"Label"
+    "text":"Метка"
   },
   "oeditor1addBtn":{
     "tooltip":"Add an option"
@@ -738,7 +738,7 @@
     "tooltip":"Remove this option"
   },
   "systemInfoDisplayWindow":{
-    "title":"System information"
+    "title":"Системная информация"
   },
   "MongoDBField":{
     "fieldLabel":"MongoDB"
@@ -795,7 +795,7 @@
     "text":"Upload media of this type"
   },
   "pixlrEditorWindow":{
-    "title":"Image editor"
+    "title":"Редактор изображений"
   },
   "inheritWorkspaceField":{
     "fieldLabel":"Inherits workspace"
@@ -807,16 +807,16 @@
     "text":"Facet"
   },
   "OperatorColumn":{
-    "text":"Operator"
+    "text":"Оператор"
   },
   "languagesInterface4":{
-    "title":"Languages"
+    "title":"Языки"
   },
   "FlagCol":{
-    "text":"Flag"
+    "text":"Флаг"
   },
   "LangNameCol":{
-    "text":"Name"
+    "text":"Название"
   },
   "OwnNameCol":{
     "text":"Own name"
@@ -825,19 +825,19 @@
     "title":"Change current working language"
   },
   "TALanguageField":{
-    "fieldLabel":"Language"
+    "fieldLabel":"Язык"
   },
   "setAsWLBtn":{
-    "text":"Set as current working language"
+    "text":"Установить текущим"
   },
   "currentLanguageDSLField":{
-    "fieldLabel":"Current language"
+    "fieldLabel":"Текущий язык"
   },
   "addTranslationBtn":{
-    "text":"Add translation"
+    "text":"Добавить перевод"
   },
   "removeTranslationBtn":{
-    "text":"Remove translation"
+    "text":"Удалить перевод"
   },
   "translationAdderWindow":{
     "title":"Add new translation"
@@ -846,13 +846,13 @@
     "text":"Translate in this language"
   },
   "descriptionField":{
-    "fieldLabel":"Description "
+    "fieldLabel":"Описание "
   },
   "helpTextField":{
     "fieldLabel":"Help text "
   },
   "siteFieldSet":{
-    "title":"Site"
+    "title":"Сайт"
   },
   "siteDefaultTitleField":{
     "fieldLabel":"Default title"
@@ -882,7 +882,7 @@
     "title":"New layout"
   },
   "nmSiteField":{
-    "fieldLabel":"Site "
+    "fieldLabel":"Сайт "
   },
   "createNewLayoutBtn":{
     "text":"Create new layout"
@@ -891,7 +891,7 @@
     "title":"Assign field"
   },
   "assignFieldField":{
-    "fieldLabel":"Field"
+    "fieldLabel":"Поле"
   },
   "assignFieldSubmitBtn":{
     "text":"Assign this field to selected column"
@@ -921,7 +921,7 @@
     "text":"Create this new user type"
   },
   "ucuFieldsTab":{
-    "title":"Fields"
+    "title":"Поля"
   },
   "UTEmailField":{
     "fieldLabel":"E-mail *",
@@ -932,22 +932,22 @@
     "RTip":"User name. Mandatory."
   },
   "taxoTab":{
-    "title":"Taxonomy"
+    "title":"Таксономия"
   },
   "usersWindow":{
     "title":"Users"
   },
   "clipboardGroup":{
-    "title":"Clipboard"
+    "title":"Блокнот"
   },
   "shortcutBtn":{
-    "text":"Add to Favorites"
+    "text":"Добавить в закладки"
   },
   "typeColumn":{
-    "text":"Type"
+    "text":"Тип"
   },
   "photoCol":{
-    "text":"Photo"
+    "text":"Фото"
   },
   "creationCol":{
     "text":"Creation"
@@ -1022,7 +1022,7 @@
     "text":"New Column"
   },
   "moveBtn":{
-    "text":"Move"
+    "text":"Переместить"
   },
   "addComponentsFS":{
     "title":"Add components"
@@ -1040,10 +1040,10 @@
     "text":"Copy"
   },
   "shotcutBtn":{
-    "text":"Add to Favorites"
+    "text":"Добавить в закладки"
   },
   "saveGroup":{
-    "title":"Save"
+    "title":"Сохранить"
   },
   "exploutFS":{
     "title":"Exploit"
@@ -1052,16 +1052,16 @@
     "text":"Send"
   },
   "editTab":{
-    "text":"Edit"
+    "text":"Редактировать"
   },
   "propsPanel":{
-    "title":"Properties"
+    "title":"Свойства"
   },
   "selectElementPanel":{
     "title":"Select an item"
   },
   "propertiesTab":{
-    "title":"Properties"
+    "title":"Свойства"
   },
   "subjectField":{
     "fieldLabel":"Subject"
@@ -1070,7 +1070,7 @@
     "fieldLabel":"Plain text"
   },
   "previewTab":{
-    "title":"Preview"
+    "title":"Предварительный просмотр"
   },
   "subscribeUsersWindow":{
     "title":"Subscribe users"
@@ -1413,7 +1413,7 @@
     "title":"Product fields"
   },
   "foThemesInterface":{
-    "title":"Themes"
+    "title":"Темы интерфейса"
   },
   "importThemeBtn":{
     "text":"Import theme"
@@ -1459,19 +1459,19 @@
     "text":"Import"
   },
   "pageMaskWindow":{
-    "title":"Page masks"
+    "title":"Типы разделов"
   },
   "editGroup":{
-    "title":"Edit"
+    "title":"Редактировать"
   },
   "newBlocBtn":{
-    "text":"New Block"
+    "text":"Новый Блок"
   },
   "titleColumn":{
-    "text":"Title"
+    "text":"Заголовок"
   },
   "zoomLevelSlider":{
-    "fieldLabel":"Zoom level"
+    "fieldLabel":"Уровень увеличения"
   },
   "desktopCustomizeWindow":{
     "title":"Customizing the desktop"
@@ -1480,22 +1480,22 @@
     "title":"Wallpaper"
   },
   "themeGrid":{
-    "title":"Themes"
+    "title":"Темы интерфеса"
   },
   "accessibilityPanel":{
     "title":"Accessibility"
   },
   "pageWindow":{
-    "title":"Pages"
+    "title":"Разделы"
   },
   "languageCoumn":{
     "text":"Languages"
   },
   "overviewTab":{
-    "text":"Preview"
+    "text":"Предварительный просмотр"
   },
   "propsTab":{
-    "text":"Properties"
+    "text":"Свойства"
   },
   "urlField":{
     "fieldLabel":"URL"
@@ -1513,7 +1513,7 @@
     "text":"Add these users to the selected group"
   },
   "informationsTab":{
-    "text":"Information"
+    "text":"Информация"
   },
   "informationsFieldSet":{
     "title":"Information"
@@ -1633,7 +1633,7 @@
     "text":"Domain name"
   },
   "settingsTab":{
-    "title":"Settings"
+    "title":"Свойства"
   },
   "domainNameField":{
     "fieldLabel":"Domain name *"
@@ -1711,7 +1711,7 @@
     "fieldLabel":"Private key"
   },
   "resourcesTab":{
-    "title":"Resources"
+    "title":"Ресурсы"
   },
   "exteranlStylesPanel":{
     "title":"External styles"
@@ -1809,7 +1809,7 @@
     "RTip":"Main media file. Mandatory."
   },
   "taxonomyFieldset":{
-    "title":"Taxonomy"
+    "title":"Таксономия"
   },
   "workspacesFieldset":{
     "title":"Workspaces"
@@ -1854,13 +1854,13 @@
     "text":"Metadata"
   },
   "taxonomyTab":{
-    "text":"Taxonomy"
+    "text":"Таксономия"
   },
   "workspacesTab":{
-    "text":"Workspaces"
+    "text":"Рабочие области"
   },
   "versionsTab":{
-    "text":"Versions"
+    "text":"Версии"
   },
   "dependantTypesTab":{
     "text":"Nested content"
@@ -1903,13 +1903,13 @@
     "text":"Create a new vocabulary"
   },
   "newMaskWindow":{
-    "title":"New mask"
+    "title":"Новый тип"
   },
   "createNewMaskBtn":{
-    "text":"Create a new mask"
+    "text":"Создать новый тип"
   },
   "maskDupliacteWindow":{
-    "title":"Mask duplication"
+    "title":"Копировать тип"
   },
   "mdNewTitleField":{
     "fieldLabel":"New title "
@@ -1918,7 +1918,7 @@
     "fieldLabel":"In the site "
   },
   "mdSubmitBtn":{
-    "text":"Duplicate this mask"
+    "text":"Копировать тип"
   },
   "blockConfigSimplePanel":{
     "title":"Simple"
@@ -1994,7 +1994,7 @@
     "title":"Data"
   },
   "searchTab":{
-    "title":"Search"
+    "title":"Поиск"
   },
   "vocabulariesGridPanel":{
     "title":"Vocabularies"
@@ -2056,7 +2056,7 @@
     "title":"Rights"
   },
   "taxonomyWindow":{
-    "title":"Taxonomy"
+    "title":"Таксономия"
   },
   "editTermsGroup":{
     "title":"Term editing"
@@ -2167,7 +2167,7 @@
     "title":"Custom Themes"
   },
   "themesMainPanel":{
-    "title":"Themes"
+    "title":"Темы интерфеса"
   },
   "lessVarsPanel":{
     "title":"Less Variables"
@@ -2439,19 +2439,19 @@
     "text":"Export orders"
   },
   "editorialDasboardLaunchBtn":{
-    "text":"Editorial dashboard"
+    "text":"Панель редактора"
   },
   "activityInterfaceLaunchBtn":{
-    "text":"Activity"
+    "text":"Активность"
   },
   "rssFeedsLaunchBtn":{
-    "text":"RSS Feeds"
+    "text":"RSS Потоки"
   },
   "actLogInTab":{
     "title":"Log in"
   },
   "activityMonitorWindow":{
-    "title":"Activity"
+    "title":"Активность"
   },
   "userCol":{
     "text":"User"
@@ -2503,5 +2503,29 @@
   },
   "newRssWindow":{
     "title":"New RSS Feed"
+  },
+  "urlFieldOption":{
+    "fieldLabel":"Open in new tab"
+  },
+  "signUpModerationBtnGroup":{
+    "title":"Sign-up moderation"
+  },
+  "approveSignUpBtn":{
+    "text":"Approve"
+  },
+  "denySignUpBtn":{
+    "text":"Deny"
+  },
+  "pagesPersoForm":{
+    "title":"Personalization"
+  },
+  "philtersFieldset":{
+    "title":"Philters"
+  },
+  "eventsFieldset":{
+    "title":"Events"
+  },
+  "pageViewField":{
+    "fieldLabel":"Page view"
   }
 }

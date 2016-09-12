@@ -25,7 +25,7 @@
   "Blocks.Checkout.Step1.AlreadyHaveAccount":"Ya tienes cuenta ?",
   "Blocks.Checkout.Step2.PersonalDetails":"Your personal details",
   "Blocks.Checkout.Step3.BillingAddress":"Dirección de facturación",
-  "Blocks.Checkout.Step4.ShippingAddress":"Shipping address",
+  "Blocks.Checkout.Step4.ShippingAddress":"Dirección de envío",
   "Blocks.Checkout.ShippingOption":"%name% - Delivered under %delay% %unit% for %rate% €",
   "Blocks.Checkout.CheckoutSummary.SubTotal":"Sub-total",
   "Blocks.Checkout.CheckoutSummary.PaymentMethod":"Payment method",

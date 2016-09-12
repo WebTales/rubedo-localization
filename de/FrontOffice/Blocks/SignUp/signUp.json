@@ -1,7 +1,7 @@
 {
   "Blocks.SignUp.label.name":"Name",
-  "Blocks.SignUp.label.password":"Password",
-  "Blocks.SignUp.label.confirmPassword":"Confirm password",
+  "Blocks.SignUp.label.password":"Passwort",
+  "Blocks.SignUp.label.confirmPassword":"Bestätigen Sie Ihr Passwort",
   "Blocks.SignUp.Label.Captcha":"Captcha",
   "Blocks.SignUp.label.signUp":"Sign Up",
   "Blocks.SignUp.label.mailingList":"Subscribe to the following mailing lists"

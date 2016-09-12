@@ -1,5 +1,5 @@
 {
-  "#ext-gen1050#":"Other",
+  "#ext-gen1050#":"Прочее",
   "#ext-gen1051#":"Checkbox",
   "#ext-gen1052#":"<p>The 'checkbox' field allows a simple yes\/no choice<\/p>",
   "#ext-gen1053#":"Field label",
@@ -40,7 +40,7 @@
   "#ext-gen1171#":"File Type",
   "#ext-gen1177#":"External media",
   "#ext-gen1178#":"<p>The 'External Media' field relies on the oEmbed (http:\/\/oembed.com\/) API and allows to display external media from the following sources:<\/p><ul><li>YouTube (videos)<\/li>, <li>Flickr (photo sharing)<\/li>, <li>Vimeo (videos)<\/li> <li>Poll Everywhere (investigations amp; surveys)<\/li> <li>My Opera (blogs and photos)<\/li> <li>SmugMug (photo sharing)<\/li> <li>SlideShare (sharing presentations)<\/li> <li>WordPress.com (blogging)<\/li> <li>chirbit.com (sharing of audio files)<\/li> <li>CircuitLab (electrical diagram tool)<\/li> <li>Funtrivia.com (survey tool)<\/li><\/ul>",
-  "#ext-gen1187#":"Number",
+  "#ext-gen1187#":"Номер",
   "#ext-gen1189#":"<p>The 'Number' field, allows you to enter a number, or decimal integer, possibly bounded by upper and lower bounds.<\/p>",
   "#ext-gen1198#":"Display decimals",
   "#ext-gen1199#":"Decimal precision",

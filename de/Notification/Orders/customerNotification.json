@@ -2,7 +2,7 @@
   "Notification.Orders.CustomerNotification.Create.Subject":"Thanks for your order",
   "Notification.Orders.CustomerNotification.Update.Subject":"Order status has been changed",
   "Notification.Orders.ShopNotification.Create.Subject":"Your shop %site% has new order",
-  "Notification.Orders.ShopNotification.Hello":"Hello,",
+  "Notification.Orders.ShopNotification.Hello":"Hallo,",
   "Notification.Orders.ShopNotification.Body":"A new order as been recorded. Please view the summary below.",
   "Notification.Orders.CustomerNotification.DearUser":"Dear %name%,",
   "Notification.Orders.CustomerNotification.Body":"Thanks for your order \"%orderNumber%\" on <a href=\"http:\/\/%siteUrl%\">%siteName%<\/a>. Your order has now the status \"%status%\". Please view the summary below."

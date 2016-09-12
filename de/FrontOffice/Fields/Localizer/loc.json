@@ -1,6 +1,6 @@
 {
-  "Fields.Localizer.Label.AddAContent":"Add a content",
-  "Fields.Localizer.Label.Edition":"Edition",
-  "Fields.Localizer.Label.Latitude":"Latitude",
-  "Fields.Localizer.Label.Longitude":"Longitude"
+  "Fields.Localizer.Label.AddAContent":"einen Inhalt hinzufügen",
+  "Fields.Localizer.Label.Edition":"Ausgabe",
+  "Fields.Localizer.Label.Latitude":"Breitengrad",
+  "Fields.Localizer.Label.Longitude":"Längengrad"
 }

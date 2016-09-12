@@ -57,7 +57,7 @@
     "text":"Name"
   },
   "deleteBtn":{
-    "text":"Delete"
+    "text":"Löschen"
   },
   "addBtn":{
     "text":"Add"
@@ -69,13 +69,13 @@
     "fieldLabel":"Name * "
   },
   "elementDescriptionField":{
-    "fieldLabel":"Description "
+    "fieldLabel":"Beschreibung"
   },
   "exportElementBtn":{
     "text":"Export this element "
   },
   "removeBtn":{
-    "text":"Delete"
+    "text":"Löschen"
   },
   "renameBtn":{
     "text":"Rename"
@@ -150,7 +150,7 @@
     "text":"Type"
   },
   "titleCol":{
-    "text":"Title"
+    "text":"Titel"
   },
   "onlineCol":{
     "text":"Online"
@@ -168,13 +168,13 @@
     
   ],
   "u1TitleColumn":{
-    "text":"Title"
+    "text":"Titel"
   },
   "u1TypeColumn":{
     "text":"Type"
   },
   "u1StatusColumn":{
-    "text":"State"
+    "text":"Zustand"
   },
   "u1OnlineColumn":{
     "text":"Online"
@@ -195,7 +195,7 @@
     "tooltip":"Edit the file"
   },
   "gfsUploadWindow":{
-    "title":"Upload"
+    "title":"Hochladen"
   },
   "fileField":{
     "fieldLabel":"File",
@@ -206,13 +206,13 @@
     "buttonText":"Choose"
   },
   "validateBtn":{
-    "text":"Validate"
+    "text":"Prüfen"
   },
   "cancelBtn":{
-    "text":"Cancel"
+    "text":"Abbrechen"
   },
   "wizardPrevBtn":{
-    "text":"Previous"
+    "text":"Vorheriges"
   },
   "wizardNextBtn":{
     "text":"Next"
@@ -284,7 +284,7 @@
     "title":"Choice of media types"
   },
   "mediaTypesField":{
-    "fieldLabel":"Media types"
+    "fieldLabel":"Medientyp"
   },
   "mqS2":{
     "title":"Choice of rules on taxonomy"
@@ -299,7 +299,7 @@
     "text":"Choose"
   },
   "modifyBtn":{
-    "text":"Edit"
+    "text":"Bearbeiten"
   },
   "lcFieldAdress":{
     "fieldLabel":"Address"
@@ -347,7 +347,7 @@
     "text":"Preview"
   },
   "contentsLaunchBtn":{
-    "text":"Contents"
+    "text":"Inhalte"
   },
   "DAMLaunchBtn":{
     "text":"DAM"
@@ -371,7 +371,7 @@
     "text":"Page masks"
   },
   "emailsLaunchBtn":{
-    "text":"Emails"
+    "text":"E-Mails"
   },
   "contentTypesLaunchBtn":{
     "text":"Content types"
@@ -425,7 +425,7 @@
     "text":"Stock"
   },
   "pmLaunchBtn":{
-    "text":"Payment means"
+    "text":"Zahlungsmittel"
   },
   "ordersLaunchBtn":{
     "text":"Orders"
@@ -434,7 +434,7 @@
     "title":"New user"
   },
   "emailField":{
-    "fieldLabel":"E-mail "
+    "fieldLabel":"E-Mail-Adresse "
   },
   "userAccountField":{
     "fieldLabel":"User account "
@@ -461,7 +461,7 @@
     "title":"Deletion confirmation"
   },
   "confirmDeleteYes":{
-    "text":"Yes"
+    "text":"JA"
   },
   "confirmDeleteNo":{
     "text":"No"
@@ -503,7 +503,7 @@
     "fieldLabel":"Draft mode"
   },
   "dateField":{
-    "fieldLabel":"Date"
+    "fieldLabel":"Datum"
   },
   "pagePreviewLanguageField":{
     "fieldLabel":"Language"
@@ -515,7 +515,7 @@
     "title":"New Page"
   },
   "newPageTitleField":{
-    "fieldLabel":"Title "
+    "fieldLabel":"Titel "
   },
   "newPageMaskChoiceField":{
     "fieldLabel":"Page mask "
@@ -600,7 +600,7 @@
     "text":"Searchable"
   },
   "importS2LocalizableCol":{
-    "text":"Localizable"
+    "text":"übersetzbar"
   },
   "importS2MandatoryCol":{
     "text":"Mandatory"
@@ -705,7 +705,7 @@
     "title":"Subscribed users"
   },
   "emailCol":{
-    "text":"Email"
+    "text":"E-Mail Adresse"
   },
   "createCol":{
     "text":"Creation"
@@ -864,7 +864,7 @@
     "fieldLabel":"Default author"
   },
   "contentTitleField":{
-    "fieldLabel":"Title *",
+    "fieldLabel":"Titel *",
     "RTip":"Content title. Mandatory."
   },
   "summaryField":{
@@ -872,7 +872,7 @@
     "RTip":"Optional summary of the content."
   },
   "damTitleField":{
-    "fieldLabel":"Title *",
+    "fieldLabel":"Titel *",
     "RTip":"Title of the media. Mandatory."
   },
   "imageMapperWindow":{
@@ -924,7 +924,7 @@
     "title":"Fields"
   },
   "UTEmailField":{
-    "fieldLabel":"E-mail *",
+    "fieldLabel":"E-Mail *",
     "RTip":"User email. Mandatory."
   },
   "UTNameField":{
@@ -1007,10 +1007,10 @@
     "text":"Change"
   },
   "emailsInterface":{
-    "title":"Emails"
+    "title":"E-Mails"
   },
   "newBtn":{
-    "text":"New"
+    "text":"Neu"
   },
   "editStructureFS":{
     "title":"Edit structure"
@@ -1034,7 +1034,7 @@
     "text":"Simple text"
   },
   "addRichTextCBtn":{
-    "text":"Rich text"
+    "text":"Rich-Text"
   },
   "duplicateBtn":{
     "text":"Copy"
@@ -1104,7 +1104,7 @@
     "title":"E-Commerce category"
   },
   "titleField":{
-    "fieldLabel":"Title *"
+    "fieldLabel":"Titel *"
   },
   "categoryImageField":{
     "fieldLabel":"Image"
@@ -1191,7 +1191,7 @@
     "text":"Remove rate"
   },
   "taxesWindow":{
-    "title":"Taxes"
+    "title":"Steuern"
   },
   "activeCol":{
     "text":"Active"
@@ -1311,7 +1311,7 @@
     "fieldLabel":"Shipping price (TF)"
   },
   "shippingTaxField":{
-    "fieldLabel":"Shipping taxes"
+    "fieldLabel":"Versandsteuern"
   },
   "shippingPriceField":{
     "fieldLabel":"Shipping price"
@@ -1326,13 +1326,13 @@
     "title":"Client"
   },
   "billingAddressField":{
-    "fieldLabel":"Billing address"
+    "fieldLabel":"Rechnungsadresse"
   },
   "shippingAddressField":{
-    "fieldLabel":"Shipping address"
+    "fieldLabel":"Lieferadresse"
   },
   "paymentMeansField":{
-    "fieldLabel":"Payment means"
+    "fieldLabel":"Zahlungsmittel"
   },
   "shipperField":{
     "fieldLabel":"Shipper"
@@ -1353,7 +1353,7 @@
     "text":"Unit taxed price"
   },
   "amountCol":{
-    "text":"Amount"
+    "text":"Betrag"
   },
   "taxedPriceCol":{
     "text":"Taxed Price"
@@ -1380,7 +1380,7 @@
     "fieldLabel":"Preparation delay"
   },
   "priceField":{
-    "fieldLabel":"Price"
+    "fieldLabel":"Preis"
   },
   "stockField":{
     "fieldLabel":"Stock"
@@ -1462,13 +1462,13 @@
     "title":"Page masks"
   },
   "editGroup":{
-    "title":"Edit"
+    "title":"Bearbeiten"
   },
   "newBlocBtn":{
     "text":"New Block"
   },
   "titleColumn":{
-    "text":"Title"
+    "text":"Titel"
   },
   "zoomLevelSlider":{
     "fieldLabel":"Zoom level"
@@ -1543,7 +1543,7 @@
     "fieldLabel":"Coordinates "
   },
   "countryField":{
-    "fieldLabel":"Country "
+    "fieldLabel":"Land "
   },
   "applyField":{
     "text":"Apply"
@@ -1585,16 +1585,16 @@
     "text":"Clear filters"
   },
   "contentWindow":{
-    "title":"Contents"
+    "title":"Inhalte"
   },
   "workflowGroup":{
     "title":"Workflow"
   },
   "publishBtn":{
-    "text":"Publish"
+    "text":"Veröffentlichen"
   },
   "submitBtn":{
-    "text":"Submit"
+    "text":"Senden"
   },
   "refuseBtn":{
     "text":"Refuse"
@@ -1618,7 +1618,7 @@
     "title":"Global facet settings"
   },
   "displayFacetFieldM":{
-    "fieldLabel":"Display"
+    "fieldLabel":"Anzeige"
   },
   "facetOperatorField":{
     "fieldLabel":"Facet operator"
@@ -1702,7 +1702,7 @@
     "fieldLabel":"Disqus"
   },
   "recaptchaFieldset":{
-    "title":"Recaptcha"
+    "title":"ReCAPTCHA"
   },
   "recaptchaPublicKeyField":{
     "fieldLabel":"Public key"
@@ -1747,10 +1747,10 @@
     "title":"Choice of taxonomy terms"
   },
   "prevBtn":{
-    "text":"Previous"
+    "text":"Vorheriges"
   },
   "nextBtn":{
-    "text":"Next"
+    "text":"Weiter"
   },
   "monitoringField":{
     "title":"Monitoring"
@@ -1786,7 +1786,7 @@
     "text":"<b>Clear Object cache<\/b>"
   },
   "elasticSearchPanel":{
-    "title":"Elastic Search"
+    "title":"ElasticSearch"
   },
   "indexContentsBtn":{
     "text":"<b>Index contents<\/b>"
@@ -1848,7 +1848,7 @@
     "title":"Workspaces"
   },
   "newContentWindow":{
-    "title":"New content"
+    "title":"Neuer Inhalt"
   },
   "metadataTab":{
     "text":"Metadata"
@@ -1888,10 +1888,10 @@
     "text":"Publication Date"
   },
   "versionAuthorCol":{
-    "text":"Author"
+    "text":"Autor"
   },
   "createAsDraftBtn":{
-    "text":"Draft"
+    "text":"Entwurf"
   },
   "termsCol":{
     "text":"Terms"
@@ -1994,7 +1994,7 @@
     "title":"Data"
   },
   "searchTab":{
-    "title":"Search"
+    "title":"Suchen"
   },
   "vocabulariesGridPanel":{
     "title":"Vocabularies"
@@ -2086,7 +2086,7 @@
     "fieldLabel":"Show logs between"
   },
   "logsSupDateField":{
-    "fieldLabel":"and"
+    "fieldLabel":"und"
   },
   "logsMinLevelField":{
     "fieldLabel":"of minimal level"
@@ -2101,7 +2101,7 @@
     "text":"Message"
   },
   "DateCol":{
-    "text":"Date"
+    "text":"Datum"
   },
   "levelCol":{
     "text":"Level"
@@ -2119,7 +2119,7 @@
     "text":"Size"
   },
   "authorColumn":{
-    "text":"Author"
+    "text":"Autor"
   },
   "createDateColumn":{
     "text":"Creation date"
@@ -2331,7 +2331,7 @@
     "title":"New form"
   },
   "newFormTitleField":{
-    "fieldLabel":"Title"
+    "fieldLabel":"Titel"
   },
   "newFormCreateBtn":{
     "text":"Create this form"
@@ -2352,10 +2352,10 @@
     "boxLabel":"Comment"
   },
   "questionNumberRadio":{
-    "boxLabel":"Number"
+    "boxLabel":"Anzahl"
   },
   "questionDateRadio":{
-    "boxLabel":"Date"
+    "boxLabel":"Datum"
   },
   "questionTimeRadio":{
     "boxLabel":"Time"
@@ -2406,7 +2406,7 @@
     "text":"Administration"
   },
   "mailColumn":{
-    "text":"Email"
+    "text":"E-Mail Adresse"
   },
   "phoneColumn":{
     "text":"Phone"
@@ -2503,5 +2503,29 @@
   },
   "newRssWindow":{
     "title":"New RSS Feed"
+  },
+  "urlFieldOption":{
+    "fieldLabel":"Open in new tab"
+  },
+  "signUpModerationBtnGroup":{
+    "title":"Sign-up moderation"
+  },
+  "approveSignUpBtn":{
+    "text":"Approve"
+  },
+  "denySignUpBtn":{
+    "text":"Deny"
+  },
+  "pagesPersoForm":{
+    "title":"Personalization"
+  },
+  "philtersFieldset":{
+    "title":"Philters"
+  },
+  "eventsFieldset":{
+    "title":"Events"
+  },
+  "pageViewField":{
+    "fieldLabel":"Page view"
   }
 }
