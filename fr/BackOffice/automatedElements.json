@@ -242,5 +242,11 @@
   "edArchived":"Archivé",
   "edFuture":"Futur",
   "edPublished":"Publié actuellement",
-  "edPending":"En attente de validation"
+  "edPending":"En attente de validation",
+  "ctSitemapText":"Types de contenu utilisés dans sitemap.xml",
+  "personalizationText":"Personnalisation",
+  "behaviourText":"Comportement",
+  "eventsText":"Events",
+  "onlyModalText":"Afficher uniquement en modal",
+  "modalClassText":"Classe modale"
 }

@@ -2504,28 +2504,28 @@
   "newRssWindow":{
     "title":"Nouveau flux RSS"
   },
-  "urlFieldOption": {
-    "fieldLabel": "Ouvrir dans un nouvel onglet"
+  "urlFieldOption":{
+    "fieldLabel":"Ouvrir dans un nouvel onglet"
   },
   "signUpModerationBtnGroup":{
-    "title":"Modèration d'inscription"
+    "title":"Modération d'inscription"
   },
   "approveSignUpBtn":{
-    "text":"Approuver"
+    "text":"Valider"
   },
   "denySignUpBtn":{
     "text":"Refuser"
   },
   "pagesPersoForm":{
-    "title":"Personalisation"
+    "title":"Personnalisation"
   },
   "philtersFieldset":{
     "title":"Philtres"
   },
   "eventsFieldset":{
-    "title":"Evenements"
+    "title":"Events"
   },
   "pageViewField":{
-    "fieldLabel":"Vue de la page"
+    "fieldLabel":"Pages vues"
   }
 }
