@@ -928,7 +928,7 @@
     "RTip":"User email. Mandatory."
   },
   "UTNameField":{
-    "fieldLabel":"Name *",
+    "fieldLabel":"Имя *",
     "RTip":"User name. Mandatory."
   },
   "taxoTab":{
@@ -1010,7 +1010,7 @@
     "title":"Emails"
   },
   "newBtn":{
-    "text":"New"
+    "text":"Добавить"
   },
   "editStructureFS":{
     "title":"Edit structure"
@@ -2033,7 +2033,7 @@
     "title":"Properties"
   },
   "DamTypesMainWindow":{
-    "title":"Media types"
+    "title":"Типы материалов"
   },
   "emptyDamBtn":{
     "text":"Empty assets",
@@ -2101,7 +2101,7 @@
     "text":"Message"
   },
   "DateCol":{
-    "text":"Date"
+    "text":"Дата"
   },
   "levelCol":{
     "text":"Level"
@@ -2355,7 +2355,7 @@
     "boxLabel":"Number"
   },
   "questionDateRadio":{
-    "boxLabel":"Date"
+    "boxLabel":"Дата"
   },
   "questionTimeRadio":{
     "boxLabel":"Time"

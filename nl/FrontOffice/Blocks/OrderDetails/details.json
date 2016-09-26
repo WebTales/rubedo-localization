@@ -4,7 +4,7 @@
   "Blocks.OrderDetails.BillingAddress":"Billing address",
   "Blocks.OrderDetails.ShippingAddress":"Shipping address",
   "Blocks.OrderDetails.OrderDetails":"Order details",
-  "Blocks.OrderDetails.Table.Name":"Name",
+  "Blocks.OrderDetails.Table.Name":"Naam",
   "Blocks.OrderDetails.Table.Cost":"Unitary cost",
   "Blocks.OrderDetails.Table.Amount":"Amount",
   "Blocks.OrderDetails.Table.Price":"Price",

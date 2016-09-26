@@ -329,5 +329,10 @@
   "#ext-gen1516#":"Display image",
   "#ext-gen1517#":"Use detail content",
   "#ext-gen1518#":"History size",
-  "#ext-gen1519#":"History depth"
+  "#ext-gen1519#":"History depth",
+  "#ext-gen1520#":"Recommended content description",
+  "#ext-gen1521#":"Event MAP description",
+  "#ext-gen1522#":"Event Times series  description",
+  "#ext-gen1523#":"Event Pie description",
+  "#ext-gen1524#":"RSS feed description"
 }

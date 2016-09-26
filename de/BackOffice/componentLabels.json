@@ -60,7 +60,7 @@
     "text":"Löschen"
   },
   "addBtn":{
-    "text":"Add"
+    "text":"Hinzufügen"
   },
   "exportElementsWindow":{
     "title":"Export an element"
@@ -78,16 +78,16 @@
     "text":"Löschen"
   },
   "renameBtn":{
-    "text":"Rename"
+    "text":"Umbenennen"
   },
   "changePasswordWindow":{
-    "title":"Change password"
+    "title":"Passwort ändern"
   },
   "newPasswordField":{
-    "fieldLabel":"New password "
+    "fieldLabel":"Neues Passwort "
   },
   "confirmField":{
-    "fieldLabel":"Confirm "
+    "fieldLabel":"Bestätigen "
   },
   "applyBtn":{
     "text":"Apply"
@@ -147,7 +147,7 @@
     "title":"Add a field"
   },
   "typeCol":{
-    "text":"Type"
+    "text":"Typ"
   },
   "titleCol":{
     "text":"Titel"
@@ -171,7 +171,7 @@
     "text":"Titel"
   },
   "u1TypeColumn":{
-    "text":"Type"
+    "text":"Typ"
   },
   "u1StatusColumn":{
     "text":"Zustand"
@@ -180,7 +180,7 @@
     "text":"Online"
   },
   "gfsUploadFileBtn":{
-    "tooltip":"Upload a file"
+    "tooltip":"Datei hochladen"
   },
   "gfsDeleteFileBtn":{
     "tooltip":"Delete the file"
@@ -198,12 +198,12 @@
     "title":"Hochladen"
   },
   "fileField":{
-    "fieldLabel":"File",
-    "buttonText":"Choose"
+    "fieldLabel":"Datei",
+    "buttonText":"Auswählen"
   },
   "zipFileField":{
-    "fieldLabel":"Zip file",
-    "buttonText":"Choose"
+    "fieldLabel":"Zip-Datei",
+    "buttonText":"Auswählen"
   },
   "validateBtn":{
     "text":"Prüfen"
@@ -215,7 +215,7 @@
     "text":"Vorheriges"
   },
   "wizardNextBtn":{
-    "text":"Next"
+    "text":"Weiter"
   },
   "queryWindow":{
     "title":"Queries"
@@ -227,7 +227,7 @@
     "title":"Manual query"
   },
   "addQBtn":{
-    "text":"Add"
+    "text":"Hinzufügen"
   },
   "removeQbtn":{
     "text":"Remove"
@@ -251,7 +251,7 @@
     "title":"Choose a media type"
   },
   "chooseDamTypeField":{
-    "fieldLabel":"Type"
+    "fieldLabel":"Typ"
   },
   "chooseDamTypeSubmitBtn":{
     "text":"Create a new media of this type"
@@ -290,28 +290,28 @@
     "title":"Choice of rules on taxonomy"
   },
   "mqls":{
-    "title":"Save"
+    "title":"Speichern"
   },
   "saveBtn":{
-    "text":"Save"
+    "text":"Speichern"
   },
   "chooseBtn":{
-    "text":"Choose"
+    "text":"Auswählen"
   },
   "modifyBtn":{
     "text":"Bearbeiten"
   },
   "lcFieldAdress":{
-    "fieldLabel":"Address"
+    "fieldLabel":"Straße und Hausnummer"
   },
   "lcFieldAltitude":{
-    "fieldLabel":"Altitude"
+    "fieldLabel":"Höhe"
   },
   "lcFieldLatitude":{
-    "fieldLabel":"Latitude"
+    "fieldLabel":"Breitengrad"
   },
   "lcFieldLongitude":{
-    "fieldLabel":"Longitude"
+    "fieldLabel":"Längengrad"
   },
   "sessionExpiringWindow":{
     "title":"Your session will soon expire"
@@ -326,7 +326,7 @@
     "text":"Connect again"
   },
   "gfsUploadBtn":{
-    "tooltip":"Upload a file"
+    "tooltip":"Datei hochladen"
   },
   "gfsRemoveFileBtn":{
     "tooltip":"Delete the file"
@@ -341,10 +341,10 @@
     "tooltip":"Edit the file"
   },
   "pagesLaunchBtn":{
-    "text":"Pages"
+    "text":"Seiten"
   },
   "previewLaunchBtn":{
-    "text":"Preview"
+    "text":"Vorschau"
   },
   "contentsLaunchBtn":{
     "text":"Inhalte"
@@ -356,16 +356,16 @@
     "text":"Studio"
   },
   "adminLenuBtn":{
-    "text":"Administration"
+    "text":"Verwaltung"
   },
   "mySettingsLaunchBtn":{
-    "text":"Settings"
+    "text":"Einstellungen"
   },
   "logoutBtn":{
-    "text":"Logout"
+    "text":"Abmelden"
   },
   "sitesLaunchBtn":{
-    "text":"Sites"
+    "text":"Seiten"
   },
   "masksLaunchBtn":{
     "text":"Page masks"
@@ -374,7 +374,7 @@
     "text":"E-Mails"
   },
   "contentTypesLaunchBtn":{
-    "text":"Content types"
+    "text":"Inhaltstyp"
   },
   "damTypesLaunchBtn":{
     "text":"Media types"
@@ -386,16 +386,16 @@
     "text":"Queries"
   },
   "taxonomyLaunchBtn":{
-    "text":"Taxonomy"
+    "text":"Taxonomie"
   },
   "groupsLaunchBtn":{
-    "text":"Groups"
+    "text":"Gruppen"
   },
   "workspacesLaunchBtn":{
     "text":"Workspaces"
   },
   "usersLaunchBtn":{
-    "text":"Users"
+    "text":"Benutzer"
   },
   "monitoringLaunchBtn":{
     "text":"Monitoring"
@@ -404,13 +404,13 @@
     "text":"Workflows"
   },
   "importLaunchBtn":{
-    "text":"Import"
+    "text":"Importieren"
   },
   "mailingListsLaunchBtn":{
     "text":"Mailing lists"
   },
   "languagesLaunchBtn":{
-    "text":"Languages"
+    "text":"Sprachen"
   },
   "applicationLogsLaunchBtn":{
     "text":"Application logs"
@@ -419,16 +419,16 @@
     "text":"Shippers"
   },
   "taxesLaunchBtn":{
-    "text":"Taxes"
+    "text":"Steuern"
   },
   "stockLaunchBtn":{
-    "text":"Stock"
+    "text":"Lager"
   },
   "pmLaunchBtn":{
     "text":"Zahlungsmittel"
   },
   "ordersLaunchBtn":{
-    "text":"Orders"
+    "text":"Aufträge"
   },
   "newUserWindow":{
     "title":"New user"
@@ -455,7 +455,7 @@
     "fieldLabel":"Max width"
   },
   "emFieldMAxHeight":{
-    "fieldLabel":"Max height"
+    "fieldLabel":"Max. Höhe"
   },
   "confirmDeleteWindow":{
     "title":"Deletion confirmation"
@@ -470,10 +470,10 @@
     "title":"Add a block"
   },
   "addBlockTypeColumn":{
-    "text":"Type"
+    "text":"Typ"
   },
   "previewWindow":{
-    "title":"Preview"
+    "title":"Vorschau"
   },
   "previewPageTree":{
     "title":"Page selector"
@@ -506,7 +506,7 @@
     "fieldLabel":"Datum"
   },
   "pagePreviewLanguageField":{
-    "fieldLabel":"Language"
+    "fieldLabel":"Sprache"
   },
   "refreshBtn":{
     "text":"<b>Refresh<\/b>"
@@ -524,7 +524,7 @@
     "text":"Create as a descendant of the selected page"
   },
   "importMainWindow":{
-    "title":"Import"
+    "title":"Importieren"
   },
   "presetsPanel":{
     "title":"Presets"
@@ -548,7 +548,7 @@
     "fieldLabel":"Name"
   },
   "importPresetSaveBtn":{
-    "text":"Save"
+    "text":"Speichern"
   },
   "importStage1Panel":{
     "title":"Choice of the file to import"
@@ -557,7 +557,7 @@
     "fieldLabel":"Separator"
   },
   "importCSVFileField":{
-    "fieldLabel":"CSV file",
+    "fieldLabel":"CSV-Datei",
     "buttonText":"Choose and analyse"
   },
   "importCSVFieldAuxilaryBtn":[
@@ -594,7 +594,7 @@
     "text":"Label"
   },
   "importS2TypeCol":{
-    "text":"Type"
+    "text":"Typ"
   },
   "importS2SearchableCol":{
     "text":"Searchable"
@@ -654,7 +654,7 @@
     "fieldLabel":"Diffusion"
   },
   "importBtn":{
-    "text":"Import"
+    "text":"Importieren"
   },
   "newMLWindow":{
     "title":"New mailing list"
@@ -669,16 +669,16 @@
     "title":"Manage subscribed users"
   },
   "subscribeBtn":{
-    "text":"Subscribe"
+    "text":"Abonnieren"
   },
   "unsubscribeBtn":{
     "text":"Unsubscribe"
   },
   "exportBtn":{
-    "text":"Export"
+    "text":"Exportieren"
   },
   "propertiesForm":{
-    "title":"Properties"
+    "title":"Eigenschaften"
   },
   "expeditorFieldset":{
     "title":"Sender"
@@ -687,10 +687,10 @@
     "fieldLabel":"Sender's address"
   },
   "expeditorNameField":{
-    "fieldLabel":"Sender's name"
+    "fieldLabel":"Absender Name"
   },
   "responseFieldset":{
-    "title":"Reply"
+    "title":"Antworten"
   },
   "replyToAdressField":{
     "fieldLabel":"Reply address"
@@ -708,7 +708,7 @@
     "text":"E-Mail Adresse"
   },
   "createCol":{
-    "text":"Creation"
+    "text":"Erstellung"
   },
   "subsCribeCol":{
     "text":"Subscription"
@@ -729,7 +729,7 @@
     "text":"Value"
   },
   "labelCol":{
-    "text":"Label"
+    "text":"Bezeichnung"
   },
   "oeditor1addBtn":{
     "tooltip":"Add an option"
@@ -786,7 +786,7 @@
     "text":"Done uploading"
   },
   "uploadBtn":{
-    "text":"Upload"
+    "text":"Hochladen"
   },
   "downloadAsZipBtn":{
     "text":"Download as zip"
@@ -810,7 +810,7 @@
     "text":"Operator"
   },
   "languagesInterface4":{
-    "title":"Languages"
+    "title":"Sprachen"
   },
   "FlagCol":{
     "text":"Flag"
@@ -825,7 +825,7 @@
     "title":"Change current working language"
   },
   "TALanguageField":{
-    "fieldLabel":"Language"
+    "fieldLabel":"Sprache"
   },
   "setAsWLBtn":{
     "text":"Set as current working language"
@@ -846,7 +846,7 @@
     "text":"Translate in this language"
   },
   "descriptionField":{
-    "fieldLabel":"Description "
+    "fieldLabel":"Beschreibung "
   },
   "helpTextField":{
     "fieldLabel":"Help text "
@@ -868,7 +868,7 @@
     "RTip":"Content title. Mandatory."
   },
   "summaryField":{
-    "fieldLabel":"Summary ",
+    "fieldLabel":"Zusammenfassung ",
     "RTip":"Optional summary of the content."
   },
   "damTitleField":{
@@ -897,7 +897,7 @@
     "text":"Assign this field to selected column"
   },
   "simpleModeFavoritesBtn":{
-    "text":"Favorites"
+    "text":"Favoriten"
   },
   "customThemesLaunchBtn":{
     "text":"Custom Themes"
@@ -932,10 +932,10 @@
     "RTip":"User name. Mandatory."
   },
   "taxoTab":{
-    "title":"Taxonomy"
+    "title":"Taxonomie"
   },
   "usersWindow":{
-    "title":"Users"
+    "title":"Benutzer"
   },
   "clipboardGroup":{
     "title":"Clipboard"
@@ -944,13 +944,13 @@
     "text":"Add to Favorites"
   },
   "typeColumn":{
-    "text":"Type"
+    "text":"Typ"
   },
   "photoCol":{
     "text":"Photo"
   },
   "creationCol":{
-    "text":"Creation"
+    "text":"Erstellung"
   },
   "lastUpdateCol":{
     "text":"Date of last modification"
@@ -968,7 +968,7 @@
     "title":"Interface settings"
   },
   "languageField":{
-    "fieldLabel":"Language "
+    "fieldLabel":"Sprache "
   },
   "interfaceModeField":{
     "fieldLabel":"Interface"
@@ -980,7 +980,7 @@
     "fieldLabel":"User account "
   },
   "gruopsField":{
-    "fieldLabel":"Groups"
+    "fieldLabel":"Gruppen"
   },
   "signUpTypeField":{
     "fieldLabel":"Sign-up type"
@@ -995,7 +995,7 @@
     "fieldLabel":"Valid until "
   },
   "passwordChangeFieldSet":{
-    "title":"Change password"
+    "title":"Passwort ändern"
   },
   "userPasswordChangeBtn":{
     "text":"Change the password for this user"
@@ -1019,7 +1019,7 @@
     "text":"New Row"
   },
   "newColBtn":{
-    "text":"New Column"
+    "text":"Neue Spalte"
   },
   "moveBtn":{
     "text":"Move"
@@ -1028,7 +1028,7 @@
     "title":"Add components"
   },
   "addImageCBtn":{
-    "text":"Image"
+    "text":"Bild"
   },
   "addSimpleTextCBtn":{
     "text":"Simple text"
@@ -1037,46 +1037,46 @@
     "text":"Rich-Text"
   },
   "duplicateBtn":{
-    "text":"Copy"
+    "text":"Kopieren"
   },
   "shotcutBtn":{
     "text":"Add to Favorites"
   },
   "saveGroup":{
-    "title":"Save"
+    "title":"Speichern"
   },
   "exploutFS":{
     "title":"Exploit"
   },
   "sendEmailBtn":{
-    "text":"Send"
+    "text":"Senden"
   },
   "editTab":{
-    "text":"Edit"
+    "text":"Bearbeiten"
   },
   "propsPanel":{
-    "title":"Properties"
+    "title":"Eigenschaften"
   },
   "selectElementPanel":{
     "title":"Select an item"
   },
   "propertiesTab":{
-    "title":"Properties"
+    "title":"Eigenschaften"
   },
   "subjectField":{
-    "fieldLabel":"Subject"
+    "fieldLabel":"Betreff"
   },
   "plainTextField":{
     "fieldLabel":"Plain text"
   },
   "previewTab":{
-    "title":"Preview"
+    "title":"Vorschau"
   },
   "subscribeUsersWindow":{
     "title":"Subscribe users"
   },
   "subscribeSubmitBtn":{
-    "text":"Subscribe"
+    "text":"Abonnieren"
   },
   "sendEmailWindow":{
     "title":"Send email"
@@ -1085,17 +1085,17 @@
     "fieldLabel":"Mailing list"
   },
   "sendSubmitBtn":{
-    "text":"Send"
+    "text":"Senden"
   },
   "MLImportWindow":{
     "title":"Import users to mailing list"
   },
   "csvFileFIeld":{
-    "fieldLabel":"CSV file",
-    "buttonText":"Browse..."
+    "fieldLabel":"CSV-Datei",
+    "buttonText":"Durchsuchen..."
   },
   "importSubmitBtn":{
-    "text":"Import"
+    "text":"Importieren"
   },
   "codeEditorWindow":{
     "title":"Code editor"
@@ -1107,7 +1107,7 @@
     "fieldLabel":"Titel *"
   },
   "categoryImageField":{
-    "fieldLabel":"Image"
+    "fieldLabel":"Bild"
   },
   "productSettingsPanel":{
     "title":"Product settings"
@@ -1143,13 +1143,13 @@
     "title":"Special offers for this variation"
   },
   "startDateCol":{
-    "text":"Start date"
+    "text":"Anfangsdatum"
   },
   "endDateCol":{
-    "text":"End date"
+    "text":"Enddatum"
   },
   "priceCol":{
-    "text":"Price"
+    "text":"Preis"
   },
   "eCFieldset":{
     "title":"E-Commerce"
@@ -1170,7 +1170,7 @@
     "title":"Rates"
   },
   "countryCol":{
-    "text":"Country"
+    "text":"Land"
   },
   "taxCol":{
     "text":"Tax (%)"
@@ -1215,7 +1215,7 @@
     "text":"Priority"
   },
   "stockWindow":{
-    "title":"Stock"
+    "title":"Lager"
   },
   "productTypeCol":{
     "text":"Product type "
@@ -1224,7 +1224,7 @@
     "title":"Items"
   },
   "stockCol":{
-    "text":"Stock"
+    "text":"Lager"
   },
   "skuCol":{
     "text":"Sku"
@@ -1263,7 +1263,7 @@
     "title":"Rubedo configuration"
   },
   "displayNameField":{
-    "fieldLabel":"Display name"
+    "fieldLabel":"Anzeigenamen"
   },
   "nPMCForm":{
     "title":"Native payment means configuration"
@@ -1272,7 +1272,7 @@
     "text":"Save configuration"
   },
   "ordersWindow":{
-    "title":"Orders"
+    "title":"Aufträge"
   },
   "orderNumberCol":{
     "text":"Order Number"
@@ -1287,7 +1287,7 @@
     "text":"Shipper"
   },
   "orderSettingForm":{
-    "title":"Settings"
+    "title":"Einstellungen"
   },
   "attachmentsFieldset":{
     "title":"Attachments"
@@ -1341,13 +1341,13 @@
     "fieldLabel":"Shipping comments"
   },
   "baughtProductsGrid":{
-    "title":"Products"
+    "title":"Produkt"
   },
   "subtitleCol":{
     "text":"Subtitle"
   },
   "unitPriceCol":{
-    "text":"Unit price"
+    "text":"Einzelpreis"
   },
   "unitTaxedPriceCol":{
     "text":"Unit taxed price"
@@ -1383,7 +1383,7 @@
     "fieldLabel":"Preis"
   },
   "stockField":{
-    "fieldLabel":"Stock"
+    "fieldLabel":"Lager"
   },
   "detectedFieldsCol":{
     "text":"Detected fields"
@@ -1392,7 +1392,7 @@
     "title":"Field mapping"
   },
   "contentTypeField":{
-    "fieldLabel":"Content type"
+    "fieldLabel":"Inhaltstyp"
   },
   "uniqueKeyIndexField":{
     "fieldLabel":"Unique key index"
@@ -1425,25 +1425,25 @@
     "text":"Add child"
   },
   "removeChildBtn":{
-    "text":"Remove"
+    "text":"Entfernen"
   },
   "manageFilesBtnGroup":{
     "title":"Manage files"
   },
   "downloadFileBtn":{
-    "text":"Download"
+    "text":"Herunterladen"
   },
   "replaceFileBtn":{
     "text":"Replace"
   },
   "deleteFileBtn":{
-    "text":"Delete"
+    "text":"Löschen"
   },
   "damFolderCol":{
     "text":"Folder"
   },
   "themeFilesGrid":{
-    "title":"Files"
+    "title":"Dateien"
   },
   "fileSizeCol":{
     "text":"File size"
@@ -1453,10 +1453,10 @@
   },
   "zipArchiveField":{
     "fieldLabel":"Zip archive",
-    "buttonText":"Browse..."
+    "buttonText":"Durchsuchen..."
   },
   "themeImportSubmitBtn":{
-    "text":"Import"
+    "text":"Importieren"
   },
   "pageMaskWindow":{
     "title":"Page masks"
@@ -1486,16 +1486,16 @@
     "title":"Accessibility"
   },
   "pageWindow":{
-    "title":"Pages"
+    "title":"Seiten"
   },
   "languageCoumn":{
-    "text":"Languages"
+    "text":"Sprachen"
   },
   "overviewTab":{
-    "text":"Preview"
+    "text":"Vorschau"
   },
   "propsTab":{
-    "text":"Properties"
+    "text":"Eigenschaften"
   },
   "urlField":{
     "fieldLabel":"URL"
@@ -1513,10 +1513,10 @@
     "text":"Add these users to the selected group"
   },
   "informationsTab":{
-    "text":"Information"
+    "text":"Informationen"
   },
   "informationsFieldSet":{
-    "title":"Information"
+    "title":"Informationen"
   },
   "mailField":{
     "fieldLabel":"E-mail "
@@ -1525,7 +1525,7 @@
     "fieldLabel":"Civility "
   },
   "organisationField":{
-    "fieldLabel":"Organization "
+    "fieldLabel":"Organisation "
   },
   "serviceField":{
     "fieldLabel":"Department "
@@ -1549,7 +1549,7 @@
     "text":"Apply"
   },
   "settingWindow":{
-    "title":"Settings"
+    "title":"Einstellungen"
   },
   "accessTab":{
     "text":"Access"
@@ -1558,7 +1558,7 @@
     "fieldLabel":"Login "
   },
   "changePassFieldSet":{
-    "title":"Change password"
+    "title":"Passwort ändern"
   },
   "oldPasswordField":{
     "fieldLabel":"Current password "
@@ -1567,7 +1567,7 @@
     "fieldLabel":"Confirm new password "
   },
   "changePasswordBtn":{
-    "text":"Change Password"
+    "text":"Passwort ändern"
   },
   "desktopBtn":{
     "text":"Desktop"
@@ -1576,7 +1576,7 @@
     "text":"Status"
   },
   "lastUpdateContentCol":{
-    "text":"Last update"
+    "text":"Letzte Aktualisierung"
   },
   "onlineColumn":{
     "text":"Online"
@@ -1597,7 +1597,7 @@
     "text":"Senden"
   },
   "refuseBtn":{
-    "text":"Refuse"
+    "text":"Ablehnen"
   },
   "onlineBtn":{
     "text":"Put online"
@@ -1627,13 +1627,13 @@
     "text":"Relevance"
   },
   "sitesWindow":{
-    "title":"Sites"
+    "title":"Seiten"
   },
   "domainNameColumn":{
     "text":"Domain name"
   },
   "settingsTab":{
-    "title":"Settings"
+    "title":"Einstellungen"
   },
   "domainNameField":{
     "fieldLabel":"Domain name *"
@@ -1805,11 +1805,11 @@
   },
   "damOrginalFileField":{
     "fieldLabel":"Original file *",
-    "buttonText":"Browse...",
+    "buttonText":"Durchsuchen...",
     "RTip":"Main media file. Mandatory."
   },
   "taxonomyFieldset":{
-    "title":"Taxonomy"
+    "title":"Taxonomie"
   },
   "workspacesFieldset":{
     "title":"Workspaces"
@@ -1818,7 +1818,7 @@
     "text":"Create this new media"
   },
   "damSubmitUpdateBtn":{
-    "text":"Save changes"
+    "text":"Änderungen speichern"
   },
   "siteBuilderWizzard":{
     "title":"Site creation wizard"
@@ -1854,7 +1854,7 @@
     "text":"Metadata"
   },
   "taxonomyTab":{
-    "text":"Taxonomy"
+    "text":"Taxonomie"
   },
   "workspacesTab":{
     "text":"Workspaces"
@@ -1873,19 +1873,19 @@
     "title":"Publication"
   },
   "contentStartPublicationDateField":{
-    "fieldLabel":"Start Publication Date "
+    "fieldLabel":"Veröffentlichungs-Anfangsdatum "
   },
   "contentEndPublicationDateField":{
-    "fieldLabel":"End Publication Date "
+    "fieldLabel":"Veröffentlichungs-Enddatum "
   },
   "versionTitleCol":{
-    "text":"Title"
+    "text":"Titel"
   },
   "versionVersionCol":{
     "text":"Version"
   },
   "versionPublishDateCol":{
-    "text":"Publication Date"
+    "text":"Veröffentlichungsdatum"
   },
   "versionAuthorCol":{
     "text":"Autor"
@@ -1948,7 +1948,7 @@
     "title":"Nested content types"
   },
   "contentTypesWindow":{
-    "title":"Content types"
+    "title":"Inhaltstyp"
   },
   "newFieldBtn":{
     "text":"New field"
@@ -1963,7 +1963,7 @@
     "text":"New row"
   },
   "addColToLBtn":{
-    "text":"New Column"
+    "text":"Neue Spalte"
   },
   "assignFieldToColBtn":{
     "text":"Assign field"
@@ -1975,7 +1975,7 @@
     "text":"Save layout"
   },
   "adminGroupCT":{
-    "title":"Administration"
+    "title":"Verwaltung"
   },
   "purgeContentTypeBtn":{
     "text":"Empty content",
@@ -1988,7 +1988,7 @@
     "title":"Editable fields"
   },
   "propertiesPanel":{
-    "title":"Properties"
+    "title":"Eigenschaften"
   },
   "dataTab":{
     "title":"Data"
@@ -2000,7 +2000,7 @@
     "title":"Vocabularies"
   },
   "descriptionColumn":{
-    "text":"Description"
+    "text":"Beschreibung"
   },
   "helpTextColumn":{
     "text":"Help Text"
@@ -2030,7 +2030,7 @@
     "text":"Labels"
   },
   "layoutPropertiesPanel":{
-    "title":"Properties"
+    "title":"Eigenschaften"
   },
   "DamTypesMainWindow":{
     "title":"Media types"
@@ -2047,7 +2047,7 @@
   },
   "originalFileField":{
     "fieldLabel":"Original file *",
-    "buttonText":"Browse..."
+    "buttonText":"Durchsuchen..."
   },
   "MTtaxoGridUse":{
     "title":"Vocabularies that can be used as classification scheme "
@@ -2056,7 +2056,7 @@
     "title":"Rights"
   },
   "taxonomyWindow":{
-    "title":"Taxonomy"
+    "title":"Taxonomie"
   },
   "editTermsGroup":{
     "title":"Term editing"
@@ -2092,7 +2092,7 @@
     "fieldLabel":"of minimal level"
   },
   "logsRefreshBtn":{
-    "text":"Refresh"
+    "text":"Aktualisieren"
   },
   "logsClearFilterBtn":{
     "text":"Clear filters"
@@ -2116,7 +2116,7 @@
     "text":"Main file"
   },
   "sizeDamCol":{
-    "text":"Size"
+    "text":"Größe"
   },
   "authorColumn":{
     "text":"Autor"
@@ -2128,13 +2128,13 @@
     "title":"DAM"
   },
   "addDirectoryBtn":{
-    "text":"Add"
+    "text":"Hinzufügen"
   },
   "removeDirectoryBtn":{
-    "text":"Remove"
+    "text":"Entfernen"
   },
   "directorySettingsBtn":{
-    "text":"Settings"
+    "text":"Einstellungen"
   },
   "massDamUploadBtn":{
     "text":"Mass upload"
@@ -2143,7 +2143,7 @@
     "title":"File plan"
   },
   "typeColumn2":{
-    "text":"Type"
+    "text":"Typ"
   },
   "applyFiltersBtn":{
     "text":"Apply filters"
@@ -2262,10 +2262,10 @@
     "tooltip":"The uniqueness is designed to restrict submission of a survey"
   },
   "openingDateField":{
-    "fieldLabel":"Start date "
+    "fieldLabel":"Anfangsdatum "
   },
   "closingDateField":{
-    "fieldLabel":"End date"
+    "fieldLabel":"Enddatum"
   },
   "endMessageField":{
     "fieldLabel":"End message"
@@ -2358,13 +2358,13 @@
     "boxLabel":"Datum"
   },
   "questionTimeRadio":{
-    "boxLabel":"Time"
+    "boxLabel":"Zeit"
   },
   "minLengthField":{
-    "fieldLabel":"Min length"
+    "fieldLabel":"Mindestlänge"
   },
   "maxLengthField":{
-    "fieldLabel":"Max length"
+    "fieldLabel":"Maximale Länge"
   },
   "validationField":{
     "fieldLabel":"Validation"
@@ -2379,7 +2379,7 @@
     "fieldLabel":"Decimals"
   },
   "formFieldConfiguratorBtn":{
-    "tooltip":"Settings"
+    "tooltip":"Einstellungen"
   },
   "formFieldConditionsBtn":{
     "tooltip":"Display condition"
@@ -2397,13 +2397,13 @@
     "title":"Layouts"
   },
   "groupsWindow":{
-    "title":"Groups"
+    "title":"Gruppen"
   },
   "userTab":{
-    "text":"Users"
+    "text":"Benutzer"
   },
   "adminTab":{
-    "text":"Administration"
+    "text":"Verwaltung"
   },
   "mailColumn":{
     "text":"E-Mail Adresse"
@@ -2448,13 +2448,13 @@
     "text":"RSS Feeds"
   },
   "actLogInTab":{
-    "title":"Log in"
+    "title":"Anmeldung"
   },
   "activityMonitorWindow":{
     "title":"Activity"
   },
   "userCol":{
-    "text":"User"
+    "text":"Benutzer"
   },
   "logInDateCol":{
     "text":"Log-in date"
@@ -2493,7 +2493,7 @@
     "fieldLabel":"Query"
   },
   "start1field":{
-    "fieldLabel":"Start"
+    "fieldLabel":"Beginn"
   },
   "limit1field":{
     "fieldLabel":"Limit"
@@ -2511,10 +2511,10 @@
     "title":"Sign-up moderation"
   },
   "approveSignUpBtn":{
-    "text":"Approve"
+    "text":"Genehmigen"
   },
   "denySignUpBtn":{
-    "text":"Deny"
+    "text":"Ablehnen"
   },
   "pagesPersoForm":{
     "title":"Personalization"

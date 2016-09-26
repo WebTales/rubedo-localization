@@ -206,10 +206,10 @@
     "buttonText":"Choose"
   },
   "validateBtn":{
-    "text":"Validate"
+    "text":"Validar"
   },
   "cancelBtn":{
-    "text":"Cancel"
+    "text":"Anular"
   },
   "wizardPrevBtn":{
     "text":"Previous"
@@ -356,7 +356,7 @@
     "text":"Studio"
   },
   "adminLenuBtn":{
-    "text":"Administration"
+    "text":"Administração"
   },
   "mySettingsLaunchBtn":{
     "text":"Settings"
@@ -1818,7 +1818,7 @@
     "text":"Create this new media"
   },
   "damSubmitUpdateBtn":{
-    "text":"Save changes"
+    "text":"Guardar alterações"
   },
   "siteBuilderWizzard":{
     "title":"Site creation wizard"
@@ -1975,7 +1975,7 @@
     "text":"Save layout"
   },
   "adminGroupCT":{
-    "title":"Administration"
+    "title":"Administração"
   },
   "purgeContentTypeBtn":{
     "text":"Empty content",
@@ -2403,7 +2403,7 @@
     "text":"Users"
   },
   "adminTab":{
-    "text":"Administration"
+    "text":"Administração"
   },
   "mailColumn":{
     "text":"Email"
@@ -2503,5 +2503,29 @@
   },
   "newRssWindow":{
     "title":"New RSS Feed"
+  },
+  "urlFieldOption":{
+    "fieldLabel":"Open in new tab"
+  },
+  "signUpModerationBtnGroup":{
+    "title":"Sign-up moderation"
+  },
+  "approveSignUpBtn":{
+    "text":"Approve"
+  },
+  "denySignUpBtn":{
+    "text":"Deny"
+  },
+  "pagesPersoForm":{
+    "title":"Personalization"
+  },
+  "philtersFieldset":{
+    "title":"Philters"
+  },
+  "eventsFieldset":{
+    "title":"Events"
+  },
+  "pageViewField":{
+    "fieldLabel":"Page view"
   }
 }

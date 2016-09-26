@@ -786,7 +786,7 @@
     "text":"Carga terminada"
   },
   "uploadBtn":{
-    "text":"Upload"
+    "text":"Subir"
   },
   "downloadAsZipBtn":{
     "text":"Download as zip"
@@ -1197,7 +1197,7 @@
     "text":"Active"
   },
   "userTypesCol":{
-    "text":"User Types"
+    "text":"Tipos de usuario"
   },
   "productTypesCol":{
     "text":"Product Types"
@@ -1224,7 +1224,7 @@
     "title":"Items"
   },
   "stockCol":{
-    "text":"Stock"
+    "text":"Inventario"
   },
   "skuCol":{
     "text":"SKU"
@@ -1341,7 +1341,7 @@
     "fieldLabel":"Shipping comments"
   },
   "baughtProductsGrid":{
-    "title":"Products"
+    "title":"Productos"
   },
   "subtitleCol":{
     "text":"Subtitle"
@@ -1383,7 +1383,7 @@
     "fieldLabel":"Precio"
   },
   "stockField":{
-    "fieldLabel":"Stock"
+    "fieldLabel":"Inventario"
   },
   "detectedFieldsCol":{
     "text":"Detected fields"
@@ -1845,7 +1845,7 @@
     "text":"Create this site"
   },
   "workspaceWindow":{
-    "title":"Workspaces"
+    "title":"Espacios de Trabajo"
   },
   "newContentWindow":{
     "title":"Nuevo contenido"
@@ -1857,7 +1857,7 @@
     "text":"Taxonomía"
   },
   "workspacesTab":{
-    "text":"Workspaces"
+    "text":"Espacios de Trabajo"
   },
   "versionsTab":{
     "text":"Versions"
@@ -2367,7 +2367,7 @@
     "fieldLabel":"Longitud máxima"
   },
   "validationField":{
-    "fieldLabel":"Validation"
+    "fieldLabel":"Validación"
   },
   "minValueField":{
     "fieldLabel":"Valor mínimo"
@@ -2415,7 +2415,7 @@
     "text":"Dirección"
   },
   "postColumn":{
-    "text":"Job title"
+    "text":"Ocupación"
   },
   "departmentColumn":{
     "text":"Departamento"
@@ -2448,13 +2448,13 @@
     "text":"RSS Feeds"
   },
   "actLogInTab":{
-    "title":"Log in"
+    "title":"Inicio de sesión"
   },
   "activityMonitorWindow":{
     "title":"Activity"
   },
   "userCol":{
-    "text":"User"
+    "text":"Usuario"
   },
   "logInDateCol":{
     "text":"Log-in date"

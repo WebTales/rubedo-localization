@@ -1,17 +1,17 @@
 {
   "Blocks.UserProfile.Label.Email":"E-Mail-Adresse",
   "Blocks.UserProfile.Label.OldPassword":"Old password",
-  "Blocks.UserProfile.Label.NewPassword":"New password",
+  "Blocks.UserProfile.Label.NewPassword":"Neues Passwort",
   "Blocks.UserProfile.Label.NewPasswordConfirm":"Confirm new password",
   "Blocks.UserProfile.Label.SubscribedNews":"My subscribed newsletters",
-  "Blocks.UserProfile.Error.EmailNotValid":"Email is not valid.",
-  "Blocks.UserProfile.Error.EmailAlreadyInDB":"Email already exist.",
+  "Blocks.UserProfile.Error.EmailNotValid":"Emailadresse ist nicht gültig.",
+  "Blocks.UserProfile.Error.EmailAlreadyInDB":"E-mail kann nicht verwendet werden.",
   "Blocks.UserProfile.Error.PasswordConfirmNotMatch":"Passwords not match.",
   "Blocks.UserProfile.Error.OldPasswordIsWrong":"Old password is wrong.",
   "Blocks.UserProfile.Error.UserNotUpdated":"Profile update error.",
   "Blocks.UserProfile.Success.EmailChanged":"Email has been changed.",
-  "Blocks.UserProfile.Success.PasswordChanged":"Password has been changed.",
+  "Blocks.UserProfile.Success.PasswordChanged":"Das Passwort wurde geändert.",
   "Blocks.UserProfile.Success.UserUpdated":"Profile updated.",
-  "Blocks.UserProfile.Edit.Profile":"Edit profile",
+  "Blocks.UserProfile.Edit.Profile":"Profil bearbeiten",
   "Blocks.UserProfile.Edit.Login":"Edit credentials"
 }

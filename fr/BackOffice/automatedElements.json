@@ -55,7 +55,7 @@
   "contentTypeIncompatModifError":"Le type de contenu est utilisé par des contenus et ces modifications ne sont pas compatibles.",
   "contentTypeModifWarning":"Ce type de contenu est utilisé par des contenus. Le modifier pourrait avoir de répercussions. <\/br> Souhaitez-vous continuer ?",
   "fieldReplicaText":"Replique du champ",
-  "successTitle":"Succés",
+  "successTitle":"Succès",
   "contentsDeleteError":"Erreur dans la suppression des contenus",
   "contentTypeHasBeenEmptiedText":"Le type de contenu a été vidé",
   "fieldNameAlreadyUsedError":"Nom dèjà utilisé par un autre champ",
@@ -248,5 +248,9 @@
   "behaviourText":"Comportement",
   "eventsText":"Events",
   "onlyModalText":"Afficher uniquement en modal",
-  "modalClassText":"Classe modale"
+  "modalClassText":"Classe modale",
+  "philterText":"Philtre",
+  "philterOverrideText":"Édition manuelle des Philtres",
+  "manualOverrideText":"Surcharge manuelle",
+  "philterEditorText":"Éditeur de Philtre"
 }

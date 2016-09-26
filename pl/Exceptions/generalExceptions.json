@@ -21,7 +21,7 @@
   "Exception20":"File %1$s does not exists.",
   "Exception21":"Not authorized file extension.",
   "Exception22":"Please, give an email adresse.",
-  "Exception23":"No mail has been sent !",
+  "Exception23":"Email został wysłany!",
   "Exception24":"No mask found.",
   "Exception25":"Missing orderValue for block %1$s",
   "Exception26":"No tiny URL given.",

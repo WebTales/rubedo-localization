@@ -27,7 +27,7 @@
   "#ext-gen1079#":"Calendar",
   "#ext-gen1080#":"List",
   "#ext-gen1082#":"Alternative template",
-  "#ext-gen1084#":"Carousel",
+  "#ext-gen1084#":"Карусель",
   "#ext-gen1085#":"<p>The 'Carousel' block displays a dynamic carousel.<\/p>",
   "#ext-gen1089#":"Width (px)",
   "#ext-gen1090#":"Height (px)",
@@ -316,7 +316,7 @@
   "#ext-gen1503#":"Contains at least one of the terms or at least one of the descendants of one of the terms",
   "#ext-gen1504#":"Does not contain any of the following terms",
   "#ext-gen1505#":"Does not contain the following terms or their descendants",
-  "#ext-gen1506#":"Event",
+  "#ext-gen1506#":"Событие",
   "#ext-gen1507#":"Facet",
   "#ext-gen1508#":"Interval (days)",
   "#ext-gen1509#":"Granularity",
@@ -329,5 +329,10 @@
   "#ext-gen1516#":"Display image",
   "#ext-gen1517#":"Use detail content",
   "#ext-gen1518#":"History size",
-  "#ext-gen1519#":"History depth"
+  "#ext-gen1519#":"History depth",
+  "#ext-gen1520#":"Recommended content description",
+  "#ext-gen1521#":"Event MAP description",
+  "#ext-gen1522#":"Event Times series  description",
+  "#ext-gen1523#":"Event Pie description",
+  "#ext-gen1524#":"RSS feed description"
 }

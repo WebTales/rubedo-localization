@@ -16,7 +16,7 @@
   "selectAnElementText":"Select an item",
   "columnText":"Column",
   "lignText":"Line",
-  "titleText":"Title",
+  "titleText":"Titel",
   "displayTitleText":"Display the title",
   "visibilityText":"Visibility",
   "telephoneText":"Phone",
@@ -79,7 +79,7 @@
   "newDamText":"New media",
   "DAMEditText":"Edition of the media",
   "DAMDisplayText":"Display of the media",
-  "searchText":"Search",
+  "searchText":"Zoek",
   "identifierRecoveryError":"Error in the recovery of an identifier",
   "invalidFormPropertiesError":"Invalid form properties",
   "fileAnalysisError":"Error in parsing the file",
@@ -156,7 +156,7 @@
   "optionalText":"Optional",
   "fileTypeText":"File type",
   "tooltipText":"Tooltip",
-  "nameText":"Name",
+  "nameText":"Naam",
   "labelText":"Label",
   "fileFieldText":"File",
   "fileFieldDescription":"<h2>File field<\/h2> <\/br> <p>This field allows for the upload of files.<\/p>",
@@ -248,5 +248,9 @@
   "behaviourText":"Behaviour",
   "eventsText":"Events",
   "onlyModalText":"Render only as modal",
-  "modalClassText":"Modal class"
+  "modalClassText":"Modal class",
+  "philterText":"Philter",
+  "philterOverrideText":"Philter manual override",
+  "manualOverrideText":"Manual override",
+  "philterEditorText":"Philter editor"
 }

@@ -816,7 +816,7 @@
     "text":"Flag"
   },
   "LangNameCol":{
-    "text":"Name"
+    "text":"Nazwisko"
   },
   "OwnNameCol":{
     "text":"Own name"
@@ -1805,7 +1805,7 @@
   },
   "damOrginalFileField":{
     "fieldLabel":"Original file *",
-    "buttonText":"Browse...",
+    "buttonText":"Przeglądaj...",
     "RTip":"Main media file. Mandatory."
   },
   "taxonomyFieldset":{

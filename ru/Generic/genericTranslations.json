@@ -63,7 +63,7 @@
   "Label.days":"days",
   "Label.day":"day",
   "Block.error":"Error !",
-  "Block.Success":"Success !",
+  "Block.Success":"Успешно!",
   "Block.Warning":"Warning !",
   "Block.noimageerror":"Can't access images",
   "Block.errorNoDisplay":"No data to display."

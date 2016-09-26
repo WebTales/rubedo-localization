@@ -1,6 +1,6 @@
 {
-  "Fields.User.Label.OutOfStock":"Out of stock",
-  "Fields.User.Label.InStock":"In stock",
+  "Fields.User.Label.OutOfStock":"Nicht auf Lager",
+  "Fields.User.Label.InStock":"Auf Lager",
   "Fields.User.Label.RessupliedBefore":"ressuplied before",
   "Fields.User.Label.SentBefore":"sent before"
 }

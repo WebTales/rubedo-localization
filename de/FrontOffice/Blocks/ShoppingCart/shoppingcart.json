@@ -1,17 +1,17 @@
 {
   "Blocks.ShoppingCart.Label.Name":"Name",
-  "Blocks.ShoppingCart.Label.UnitPrice":"Unit price",
+  "Blocks.ShoppingCart.Label.UnitPrice":"Einzelpreis",
   "Blocks.ShoppingCart.Label.Number":"Anzahl",
   "Blocks.ShoppingCart.Label.AddRemove":"Add\/Remove",
   "Blocks.ShoppingCart.Label.Price":"Preis",
-  "Blocks.ShoppingCart.Label.Delete":"Delete",
-  "Blocks.ShoppingCart.ViewCart":"View Cart",
-  "Blocks.ShoppingCart.CartIsEmpty":"Your cart is empty.",
-  "Blocks.ShoppingCart.Total":"Total",
+  "Blocks.ShoppingCart.Label.Delete":"Löschen",
+  "Blocks.ShoppingCart.ViewCart":"Warenkorb anzeigen",
+  "Blocks.ShoppingCart.CartIsEmpty":"Ihr Warenkorb ist leer.",
+  "Blocks.ShoppingCart.Total":"Gesamt",
   "Label.ShoppingCart":"Warenkorb",
-  "Label.Checkout":"Checkout",
+  "Label.Checkout":"Zur Kasse",
   "Label.Item":"Item",
   "Label.Empty":"Empty",
   "Label.Items":"Items",
-  "Label.AddToCart":"Add to cart"
+  "Label.AddToCart":"In den Warenkorb"
 }

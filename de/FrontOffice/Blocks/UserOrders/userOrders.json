@@ -7,7 +7,7 @@
   "Blocks.UserOrders.Status":"Status",
   "Blocks.UserOrders.Status.pendingPayment":"Pending payment",
   "Blocks.UserOrders.Status.payed":"Payed",
-  "Blocks.UserOrders.Status.cancelled":"Cancelled",
-  "Blocks.UserOrders.ViewDetails":"View Details",
-  "Blocks.UserOrders.From":"From"
+  "Blocks.UserOrders.Status.cancelled":"Abgebrochen",
+  "Blocks.UserOrders.ViewDetails":"Details anzeigen",
+  "Blocks.UserOrders.From":"Von"
 }

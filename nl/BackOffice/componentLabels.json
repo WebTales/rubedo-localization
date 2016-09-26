@@ -42,19 +42,19 @@
     "title":"Add a group"
   },
   "nameField":{
-    "fieldLabel":"Name "
+    "fieldLabel":"Naam * "
   },
   "createGroupAsAsonBtn":{
     "text":"Create as a descendant of the selected group"
   },
   "nameColumn":{
-    "text":"Name"
+    "text":"Naam"
   },
   "reusableElementsWindow":{
     "title":"Reusable elements"
   },
   "nameCol":{
-    "text":"Name"
+    "text":"Naam"
   },
   "deleteBtn":{
     "text":"Delete"
@@ -66,7 +66,7 @@
     "title":"Export an element"
   },
   "mandatoryNameField":{
-    "fieldLabel":"Name * "
+    "fieldLabel":"Naam * "
   },
   "elementDescriptionField":{
     "fieldLabel":"Description "
@@ -114,7 +114,7 @@
     "title":"New media type"
   },
   "newDamTypeNameField":{
-    "fieldLabel":"Name "
+    "fieldLabel":"Naam "
   },
   "newDamTypeMainFileTypeField":{
     "fieldLabel":"Main file type"
@@ -150,7 +150,7 @@
     "text":"Type"
   },
   "titleCol":{
-    "text":"Title"
+    "text":"Titel"
   },
   "onlineCol":{
     "text":"Online"
@@ -168,7 +168,7 @@
     
   ],
   "u1TitleColumn":{
-    "text":"Title"
+    "text":"Titel"
   },
   "u1TypeColumn":{
     "text":"Type"
@@ -302,7 +302,7 @@
     "text":"Edit"
   },
   "lcFieldAdress":{
-    "fieldLabel":"Address"
+    "fieldLabel":"Adres"
   },
   "lcFieldAltitude":{
     "fieldLabel":"Altitude"
@@ -341,7 +341,7 @@
     "tooltip":"Edit the file"
   },
   "pagesLaunchBtn":{
-    "text":"Pages"
+    "text":"Pagina’s"
   },
   "previewLaunchBtn":{
     "text":"Preview"
@@ -515,7 +515,7 @@
     "title":"New Page"
   },
   "newPageTitleField":{
-    "fieldLabel":"Title "
+    "fieldLabel":"Titel "
   },
   "newPageMaskChoiceField":{
     "fieldLabel":"Page mask "
@@ -545,7 +545,7 @@
     "title":"Save as new preset"
   },
   "importPresetNameField":{
-    "fieldLabel":"Name"
+    "fieldLabel":"Naam"
   },
   "importPresetSaveBtn":{
     "text":"Save"
@@ -585,7 +585,7 @@
     "title":"Setup of the fields"
   },
   "importS2NameColumn":{
-    "text":"Name"
+    "text":"Naam"
   },
   "importS2NewnameCol":{
     "text":"New name (optional)"
@@ -609,7 +609,7 @@
     "title":"Setting of the taxonomy"
   },
   "importS3NameCol":{
-    "text":"Name"
+    "text":"Naam"
   },
   "importS3NewNameXol":{
     "text":"New name (optional)"
@@ -816,7 +816,7 @@
     "text":"Flag"
   },
   "LangNameCol":{
-    "text":"Name"
+    "text":"Naam"
   },
   "OwnNameCol":{
     "text":"Own name"
@@ -864,7 +864,7 @@
     "fieldLabel":"Default author"
   },
   "contentTitleField":{
-    "fieldLabel":"Title *",
+    "fieldLabel":"Titel *",
     "RTip":"Content title. Mandatory."
   },
   "summaryField":{
@@ -872,7 +872,7 @@
     "RTip":"Optional summary of the content."
   },
   "damTitleField":{
-    "fieldLabel":"Title *",
+    "fieldLabel":"Titel *",
     "RTip":"Title of the media. Mandatory."
   },
   "imageMapperWindow":{
@@ -928,7 +928,7 @@
     "RTip":"User email. Mandatory."
   },
   "UTNameField":{
-    "fieldLabel":"Name *",
+    "fieldLabel":"Naam *",
     "RTip":"User name. Mandatory."
   },
   "taxoTab":{
@@ -1010,7 +1010,7 @@
     "title":"Emails"
   },
   "newBtn":{
-    "text":"New"
+    "text":"Nieuw"
   },
   "editStructureFS":{
     "title":"Edit structure"
@@ -1104,7 +1104,7 @@
     "title":"E-Commerce category"
   },
   "titleField":{
-    "fieldLabel":"Title *"
+    "fieldLabel":"Titel *"
   },
   "categoryImageField":{
     "fieldLabel":"Image"
@@ -1468,7 +1468,7 @@
     "text":"New Block"
   },
   "titleColumn":{
-    "text":"Title"
+    "text":"Titel"
   },
   "zoomLevelSlider":{
     "fieldLabel":"Zoom level"
@@ -1486,7 +1486,7 @@
     "title":"Accessibility"
   },
   "pageWindow":{
-    "title":"Pages"
+    "title":"Pagina’s"
   },
   "languageCoumn":{
     "text":"Languages"
@@ -1786,7 +1786,7 @@
     "text":"<b>Clear Object cache<\/b>"
   },
   "elasticSearchPanel":{
-    "title":"Elastic Search"
+    "title":"Elasticsearch"
   },
   "indexContentsBtn":{
     "text":"<b>Index contents<\/b>"
@@ -1879,7 +1879,7 @@
     "fieldLabel":"End Publication Date "
   },
   "versionTitleCol":{
-    "text":"Title"
+    "text":"Titel"
   },
   "versionVersionCol":{
     "text":"Version"
@@ -1994,7 +1994,7 @@
     "title":"Data"
   },
   "searchTab":{
-    "title":"Search"
+    "title":"Zoek"
   },
   "vocabulariesGridPanel":{
     "title":"Vocabularies"
@@ -2331,7 +2331,7 @@
     "title":"New form"
   },
   "newFormTitleField":{
-    "fieldLabel":"Title"
+    "fieldLabel":"Titel"
   },
   "newFormCreateBtn":{
     "text":"Create this form"
@@ -2412,7 +2412,7 @@
     "text":"Phone"
   },
   "addressColumn":{
-    "text":"Address"
+    "text":"Adres"
   },
   "postColumn":{
     "text":"Job title"

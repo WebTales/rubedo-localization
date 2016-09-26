@@ -226,7 +226,7 @@
   "weeksText":"semanas",
   "monthsText":"meses",
   "productSettingsText":"Product settings",
-  "productsText":"Products",
+  "productsText":"Productos",
   "updateText":"Update",
   "neverText":"Nunca",
   "largeDesktopText":"Large desktop",
@@ -248,5 +248,9 @@
   "behaviourText":"Behaviour",
   "eventsText":"Events",
   "onlyModalText":"Render only as modal",
-  "modalClassText":"Modal class"
+  "modalClassText":"Modal class",
+  "philterText":"Philter",
+  "philterOverrideText":"Philter manual override",
+  "manualOverrideText":"Manual override",
+  "philterEditorText":"Philter editor"
 }

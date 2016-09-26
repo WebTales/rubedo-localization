@@ -1,6 +1,6 @@
 {
   "Exception1":"You can not access this resource.",
-  "Exception2":"Page not found.",
+  "Exception2":"Страница не найдена.",
   "Exception3":"This action needs a type-id as argument.",
   "Exception4":"Required field missing: %1$s.",
   "Exception5":"You can't call a write action with a GET request.",

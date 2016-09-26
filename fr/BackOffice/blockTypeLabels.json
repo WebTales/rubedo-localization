@@ -329,5 +329,10 @@
   "#ext-gen1516#":"Afficher l'image",
   "#ext-gen1517#":"Utiliser le détail du contenu",
   "#ext-gen1518#":"Taille de l'Historique",
-  "#ext-gen1519#":"Profondeur de l’historique"
+  "#ext-gen1519#":"Profondeur de l’historique",
+  "#ext-gen1520#":"Le bloc de Contenus recommandés affiche une liste personnalisée de contenus basée sur l'historique de navigation de l'utilisateur.",
+  "#ext-gen1521#":"Le bloc Event carte permet d'afficher un Event géolocalisé sur une carte",
+  "#ext-gen1522#":"Le bloc Event Courbes permet d'obtenir un rendu graphique et statistiques du comportement des utilisateurs sur un ou plusieurs Events",
+  "#ext-gen1523#":"Le bloc Event Secteurs permet d'afficher les statistiques d'un Event sous la forme d'un graphique en secteurs",
+  "#ext-gen1524#":"Le bloc lecteur de flux RSS permet d'afficher des contenus diffusés au format RSS."
 }
