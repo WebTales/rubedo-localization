@@ -330,10 +330,10 @@
     "#ext-gen1517#":"Use detail content",
     "#ext-gen1518#":"History size",
     "#ext-gen1519#":"History depth",
-    "#ext-gen1520#":"Recommended content description",
-    "#ext-gen1521#":"Event MAP description",
-    "#ext-gen1522#":"Event Times series  description",
-    "#ext-gen1523#":"Event Pie description",
-    "#ext-gen1524#":"RSS feed description"
+    "#ext-gen1520#":"The Recommended contents block displays a customized list of content based on the user's browsing history.",
+    "#ext-gen1521#":"The Event map block allows you to display a geolocated Event on a map.",
+    "#ext-gen1522#":"The Event Time series block provides a curved statistic graph to represent behaviors of Internet users for one or several events",
+    "#ext-gen1523#":"The Event Pie block allows you to display statistics for an event in a pie chart.",
+    "#ext-gen1524#":"The RSS reader block allows you to display RSS feed"
 
 }
