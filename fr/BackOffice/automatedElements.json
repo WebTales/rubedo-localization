@@ -252,5 +252,9 @@
   "philterText":"Philtre",
   "philterOverrideText":"Édition manuelle des Philtres",
   "manualOverrideText":"Surcharge manuelle",
-  "philterEditorText":"Éditeur de Philtre"
+  "philterEditorText":"Éditeur de Philtre",
+  "emailUnconfirmedText":"Email non confirmé",
+  "approvedText":"Approuvé",
+  "deniedText":"Refusé",
+  "pendingText":"En attente"
 }
